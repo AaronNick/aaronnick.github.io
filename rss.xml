@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo 主题 MemE</title>
+        <link>https://aaronnick.github.io/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.79.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+        
+        
+            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sat, 19 Dec 2020 20:31:03 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>带饭哈哈</title>
+                <link>https://aaronnick.github.io/posts/%E5%B8%A6%E9%A5%AD%E4%B8%80%E4%B8%AA%E6%9C%88/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%B8%A6%E9%A5%AD%E4%B8%80%E4%B8%AA%E6%9C%88/</guid>
+                <pubDate>Tue, 15 Dec 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h3 id=&#34;为什么带饭&#34;&gt;为什么带饭？&lt;/h3&gt;
+&lt;p&gt;从上个月开始，我决定尝试带饭。&lt;/p&gt;
+&lt;p&gt;此前在公司大多都是吃外卖，晚餐有时点外卖有时回家做。点外卖除了众所周知的不健康之外，对我来说还有一个不好的点：选择困难症。每天一到中午，就开始纠结今天该吃什么，有时还想着开发个小程序随机选择当天吃什么，名字我都想好了「今天吃个啥」。&lt;/p&gt;
+&lt;p&gt;然后就是懒。因为疫情原因，外卖是送不上来的，得下楼取。虽然也就是几分钟的事情，但是当下大风天，下去一次就挺让人难受的了。当然这也只是微不足道的原因。&lt;/p&gt;
+&lt;p&gt;另外就是出于自身的考虑。做饭虽然会比较花费时间，例如晚上下班的时间，早上睡懒觉的时间。但是却带来了吃得更健康、更能掌控自己饮食的好处。&lt;/p&gt;
+&lt;h3 id=&#34;如何带饭&#34;&gt;如何带饭？&lt;/h3&gt;
+&lt;p&gt;下定决心后，便趁着双十一在网上购买了两个钢化玻璃的带饭盒，很好看，清洗也方便，但是重量也不是盖的，每天提着上班手都要断了，于是乎干脆打车上下班，便没有了这烦恼。&lt;/p&gt;
+&lt;p&gt;准备好带饭工具之后，就要开始考虑该做什么菜。我此前基本是个做饭小白，炒个青菜都不知道该放多少油盐。这个月的带饭经历也给自己带来了不小的收获，不敢说是居家好男人，但至少能做出几样菜出来，不至于饿死自己。&lt;/p&gt;
+&lt;p&gt;一开始我在「下厨房」这款小程序上学习，每到要做饭的时候就点开看下，简单方便。后面发现上面的教程要么就是很平常，要么就是不清晰。然后朋友推荐我在「抖音」上搜菜谱，说是上面简单易懂且很好吃，无奈自己几乎不用这款软件，便放弃了。最后是一个室友推荐了一款软件「懒饭」，一看名字就很符合我。下载之后觉得很好用，两三分钟视频教程，附带图文教程，生动具体。我的不少菜都是从上面学习而来，也推荐给有需要的人。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/0081Kckwgy1glcr7ltrhlj30zu0qc1ky.jpg&#34; alt=&#34;◎ 初学者的菜&#34;&gt;&lt;/p&gt;
+&lt;p&gt;关于买菜。作为一个号称普遍「996」的互联网搬砖者，下班买菜这种场景只存在梦里。我一般通过京东到家（前期），美团买菜（当前）线上购买，在当天吃晚餐的时候买第二天或者第三天的菜，回到家后菜也刚好送达。&lt;/p&gt;
+&lt;p&gt;我日常操作是当天下班回来开始准备明天的饭菜：准备配料、切菜、装好米定时明日八点开始煮。这过程大约花费 20 分钟，加上洗锅刷饭差不多 30 分钟。早上八点半醒来，开始拿菜出来炒，炒完菜盛好饭大概花去 20 分钟。大多数时候我只是煮一个大菜，然后分两份早晚吃，有时候也会煮两个菜，时间上就会多几分钟。剩余的刷锅洗碗，放水先泡着，留晚上回来再一并解决。&lt;/p&gt;
+&lt;h3 id=&#34;带饭给我带来了什么&#34;&gt;带饭给我带来了什么？&lt;/h3&gt;
+&lt;p&gt;一开始我想，带饭无非是让我吃到更健康的饭菜，省去每天的选择困难症纠结，避免我下楼取外卖的时候被大风吹走，还能带来啥？&lt;/p&gt;
+&lt;p&gt;一种掌控感的舒适。我习惯让自己的生活在自己的掌控之中，计划之内，工作岗位的性质也让我对掌控感异常敏感。当我自己掌握这周该吃什么，该补充什么营养的时候，这种感觉很舒服。点外卖虽然也可以，但是很多具体的东西你并不能决定，加之外卖平台各种营销手段，看着比较烦人。&lt;/p&gt;
+&lt;p&gt;一个规律的生活和饮食。此前我早餐一般是泡一下牛奶或者麦片，懒的时候干脆到公司了再买个包子或豆浆；晚餐也是吃得比较敷衍随便。做饭则可以丰富些，毕竟自己都早起了，也不差那点时间了。而且，做饭这件事有时候可以作为一个警戒线。例如早上爬不起来的时候，想着今天要带饭，一股溜儿就起来了；白天上班的时候，心想着要早点回去准备饭菜，于是就用更高的工作效率去降低晚上加班的概率，尽量避免晚上加班写需求，或者被人预约 7 点之后的会议。当然，近一个月加班还是常态，事情太多基本忙不过来，但做饭我还是坚持了下来。&lt;/p&gt;
+&lt;p&gt;一个独处的时间。一旦开始做饭，我知道一定会压缩我学习（玩手机）的时间，但是却带来了一个意想不到的效果——孤独的时间更适合思考。以往在洗澡的时候我会冒出一些有趣的想法和点子，这就是所谓的「浴室沉思」吧。现在这种「时候」多了一个，那就是做饭。我的不少问题，就是在做饭的时候想通的；一些有意思的想法，也是在炒菜的时候冒出来的。我后面对比了下洗澡和做饭的相似性，觉得这两者有个共同点就是独处，专心一件事。洗澡和做饭，一般就不能做其他事了，例如看消息刷手机，而这些额外的操作会极大分散自己的注意力，无法让自己专心一件事。洗澡则更好，不仅让人专心，温水还能促进血液循环，加速大脑的思考，因此总能想清楚一些复杂的问题。&lt;/p&gt;
+&lt;p&gt;一点微不足道的省钱。做饭的确会省钱，但是并没有大家说的那么多。我对比了一下上个月的支出，三餐较之前降低三分之一，然后其他支出则会相应地攀升。例如水果、咖啡奶茶、交通等会随着带饭带来的降低而有相应地提高。因为自己买菜的时候总会不由自主地想买些水果，然后就是打车上下班。线上的菜可能会贵一些，但是也比以前一顿外卖三四十便宜。我经常炒的牛肉，二十块的牛肉外加几块钱的青椒、芹菜，基本就能解决一天两顿的饭菜。&lt;/p&gt;
+&lt;p&gt;因为自己也是刚学习做菜，我会简单记录当天做了什么，以及如何做，方便后期追踪和回顾，目前使用的是一款内测的软件「flomo」。这款软件的好处就是轻便，随想随记，毫无压力，我的用法是通过标签系统区分并集中自己的每日饭菜。&lt;/p&gt;
+&lt;p&gt;如果你对随时记录自己的想法也有需求，不妨尝试下它，可以通过以下邀请链接注册，你将获得 14 天的会员，我亦得到 7 天会员。邀请拿会员不是目的，主要是和大家分享这款自己用了许久的小软件。&lt;/p&gt;
+&lt;p&gt;邀请链接：https://flomoapp.com/register2/?MjExNw&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/0081Kckwgy1glcqpv1ig0j316k0u0jzq.jpg&#34; alt=&#34;◎ flomo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最后想要说的一点是，做饭无疑会花费自己的时间，有时候需要评估这个时间成本和自己的收益是否能匹配上，单纯从钱的角度，这差不多一个小时的做饭时间省下的钱，远不及这个时间创造的钱（若用时薪衡量）。但是，这里面并不是只包含钱，还有生活方式、饮食健康、厨房技能学习等因素。从目前来看，其带给我的隐性收益远比成本高，我觉得这是一件值得坚持下去的事情。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>哈哈哈这是第一篇 111</title>
+                <link>https://aaronnick.github.io/posts/first/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/first/</guid>
+                <pubDate>Mon, 14 Dec 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;哈哈哈哈
+啦啦啦&lt;/p&gt;
+&lt;p&gt;啦啦啦啦&lt;/p&gt;
+&lt;p&gt;1111
+2222&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>大明宫词</title>
+                <link>https://aaronnick.github.io/posts/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D%E4%B8%80%E9%83%A8%E5%87%84%E7%BE%8E%E7%9A%84%E6%82%B2%E5%89%A7/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D%E4%B8%80%E9%83%A8%E5%87%84%E7%BE%8E%E7%9A%84%E6%82%B2%E5%89%A7/</guid>
+                <pubDate>Sun, 13 Dec 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;半月前，我在微博看到一个话题 &lt;strong&gt;#剧中摘下面具的惊艳瞬间#&lt;/strong&gt;，很多人都在刷肖战，但我的第一反应想到的却是郭襄见杨过。&lt;/p&gt;
+&lt;p&gt;正感叹自己是不是老了的时候，看到一个博主发了一个视频——《大明宫词》里&lt;strong&gt;太平公主第一次见薛绍的片段&lt;/strong&gt;。配乐之动听，太平之灵动，薛绍之俊朗，一下子就吸引了我。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giahe7ux0mg308w06oqv5.gif&#34; alt=&#34;◎ 一见薛绍误终身&#34;&gt;&lt;/p&gt;
+&lt;p&gt;下面的评论更是一片回忆杀，纷纷附议，赞叹这个情节印象之深刻。&lt;/p&gt;
+&lt;p&gt;一个评论道：&lt;strong&gt;太平一见薛绍误终身&lt;/strong&gt;。让我的脑海里泛起了金庸武侠里的两段凄美传说——&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;郭襄一见杨过误终身，张三丰一见郭襄误百年。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「张三丰瞧着郭襄的遗书，眼中忽然出现那个聪颖明慧的少女，那已经是一百年前的事了。」&lt;/p&gt;
+&lt;p&gt;出自旧版《倚天屠龙记•万缕柔丝》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://pic2.zhimg.com/50/v2-5964676c924e9652f35853423755433a_hd.gif?source=1940ef5c&#34; alt=&#34;◎ 少时太平&#34;&gt;&lt;/p&gt;
+&lt;p&gt;于是，我便去检索《大明宫词》，没想到这部 20 年前的剧，豆瓣评分竟高达 &lt;strong&gt;9.1 分&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我怀着好奇心看了几集，竟不能自拔。在熬夜看了两周后，终于看完了这部剧。&lt;/p&gt;
+&lt;p&gt;看的过程中，我逐渐理解了为什么豆瓣评分那么高——&lt;strong&gt;台词考究，演员演技到位，服饰也尽展唐朝之风采。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从&lt;strong&gt;美学以及艺术&lt;/strong&gt;的角度来看，这部剧的确很美。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;词美&lt;/strong&gt;——「你的错误就是美若天仙，婀娜的身姿让我的手不听使唤，蓬松的身发涨满了我的眼帘，看不见道路山川，只是漆黑一片」&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://aaronnick.github.io/Users/yexingwei/Downloads/1121.png&#34; alt=&#34;◎ 贺兰氏&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;凄美&lt;/strong&gt;——薛绍与慧娘，太平与薛绍，李治与贺兰氏......一对对令人哀愁的恋人，一段段凄美的故事。&lt;/p&gt;
+&lt;p&gt;剧中有许多令我&lt;strong&gt;印象深刻的片段&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;太平第一次见薛绍的青涩&lt;/li&gt;
+&lt;li&gt;整部剧多次出现的皮影戏以及那首《采桑女》&lt;/li&gt;
+&lt;li&gt;贺兰氏沉湖时的不甘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giahk0f3h5j30c80963yy.jpg&#34; alt=&#34;◎ 上元灯节的邂逅&#34;&gt;&lt;/p&gt;
+&lt;p&gt;上元灯节，一见薛绍误终身，这部剧的名场面，伴随着《长相守》，哀愁而深情，&lt;strong&gt;注定了这次见面将是悲情的开始&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giahvjwzmvj311g0t0kjl.jpg&#34; alt=&#34;◎ 采桑女&#34;&gt;&lt;/p&gt;
+&lt;p&gt;皮影戏和《采桑女》，剧中出现了很多次，最难忘的是&lt;strong&gt;李治和贺兰氏的演绎&lt;/strong&gt;，仿佛戏中的男女便是他们，充满了现实的无奈；另一幕则是&lt;strong&gt;李治病重之时&lt;/strong&gt;，与最疼爱的太平一起唱着这哀愁的词，直至离开人世。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;男：&lt;/strong&gt;......来的是谁家女子，生得是春光满面，美丽非凡。这位姑娘，请你停下美丽的脚步，你可知自己犯下什么样的错误？&lt;/p&gt;
+&lt;p&gt;**女：**这位将军，明明是你的马蹄踢翻了我的竹篮，你看这宽阔的道路直通蓝天，你却非让这可恶的畜生溅起我满身污点，怎么反倒怪罪起我的错误？&lt;/p&gt;
+&lt;p&gt;**男：**你的错误就是美若天仙，婀娜的身姿让我的手不听使唤，蓬松的头发涨满了我的眼帘，看不见道路山川，只是漆黑一片......（完整的词附在文末）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giahxgtb1aj314h0u07wj.jpg&#34; alt=&#34;◎ 贺兰沉湖&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;贺兰氏的命运是悲惨的，因为她太过单纯&lt;/strong&gt;，以为凭借自己的美貌就能击败武则天。在经历过风风雨雨的武则天面前，她不过是昙花一现，挥手间便已凋零。&lt;/p&gt;
+&lt;p&gt;另外，这部剧令人惊讶的是，涉及的题材很是大胆。&lt;strong&gt;男宠、女权、同性恋、乱伦&lt;/strong&gt;等均有描述，要是放到现在，怕是拍不出、亦或是审核不通过。&lt;/p&gt;
+&lt;p&gt;因此，&lt;strong&gt;这到底是一种保护，还是一种倒退？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giai0qdodmj311e0o6qv5.jpg&#34; alt=&#34;◎ 太平与薛绍&#34;&gt;&lt;/p&gt;
+&lt;p&gt;说回这部剧。因为是在历史的基础上改编，难免有人会拿来和正史做比较。如果从&lt;strong&gt;历史的角度&lt;/strong&gt;来看这部剧，那便是另一种评价了，甚至可以说是不伦不类。&lt;/p&gt;
+&lt;p&gt;剧中出现的人物，大部分都是历史存在的，但或多或少都被改编过，目的是为剧情服务。虽然有部分人物被改得面目全非，但是绝大部分还是比较符合史实的。&lt;/p&gt;
+&lt;p&gt;在看剧的时候，对于出现的每个人物，我都会用维基百科检索，了解他的身世命运，这也是一种学习和消遣，让我&lt;strong&gt;对唐朝历史的认识丰满了不少&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;如果要对这部剧给个评价，我只能这么说——&lt;strong&gt;若是站在剧情/艺术的角度，它十分值得去看；若是希望它似历史般严谨，那可不必自寻烦恼。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我为其贡献了为数不多的 &lt;strong&gt;5 星&lt;/strong&gt;评价，因为它真的值得这个分数。尽管整部剧都是在描写悲剧，但随着人生阅历的增加，才发现悲剧是生活不可或缺的部分，愈发觉得悲剧才是人生的内核，也许这种艺术作品，才能最打动人的内心罢。&lt;/p&gt;
+&lt;p&gt;最后，出于对这部剧的词的喜爱，我找到了**《大明宫词》的剧本**文字版，将它导入微信读书，偶尔拿出来回味下，也是一种不错的享受。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giai4dcpvlj30im0jm0v1.jpg&#34; alt=&#34;◎ 《大明宫词》剧本&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在阅读时我才发现，我看的是 37 集的版本，据说是导演为了应付央视审查，删减了部分关于&lt;strong&gt;武则天弄权&lt;/strong&gt;以及后续&lt;strong&gt;情色&lt;/strong&gt;的部分，&lt;strong&gt;完整版是 40 集&lt;/strong&gt;。非常明显的是，前几集（已删减）对武则天的描述非常多，且很细致，描述了她与李治的矛盾激增，描述了春的命运......&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giaia93be3j31is0u00yj.jpg&#34; alt=&#34;◎ 40 集的剧本&#34;&gt;&lt;/p&gt;
+&lt;p&gt;因此，对于喜欢这部剧的人，这个剧本很值得一读。&lt;/p&gt;
+&lt;p&gt;后台回复「&lt;strong&gt;大明宫词&lt;/strong&gt;」获取该剧本（epub 格式）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今日话题&lt;/strong&gt;：你看过《大明宫词》吗，它得几分？&lt;/p&gt;
+&lt;p&gt;皮影戏《采桑女》对白：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;**女：**野花迎风飘摆，好像是在倾诉衷肠，绿草凄凄抖动，无尽的缠绵依恋。初绿的柳枝坠入悠悠碧水，搅乱了芳心柔情荡漾。为什么春天每年都如期而至，而我远行的丈夫却年年不见音讯。&lt;/p&gt;
+&lt;p&gt;**男：**离家去国，整整三年，为了梦想中金碧辉煌的长安，都市里充满了神奇的历险，满足一个男儿宏伟的心愿。现在终于衣锦还乡，又遇上这故里的春天。看这一江春水，看这满溪桃花，看这如黛青山，都没有丝毫改变，也不知新婚一个月就别离的妻子是否依旧红颜？来的是谁家女子，生得是春光满面，美丽非凡。这位姑娘，请你停下美丽的脚步，你可知自己犯下什么样的错误？&lt;/p&gt;
+&lt;p&gt;**女：**这位将军，明明是你的马蹄踢翻了我的竹篮，你看这宽阔的道路直通蓝天，你却非让这可恶的畜生溅起我满身污点，怎么反倒怪罪起我的错误？&lt;/p&gt;
+&lt;p&gt;**男：**你的错误就是美若天仙，婀娜的身姿让我的手不听使唤，蓬松的头发涨满了我的眼帘，看不见道路山川，只是漆黑一片；你明艳的面颊让我胯下的这头畜生倾倒，竟忘记他的主人是多么的威严。&lt;/p&gt;
+&lt;p&gt;**女:**快快走远点吧，你这轻浮的汉子，你可知调戏的是怎样多情的一个女子？她为了只见过一面的丈夫，已经虚掷三年，把锦绣青春都抛入无尽的苦等，把少女柔情都交付了夜夜空梦。快快走远点吧，你这邪恶的使臣，当空虚与幽怨已经把她击倒，你就想为堕落再加一把力，把她的贞洁彻底摧毁。你这样做不怕遭到上天的报应？&lt;/p&gt;
+&lt;p&gt;**男：**上天只报应痴愚的蠢人，我已连遭三年的报应。为了有名无实的妻子，为了虚枉的利禄功名。看这满目春光，看这比春光还要柔媚千倍的姑娘，想起长安三年的凄风苦雨，恰如在地狱深渊里爬行。看野花缠绕，看野蝶双双追逐，只为了凌虚中那点点转瞬依恋，春光一过，它似就陷入那命定中永远的黑暗。人生怎能逃出同样的宿命。&lt;/p&gt;
+&lt;p&gt;**女：**快快住嘴吧，你这大胆的罪人，你虽貌似天神，心却比铁石还要坚硬，双目比天地还要幽深。看鲜花缠绵，我比它们还要柔弱；看野蝶迎风飞舞，我比它们还要纷忙迷乱。看在上天的分上，别再开启你那饱满生动的双唇，哪怕再有一丝你那呼吸间的微风，我也要跌入你的深渊。快快走远吧，别再把我这个可怜的女子纠缠……&lt;/p&gt;
+&lt;p&gt;**男：**看野花缠绵，我比它们还要渴望缠绵；看野蝶迎风飞舞，我的心也同样为你纷忙迷乱。任什么衣锦还乡，任什么荣耀故里，任什么结发夫妻，任什么神明责罚。它们加起来也抵不上你的娇躯轻轻一颤。随我远行吧，离开这满目伤心的地方，它让你我双双经受磨难……&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
