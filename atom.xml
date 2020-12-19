@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客——叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-20T01:01:08&#43;08:00</updated>
+    <updated>2020-12-20T01:36:11&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -85,7 +85,7 @@
             <title type="text">北京网上预约洁牙经历</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E8%AE%B0%E9%A6%96%E6%AC%A1%E7%BD%91%E4%B8%8A%E9%A2%84%E7%BA%A6%E6%B4%81%E7%89%99%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%AE%A8%E5%8E%8C%E6%8E%A8%E9%94%80/" />
             <id>https://aaronnick.github.io/posts/%E8%AE%B0%E9%A6%96%E6%AC%A1%E7%BD%91%E4%B8%8A%E9%A2%84%E7%BA%A6%E6%B4%81%E7%89%99%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%AE%A8%E5%8E%8C%E6%8E%A8%E9%94%80/</id>
-            <updated>2020-12-20T00:55:05&#43;08:00</updated>
+            <updated>2020-12-20T01:14:27&#43;08:00</updated>
             <published>2020-12-13T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -172,10 +172,178 @@
         </entry>
     
         <entry>
+            <title type="text">Mac：VPN 自动重连脚本</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/macvpn-%E8%87%AA%E5%8A%A8%E9%87%8D%E8%BF%9E%E8%84%9A%E6%9C%AC/" />
+            <id>https://aaronnick.github.io/posts/macvpn-%E8%87%AA%E5%8A%A8%E9%87%8D%E8%BF%9E%E8%84%9A%E6%9C%AC/</id>
+            <updated>2020-12-20T01:22:39&#43;08:00</updated>
+            <published>2020-12-08T12:29:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">VPN 在实际使用当中，由于系统的机制常常导致使用不愉快——切换网络/息屏/睡眠等情况下自动断开。 我虽然只是偶尔使用，但是每次使用，难免……</summary>
+            
+                <content type="html">&lt;p&gt;VPN 在实际使用当中，由于系统的机制常常导致使用不愉快——&lt;strong&gt;切换网络/息屏/睡眠等情况下自动断开&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我虽然只是偶尔使用，但是每次使用，难免会遇到以上场景然后断开的情况，接着就得手动去连接，实在是麻烦不已。&lt;/p&gt;
+&lt;p&gt;于是我就改良了个脚本，让它&lt;strong&gt;断开后自动重连&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;具体步骤如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;打开系统自带软件：&lt;strong&gt;脚本编辑器&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;新建一个文档，输入代码（见下方）&lt;/li&gt;
+&lt;li&gt;代码输入后，点击文件-储存-配置如下：
+&lt;ul&gt;
+&lt;li&gt;位置：应用程序&lt;/li&gt;
+&lt;li&gt;文件格式：应用程序&lt;/li&gt;
+&lt;li&gt;选项：&lt;strong&gt;勾选「运行处理程序后保持打开」&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;保存这个脚本程序，然后去运行即可。如果想要开机启动，可以在 Dock 上右键它-选项-登录时打开&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;经过测试，切换网络以及息屏后，脚本会在&lt;strong&gt;几秒内运行&lt;/strong&gt;，然后连接上某个可用的 VPN。&lt;/p&gt;
+&lt;p&gt;这个脚本的好处是，可以&lt;strong&gt;省去手动连接的麻烦&lt;/strong&gt;，如果你&lt;strong&gt;有多个可用的 VPN，它可以做到逐个尝试&lt;/strong&gt;。不妨尝试一下。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;nx&#34;&gt;on&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;idle&lt;/span&gt;
+	&lt;span class=&#34;nx&#34;&gt;tell&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;application&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;System Events&amp;#34;&lt;/span&gt;
+		&lt;span class=&#34;nx&#34;&gt;tell&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;current&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;location&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;network&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;preferences&lt;/span&gt;
+			
+			&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;check&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;connection&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;status&lt;/span&gt;
+			&lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;connected_vpn&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;get&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;every&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;service&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;whose&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;kind&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;greater&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;than&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;kind&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;less&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;than&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;17&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;connected&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;current&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;configuration&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;
+			&lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;connect_status&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;connected_vpn&lt;/span&gt;
+			
+			&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;connect_status&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;then&lt;/span&gt;
+				&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;get&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;list&lt;/span&gt;
+				&lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn_list&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;get&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;every&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;service&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;whose&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;kind&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;greater&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;than&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;and&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;kind&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;less&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;than&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;17&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+				
+				&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;random&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;one&lt;/span&gt;
+				&lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn_count&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;count&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn_list&lt;/span&gt;
+				&lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;selected_serial&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;random&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;number&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn_count&lt;/span&gt;
+				&lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;selected_vpn&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;item&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;selected_serial&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn_list&lt;/span&gt;
+				
+				&lt;span class=&#34;nx&#34;&gt;display&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;notification&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Connect to &amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;selected_vpn&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34; ...&amp;#34;&lt;/span&gt;
+				
+				&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;connect&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;select&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn&lt;/span&gt;
+				&lt;span class=&#34;nx&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;service&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;selected_vpn&lt;/span&gt;
+				&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;null&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;then&lt;/span&gt;
+					&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;current&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;configuration&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;connected&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;then&lt;/span&gt;
+						&lt;span class=&#34;nx&#34;&gt;connect&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;vpn&lt;/span&gt;
+					&lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;
+				&lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;
+				
+			&lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;
+		&lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;tell&lt;/span&gt;
+		&lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;30&lt;/span&gt;
+	&lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;tell&lt;/span&gt;
+&lt;span class=&#34;nx&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;idle&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;如果不需要逐一访问每个 VPN，可使用以下脚本，10s检查一次，只需替换 VPN 名字就好，代码来自好友提供。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;n&#34;&gt;on&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;idle&lt;/span&gt;
+	&lt;span class=&#34;n&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;en0&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;do&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;shell&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;script&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;ipconfig getifaddr en0; exit 0&amp;#34;&lt;/span&gt;
+	&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;en0&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;then&lt;/span&gt;
+		&lt;span class=&#34;n&#34;&gt;tell&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;application&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;System Events&amp;#34;&lt;/span&gt;
+			&lt;span class=&#34;n&#34;&gt;tell&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;current&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;location&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;network&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;preferences&lt;/span&gt;
+				&lt;span class=&#34;n&#34;&gt;set&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;vpnConnection&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;service&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;VPN 名字&amp;#34;&lt;/span&gt;
+				&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;vpnConnection&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;null&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;then&lt;/span&gt;
+					&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;current&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;configuration&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;vpnConnection&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;is&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;not&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;connected&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;then&lt;/span&gt;
+						&lt;span class=&#34;n&#34;&gt;connect&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;vpnConnection&lt;/span&gt;
+					&lt;span class=&#34;n&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;
+				&lt;span class=&#34;n&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;
+			&lt;span class=&#34;n&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;tell&lt;/span&gt;
+			&lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;10&lt;/span&gt;
+		&lt;span class=&#34;n&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;tell&lt;/span&gt;
+	&lt;span class=&#34;n&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;end&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;idle&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/vpn/" term="VPN" label="VPN" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E8%84%9A%E6%9C%AC/" term="脚本" label="脚本" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">近成都女孩被网暴后，想起我的故事</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AE%B2%E8%AE%B2%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/" />
             <id>https://aaronnick.github.io/posts/%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AE%B2%E8%AE%B2%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/</id>
-            <updated>2020-12-20T00:55:34&#43;08:00</updated>
+            <updated>2020-12-20T01:05:18&#43;08:00</updated>
             <published>2020-12-08T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -246,7 +414,13 @@
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/" term="阅读" label="阅读" />
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/" term="隐私" label="隐私" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B/" term="网络暴力" label="网络暴力" />
                             
                         
                     
@@ -316,7 +490,7 @@
             <title type="text">近期的听说读写</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E8%BF%91%E6%9C%9F%E7%9A%84%E5%90%AC%E8%AF%B4%E8%AF%BB%E5%86%99/" />
             <id>https://aaronnick.github.io/posts/%E8%BF%91%E6%9C%9F%E7%9A%84%E5%90%AC%E8%AF%B4%E8%AF%BB%E5%86%99/</id>
-            <updated>2020-12-20T00:54:43&#43;08:00</updated>
+            <updated>2020-12-20T01:13:13&#43;08:00</updated>
             <published>2020-09-18T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -458,7 +632,7 @@
 &lt;p&gt;文末，聊下最近学到的一个 Kindle 技巧——把 &lt;strong&gt;Kindle 当作桌面时钟&lt;/strong&gt;，操作很简单&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Kindle 主页搜索框输入「~ds」然后回车，激活「不息屏」。&lt;/li&gt;
-&lt;li&gt;访问网址「http://clock.sobuluo.com/?send_by=9517837108&amp;amp;invite_code=zdmdwkcegsinv&amp;amp;from=other」后即可。&lt;/li&gt;
+&lt;li&gt;访问网址「http://clock.sobuluo.com/」 后即可。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;PS. 重启可取消「不息屏」；网址添加到书签可以省事；跳转到时钟后开启飞行模式省电。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giszxsgdo0j31400u0k3s.jpg&#34; alt=&#34;◎ Kindle 桌面时钟&#34;&gt;&lt;/p&gt;
@@ -517,7 +691,7 @@
             <title type="text">《大明宫词》——一部凄美的悲剧</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D%E4%B8%80%E9%83%A8%E5%87%84%E7%BE%8E%E7%9A%84%E6%82%B2%E5%89%A7/" />
             <id>https://aaronnick.github.io/posts/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D%E4%B8%80%E9%83%A8%E5%87%84%E7%BE%8E%E7%9A%84%E6%82%B2%E5%89%A7/</id>
-            <updated>2020-12-20T00:58:21&#43;08:00</updated>
+            <updated>2020-12-20T01:10:15&#43;08:00</updated>
             <published>2020-09-01T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -574,18 +748,16 @@
 &lt;p&gt;在阅读时我才发现，我看的是 37 集的版本，据说是导演为了应付央视审查，删减了部分关于&lt;strong&gt;武则天弄权&lt;/strong&gt;以及后续&lt;strong&gt;情色&lt;/strong&gt;的部分，&lt;strong&gt;完整版是 40 集&lt;/strong&gt;。非常明显的是，前几集（已删减）对武则天的描述非常多，且很细致，描述了她与李治的矛盾激增，描述了春的命运......&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1giaia93be3j31is0u00yj.jpg&#34; alt=&#34;◎ 40 集的剧本&#34;&gt;&lt;/p&gt;
 &lt;p&gt;因此，对于喜欢这部剧的人，这个剧本很值得一读。&lt;/p&gt;
-&lt;p&gt;后台回复「&lt;strong&gt;大明宫词&lt;/strong&gt;」获取该剧本（epub 格式）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;今日话题&lt;/strong&gt;：你看过《大明宫词》吗，它得几分？&lt;/p&gt;
 &lt;p&gt;皮影戏《采桑女》对白：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;**女：**野花迎风飘摆，好像是在倾诉衷肠，绿草凄凄抖动，无尽的缠绵依恋。初绿的柳枝坠入悠悠碧水，搅乱了芳心柔情荡漾。为什么春天每年都如期而至，而我远行的丈夫却年年不见音讯。&lt;/p&gt;
-&lt;p&gt;**男：**离家去国，整整三年，为了梦想中金碧辉煌的长安，都市里充满了神奇的历险，满足一个男儿宏伟的心愿。现在终于衣锦还乡，又遇上这故里的春天。看这一江春水，看这满溪桃花，看这如黛青山，都没有丝毫改变，也不知新婚一个月就别离的妻子是否依旧红颜？来的是谁家女子，生得是春光满面，美丽非凡。这位姑娘，请你停下美丽的脚步，你可知自己犯下什么样的错误？&lt;/p&gt;
-&lt;p&gt;**女：**这位将军，明明是你的马蹄踢翻了我的竹篮，你看这宽阔的道路直通蓝天，你却非让这可恶的畜生溅起我满身污点，怎么反倒怪罪起我的错误？&lt;/p&gt;
-&lt;p&gt;**男：**你的错误就是美若天仙，婀娜的身姿让我的手不听使唤，蓬松的头发涨满了我的眼帘，看不见道路山川，只是漆黑一片；你明艳的面颊让我胯下的这头畜生倾倒，竟忘记他的主人是多么的威严。&lt;/p&gt;
-&lt;p&gt;**女:**快快走远点吧，你这轻浮的汉子，你可知调戏的是怎样多情的一个女子？她为了只见过一面的丈夫，已经虚掷三年，把锦绣青春都抛入无尽的苦等，把少女柔情都交付了夜夜空梦。快快走远点吧，你这邪恶的使臣，当空虚与幽怨已经把她击倒，你就想为堕落再加一把力，把她的贞洁彻底摧毁。你这样做不怕遭到上天的报应？&lt;/p&gt;
-&lt;p&gt;**男：**上天只报应痴愚的蠢人，我已连遭三年的报应。为了有名无实的妻子，为了虚枉的利禄功名。看这满目春光，看这比春光还要柔媚千倍的姑娘，想起长安三年的凄风苦雨，恰如在地狱深渊里爬行。看野花缠绕，看野蝶双双追逐，只为了凌虚中那点点转瞬依恋，春光一过，它似就陷入那命定中永远的黑暗。人生怎能逃出同样的宿命。&lt;/p&gt;
-&lt;p&gt;**女：**快快住嘴吧，你这大胆的罪人，你虽貌似天神，心却比铁石还要坚硬，双目比天地还要幽深。看鲜花缠绵，我比它们还要柔弱；看野蝶迎风飞舞，我比它们还要纷忙迷乱。看在上天的分上，别再开启你那饱满生动的双唇，哪怕再有一丝你那呼吸间的微风，我也要跌入你的深渊。快快走远吧，别再把我这个可怜的女子纠缠……&lt;/p&gt;
-&lt;p&gt;**男：**看野花缠绵，我比它们还要渴望缠绵；看野蝶迎风飞舞，我的心也同样为你纷忙迷乱。任什么衣锦还乡，任什么荣耀故里，任什么结发夫妻，任什么神明责罚。它们加起来也抵不上你的娇躯轻轻一颤。随我远行吧，离开这满目伤心的地方，它让你我双双经受磨难……&lt;/p&gt;
+&lt;p&gt;女：野花迎风飘摆，好像是在倾诉衷肠，绿草凄凄抖动，无尽的缠绵依恋。初绿的柳枝坠入悠悠碧水，搅乱了芳心柔情荡漾。为什么春天每年都如期而至，而我远行的丈夫却年年不见音讯。&lt;/p&gt;
+&lt;p&gt;男：离家去国，整整三年，为了梦想中金碧辉煌的长安，都市里充满了神奇的历险，满足一个男儿宏伟的心愿。现在终于衣锦还乡，又遇上这故里的春天。看这一江春水，看这满溪桃花，看这如黛青山，都没有丝毫改变，也不知新婚一个月就别离的妻子是否依旧红颜？来的是谁家女子，生得是春光满面，美丽非凡。这位姑娘，请你停下美丽的脚步，你可知自己犯下什么样的错误？&lt;/p&gt;
+&lt;p&gt;女：这位将军，明明是你的马蹄踢翻了我的竹篮，你看这宽阔的道路直通蓝天，你却非让这可恶的畜生溅起我满身污点，怎么反倒怪罪起我的错误？&lt;/p&gt;
+&lt;p&gt;男：你的错误就是美若天仙，婀娜的身姿让我的手不听使唤，蓬松的头发涨满了我的眼帘，看不见道路山川，只是漆黑一片；你明艳的面颊让我胯下的这头畜生倾倒，竟忘记他的主人是多么的威严。&lt;/p&gt;
+&lt;p&gt;女：快快走远点吧，你这轻浮的汉子，你可知调戏的是怎样多情的一个女子？她为了只见过一面的丈夫，已经虚掷三年，把锦绣青春都抛入无尽的苦等，把少女柔情都交付了夜夜空梦。快快走远点吧，你这邪恶的使臣，当空虚与幽怨已经把她击倒，你就想为堕落再加一把力，把她的贞洁彻底摧毁。你这样做不怕遭到上天的报应？&lt;/p&gt;
+&lt;p&gt;男：上天只报应痴愚的蠢人，我已连遭三年的报应。为了有名无实的妻子，为了虚枉的利禄功名。看这满目春光，看这比春光还要柔媚千倍的姑娘，想起长安三年的凄风苦雨，恰如在地狱深渊里爬行。看野花缠绕，看野蝶双双追逐，只为了凌虚中那点点转瞬依恋，春光一过，它似就陷入那命定中永远的黑暗。人生怎能逃出同样的宿命。&lt;/p&gt;
+&lt;p&gt;女：快快住嘴吧，你这大胆的罪人，你虽貌似天神，心却比铁石还要坚硬，双目比天地还要幽深。看鲜花缠绵，我比它们还要柔弱；看野蝶迎风飞舞，我比它们还要纷忙迷乱。看在上天的分上，别再开启你那饱满生动的双唇，哪怕再有一丝你那呼吸间的微风，我也要跌入你的深渊。快快走远吧，别再把我这个可怜的女子纠缠……&lt;/p&gt;
+&lt;p&gt;男：看野花缠绵，我比它们还要渴望缠绵；看野蝶迎风飞舞，我的心也同样为你纷忙迷乱。任什么衣锦还乡，任什么荣耀故里，任什么结发夫妻，任什么神明责罚。它们加起来也抵不上你的娇躯轻轻一颤。随我远行吧，离开这满目伤心的地方，它让你我双双经受磨难……&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
             
@@ -614,6 +786,153 @@
                             
                             
                                 <category scheme="https://aaronnick.github.io/tags/%E6%82%B2%E5%89%A7/" term="悲剧" label="悲剧" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D/" term="大明宫词" label="大明宫词" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">电脑操作手机的好利器</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E6%89%8B%E6%9C%BA%E7%9A%84%E5%A5%BD%E5%88%A9%E5%99%A8/" />
+            <id>https://aaronnick.github.io/posts/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E6%89%8B%E6%9C%BA%E7%9A%84%E5%A5%BD%E5%88%A9%E5%99%A8/</id>
+            <updated>2020-12-20T01:17:47&#43;08:00</updated>
+            <published>2020-08-30T12:29:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一直在寻找一个好用的可电脑控制手机的软件，现在终于找到一个合适的了。 为什么需要电脑控制手机？ 主要还是便利性，能提高不少事情的效率。……</summary>
+            
+                <content type="html">&lt;p&gt;一直在寻找一个好用的可&lt;strong&gt;电脑控制手机&lt;/strong&gt;的软件，现在终于找到一个合适的了。&lt;/p&gt;
+&lt;h3 id=&#34;为什么需要电脑控制手机&#34;&gt;为什么需要电脑控制手机？&lt;/h3&gt;
+&lt;p&gt;主要还是&lt;strong&gt;便利性&lt;/strong&gt;，能提高不少事情的效率。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文件与照片传输&lt;/li&gt;
+&lt;li&gt;共享剪切板&lt;/li&gt;
+&lt;li&gt;部分软件无电脑版来回切换麻烦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这是我主要的诉求，尤其是&lt;strong&gt;文件传输和共享剪切&lt;/strong&gt;板，当前每次都得利用微信或者 Telegram 作为中转站，来回复制粘贴，效率简直不要太低。&lt;/p&gt;
+&lt;p&gt;当然还有其他原因，例如酷安等没有电脑端的软件，想要写图文的时候简直是折磨。&lt;/p&gt;
+&lt;p&gt;对于某些人来说，甚至还有电脑键盘映射的需求，这样就能通过电脑玩手机的游戏了。&lt;/p&gt;
+&lt;p&gt;其实，还有一个很大的用处，那就是适合上班摸鱼。老板以为你在电脑上奋笔疾书，其实是在刷别的东西。&lt;/p&gt;
+&lt;h3 id=&#34;解决方案&#34;&gt;解决方案&lt;/h3&gt;
+&lt;p&gt;多番寻找之下，找到一个几乎支持全平台的软件——&lt;strong&gt;虫洞&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1gi938fka7ij31tx0u0npd.jpg&#34; alt=&#34;◎ 虫洞&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;官网：https://er.run/&lt;/p&gt;
+&lt;p&gt;支持平台：PC、Mac、iOS、Android、Linux（开发中）&lt;/p&gt;
+&lt;p&gt;连接方式：Wi-Fi、USB&lt;/p&gt;
+&lt;p&gt;费用：基础功能免费，可付费解锁高级功能&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1gi93b7d910j30u010mn2y.jpg&#34; alt=&#34;◎ 功能列表&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;实际体验&#34;&gt;实际体验&lt;/h3&gt;
+&lt;p&gt;我的两端是 Mac 以及 Android，经过一天的体验，功能上基本满足了我的需求，以下讲讲主观感受。&lt;/p&gt;
+&lt;p&gt;在连接的时候，发现通过 Wi-Fi 的方式一直连不上，电脑始终提示「尚未发现设备」。于是我加入到了官方的 Telegram 群组并反馈该问题，没想到热心的用户还是挺多，很多就解决了我的问题——&lt;strong&gt;先通过 USB 连接一次，然后拔掉线，重新进软件就可以了&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;通过 &lt;strong&gt;USB 连接，延迟几乎可以感受不到&lt;/strong&gt;；&lt;strong&gt;Wi-Fi 连接有较明显的延迟感&lt;/strong&gt;，体验就像十年前用卡了的安卓机。两者的&lt;strong&gt;连接速度非常顺畅&lt;/strong&gt;，基本就是电脑端点击连接，两秒内就能完成，这点好评。&lt;/p&gt;
+&lt;p&gt;传输文件以及共享剪切板方面没有任何问题，有点 Apple 内味了。&lt;/p&gt;
+&lt;p&gt;至于更多的场景，例如玩游戏等还没有尝试，自己也没这方面的需求。&lt;/p&gt;
+&lt;p&gt;关于功能方面，也可以群里反馈，有需求的也可以提出来，开发者还挺勤快的，解决问题速度很快。&lt;/p&gt;
+&lt;p&gt;使用这类软件，难免会担心&lt;strong&gt;安全问题&lt;/strong&gt;，毕竟像 Android 手机要连接的话，需要打开调试功能，存在一定的风险。如果有这方面担心的人，需要谨慎选择。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E8%99%AB%E6%B4%9E/" term="虫洞" label="虫洞" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">提问的智慧</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/" />
+            <id>https://aaronnick.github.io/posts/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7/</id>
+            <updated>2020-12-20T01:25:45&#43;08:00</updated>
+            <published>2020-08-10T12:29:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期我在 Telegram 上又看到了那篇关于提问的雄文——《提问的智慧》。 可以说，我很庆幸自己在多年前就在 Telegram 上阅读过这篇文章了，当时可谓是惊叹不已……</summary>
+            
+                <content type="html">&lt;p&gt;近期我在 Telegram 上又看到了那篇关于提问的雄文——《&lt;strong&gt;&lt;a href=&#34;https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md&#34;&gt;提问的智慧&lt;/a&gt;&lt;/strong&gt;》。&lt;/p&gt;
+&lt;p&gt;可以说，我很庆幸自己在多年前就在 Telegram 上阅读过这篇文章了，当时可谓是惊叹不已，后期才了解到这篇文章由于写的太好，已被&lt;strong&gt;翻译成多种语言&lt;/strong&gt;并广为流传。&lt;/p&gt;
+&lt;p&gt;这篇文章给我&lt;strong&gt;最大的收获&lt;/strong&gt;就是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;提出问题之前，&lt;strong&gt;先自己努力尝试&lt;/strong&gt;；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;描述清楚问题&lt;/strong&gt;，列出你已尝试过的方法，最好能给彼此带来启发；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;没有人有义务帮助你&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;第一条道理很明显，告诫我&lt;strong&gt;不要做伸手党&lt;/strong&gt;；第二条很重要，如果连问题都描述不清楚，又&lt;strong&gt;怎么能期望别人能够理解，甚至是给出答复&lt;/strong&gt;；最后一条告诉我，别人能够腾出时间提供帮助，那是很大的幸运，如果无人回答，我也&lt;strong&gt;没有权利抱怨&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这都是一些不错的习惯，值得去效仿。尤其是在生活中，或者工作中，那些经常和人打交道的岗位尤其如此。&lt;/p&gt;
+&lt;p&gt;再然后，我读到了一本书，叫做《&lt;strong&gt;学会提问&lt;/strong&gt;》。这本书结合《提问的智慧》一起看，非常的畅快。这两者在一定程度上培养了我虚心好学和学会质疑的品格。尤其是《学会提问》，&lt;strong&gt;让我更深层次的理解了什么是信息，什么是知识，这两者有何不同&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;所谓的&lt;strong&gt;信息&lt;/strong&gt;，也许是&lt;strong&gt;一个维度&lt;/strong&gt;的，&lt;strong&gt;简单的&lt;/strong&gt;，容易理解和接受的。而&lt;strong&gt;知识&lt;/strong&gt;，往往错综复杂，但却能整理出相关性，理清楚之后便能把多个维度的&lt;strong&gt;信息串联&lt;/strong&gt;起来，更深更广，更能&lt;strong&gt;拓展&lt;/strong&gt;和更易&lt;strong&gt;应用&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;举个简单的例子：近段时间&lt;strong&gt;黎巴嫩的大爆炸&lt;/strong&gt;，起因很可能就是&lt;strong&gt;硝酸铵&lt;/strong&gt;，那么：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;硝酸铵很危险。——这是一个信息。&lt;/li&gt;
+&lt;li&gt;硝酸铵是土炸药的主要成分，主要由氨水与硝酸反应制成，在不同热度下会分解出不同的物质，应用主要是化肥（钝化）、爆破、烟花等，历史上曾发生过多次爆炸事件，最严重的是 1947 年的 &lt;strong&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%9F%8E%E7%81%BE%E9%9A%BE&#34;&gt;德克萨斯城灾难&lt;/a&gt;&lt;/strong&gt;，火灾引爆了 2300 吨硝酸铵，同时发生连环爆炸，此事故导致约 600 人丧生。——这是一个知识。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;刚开始工作的时候，我就是信息和知识分不清，导致很多时候我只是个传话筒，简单的执行者，而没有深入其中。&lt;/p&gt;
+&lt;p&gt;现在，对于一个信息，我会去用自己的知识初步&lt;strong&gt;校验其真实性&lt;/strong&gt;，然后结合其他方法验证它，再然后，会结合研究摸索出这个&lt;strong&gt;信息的来龙去脉&lt;/strong&gt;，最后从自己的角度重新看待它，甚至是&lt;strong&gt;改造它&lt;/strong&gt;，让它&lt;strong&gt;为我所用&lt;/strong&gt;，甚至比之前更饱满。&lt;/p&gt;
+&lt;p&gt;从工作的角度来看，这种应用更实际。&lt;/p&gt;
+&lt;p&gt;例如，拿到一个需求，要实现一个功能。我会尽可能按照以上步骤去看待这样一个信息，而不只是做个「行尸走肉」般的执行者。&lt;/p&gt;
+&lt;p&gt;这很有用，帮助我看清楚了很多东西的本质，让我能更深入的思考一件事情，习惯于此，我便&lt;strong&gt;不会轻易相信一些媒体大肆宣扬的新闻，不会轻易被他们灌输一些浪费头脑的观点&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;说到观点，其实&lt;strong&gt;观点和事实也不尽相同&lt;/strong&gt;。不少社交媒体上的人，常常因为区分不出来两者，而「大打出手」，口吐芬芳。&lt;/p&gt;
+&lt;p&gt;我观察了不少自媒体，他们的缺点就是在&lt;strong&gt;本该描述事实的地方&lt;/strong&gt;，&lt;strong&gt;参杂了太多的观点&lt;/strong&gt;，而这种行为，不少是故意而为之，且精准地抓住了大众的心理，「&lt;strong&gt;总想搞些大新闻&lt;/strong&gt;」。（这里很感谢我导师的教导，当初听说我计划去做自媒体，他告诫要做个有用的人。虽然最终我也没做自媒体。）&lt;/p&gt;
+&lt;p&gt;因此，国内报道，尤其是深度报道真的愈来愈少。我反而更偏向于看看那些沉下心做内容的外文，如《经济学人》《华尔街日报》《大西洋月刊》等周刊或者月刊，不少内容还是很值得看的，至少&lt;strong&gt;观点会客观中立一些&lt;/strong&gt;。国内有值得看的机构，可以留言，不胜感激。&lt;/p&gt;
+&lt;p&gt;说了这么多，无非是想说&lt;strong&gt;提问真的是一门智慧，值得去好好研究，我也在途中&lt;/strong&gt;。最后，用爱因斯坦的名言作为结束：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;提出一个问题往往比解决一个问题更重要。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E6%8F%90%E9%97%AE/" term="提问" label="提问" />
                             
                         
                     
@@ -681,6 +1000,204 @@
                             
                             
                                 <category scheme="https://aaronnick.github.io/tags/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C/" term="智能眼镜" label="智能眼镜" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">选择的权利</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E9%80%89%E6%8B%A9%E7%9A%84%E6%9D%83%E5%8A%9B/" />
+            <id>https://aaronnick.github.io/posts/%E9%80%89%E6%8B%A9%E7%9A%84%E6%9D%83%E5%8A%9B/</id>
+            <updated>2020-12-20T01:27:31&#43;08:00</updated>
+            <published>2020-08-04T12:29:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">「准备断气」 凌晨，一条微信吵醒我。 发送者是一个亲戚，他的爷爷前段时间刚被下了病危通知，医院已经不收了，现在安置在家里。 我不敢点开，……</summary>
+            
+                <content type="html">&lt;p&gt;「准备断气」&lt;/p&gt;
+&lt;p&gt;凌晨，一条微信吵醒我。&lt;/p&gt;
+&lt;p&gt;发送者是一个亲戚，他的爷爷前段时间刚被下了病危通知，医院已经不收了，现在安置在家里。&lt;/p&gt;
+&lt;p&gt;我不敢点开，也不敢回复。因为我不知道要说什么，脑海中一直都是那位爷爷的影子——小时候帮我家的忙活的身影，晚上来我家乘凉后离开的背影。&lt;/p&gt;
+&lt;p&gt;谁能想到，几个月前还能骑车几公里的一个人，现在连呼吸都困难。&lt;/p&gt;
+&lt;p&gt;从小时候到现在，我都以为「吐血」是武侠剧里面的夸张手法。直到我看到他们给我发来的照片。地上的一滩血迹，夹杂着黑色的血块，这该是怎样的痛苦。&lt;/p&gt;
+&lt;p&gt;我想起我的爷爷，五年前也是卧病在床好几个月，其中滋味难以想象。&lt;/p&gt;
+&lt;p&gt;我记得他生病前最喜欢和我们说他年轻时候的故事，不厌其烦地重复说——也有可能他并不知道是在重复，一个九十岁的老人了，连很多名字都记不得了，又怎么会记得自己讲过这个那个故事呢。&lt;/p&gt;
+&lt;p&gt;在他离世的时候，我还在千里之外的地方上学。接到电话，我坐了当晚的火车回家，在车站我用黑莓的 9900 在备忘录敲下了当时的感受。几百个字，边敲边含着眼泪，可就是哭不出来。&lt;/p&gt;
+&lt;p&gt;眼前闪过的都是爷爷讲故事的一幕幕，想着以后再也不能听他啰嗦了，鼻子就酸了。&lt;/p&gt;
+&lt;p&gt;直到现在，那个老式手机我一直带着。但备忘录好几年都没打开过了。&lt;/p&gt;
+&lt;p&gt;昨晚看到消息后，我没有回复，但也没有睡觉。&lt;/p&gt;
+&lt;p&gt;早上迷迷糊糊醒来后，看到群消息在说，还没有离世，但是已经吃不下东西了。想必是极其痛苦。&lt;/p&gt;
+&lt;p&gt;洗漱的时候，我就在思考一个问题：我们国家为什么没有对安乐死合法化。&lt;/p&gt;
+&lt;p&gt;之所以想到安乐死，是因为我能些许感受到老人在病痛中的绝望。（因为我爷爷奶奶都是在病痛中去世的，我现在很后悔没有在最后的日子里好好陪伴他们）&lt;/p&gt;
+&lt;p&gt;安乐死，这个看似结束痛苦最简单的办法，是什么原因导致普遍不被认可？&lt;/p&gt;
+&lt;p&gt;我查了相关资料，反对者主要持以下观点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;被居心不良的人滥用，造成伦理危机&lt;/li&gt;
+&lt;li&gt;若病人都宁死勿医，阻碍医学的发展&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;第一条的确会存在，但是否被滥用，能否通过严格的法律来限制呢？第二条，我倒是感觉很悲哀。即使是死，我都没有选择的权力？我都得甘愿跪着让后人踏着肩膀去探索未来？&lt;/p&gt;
+&lt;p&gt;这真的很窒息。&lt;/p&gt;
+&lt;p&gt;许多医学发展也并不都是临床发现的，因此，这根本不是借口，更像是一种喇叭式的意识灌输。&lt;/p&gt;
+&lt;p&gt;其实我在了解之前，心里有过类似的肮脏想法——病人都选择安乐死了，那么医院的消费，经济的发展也会因此受到一定的影响。毕竟医疗是一个较大的开支，这里面牵扯的东西太多了。&lt;/p&gt;
+&lt;p&gt;说回安乐死，世界上很多国家包括我国，对积极安乐死认为是犯罪，但对消极安乐死却有较大的宽容度，例如：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;浙江台州一个著名案件&lt;/p&gt;
+&lt;p&gt;母亲身患重病，拖累家人，多次求死。终于，女婿买来毒药，老伴儿、女儿、女婿眼睁睁看着她服下毒药去世。&lt;/p&gt;
+&lt;p&gt;最终，法院以故意杀人罪判处女婿、 老伴儿有期徒刑 3 年, 缓刑 5 年; 判处女儿有期徒刑 2 年, 缓刑 3 年。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这个案件的场景，这位母亲的心态，也许发生在这片土地的无数个角落。但，有多少人敢迈出那一步呢？&lt;/p&gt;
+&lt;p&gt;为什么不敢？不止是有法律上的约束，还有道德上的绑架，尤其是家属的压力——来自「百善孝为先」的压力，来自亲戚邻居的眼光。&lt;/p&gt;
+&lt;p&gt;爷爷卧病时，在我给他喂饭的时候，也对我说过类似的话——还不如死了算了。我已经记不清多少次了。因此，在他走之后的一段时间里，我并没有那么难过，对他而言，也许是一种解脱吧——只不过这个解脱来得太晚了些。不过，说到底，谁又能知道呢。&lt;/p&gt;
+&lt;p&gt;关于安乐死的合法化，世界上还是有不少地区已经在实施了：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一、目前已立法容许主动安乐死的国家及地区：&lt;/p&gt;
+&lt;p&gt;欧洲： 荷兰、 比利时、 卢森堡（医师需亲自注射）&lt;/p&gt;
+&lt;p&gt;南美洲： 哥伦比亚（医师不得亲自注射，需由病人自行服药）&lt;/p&gt;
+&lt;p&gt;二、目前已立法容许被动安乐死的国家及地区：&lt;/p&gt;
+&lt;p&gt;欧洲： 英国、 爱尔兰、 芬兰、 挪威、 法国、 西班牙、 奥地利、 希腊、 丹麦、 瑞典&lt;/p&gt;
+&lt;p&gt;亚洲： 韩国、中华民国 中华民国、印度 印度&lt;/p&gt;
+&lt;p&gt;三、目前已立法容许协助自杀的国家及地区&lt;/p&gt;
+&lt;p&gt;欧洲： 德国、瑞士 瑞士&lt;/p&gt;
+&lt;p&gt;北美洲：美国 美国部分州（华府、加州、俄勒冈州、科罗拉多州、佛蒙特州、华盛顿州、蒙大拿州、夏威夷州）、 加拿大&lt;/p&gt;
+&lt;p&gt;大洋洲： 澳大利亚（维多利亚州 维多利亚州、西澳大利亚州）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;人生大事，莫非生死。我们没有选择出生的权力，连结束生命的选择也被剥夺。&lt;/p&gt;
+&lt;p&gt;但愿在我老的时候，还没有经历病痛折磨之前，能够自己选择，安然离去。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E6%AD%BB%E4%BA%A1/" term="死亡" label="死亡" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%80%89%E6%8B%A9/" term="选择" label="选择" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">记账｜我从「钱迹」转至 Google sheets</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%B7%A5%E5%85%B7%E8%81%8A%E4%B8%80%E8%81%8A%E8%AE%B0%E8%B4%A6%E4%BB%8E%E9%92%B1%E8%BF%B9%E8%BD%AC%E7%A7%BB%E8%87%B3-google-sheets-%E7%9A%84%E5%BF%83%E7%90%86%E8%B7%AF%E7%A8%8B/" />
+            <id>https://aaronnick.github.io/posts/%E5%B7%A5%E5%85%B7%E8%81%8A%E4%B8%80%E8%81%8A%E8%AE%B0%E8%B4%A6%E4%BB%8E%E9%92%B1%E8%BF%B9%E8%BD%AC%E7%A7%BB%E8%87%B3-google-sheets-%E7%9A%84%E5%BF%83%E7%90%86%E8%B7%AF%E7%A8%8B/</id>
+            <updated>2020-12-20T01:35:17&#43;08:00</updated>
+            <published>2020-07-22T12:29:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">说起记账，很多人第一反应就是钱话都花了，那么麻烦记下来干什么。实不相瞒，很长一段时间我也是这种想法。直到工作后，总觉得钱哗啦啦就没……</summary>
+            
+                <content type="html">&lt;p&gt;说起记账，很多人第一反应就是钱话都花了，那么麻烦记下来干什么。实不相瞒，很长一段时间我也是这种想法。直到工作后，&lt;strong&gt;总觉得钱哗啦啦就没了，但是都跑去哪儿了也不是很清楚&lt;/strong&gt;，这就很苦恼。我是一个比较严谨的人，习惯做计划，期望事情可以按照计划来进行。于是，逐渐尝试寻找合适的方案。&lt;/p&gt;
+&lt;h3 id=&#34;记账初识&#34;&gt;记账初识&lt;/h3&gt;
+&lt;p&gt;其实记账，总归来说就两大类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本子记账&lt;/li&gt;
+&lt;li&gt;软件记账&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有人会说本子记帐也太上古时代了吧。但我印象中第一次接触记账还真的是用小本本来——这就要说起八年前广东那个风雨交加的夜晚了......当时在那边做暑假工，上铺的兄弟真的就是用小笔记本把每日的支出记得清清楚楚。我当时还问他，记那么清楚干什么？他回答：存够五万块钱就回家。别说，那个时候的五万还是挺多的，不知道现在小哥回家了没。&lt;/p&gt;
+&lt;p&gt;话说回来，本子记账虽然给人一种很真实的感觉，让你&lt;strong&gt;清晰的感受到每一笔钱是如何花出去&lt;/strong&gt;的，但是它的劣势也很多：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不方便携带&lt;/li&gt;
+&lt;li&gt;不易保存&lt;/li&gt;
+&lt;li&gt;不好核对及分析&lt;/li&gt;
+&lt;li&gt;耗费时间长&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对于软件记账来说就完全没有以上劣势，甚至在这些方面还是优势。经过对比，我最后选择了「钱迹」这个软件。主要是看中其简洁无广告的界面、较为美观的可视化，其实最重要的是它的作者是个独立开发者，我会比较偏爱独立开发者做出的产品，因为多数开发者是真正在做有价值的产品而不是为了谋取利益，&lt;strong&gt;本质的不同便决定了产品的品味&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1gh00yzajanj30xc0msdqw.jpg&#34; alt=&#34;◎ 钱迹&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我算是「钱迹」早期用户，在内测的时候就开始使用至今，也在酷安以及开发者群提过一些产品的建议，眼看着这个产品从可用变成好用。那么，为什么我会放弃用了几年的软件，转而投向 Google sheets 呢？这就涉及到了&lt;strong&gt;记账中必不可少的一环——预算&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;为什么做预算&#34;&gt;为什么做预算&lt;/h3&gt;
+&lt;p&gt;记过帐的人都清楚，如果只是单纯记账，那么一个月甚至一年下来，其实用处不大，最多就是了解下钱流向何方，但也仅仅是知道去哪儿了。做预算就不同了，必须在月底或者月初制定下个月的预算，我的话会参考上个月的支出，同时要考虑下个月会出现什么大头的支出，例如购买相机、房租等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;理想状态是预算-实际支出=可控的范围波动&lt;/strong&gt;，我们需要将波动尽量控制在较小的范围。对于记账和做预算，可以这么理解，&lt;strong&gt;记账是帮助我们了解过去，预算是帮助我们规划未来，我认为后者更为重要&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;如何做预算&#34;&gt;如何做预算&lt;/h3&gt;
+&lt;p&gt;我在&lt;strong&gt;做支出预算的时候有这么几个流程&lt;/strong&gt;：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将支出分成主要的几个大类；&lt;/li&gt;
+&lt;li&gt;参考往月消费，结合量化分析给每个类分配预算；&lt;/li&gt;
+&lt;li&gt;对下个月非常规的支出进行规划，并加和进对应类别。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;有那么&lt;strong&gt;几个原则&lt;/strong&gt;：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;每一笔都要计算在内，不因小而忽略；&lt;/li&gt;
+&lt;li&gt;针对非常规支出，需要特殊备注，看后期能否通过其他途径的收入进行填补；&lt;/li&gt;
+&lt;li&gt;预算总额不超过收入，需要制定优先级，优先级低的可均摊到其他时间，避免过度消费。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其实，在做了一段时间后发现，平常的支出就那几个大类：房租、三餐、零食水果、咖啡奶茶、交通等等。&lt;strong&gt;不必分得太细&lt;/strong&gt;，否则记账的时候会很麻烦，后期分析也不简单。比如交通，所有出行话费的钱我都会放到这个分类，例如打车、地铁甚至购买共享单车会员等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;多回顾和对比，然后进行适当调整&lt;/strong&gt;。做个几个月，就会渐渐上手了，也逐步逼近实际支出了。&lt;/p&gt;
+&lt;p&gt;收入同理，当然收入就简单得多了，就几个来源。&lt;/p&gt;
+&lt;h3 id=&#34;选择一个合适的工具&#34;&gt;选择一个合适的工具&lt;/h3&gt;
+&lt;p&gt;所谓工欲善其事，必先利其器，一个合适的工具必不可少。&lt;/p&gt;
+&lt;p&gt;刚才说到放弃「钱迹」的原因是没有预算工具，或者说不够好用。那么，市面上有没有好用的工具呢？&lt;strong&gt;要找到合适的工具，得先确定自己的诉求&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可方便做预算，记账；&lt;/li&gt;
+&lt;li&gt;需要多端同步，手机记账，电脑分析/做预算/管理数据；&lt;/li&gt;
+&lt;li&gt;数据安全性有保障，软件不会一年两年就凉；&lt;/li&gt;
+&lt;li&gt;界面要简洁美观，尤其讨厌广告（即使订阅也可以）；&lt;/li&gt;
+&lt;li&gt;自定义程度高，方便自己根据需求进行配置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;找了一圈，包括有口皆碑的一些专业做预算及记账的软件，最终的效果都不是很满意。直到有一天在 Google sheets 做项目管理，突发奇想——自己配置一个&lt;strong&gt;预算模板+明细模板&lt;/strong&gt;不就行了？&lt;strong&gt;要同步有同步，要图表有图表，想怎么分析就怎么分析&lt;/strong&gt;，没有比这更高自定义和更专业的了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1gh00tw26dsj31d40u078o.jpg&#34; alt=&#34;◎ 7月预算以及与实际支出对比&#34;&gt;&lt;/p&gt;
+&lt;p&gt;说干就干，准备着手做一个模板的时候，发现已经内置了一个了，于是「改巴改巴」就做成了适合自己的模板。经过几十天使用下来，效果还不错。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以前用「钱迹」的时候，虽然记账很快，但是没什么对比，就只是知道花了这么一笔钱。&lt;strong&gt;但是现在，有消费了便打开手机的 Google sheets，随手一记，偶尔切换看下某些类别的本月预算和实际支出的对比，然后衡量接下来要不要调整自己的支出。实际操作来看，效果明显。比如这个月我就因为买了衣服、买了欧路终身版服务等超出预算，于是我就在其他类别缩减支出，例如咖啡奶茶都少点了，为的是&lt;/strong&gt;不让月末支出爆红&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1gh00vx5q74j30xo0gsq6t.jpg&#34; alt=&#34;◎ 每日支出明细&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;总结&#34;&gt;总结&lt;/h3&gt;
+&lt;p&gt;简而言之，就以下几步：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;制定预算&lt;/li&gt;
+&lt;li&gt;根据预算进行消费，同时记账&lt;/li&gt;
+&lt;li&gt;变记账边调整自己的消费&lt;/li&gt;
+&lt;li&gt;分析与反思，规划下一笔预算&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;做预算和记账，真的在一定程度上改变了我的生活。这不仅是让我了解到钱都去哪儿了，也让我&lt;strong&gt;更清楚自己的消费，培养了不错的消费习惯&lt;/strong&gt;，在一定意义上让我觉得&lt;strong&gt;可以掌控部分生活&lt;/strong&gt;，就像做产品，可以掌控产品的定位和功能，&lt;strong&gt;这是一种难以言说的体验&lt;/strong&gt;。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AE%B0%E8%B4%A6/" term="记账" label="记账" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/google/" term="Google" label="Google" />
                             
                         
                     
