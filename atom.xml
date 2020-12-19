@@ -4,159 +4,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-12-19T22:02:19&#43;08:00</updated>
-    <id>https://aaronnick.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
+    <updated>2020-12-19T22:21:38&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
     <author>
             <name>YXNG</name>
-            <uri>https://aaronnick.github.io/</uri>
+            <uri>https://example.com/</uri>
             
                 <email>weiyexing1@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
-        <entry>
-            <title type="text">带饭哈哈</title>
-            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%B8%A6a-/" />
-            <id>https://aaronnick.github.io/posts/%E5%B8%A6a-/</id>
-            <updated>2020-12-19T12:36:50&#43;08:00</updated>
-            <published>2020-12-15T12:29:21&#43;08:00</published>
-            <author>
-                    <name>YXNG</name>
-                    <uri>https://aaronnick.github.io/</uri>
-                    <email>weiyexing1@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">为什么带饭？ 从上个月开始，我决定尝试带饭。 此前在公司大多都是吃外卖，晚餐有时点外卖有……</summary>
-            
-                <content type="html">&lt;h3 id=&#34;为什么带饭&#34;&gt;为什么带饭？&lt;/h3&gt;
-&lt;p&gt;从上个月开始，我决定尝试带饭。&lt;/p&gt;
-&lt;p&gt;此前在公司大多都是吃外卖，晚餐有时点外卖有时回家做。点外卖除了众所周知的不健康之外，对我来说还有一个不好的点：选择困难症。每天一到中午，就开始纠结今天该吃什么，有时还想着开发个小程序随机选择当天吃什么，名字我都想好了「今天吃个啥」。&lt;/p&gt;
-&lt;p&gt;然后就是懒。因为疫情原因，外卖是送不上来的，得下楼取。虽然也就是几分钟的事情，但是当下大风天，下去一次就挺让人难受的了。当然这也只是微不足道的原因。&lt;/p&gt;
-&lt;p&gt;另外就是出于自身的考虑。做饭虽然会比较花费时间，例如晚上下班的时间，早上睡懒觉的时间。但是却带来了吃得更健康、更能掌控自己饮食的好处。&lt;/p&gt;
-&lt;h3 id=&#34;如何带饭&#34;&gt;如何带饭？&lt;/h3&gt;
-&lt;p&gt;下定决心后，便趁着双十一在网上购买了两个钢化玻璃的带饭盒，很好看，清洗也方便，但是重量也不是盖的，每天提着上班手都要断了，于是乎干脆打车上下班，便没有了这烦恼。&lt;/p&gt;
-&lt;p&gt;准备好带饭工具之后，就要开始考虑该做什么菜。我此前基本是个做饭小白，炒个青菜都不知道该放多少油盐。这个月的带饭经历也给自己带来了不小的收获，不敢说是居家好男人，但至少能做出几样菜出来，不至于饿死自己。&lt;/p&gt;
-&lt;p&gt;一开始我在「下厨房」这款小程序上学习，每到要做饭的时候就点开看下，简单方便。后面发现上面的教程要么就是很平常，要么就是不清晰。然后朋友推荐我在「抖音」上搜菜谱，说是上面简单易懂且很好吃，无奈自己几乎不用这款软件，便放弃了。最后是一个室友推荐了一款软件「懒饭」，一看名字就很符合我。下载之后觉得很好用，两三分钟视频教程，附带图文教程，生动具体。我的不少菜都是从上面学习而来，也推荐给有需要的人。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/0081Kckwgy1glcr7ltrhlj30zu0qc1ky.jpg&#34; alt=&#34;◎ 初学者的菜&#34;&gt;&lt;/p&gt;
-&lt;p&gt;关于买菜。作为一个号称普遍「996」的互联网搬砖者，下班买菜这种场景只存在梦里。我一般通过京东到家（前期），美团买菜（当前）线上购买，在当天吃晚餐的时候买第二天或者第三天的菜，回到家后菜也刚好送达。&lt;/p&gt;
-&lt;p&gt;我日常操作是当天下班回来开始准备明天的饭菜：准备配料、切菜、装好米定时明日八点开始煮。这过程大约花费 20 分钟，加上洗锅刷饭差不多 30 分钟。早上八点半醒来，开始拿菜出来炒，炒完菜盛好饭大概花去 20 分钟。大多数时候我只是煮一个大菜，然后分两份早晚吃，有时候也会煮两个菜，时间上就会多几分钟。剩余的刷锅洗碗，放水先泡着，留晚上回来再一并解决。&lt;/p&gt;
-&lt;h3 id=&#34;带饭给我带来了什么&#34;&gt;带饭给我带来了什么？&lt;/h3&gt;
-&lt;p&gt;一开始我想，带饭无非是让我吃到更健康的饭菜，省去每天的选择困难症纠结，避免我下楼取外卖的时候被大风吹走，还能带来啥？&lt;/p&gt;
-&lt;p&gt;一种掌控感的舒适。我习惯让自己的生活在自己的掌控之中，计划之内，工作岗位的性质也让我对掌控感异常敏感。当我自己掌握这周该吃什么，该补充什么营养的时候，这种感觉很舒服。点外卖虽然也可以，但是很多具体的东西你并不能决定，加之外卖平台各种营销手段，看着比较烦人。&lt;/p&gt;
-&lt;p&gt;一个规律的生活和饮食。此前我早餐一般是泡一下牛奶或者麦片，懒的时候干脆到公司了再买个包子或豆浆；晚餐也是吃得比较敷衍随便。做饭则可以丰富些，毕竟自己都早起了，也不差那点时间了。而且，做饭这件事有时候可以作为一个警戒线。例如早上爬不起来的时候，想着今天要带饭，一股溜儿就起来了；白天上班的时候，心想着要早点回去准备饭菜，于是就用更高的工作效率去降低晚上加班的概率，尽量避免晚上加班写需求，或者被人预约 7 点之后的会议。当然，近一个月加班还是常态，事情太多基本忙不过来，但做饭我还是坚持了下来。&lt;/p&gt;
-&lt;p&gt;一个独处的时间。一旦开始做饭，我知道一定会压缩我学习（玩手机）的时间，但是却带来了一个意想不到的效果——孤独的时间更适合思考。以往在洗澡的时候我会冒出一些有趣的想法和点子，这就是所谓的「浴室沉思」吧。现在这种「时候」多了一个，那就是做饭。我的不少问题，就是在做饭的时候想通的；一些有意思的想法，也是在炒菜的时候冒出来的。我后面对比了下洗澡和做饭的相似性，觉得这两者有个共同点就是独处，专心一件事。洗澡和做饭，一般就不能做其他事了，例如看消息刷手机，而这些额外的操作会极大分散自己的注意力，无法让自己专心一件事。洗澡则更好，不仅让人专心，温水还能促进血液循环，加速大脑的思考，因此总能想清楚一些复杂的问题。&lt;/p&gt;
-&lt;p&gt;一点微不足道的省钱。做饭的确会省钱，但是并没有大家说的那么多。我对比了一下上个月的支出，三餐较之前降低三分之一，然后其他支出则会相应地攀升。例如水果、咖啡奶茶、交通等会随着带饭带来的降低而有相应地提高。因为自己买菜的时候总会不由自主地想买些水果，然后就是打车上下班。线上的菜可能会贵一些，但是也比以前一顿外卖三四十便宜。我经常炒的牛肉，二十块的牛肉外加几块钱的青椒、芹菜，基本就能解决一天两顿的饭菜。&lt;/p&gt;
-&lt;p&gt;因为自己也是刚学习做菜，我会简单记录当天做了什么，以及如何做，方便后期追踪和回顾，目前使用的是一款内测的软件「flomo」。这款软件的好处就是轻便，随想随记，毫无压力，我的用法是通过标签系统区分并集中自己的每日饭菜。&lt;/p&gt;
-&lt;p&gt;如果你对随时记录自己的想法也有需求，不妨尝试下它，可以通过以下邀请链接注册，你将获得 14 天的会员，我亦得到 7 天会员。邀请拿会员不是目的，主要是和大家分享这款自己用了许久的小软件。&lt;/p&gt;
-&lt;p&gt;邀请链接：https://flomoapp.com/register2/?MjExNw&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/0081Kckwgy1glcqpv1ig0j316k0u0jzq.jpg&#34; alt=&#34;◎ flomo&#34;&gt;&lt;/p&gt;
-&lt;p&gt;最后想要说的一点是，做饭无疑会花费自己的时间，有时候需要评估这个时间成本和自己的收益是否能匹配上，单纯从钱的角度，这差不多一个小时的做饭时间省下的钱，远不及这个时间创造的钱（若用时薪衡量）。但是，这里面并不是只包含钱，还有生活方式、饮食健康、厨房技能学习等因素。从目前来看，其带给我的隐性收益远比成本高，我觉得这是一件值得坚持下去的事情。&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">哈哈哈这是第一篇 111</title>
-            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/first/" />
-            <id>https://aaronnick.github.io/posts/first/</id>
-            <updated>2020-12-19T17:28:44&#43;08:00</updated>
-            <published>2020-12-14T12:29:21&#43;08:00</published>
-            <author>
-                    <name>YXNG</name>
-                    <uri>https://aaronnick.github.io/</uri>
-                    <email>weiyexing1@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">哈哈哈哈 啦啦啦 啦啦啦啦 1111 2222</summary>
-            
-                <content type="html">&lt;p&gt;哈哈哈哈
-啦啦啦&lt;/p&gt;
-&lt;p&gt;啦啦啦啦&lt;/p&gt;
-&lt;p&gt;1111
-2222&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">智能眼镜有未来吗？</title>
-            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%9C%89%E6%9C%AA%E6%9D%A5%E5%90%97/" />
-            <id>https://aaronnick.github.io/posts/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%9C%89%E6%9C%AA%E6%9D%A5%E5%90%97/</id>
-            <updated>2020-12-19T22:01:38&#43;08:00</updated>
-            <published>2020-10-15T12:29:21&#43;08:00</published>
-            <author>
-                    <name>YXNG</name>
-                    <uri>https://aaronnick.github.io/</uri>
-                    <email>weiyexing1@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近在 Medium 看到一篇文章——I Tried The $600 Smart Glasses… Are They Worth It?，介绍了作者试戴了一周……</summary>
-            
-                <content type="html">&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1ghkupdjtsxj31di0u0e81.jpg&#34; alt=&#34;◎ The Focals by North smart glasses&#34;&gt;&lt;/p&gt;
-&lt;p&gt;最近在 Medium 看到一篇文章——&lt;strong&gt;&lt;a href=&#34;https://onezero.medium.com/i-tried-the-600-smart-glasses-are-they-worth-it-60db642d1aa9&#34;&gt;I Tried The $600 Smart Glasses… Are They Worth It?&lt;/a&gt;&lt;/strong&gt;，介绍了作者试戴了一周智能眼镜「&lt;strong&gt;Focals By North Smart Glasses&lt;/strong&gt;」的感受。阅读过我以往文章的读者一定记得之前我提到过 &lt;strong&gt;North&lt;/strong&gt; 这家公司：&lt;strong&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/9H0yx1jPrTXRsZV6YBUfcQ&#34;&gt;周记｜第二十八期&lt;/a&gt;&lt;/strong&gt;：Google 收购智能眼镜先驱 North。&lt;/p&gt;
-&lt;p&gt;通过这个眼镜，你&lt;strong&gt;可以浏览短信、电子邮件、天气和日程等&lt;/strong&gt;，听起来是不是很《黑镜》。而且这个很酷的产品，价格也才 &lt;strong&gt;600 美元&lt;/strong&gt;，相比 Microsoft 的 HoloLens 2 高达数万元的价格，这个已经算是白菜价了。&lt;/p&gt;
-&lt;p&gt;文章作者通过四个方面介绍了自己的使用感受：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;生产力&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;眼镜风格&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;日常穿戴体验&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;是否值得购买&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;感兴趣的可以阅读原文，或者前往 YouTube 观看她的体验视频：&lt;strong&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dzAYzRc_k-0&amp;amp;feature=youtu.be&#34;&gt;I Tried $600 Smart Glasses For A Week&lt;/a&gt;&lt;/strong&gt;。视频讲述的内容更加丰富一些，也更能直接感受到这个智能眼镜的日常使用。我在这里做个简单介绍。&lt;/p&gt;
-&lt;h3 id=&#34;生产力&#34;&gt;生产力&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1ghkurzre2wj31jv0u01kx.jpg&#34; alt=&#34;◎ 操纵杆环&#34;&gt;&lt;/p&gt;
-&lt;p&gt;搭配眼镜的是一个&lt;strong&gt;操纵杆环&lt;/strong&gt;（如图所示），你可以&lt;strong&gt;通过手环进行滑动操作如选择确认&lt;/strong&gt;等，接着&lt;strong&gt;使用语音编辑&lt;/strong&gt;短信内容进行回复。&lt;/p&gt;
-&lt;p&gt;对于重要的通知或者邮件，可以第一时间收到并阅读，而不必拿起手机，再进行解锁点开阅读等繁琐的操作。&lt;/p&gt;
-&lt;p&gt;这看似效率很高，但是也有&lt;strong&gt;明显的弊端&lt;/strong&gt;，那就是&lt;strong&gt;过于干扰工作&lt;/strong&gt;。不过，你可以选择在需要沉浸工作的时间里关闭这些通知。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1ghkuynakbxj31kh0u01kk.jpg&#34; alt=&#34;◎ 检查待办清单&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;眼镜风格&#34;&gt;眼镜风格&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1ghkv0sttyyj314n0u0u0z.jpg&#34; alt=&#34;◎ 从各个角度查看眼镜&#34;&gt;&lt;/p&gt;
-&lt;p&gt;从图片来看，正面看这&lt;strong&gt;和正常的眼镜差别不是很大&lt;/strong&gt;，甚至还很时尚。如果从侧面观看的话，或者没有头发遮挡的情况下，一眼就能看出来这个眼镜不是一般的眼镜——&lt;strong&gt;两边实在是太厚了&lt;/strong&gt;。不过，总体来看，这比 Microsoft 以及 Google 两家推出的智能眼镜正常太多了。&lt;/p&gt;
-&lt;p&gt;据说 North 已经在筹备 2.0 了，也许会在风格上有所改进。&lt;/p&gt;
-&lt;h3 id=&#34;日常穿戴体验&#34;&gt;日常穿戴体验&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1ghkve70m1rj31lp0u0b2a.jpg&#34; alt=&#34;◎ 享受聚会时收到通知&#34;&gt;&lt;/p&gt;
-&lt;p&gt;作者带着它去参加了 Party，实际体验来看，&lt;strong&gt;这并不是智能眼镜该待的场所&lt;/strong&gt;。你不会想着在聊天的时候突然冒出来一条通知，或者是享受 Party 的时候收到一条私密的短信。因为这样真的很容易让人分心，而且你也不希望在这样的场合下处理短息。当然，你可以关闭通知，但是这样的话，你会更愿意把它摘下来，因为它的&lt;strong&gt;重量确实不是很轻&lt;/strong&gt;。&lt;/p&gt;
-&lt;h3 id=&#34;是否值得购买&#34;&gt;是否值得购买&lt;/h3&gt;
-&lt;p&gt;作者的结论是不值得，原因比较主观，例如不喜欢戴眼镜，太重等原因。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;从她的体验报告以及视频来看，这个很酷的产品&lt;strong&gt;并没有给生活带来太持久的乐趣，以及更高的效率&lt;/strong&gt;。相反，频繁的通知会导致分心，眼镜太重导致日常穿戴不舒服。那么，是否就说明这个产品没有未来了呢？&lt;/p&gt;
-&lt;p&gt;我认为不是。&lt;/p&gt;
-&lt;p&gt;从当前的产品来看，技术上已经比较成熟了。虽然还可以看到一些不足，例如必须使用操纵杆环辅助操作，镜架两边需要比较大的空间放电池及芯片等。但是随&lt;strong&gt;着技术的进步，也许这些在不久的将来都会改进，直至让它看起来就和正常的眼镜并无差异&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;另外，关于它的应用，我觉得还未完全发挥出来。当前仅仅是用来浏览简单的信息，它**的更大作用在于导航、AR（增强现实）**等方面的应用。想象一下，在未来不再使用试衣间就能预览衣服是否合身，可以实时观看装修以后的样子，甚至不再需要其他显示屏，就可以浏览、编辑眼前的内容......&lt;/p&gt;
-&lt;p&gt;这可能需要数十年，但是回过头来看，Google Glass 首次发布至今也不过 7 年时间，从当初搜索、收听音乐的简单功能到现在的可浏览可操作发送，进步可以说非常大了。&lt;strong&gt;相信在 Google 的技术沉淀下，加上 North 的创新，未来还是很值得期待的&lt;/strong&gt;。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;今日话题&lt;/strong&gt;：智能眼镜是否有前景，它会应用在什么地方？&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
 </feed>
