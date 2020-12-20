@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-20T10:38:19&#43;08:00</updated>
+    <updated>2020-12-20T10:49:18&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -1101,7 +1101,7 @@
             <title type="text">增加两行代码，为什么要花两天时间！</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E4%BD%A0%E5%8F%AA%E5%A2%9E%E5%8A%A0%E4%BA%86%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4/" />
             <id>https://aaronnick.github.io/posts/%E4%BD%A0%E5%8F%AA%E5%A2%9E%E5%8A%A0%E4%BA%86%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4/</id>
-            <updated>2020-12-20T10:34:17&#43;08:00</updated>
+            <updated>2020-12-20T10:43:33&#43;08:00</updated>
             <published>2020-07-28T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1159,10 +1159,10 @@
 &lt;/ul&gt;
 &lt;p&gt;这里再谈谈自己的想法，写该文的作者，想必是一个将敲代码当作兴趣的人，而且看得出来非常负责任。面对问题，首先&lt;strong&gt;不是恼怒而是感谢&lt;/strong&gt;。然后不是敷衍解决，而是追求问题的&lt;strong&gt;本质原因&lt;/strong&gt;，并尝试&lt;strong&gt;举一反三&lt;/strong&gt;，最后彻底验证自己的修复。如果所有人都是以这种心态来写代码，或许世界上就没那么多垃圾代码了。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;原文标题：You&#39;ve only added two lines - why did that take two days!&lt;/p&gt;
-&lt;p&gt;来源：https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html&lt;/p&gt;
-&lt;p&gt;作者：Matt Lacey&lt;/p&gt;
-&lt;p&gt;推荐源：https://wanqu.co/&lt;/p&gt;
+&lt;p&gt;原文标题：You&#39;ve only added two lines - why did that take two days!
+来源：https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html
+作者：Matt Lacey
+推荐源：https://wanqu.co/&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
             

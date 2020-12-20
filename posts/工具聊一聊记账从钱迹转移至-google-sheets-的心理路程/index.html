@@ -18,7 +18,7 @@
 
     
     
-        <script src="/js/meme.min.fef3f4116ec8ee1ae0f93c6665f15904241c992e1a8ffb62b89fa18f3389bcb6.js"></script>
+        <script src="/js/meme.min.fc7ad1654c969ec495ae3433ab5218da29e184d8aa52741b306bb174189e1f58.js"></script>
 
     
 
@@ -498,11 +498,11 @@
         </div>
 
         
-            <div id="disqus_thread"></div>
-        
 
         
 
+        
+            <div id="utterances"></div>
         
 
     
@@ -557,37 +557,31 @@
     
 
         
+
+        
+
+        
             <script>
     function loadComments() {
-        if (typeof DISQUS === 'undefined') {
-            var disqus_config = function() {
-                this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E5%B7%A5%E5%85%B7%E8%81%8A%E4%B8%80%E8%81%8A%E8%AE%B0%E8%B4%A6%E4%BB%8E%E9%92%B1%E8%BF%B9%E8%BD%AC%E7%A7%BB%E8%87%B3-google-sheets-%E7%9A%84%E5%BF%83%E7%90%86%E8%B7%AF%E7%A8%8B\/';
-                this.page.identifier = '\/posts\/%E5%B7%A5%E5%85%B7%E8%81%8A%E4%B8%80%E8%81%8A%E8%AE%B0%E8%B4%A6%E4%BB%8E%E9%92%B1%E8%BF%B9%E8%BD%AC%E7%A7%BB%E8%87%B3-google-sheets-%E7%9A%84%E5%BF%83%E7%90%86%E8%B7%AF%E7%A8%8B\/';
-                this.page.title = '记账｜我从「钱迹」转至 Google sheets';
-            };
-            (function() {
-                var d = document, s = d.createElement('script'); s.async = true;
-                s.src = 'https://Comments.disqus.com/embed.js';
-                s.setAttribute('data-timestamp', +new Date());
-                (d.head || d.body).appendChild(s);
-            })();
+        (function() {
+            var utterances = document.getElementById("utterances");
+            var script = document.createElement('script');
+            script.src = 'https://utteranc.es/client.js';
+            script.async = true;
+            script.crossOrigin = 'anonymous';
+            script.setAttribute('repo', '');
+            script.setAttribute('issue-term', 'pathname');
+            const isDark = getCurrentTheme() === 'dark';
+        if (isDark) {
+            script.setAttribute('theme', 'photon-dark');
         } else {
-            DISQUS.reset({
-                reload: true,
-                config: function() {
-                    this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E5%B7%A5%E5%85%B7%E8%81%8A%E4%B8%80%E8%81%8A%E8%AE%B0%E8%B4%A6%E4%BB%8E%E9%92%B1%E8%BF%B9%E8%BD%AC%E7%A7%BB%E8%87%B3-google-sheets-%E7%9A%84%E5%BF%83%E7%90%86%E8%B7%AF%E7%A8%8B\/';
-                    this.page.identifier = '\/posts\/%E5%B7%A5%E5%85%B7%E8%81%8A%E4%B8%80%E8%81%8A%E8%AE%B0%E8%B4%A6%E4%BB%8E%E9%92%B1%E8%BF%B9%E8%BD%AC%E7%A7%BB%E8%87%B3-google-sheets-%E7%9A%84%E5%BF%83%E7%90%86%E8%B7%AF%E7%A8%8B\/';
-                    this.page.title = '记账｜我从「钱迹」转至 Google sheets';
-                }
-            });
+            script.setAttribute('theme', 'github-light');
         }
+            
+            utterances.appendChild(script);
+        })();
     }
 </script>
-
-        
-
-        
-
         
 
     
