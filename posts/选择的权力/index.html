@@ -454,6 +454,8 @@
         </div>
 
         
+            <div id="disqus_thread"></div>
+        
 
         
 
@@ -509,6 +511,34 @@
 
 
     
+
+        
+            <script>
+    function loadComments() {
+        if (typeof DISQUS === 'undefined') {
+            var disqus_config = function() {
+                this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E9%80%89%E6%8B%A9%E7%9A%84%E6%9D%83%E5%8A%9B\/';
+                this.page.identifier = '\/posts\/%E9%80%89%E6%8B%A9%E7%9A%84%E6%9D%83%E5%8A%9B\/';
+                this.page.title = '选择的权利';
+            };
+            (function() {
+                var d = document, s = d.createElement('script'); s.async = true;
+                s.src = 'https://Comments.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        } else {
+            DISQUS.reset({
+                reload: true,
+                config: function() {
+                    this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E9%80%89%E6%8B%A9%E7%9A%84%E6%9D%83%E5%8A%9B\/';
+                    this.page.identifier = '\/posts\/%E9%80%89%E6%8B%A9%E7%9A%84%E6%9D%83%E5%8A%9B\/';
+                    this.page.title = '选择的权利';
+                }
+            });
+        }
+    }
+</script>
 
         
 

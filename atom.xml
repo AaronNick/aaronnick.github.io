@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-20T10:25:30&#43;08:00</updated>
+    <updated>2020-12-20T10:38:19&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -1101,7 +1101,7 @@
             <title type="text">增加两行代码，为什么要花两天时间！</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E4%BD%A0%E5%8F%AA%E5%A2%9E%E5%8A%A0%E4%BA%86%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4/" />
             <id>https://aaronnick.github.io/posts/%E4%BD%A0%E5%8F%AA%E5%A2%9E%E5%8A%A0%E4%BA%86%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4/</id>
-            <updated>2020-12-20T10:24:59&#43;08:00</updated>
+            <updated>2020-12-20T10:34:17&#43;08:00</updated>
             <published>2020-07-28T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1112,7 +1112,7 @@
             
                 <content type="html">&lt;p&gt;本文简短的介绍了为什么一个小小的 Bug，可能会修复好几天。你看到的可能只是一个小问题，解决问题的人可能看到的、考虑得到的更多。&lt;/p&gt;
 &lt;p&gt;阅读这篇文章，&lt;strong&gt;非技术人员&lt;/strong&gt;可以了解一个看似简单的 Bug 的修复背后需要做些什么，&lt;strong&gt;技术人员&lt;/strong&gt;可以在别人 BB 「一个小修复要花几天？」的时候丢他脸上。下面正文开始——&lt;/p&gt;
-&lt;p&gt;这看似是一个合理的问题，但它做了一些&#39;..可怕的假设..&#39;：&lt;/p&gt;
+&lt;p&gt;这看似是一个合理的问题，但它做了一些..可怕的假设..：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;代码行数=工作量&lt;/li&gt;
 &lt;li&gt;代码行数=价值&lt;/li&gt;
@@ -1122,10 +1122,10 @@
 &lt;p&gt;为什么一个看起来很简单的修复需要花两天的时间来完成？&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;**因为对如何重现问题的描述很模糊。**我花了几个小时才得到一个可靠的问题重现。有些开发人员会立即回到报告问题的人那里，要求提供更多的信息，然后再进行调查。而我试着用提供的信息做尽可能多的事情。我知道有些开发者不喜欢修复 Bug，所以会不惜一切代价来摆脱它。一种很好的方式就是声称没有足够的信息，这让你看起来很想帮忙，但实际不需要做任何事情。我知道报告错误是很难的，我很感谢任何这样做的人。我想对错误报告表示感谢，在询问更多细节之前，尽量用提供的信息来做。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因为对如何重现问题的描述很模糊。&lt;/strong&gt; 我花了几个小时才得到一个可靠的问题重现。有些开发人员会立即回到报告问题的人那里，要求提供更多的信息，然后再进行调查。而我试着用提供的信息做尽可能多的事情。我知道有些开发者不喜欢修复 Bug，所以会不惜一切代价来摆脱它。一种很好的方式就是声称没有足够的信息，这让你看起来很想帮忙，但实际不需要做任何事情。我知道报告错误是很难的，我很感谢任何这样做的人。我想对错误报告表示感谢，在询问更多细节之前，尽量用提供的信息来做。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;**因为报告的问题与功能有关，我不熟悉。**它所要做的功能是我很少使用的，也不是我曾经很详细地使用过的功能。这意味着我花了比它可能更长的时间来了解如何使用它，以及它如何与软件互动的细微差别与错误。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因为报告的问题与功能有关，我不熟悉。&lt;/strong&gt; 它所要做的功能是我很少使用的，也不是我曾经很详细地使用过的功能。这意味着我花了比它可能更长的时间来了解如何使用它，以及它如何与软件互动的细微差别与错误。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;因为我不仅仅是看表面，而是&lt;strong&gt;花了时间去调查问题的真正原因&lt;/strong&gt;。如果一些代码抛出了错误，你可以直接用 try...catch 语句把它包起来，然后禁止错误。没有错误，就没有问题，对吧？抱歉，对我来说，让问题隐形不等于解决问题。「吞下」一个错误很容易导致其他意想不到的副作用。我不希望在未来的某一个点上不得不处理它们。&lt;/p&gt;
@@ -1147,7 +1147,7 @@
 &lt;p&gt;还有什么比修复 Bug 更糟糕的呢？
 就是不得不反复修复同一个 Bug。
 我花时间确保任何一次遇到的 Bug 都能完全修复，这样就不需要不止一次的面对、调查、修复和测试。&lt;/p&gt;
-&lt;h4 id=&#34;总结&#34;&gt;总结：&lt;/h4&gt;
+&lt;h3 id=&#34;总结&#34;&gt;总结：&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;重现花时间&lt;/li&gt;
 &lt;li&gt;熟悉功能花时间&lt;/li&gt;
@@ -1159,10 +1159,10 @@
 &lt;/ul&gt;
 &lt;p&gt;这里再谈谈自己的想法，写该文的作者，想必是一个将敲代码当作兴趣的人，而且看得出来非常负责任。面对问题，首先&lt;strong&gt;不是恼怒而是感谢&lt;/strong&gt;。然后不是敷衍解决，而是追求问题的&lt;strong&gt;本质原因&lt;/strong&gt;，并尝试&lt;strong&gt;举一反三&lt;/strong&gt;，最后彻底验证自己的修复。如果所有人都是以这种心态来写代码，或许世界上就没那么多垃圾代码了。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;原文标题：You&#39;ve only added two lines - why did that take two days!
-来源：https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html
-作者：Matt Lacey
-推荐源：https://wanqu.co/&lt;/p&gt;
+&lt;p&gt;原文标题：You&#39;ve only added two lines - why did that take two days!&lt;/p&gt;
+&lt;p&gt;来源：https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html&lt;/p&gt;
+&lt;p&gt;作者：Matt Lacey&lt;/p&gt;
+&lt;p&gt;推荐源：https://wanqu.co/&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
             
@@ -1179,12 +1179,6 @@
                             
                             
                                 <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/" term="阅读" label="阅读" />
                             
                         
                     

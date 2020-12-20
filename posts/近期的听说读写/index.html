@@ -593,6 +593,8 @@
         </div>
 
         
+            <div id="disqus_thread"></div>
+        
 
         
 
@@ -648,6 +650,34 @@
 
 
     
+
+        
+            <script>
+    function loadComments() {
+        if (typeof DISQUS === 'undefined') {
+            var disqus_config = function() {
+                this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E8%BF%91%E6%9C%9F%E7%9A%84%E5%90%AC%E8%AF%B4%E8%AF%BB%E5%86%99\/';
+                this.page.identifier = '\/posts\/%E8%BF%91%E6%9C%9F%E7%9A%84%E5%90%AC%E8%AF%B4%E8%AF%BB%E5%86%99\/';
+                this.page.title = '近期的听说读写';
+            };
+            (function() {
+                var d = document, s = d.createElement('script'); s.async = true;
+                s.src = 'https://Comments.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        } else {
+            DISQUS.reset({
+                reload: true,
+                config: function() {
+                    this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E8%BF%91%E6%9C%9F%E7%9A%84%E5%90%AC%E8%AF%B4%E8%AF%BB%E5%86%99\/';
+                    this.page.identifier = '\/posts\/%E8%BF%91%E6%9C%9F%E7%9A%84%E5%90%AC%E8%AF%B4%E8%AF%BB%E5%86%99\/';
+                    this.page.title = '近期的听说读写';
+                }
+            });
+        }
+    }
+</script>
 
         
 

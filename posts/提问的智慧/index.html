@@ -461,6 +461,8 @@
         </div>
 
         
+            <div id="disqus_thread"></div>
+        
 
         
 
@@ -516,6 +518,34 @@
 
 
     
+
+        
+            <script>
+    function loadComments() {
+        if (typeof DISQUS === 'undefined') {
+            var disqus_config = function() {
+                this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7\/';
+                this.page.identifier = '\/posts\/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7\/';
+                this.page.title = '提问的智慧';
+            };
+            (function() {
+                var d = document, s = d.createElement('script'); s.async = true;
+                s.src = 'https://Comments.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        } else {
+            DISQUS.reset({
+                reload: true,
+                config: function() {
+                    this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7\/';
+                    this.page.identifier = '\/posts\/%E6%8F%90%E9%97%AE%E7%9A%84%E6%99%BA%E6%85%A7\/';
+                    this.page.title = '提问的智慧';
+                }
+            });
+        }
+    }
+</script>
 
         
 

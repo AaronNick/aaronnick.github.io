@@ -532,6 +532,8 @@
         </div>
 
         
+            <div id="disqus_thread"></div>
+        
 
         
 
@@ -587,6 +589,34 @@
 
 
     
+
+        
+            <script>
+    function loadComments() {
+        if (typeof DISQUS === 'undefined') {
+            var disqus_config = function() {
+                this.page.url = 'https:\/\/aaronnick.github.io\/posts\/macvpn-%E8%87%AA%E5%8A%A8%E9%87%8D%E8%BF%9E%E8%84%9A%E6%9C%AC\/';
+                this.page.identifier = '\/posts\/macvpn-%E8%87%AA%E5%8A%A8%E9%87%8D%E8%BF%9E%E8%84%9A%E6%9C%AC\/';
+                this.page.title = 'Mac｜VPN 自动重连脚本';
+            };
+            (function() {
+                var d = document, s = d.createElement('script'); s.async = true;
+                s.src = 'https://Comments.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        } else {
+            DISQUS.reset({
+                reload: true,
+                config: function() {
+                    this.page.url = 'https:\/\/aaronnick.github.io\/posts\/macvpn-%E8%87%AA%E5%8A%A8%E9%87%8D%E8%BF%9E%E8%84%9A%E6%9C%AC\/';
+                    this.page.identifier = '\/posts\/macvpn-%E8%87%AA%E5%8A%A8%E9%87%8D%E8%BF%9E%E8%84%9A%E6%9C%AC\/';
+                    this.page.title = 'Mac｜VPN 自动重连脚本';
+                }
+            });
+        }
+    }
+</script>
 
         
 

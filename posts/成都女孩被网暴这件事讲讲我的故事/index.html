@@ -483,6 +483,8 @@
         </div>
 
         
+            <div id="disqus_thread"></div>
+        
 
         
 
@@ -538,6 +540,34 @@
 
 
     
+
+        
+            <script>
+    function loadComments() {
+        if (typeof DISQUS === 'undefined') {
+            var disqus_config = function() {
+                this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AE%B2%E8%AE%B2%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B\/';
+                this.page.identifier = '\/posts\/%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AE%B2%E8%AE%B2%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B\/';
+                this.page.title = '最近成都女孩被网暴后，我想起了我的故事';
+            };
+            (function() {
+                var d = document, s = d.createElement('script'); s.async = true;
+                s.src = 'https://Comments.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        } else {
+            DISQUS.reset({
+                reload: true,
+                config: function() {
+                    this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AE%B2%E8%AE%B2%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B\/';
+                    this.page.identifier = '\/posts\/%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AE%B2%E8%AE%B2%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B\/';
+                    this.page.title = '最近成都女孩被网暴后，我想起了我的故事';
+                }
+            });
+        }
+    }
+</script>
 
         
 

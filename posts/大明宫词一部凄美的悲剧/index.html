@@ -507,6 +507,8 @@
         </div>
 
         
+            <div id="disqus_thread"></div>
+        
 
         
 
@@ -562,6 +564,34 @@
 
 
     
+
+        
+            <script>
+    function loadComments() {
+        if (typeof DISQUS === 'undefined') {
+            var disqus_config = function() {
+                this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D%E4%B8%80%E9%83%A8%E5%87%84%E7%BE%8E%E7%9A%84%E6%82%B2%E5%89%A7\/';
+                this.page.identifier = '\/posts\/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D%E4%B8%80%E9%83%A8%E5%87%84%E7%BE%8E%E7%9A%84%E6%82%B2%E5%89%A7\/';
+                this.page.title = '《大明宫词》—— 一部凄美的悲剧';
+            };
+            (function() {
+                var d = document, s = d.createElement('script'); s.async = true;
+                s.src = 'https://Comments.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        } else {
+            DISQUS.reset({
+                reload: true,
+                config: function() {
+                    this.page.url = 'https:\/\/aaronnick.github.io\/posts\/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D%E4%B8%80%E9%83%A8%E5%87%84%E7%BE%8E%E7%9A%84%E6%82%B2%E5%89%A7\/';
+                    this.page.identifier = '\/posts\/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D%E4%B8%80%E9%83%A8%E5%87%84%E7%BE%8E%E7%9A%84%E6%82%B2%E5%89%A7\/';
+                    this.page.title = '《大明宫词》—— 一部凄美的悲剧';
+                }
+            });
+        }
+    }
+</script>
 
         
 

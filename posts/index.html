@@ -54,7 +54,7 @@
         "@context": "https://schema.org",
         "@type": "WebPage",
         "datePublished": "2018-08-07T20:17:43+00:00",
-        "dateModified": "2020-12-20T10:24:59+08:00",
+        "dateModified": "2020-12-20T10:34:17+08:00",
         "url": "https://aaronnick.github.io/posts/",
         "name": "Posts",
         "description": "这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！",
@@ -459,6 +459,34 @@
 
 
     
+
+        
+            <script>
+    function loadComments() {
+        if (typeof DISQUS === 'undefined') {
+            var disqus_config = function() {
+                this.page.url = 'https:\/\/aaronnick.github.io\/posts\/';
+                this.page.identifier = '\/posts\/';
+                this.page.title = 'Posts';
+            };
+            (function() {
+                var d = document, s = d.createElement('script'); s.async = true;
+                s.src = 'https://Comments.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        } else {
+            DISQUS.reset({
+                reload: true,
+                config: function() {
+                    this.page.url = 'https:\/\/aaronnick.github.io\/posts\/';
+                    this.page.identifier = '\/posts\/';
+                    this.page.title = 'Posts';
+                }
+            });
+        }
+    }
+</script>
 
         
 
