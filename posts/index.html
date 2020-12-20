@@ -18,7 +18,7 @@
 
     
     
-        <script src="/js/meme.min.fc7ad1654c969ec495ae3433ab5218da29e184d8aa52741b306bb174189e1f58.js"></script>
+        <script src="/js/meme.min.fef3f4116ec8ee1ae0f93c6665f15904241c992e1a8ffb62b89fa18f3389bcb6.js"></script>
 
     
 
@@ -463,29 +463,54 @@
         
 
         
-
-        
             <script>
     function loadComments() {
-        (function() {
-            var utterances = document.getElementById("utterances");
-            var script = document.createElement('script');
-            script.src = 'https://utteranc.es/client.js';
-            script.async = true;
-            script.crossOrigin = 'anonymous';
-            script.setAttribute('repo', '');
-            script.setAttribute('issue-term', 'pathname');
-            const isDark = getCurrentTheme() === 'dark';
-        if (isDark) {
-            script.setAttribute('theme', 'photon-dark');
+        if (typeof Valine === 'undefined') {
+            var getScript = (options) => {
+                var script = document.createElement('script');
+                script.defer = true;
+                script.crossOrigin = 'anonymous';
+                Object.keys(options).forEach((key) => {
+                    script[key] = options[key];
+                });
+                document.body.appendChild(script);
+            };
+            getScript({
+                src: 'https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js',
+                onload: () => {
+                    newValine();
+                }
+            });
         } else {
-            script.setAttribute('theme', 'github-light');
+            newValine();
         }
-            
-            utterances.appendChild(script);
-        })();
+    }
+    function newValine() {
+        new Valine({
+            el: '#vcomments',
+            appId: 'eRQpal2EV8SUK3OFyd6R1Xai-gzGzoHsz',
+            appKey: 'Es0s37V7eLyCgvTfMv8fj9BK',
+            placeholder: 'Comment',
+            path: location.pathname,
+            avatar: 'mm',
+            meta: ["nick","mail","link"],
+            pageSize:  10 ,
+            lang: 'zh-cn',
+            visitor:  false ,
+            highlight:  true ,
+            avatarForce:  false ,
+            recordIP:  false ,
+            serverURLs: '',
+            emojiCDN: '',
+            emojiMaps: {},
+            enableQQ:  false ,
+            requiredFields: []
+        });
     }
 </script>
+
+        
+
         
 
     
