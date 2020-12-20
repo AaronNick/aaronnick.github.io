@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-20T22:32:48&#43;08:00</updated>
+    <updated>2020-12-21T00:08:03&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -1183,7 +1183,7 @@
             <title type="text">周记｜第三十五期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E6%9C%9F/" />
             <id>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E6%9C%9F/</id>
-            <updated>2020-12-20T13:46:48&#43;08:00</updated>
+            <updated>2020-12-21T00:00:59&#43;08:00</updated>
             <published>2020-08-29T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1278,7 +1278,7 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/&#34;&gt;Digital Sight Management, and the Mystery of the Missing Amazon Receipts&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;关于亚马逊如何隐藏电子邮件收据以及对 AR 眼镜可能意味着什么的思考。能让 AR 眼镜称为消费品的公司，没准会成为下一个主宰我们生活的科技公司，今天是 Apple，昨天是 Dell，再往前是 IBM，本质上没有差别。&lt;/p&gt;
 &lt;p&gt;AR 眼镜也许会给生活带来极大便利，甚至颠覆我们的生活方式，就如智能手机一样。但那个时候，我们就要面临一个我们的所见所闻由科技巨头控制的世界。&lt;/p&gt;
-&lt;p&gt;延展阅读：之前的文章「&lt;strong&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/JA0h5cNey2_KMjRKa19wyA&#34;&gt;智能眼镜有未来吗&lt;/a&gt;&lt;/strong&gt;」，记录了 AR 眼镜的一周体验。&lt;/p&gt;
+&lt;p&gt;延展阅读：之前的文章「&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%9C%89%E6%9C%AA%E6%9D%A5%E5%90%97/&#34;&gt;智能眼镜有未来吗&lt;/a&gt;&lt;/strong&gt;」，记录了 AR 眼镜的一周体验。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </content>
@@ -1307,7 +1307,7 @@
             <title type="text">周记｜第三十四期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E6%9C%9F/" />
             <id>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E6%9C%9F/</id>
-            <updated>2020-12-20T13:45:26&#43;08:00</updated>
+            <updated>2020-12-21T00:02:57&#43;08:00</updated>
             <published>2020-08-22T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1345,7 +1345,7 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://books.halfrost.com/leetcode/&#34;&gt;LeetCode Cookbook&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;有人把刷过的题整理成了一个小册子，可在线阅读，也可以前往这里**&lt;a href=&#34;https://github.com/halfrost/LeetCode-Go/releases&#34;&gt;下载 PDF 版本&lt;/a&gt;**。&lt;/p&gt;
+&lt;p&gt;有人把刷过的题整理成了一个小册子，可在线阅读，也可以前往这里 &lt;strong&gt;&lt;a href=&#34;https://github.com/halfrost/LeetCode-Go/releases&#34;&gt;下载 PDF 版本&lt;/a&gt;&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1ghys09e5t9j317o0u0trb.jpg&#34; alt=&#34;◎ LeetCode Cookbook&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1361,7 +1361,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.notion.so/blog-by-liqi-io-4bdf37d4fb3443b4b6dbed8317450307&#34;&gt;独立博客订阅列表&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;有人做了个独立博客合集，如果你在写博客，也可以在这里**&lt;a href=&#34;https://www.notion.so/blog-by-liqi-io-4bdf37d4fb3443b4b6dbed8317450307&#34;&gt;提交博客地址&lt;/a&gt;**。&lt;/p&gt;
+&lt;p&gt;有人做了个独立博客合集，如果你在写博客，也可以在这里 &lt;strong&gt;&lt;a href=&#34;https://www.notion.so/blog-by-liqi-io-4bdf37d4fb3443b4b6dbed8317450307&#34;&gt;提交博客地址&lt;/a&gt;&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;我很喜欢阅读博客。一个优秀的博客，往往沉淀着博主对生活的思考，有趣的灵魂和独立思考在当下难能可贵。我每周都会花几个小时来阅读我的博客列表，从中感受不同的视角和汲取知识。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1416,7 +1416,7 @@
             <title type="text">周记｜第三十三期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E6%9C%9F/" />
             <id>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E6%9C%9F/</id>
-            <updated>2020-12-20T13:44:02&#43;08:00</updated>
+            <updated>2020-12-21T00:03:41&#43;08:00</updated>
             <published>2020-08-16T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1436,7 +1436,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/&#34;&gt;年幼的孩子更愿意探索，而不是得到奖励&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一项新的**&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1111/desc.13026&#34;&gt;研究报告&lt;/a&gt;**表明，年幼的孩子会放弃他们知道自己可以得到的奖励去探索其他的选择。相对于即时奖励，孩子可能更愿意去探索世界是怎样运行的。&lt;/p&gt;
+&lt;p&gt;一项新的 &lt;strong&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1111/desc.13026&#34;&gt;研究报告&lt;/a&gt;&lt;/strong&gt; 表明，年幼的孩子会放弃他们知道自己可以得到的奖励去探索其他的选择。相对于即时奖励，孩子可能更愿意去探索世界是怎样运行的。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;言论&#34;&gt;言论&lt;/h3&gt;
@@ -1604,7 +1604,7 @@
             <title type="text">智能眼镜有未来吗？</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%9C%89%E6%9C%AA%E6%9D%A5%E5%90%97/" />
             <id>https://aaronnick.github.io/posts/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E6%9C%89%E6%9C%AA%E6%9D%A5%E5%90%97/</id>
-            <updated>2020-12-20T00:54:27&#43;08:00</updated>
+            <updated>2020-12-21T00:06:01&#43;08:00</updated>
             <published>2020-08-09T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1614,7 +1614,7 @@
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近在 Medium 看到一篇文章——I Tried The $600 Smart Glasses… Are They Worth It?，介绍了作者试戴了一周智能眼镜「Focals By North Smart Glasses」的……</summary>
             
                 <content type="html">&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1ghkupdjtsxj31di0u0e81.jpg&#34; alt=&#34;◎ The Focals by North smart glasses&#34;&gt;&lt;/p&gt;
-&lt;p&gt;最近在 Medium 看到一篇文章——&lt;strong&gt;&lt;a href=&#34;https://onezero.medium.com/i-tried-the-600-smart-glasses-are-they-worth-it-60db642d1aa9&#34;&gt;I Tried The $600 Smart Glasses… Are They Worth It?&lt;/a&gt;&lt;/strong&gt;，介绍了作者试戴了一周智能眼镜「&lt;strong&gt;Focals By North Smart Glasses&lt;/strong&gt;」的感受。阅读过我以往文章的读者一定记得之前我提到过 &lt;strong&gt;North&lt;/strong&gt; 这家公司：&lt;strong&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/9H0yx1jPrTXRsZV6YBUfcQ&#34;&gt;周记｜第二十八期&lt;/a&gt;&lt;/strong&gt;：Google 收购智能眼镜先驱 North。&lt;/p&gt;
+&lt;p&gt;最近在 Medium 看到一篇文章——&lt;strong&gt;&lt;a href=&#34;https://onezero.medium.com/i-tried-the-600-smart-glasses-are-they-worth-it-60db642d1aa9&#34;&gt;I Tried The $600 Smart Glasses… Are They Worth It?&lt;/a&gt;&lt;/strong&gt;，介绍了作者试戴了一周智能眼镜「&lt;strong&gt;Focals By North Smart Glasses&lt;/strong&gt;」的感受。阅读过我以往文章的读者一定记得之前我提到过 &lt;strong&gt;North&lt;/strong&gt; 这家公司：&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F/&#34;&gt;周记｜第二十八期&lt;/a&gt;&lt;/strong&gt;：Google 收购智能眼镜先驱 North。&lt;/p&gt;
 &lt;p&gt;通过这个眼镜，你&lt;strong&gt;可以浏览短信、电子邮件、天气和日程等&lt;/strong&gt;，听起来是不是很《黑镜》。而且这个很酷的产品，价格也才 &lt;strong&gt;600 美元&lt;/strong&gt;，相比 Microsoft 的 HoloLens 2 高达数万元的价格，这个已经算是白菜价了。&lt;/p&gt;
 &lt;p&gt;文章作者通过四个方面介绍了自己的使用感受：&lt;/p&gt;
 &lt;ul&gt;
@@ -1643,7 +1643,7 @@
 &lt;p&gt;从她的体验报告以及视频来看，这个很酷的产品&lt;strong&gt;并没有给生活带来太持久的乐趣，以及更高的效率&lt;/strong&gt;。相反，频繁的通知会导致分心，眼镜太重导致日常穿戴不舒服。那么，是否就说明这个产品没有未来了呢？&lt;/p&gt;
 &lt;p&gt;我认为不是。&lt;/p&gt;
 &lt;p&gt;从当前的产品来看，技术上已经比较成熟了。虽然还可以看到一些不足，例如必须使用操纵杆环辅助操作，镜架两边需要比较大的空间放电池及芯片等。但是随&lt;strong&gt;着技术的进步，也许这些在不久的将来都会改进，直至让它看起来就和正常的眼镜并无差异&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;另外，关于它的应用，我觉得还未完全发挥出来。当前仅仅是用来浏览简单的信息，它**的更大作用在于导航、AR（增强现实）**等方面的应用。想象一下，在未来不再使用试衣间就能预览衣服是否合身，可以实时观看装修以后的样子，甚至不再需要其他显示屏，就可以浏览、编辑眼前的内容......&lt;/p&gt;
+&lt;p&gt;另外，关于它的应用，我觉得还未完全发挥出来。当前仅仅是用来浏览简单的信息，&lt;strong&gt;它的更大作用在于导航、AR（增强现实）&lt;/strong&gt; 等方面的应用。想象一下，在未来不再使用试衣间就能预览衣服是否合身，可以实时观看装修以后的样子，甚至不再需要其他显示屏，就可以浏览、编辑眼前的内容......&lt;/p&gt;
 &lt;p&gt;这可能需要数十年，但是回过头来看，Google Glass 首次发布至今也不过 7 年时间，从当初搜索、收听音乐的简单功能到现在的可浏览可操作发送，进步可以说非常大了。&lt;strong&gt;相信在 Google 的技术沉淀下，加上 North 的创新，未来还是很值得期待的&lt;/strong&gt;。&lt;/p&gt;
 </content>
             
