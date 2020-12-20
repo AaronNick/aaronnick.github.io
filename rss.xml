@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 20 Dec 2020 19:22:50 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2020 19:58:37 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
@@ -2376,6 +2376,665 @@
                                 
                                 
                                     <category domain="https://aaronnick.github.io/tags/twitter/">Twitter</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十九期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%9C%9F/</guid>
+                <pubDate>Fri, 17 Jul 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;GitHub｜自动驾驶｜互联网报告｜书籍｜设计参考｜经济学人｜放松的窗口｜kindle｜网页设计｜产品设计&lt;/p&gt;
+&lt;h3 id=&#34;资讯&#34;&gt;&lt;strong&gt;资讯&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/&#34;&gt;👉GitHub Archive Program: the journey of the world&#39;s open source code to the Arctic&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.nlark.com/yuque/0/2020/png/257868/1595000992576-78d3ee7c-8354-4656-abbf-5755715f5167.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;【GitHub  存档程序：世界开源代码到北极的旅程】GitHub 的 Arctic Code Vault 计划已于 2020 年 7 月 8 日成功实施。Piql 公司为 186 卷 PiqlFilm （数字感光档案胶片）写入了 21TB 的存储数据，据说这些代码可以储存长达 2000 千。不得不说，这很酷。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Mwe2ABPkZLU&#34;&gt;👉completed the L5 research within this year,Elon reveals the arrival of autonomous driving&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【埃隆揭示了自动驾驶的到来：在今年内完成 L5的研究｜YouTube】新闻来源是上海举办的第三届世界人工智能大会，在这十几分钟的采访当中，有两个信息值得关注：马斯克提到今年将完成 L5 的基础功能；将在上海搭建本地化的无人驾驶工程师团队。&lt;/p&gt;
+&lt;p&gt;为何 L5 值得期待，首先需要了解在自动驾驶中，L1~L5指的是什么：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SAE Level 1：Driver Assistance（驾驶员辅助）；&lt;/li&gt;
+&lt;li&gt;SAE Level 2：Partial Automation（部分自动化）；&lt;/li&gt;
+&lt;li&gt;SAE Level 3：Conditional Automation（有条件自动驾驶）；&lt;/li&gt;
+&lt;li&gt;SAE Level 4：High Automation（高度自动驾驶）；&lt;/li&gt;
+&lt;li&gt;SEA  Level 5：Full Automation（完全自动驾驶）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://research.scmp.com/products/china-internet-report-2020&#34;&gt;👉China Internet Report 2020&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.nlark.com/yuque/0/2020/png/257868/1595000992618-bb07e489-c579-40b5-b5ff-65c56c6f0d74.png?x-oss-process=image%2Fresize%2Cw_1500&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;【2020：中国互联网报告｜南华早报】《南华早报》出了一份关于中国互联网的报告，分别有免费版和内容更多的付费版。其中的 YouTube 视频聊了 2020 的流行趋势：COVID-19；5G；现场直播，内容做的很好，值得一看。&lt;/p&gt;
+&lt;p&gt;当前的中国互联网，不单单是以前的复制与抄袭，而是已经开始逐渐向世界输出了，这值得骄傲。拿直播卖货来说，国外也掀起了类似的模式，上一期提到的爱马仕新品发布视频（详情见&lt;a href=&#34;https://mp.weixin.qq.com/s/9H0yx1jPrTXRsZV6YBUfcQ&#34;&gt;👉周记｜第二十八期｜Men&#39;s Spring-Summer 2021 collection&lt;/a&gt;），其实本质也是现场直播，只不过格局更加高级而已。&lt;/p&gt;
+&lt;h3 id=&#34;言论&#34;&gt;&lt;strong&gt;言论&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; 「阅读有什么用？」「阅读能让你看待世界的时候不只考虑有什么用。」——horse&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; 我眼里创业就三个目的，一个是挣大的钱，挣那种有格局的钱；一个是奔着自己的理想；还有一个是，跳出自己的圈子，扩大自己的交际圈，了解社会是怎么运作的。不然，过个三五年，你就会明白，如果你不是为上面这三件事忙活儿，这几年你过得真的就跟牲口一样了……——Chen Hao&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; 其实没有信息超载这回事，只有筛选程序失效。——Clay Shirky&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; 如果你花钱买，你就是客户，如果你免费获得，你就是产品。——《创业公司尝试搜索引擎的订阅模式》&lt;/p&gt;
+&lt;h3 id=&#34;资源&#34;&gt;&lt;strong&gt;资源&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://twitter.com/Mr_Desperation/status/1282136865454215168&#34;&gt;👉一些网络安全类资料以及编程开发相关的书籍，质量挺高&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.nlark.com/yuque/0/2020/png/257868/1595000992630-1497c0de-f4ae-48d2-b63d-183c21abd63b.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;除了书籍，还有课程、视频、教程和工具，通过 MEGA 网盘分享，后期更新增减，均在同一个链接里。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 高校图书馆馆藏图书扫描 PDF&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大概  20000  本左右，涵盖各大类，人文史学还有社科类书籍很丰富，具体见&lt;a href=&#34;https://bit.ly/2Zlef8y&#34;&gt;👉详细书单&lt;/a&gt;。下载地址：&lt;a href=&#34;https://bit.ly/2ZnWVQb&#34;&gt;👉城通盘&lt;/a&gt;（分文件夹）；&lt;a href=&#34;https://bit.ly/3j56lIr&#34;&gt;👉Google Drive&lt;/a&gt;（已打包  553  G）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; &lt;strong&gt;[👉欣赏《经济学人》杂志封面｜设计参考](&lt;a href=&#34;https://mobile.twitter.com/search?q=bluebird0605&#34;&gt;https://mobile.twitter.com/search?q=bluebird0605&lt;/a&gt; 经济学人 封面&amp;amp;src=typed_query&amp;amp;f=live)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;《经济学人》杂志的封面历来被人称道，通常用尽量少的元素，展现尽可能多的信息，往往看到封面就知道本期要讲的主题是什么，这种设计能力值得学习。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://window-swap.com/&#34;&gt;👉Window-Swap&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.nlark.com/yuque/0/2020/png/257868/1595000992589-e135e53b-5ab4-4d3e-b3ec-8ad571231964.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这个网址，可以随机打开世界某个角落的窗户，很好的放松方式，同时也是一种白噪音。像我，切换看到这只喵，莫名其妙就看了十几分钟——背景音有时很嘈杂，也有人声，但是猫咪大部分时间就是看着窗外的车流，偶尔回过头来——你主子还是你主子。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://wheremylife.cn/&#34;&gt;👉WhereMyLife&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.nlark.com/yuque/0/2020/png/257868/1595000992562-2dd92494-fb49-4e62-98bc-7a18d29bcee7.png?x-oss-process=image%2Fresize%2Cw_1500&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 Kindle 阅读 RSS 文章。支持定时推送，支持图文排版，不限制订阅数量。&lt;/p&gt;
+&lt;h3 id=&#34;文章&#34;&gt;&lt;strong&gt;文章&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://blog.scottlogic.com/2020/07/02/6-most-common-accessibility-problems.html#empty-links-and-empty-buttons&#34;&gt;👉The 6 Most Common Accessibility Problems (and How to Fix Them)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【6个最常见的可访问性问题(以及如何解决)】&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;低对比度文字&lt;/li&gt;
+&lt;li&gt;图像缺少替代文本&lt;/li&gt;
+&lt;li&gt;空链接&lt;/li&gt;
+&lt;li&gt;缺少表格输入标签&lt;/li&gt;
+&lt;li&gt;空按钮&lt;/li&gt;
+&lt;li&gt;缺失文档语言&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; &lt;strong&gt;&lt;a href=&#34;https://nickpunt.com/blog/deescalating-social-media/&#34;&gt;👉DE-ESCALATING SOCIAL MEDIA&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.nlark.com/yuque/0/2020/png/257868/1595000992599-79731ac5-14f6-4f86-aeb4-282329a98bb1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;【逐步升级的社交媒体】本文分析了当前社交媒体上存在的冲突问题，然后尝试寻找解决方案。博主以 Twitter 为例，探索设计了名为「Twitter Mea Culpa」的功能，旨在让人们在社交媒体上发言更加谦逊与宽恕。如果你厌烦了微博、知乎、B站那种带节奏/不敢发言/控评的氛围，你应该读读这篇文章，感受下好的产品设计，是如何分析的，以及有什么解决方案。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十八期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F/</guid>
+                <pubDate>Sat, 11 Jul 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;AR｜印度的抵制｜摸鱼｜预言｜直播带货｜Web 在线课程｜太平洋光缆｜东南亚｜英国的反思和规划｜孩子与数字生活｜心理麻木&lt;/p&gt;
+&lt;h3 id=&#34;资讯&#34;&gt;资讯&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、关于&lt;/strong&gt; &lt;strong&gt;AR&lt;/strong&gt; &lt;strong&gt;的部分进展&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google 收购了人机界面和智能眼镜领域的先驱 North，你可以在&lt;a href=&#34;https://blog.google/products/hardware/focus-helpful-devices-google-acquires-north?utm_source=Benedict&#39;s+Newsletter&amp;amp;utm_campaign=c01160d230-Benedict&#39;s+Newsletter+343&amp;amp;utm_medium=email&amp;amp;utm_term=0_4999ca107f-c01160d230-71140270&amp;amp;mc_cid=c01160d230&amp;amp;mc_eid=73b9d3d819&#34;&gt;这里&lt;/a&gt;看详情；Facebook 发表了一篇名为&lt;a href=&#34;https://research.fb.com/publications/holographic-optics-for-thin-and-lightweight-virtual-reality/?utm_source=Benedict&#39;s+Newsletter&amp;amp;utm_campaign=c01160d230-Benedict&#39;s+Newsletter+343&amp;amp;utm_medium=email&amp;amp;utm_term=0_4999ca107f-c01160d230-71140270&amp;amp;mc_cid=c01160d230&amp;amp;mc_eid=73b9d3d819&#34;&gt;《用于薄型和轻型虚拟现实的全息光学》&lt;/a&gt;的论文。两大头部互联网公司陆续对 AR 领域开展投入，是否能推快 AR  的商用？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://mp.weixin.qq.com/s/Ur_T8BquAHzlxl7kMJZfMQ&#34;&gt;抵制中国科技的印度：半数独角兽背后是中国资本，半数智能手机是中国厂商造&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;总的来说，印度对中国的影响力仍然相对较弱。当下印度的人才流失趋势，倒是颇有点像十几二十年前中国人才流失到美国的样子。当下国内大量人才政策，一定程度上挽留了不少人才。但是对于高精尖人才，依旧是难以留住，详情见「&lt;a href=&#34;https://mp.weixin.qq.com/s/Ur_T8BquAHzlxl7kMJZfMQ&#34;&gt;周记｜第二十六期：The Global  AI Talent Tracker&lt;/a&gt;」。&lt;/p&gt;
+&lt;h3 id=&#34;言论&#34;&gt;言论&lt;/h3&gt;
+&lt;p&gt;**1、**Linux其实很无聊，也应该如此。——Linus Torvalds&lt;/p&gt;
+&lt;p&gt;**2、**都说互联网上有很多的机器人，可难道现实中很多人不也都是机器人？全球化的我们共同在一张纵横网络上，受少部分人控制，共同整齐划一地向左或向右，前进或后退，高兴或悲伤。——reuixiy&lt;/p&gt;
+&lt;p&gt;**3、**当婴儿和蹒跚学步的孩子想要你的手机时，他们通常是通过关注你的注意力来寻找与你的联系。当可以选择玩一个由成年人拿着的物体，或者是一个更近的物体的相同副本时，他们会越过副本去玩成年人拿着的那个。——耶鲁大学精神病学家布鲁斯 · 韦克斯勒&lt;/p&gt;
+&lt;h3 id=&#34;资源&#34;&gt;资源&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://special.fish/&#34;&gt;Special Fish&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个有趣的网站，也可以说是一个树洞/未知的聚合体，记录着许多人的日常、日记或者小心情。网站名称为 Special Fish，顾名思义特殊的鱼，给我的感觉就像水里「摸鱼」，你永远不知道摸到啥鱼。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.youtube.com/watch?v=ZKfOcR7Qbu4&#34;&gt;1947 年关于未来的短片｜YouTube&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是拍摄于 1947 年关于未来的法国短片，里面想象着以后人们的日常生活，值得注意的是里面对于使用手机的描述极其精确，例如低头玩手机在街头相撞，里面甚至描绘了增强现实的想象，令人赞叹。想象一下，那个时候国内正在内战，国外在拍关于未来的影片，恍惚两个世界。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://www.hermes.com/uk/en/story/271480-men-spring-summer-2021-performance/&#34;&gt;Men&#39;s Spring-Summer 2021 collection｜video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【2021 年男装春夏系列｜爱马仕】一个新颖的系列上新视频，一场精美的「直播带货」。没有精修的新品图片、没有奢华的地点，没有刻意的装饰，只有一个开放式试衣场所，一个个模特尝试一件件新品，甚至工作人员及摄影师都拍了进去。&lt;/p&gt;
+&lt;p&gt;我们用了十几年的时间从线下购买转移至线上购买，从真实触感的体验，到满足视觉的体验，是一种进化还是退步？当下「直播卖货」盛行，它的优势在我看来很大部分就是真实感。精美图片任何产品都可以拍出来，但是却少了真实感。直播则是把真实感重新带给用户，由主播帮你体验，然后你来决定。因此，对于体验感不强的产品，直播带货不是一个最优的途径。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://fullstackopen.com/zh/&#34;&gt;深入浅出现代 Web 编程&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;赫尔辛基大学推出的在线全栈公开课  2020，课程免费，无需报名即可在线学习，提供官方中文版。以下是介绍：一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及  TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST  API，来搭建单页面应用程序（SPA：Single Page Application）&lt;/p&gt;
+&lt;h3 id=&#34;文章&#34;&gt;文章&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://interconnected.blog/southeast-asia-pacific-light-cable-network/&#34;&gt;Southeast Asia and the Pacific Light Cable Network&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【东南亚与太平洋光缆网】云即是互联网，云去哪里，互联网就去哪里。本文简单思考了太平洋光缆网从香港转移到新加坡的考虑所带来的影响，以及介绍了当前发展迅速的东南亚互联网经济。这意味着什么？那些在中国成熟的商业模式，不少可以复制到东南亚。对于有远见以及有资源的人，这一波若能成功出海，未来真不好说。几年后再看吧。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.gov.uk/government/publications/uk-research-and-development-roadmap?utm_source=Benedict&#39;s+Newsletter&amp;amp;utm_campaign=c01160d230-Benedict&#39;s+Newsletter+343&amp;amp;utm_medium=email&amp;amp;utm_term=0_4999ca107f-c01160d230-71140270&amp;amp;mc_cid=c01160d230&amp;amp;mc_eid=73b9d3d819&#34;&gt;UK Research and Development Roadmap&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【英国的研究和发展线路图】阐述了英国在科学、研究和创新方面的愿景和抱负。原文非常长，可以挑选感兴趣的内容进行阅读，一窥他国如何反思和规划。其中让我很感叹的是一个国家对自身不足的反思，例如突如其来的新型冠状病毒所暴露的国家脆弱性，反思了政策、经济、措施的不足以及该如何调整改进；反思了曾经向世界提供蒸汽机、喷气机，发现了石墨烯、解码了  DNA 的结构的国家，为何在互联网时代却没有一个大型互联网公司。&lt;/p&gt;
+&lt;p&gt;对于这个问题，我曾经思考过，欧洲虽然作为一个科技先进的地区，但困于人口基数不大、地域分散、语言不通以及文化差异，加之活力欠佳，竞争不足导致很难长久生存下去。大量用户以及充满活力的氛围是互联网模式孵化的基础，看美国以及中国就知道这个的重要性，这正是欧洲所欠缺的部分。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://ideas.time.com/2013/08/12/parents-are-digital-hypocrites/&#34;&gt;Parents Are Digital Hypocrites&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【父母是数字伪君子｜时代周刊】成年人认为他们设置了限制，但无意中教会了孩子过度使用电子设备。现在的小孩，是我们所处的网络时代的「数字原住居民」，他们可能在很小的时候就已经学会了科技语言——触摸操作、语音控制、浏览下载等。事实证明，他们的「教师」便是身边的我们。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://www.bbc.com/future/article/20200630-what-makes-people-stop-caring?&#34;&gt;What makes people stop caring?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【是什么让人们停止关心｜BBC】一个人的死亡可以对我们的情绪产生强大的影响，但是随着人数的增加，我们的漠不关心也会随之增加。为什么？这是一个心理学现象：心理麻木。文章举了许多实验结论去证明，例如向贫困孩子捐款时，人们对仅一个孩子的宣传照更为同情。至于更为细致的原因，可以看文章。&lt;/p&gt;
+&lt;p&gt;延伸思考一下，为何互联网被称为只有七秒记忆？以及当前一些人对新型冠状病毒的行为和看法，其中的部分原因就是本文所要探讨的主题。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十七期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E6%9C%9F/</guid>
+                <pubDate>Sat, 04 Jul 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;游戏入教材｜解锁网易云灰色歌曲｜酷安 UWP｜树莓派｜数字安全｜Kindle｜YouTube｜给年轻人的建议｜Google｜财富和运气&lt;/p&gt;
+&lt;h3 id=&#34;资讯&#34;&gt;资讯&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://www.4gamers.com.tw/news/detail/43583/this-war-of-mine-will-be-added-to-polish-high-school-reading-lists&#34;&gt;《这是我的战争》纳入波兰教育部电子教材，助学生探讨道德、哲学与历史。&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;之所以选入教材，波兰教育部认为游戏呈现了战争的真实性和残酷性，可以引导玩家思考生命与道德，其获得的教育意义大于娱乐性。关于游戏，国内一直是带着偏见的，更别说纳入教材进行教育了。对于游戏带来的沉浸感、思维的锻炼，人性的思考，这些往往被忽略。当然，前提是质量上乘的游戏，而不是单纯想着圈钱的游戏。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://psychcentral.com/news/2020/05/29/mental-health-mortality-linked-to-work-autonomy-cognitive-ability-to-meet-job-demands/156733.html?utm_source=ActiveCampaign&amp;amp;utm_medium=email&amp;amp;utm_content=Is+a+college+degree+worth+the+cost+when+delivered+remotely%3F++%5BBest+Reads%5D&amp;amp;utm_campaign=Weekly+Digest+(June+27)&#34;&gt;Mental Health, Mortality Linked to Work Autonomy, Cognitive Ability to Meet Job Demands&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【心理健康，死亡率与工作自主性，满足工作需求的认知能力有关】根据印第安纳大学的一项新研究，我们的心理健康和死亡率似乎与我们在工作中拥有的自主权，以及我们的工作量、工作要求和我们处理这些要求的认知能力有着显著的联系。工作压力更容易导致抑郁和死亡，相反，当工作需求与更好的工作责任控制相匹配时，会带来更好的身体健康和更低的死亡率。&lt;/p&gt;
+&lt;h3 id=&#34;言论&#34;&gt;言论&lt;/h3&gt;
+&lt;p&gt;**1、**中国最缺乏三种教育：性的教育、爱的教育、死亡的教育。这三种教育，分别对应人格的三个支点身体完整、灵魂丰沛、生命价值。——网友&lt;/p&gt;
+&lt;p&gt;**2、**科技可以让愚人的生活在所有方面发生退化（甚至陷入危机），同时又让他相信自己的生活正在变得“更有效率”。    科技和奴役的区别在于，奴隶很清楚自己并不自由。 只有当你在任何领域都不跟任何人攀比时，你才算拥有真正的生活。——《智慧与魔咒》&lt;/p&gt;
+&lt;p&gt;**3、**专业人士——知道如何从错误中吸取教训的业余爱好者。——凯文凯利&lt;/p&gt;
+&lt;p&gt;**4、**创建一家大型互联网公司的最佳方法，就是帮助人们去做他们想做的事情，并使事情变得容易10倍。人们想在网上写东西，但是大多数网站的发布门槛太高了，所以才有了推特，你只需要写一句话就能发布。——Evan Williams，Twitter 的创始人之一&lt;/p&gt;
+&lt;p&gt;**5、**初学者眼里有很多可能性，专家眼里只有很少可能性。——铃木俊隆&lt;/p&gt;
+&lt;p&gt;**6、**数学家理查德·汉明（Richard    Hamming）总是问其他领域的科学家：&amp;quot;你的领域中最重要的问题是什么？&amp;quot;，然后问第二个问题：&amp;quot;你为什么不研究它们？&amp;quot;。——《汉明问题》&lt;/p&gt;
+&lt;h3 id=&#34;资源&#34;&gt;资源&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://github.com/meng-chuan/Unlock-netease-cloud-music&#34;&gt;Unlock-netease-cloud-music&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;解锁网易云音乐客户端变灰歌曲，原理是使用 QQ/酷狗  等音源替换变灰歌曲的链接。当然，有能力还是支持正版的好。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://github.com/Tangent-90/Coolapk-UWP&#34;&gt;Coolapk-UWP&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个基于 UWP 平台的第三方酷安客户端。现有功能：夜间模式；登录/点赞；浏览动态/图文/问答/通知；更多内容请自行发掘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://github.com/zhaohaodang/vue-WeChat&#34;&gt;vue-WeChat&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一款基于Vue2.0高仿微信App的单页应用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://github.com/jbszczepaniak/spotify-cli&#34;&gt;spotify-cli&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Spotify 终端客户端，已订阅 Spotify 的可以尝试一下，也可以了解其思路。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5、&lt;a href=&#34;https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi&#34;&gt;ZihaoTutorialOfRaspberryPi&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;树莓派系列教程。不到两百元一台的树莓派微型电脑可以做些什么？控制智能家居、无线路由、搭建私有云等等，是学习和理解 Python 和 Linux 的好帮手。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6、&lt;a href=&#34;https://github.com/Lissy93/personal-security-checklist&#34;&gt;personal-security-checklist&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一份保护你的数字安全和隐私的提示清单。包括浏览器、邮件、手机等方方面面。很多技巧其实大家都懂，但是是否去实施就是一回事儿了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7、&lt;a href=&#34;https://reabble.cn&#34;&gt;Reabble&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个为 Kindle 等电子墨子屏 RSS 阅读器，同时支持 Kindle 推送，支持用 Inoreader 账号登入。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8、&lt;a href=&#34;https://theo.tools/categories&#34;&gt;theo.tools&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;生产力工具和技巧的推荐网站，对于提升效率或者上去寻找 Idea 也是不错的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9、&lt;a href=&#34;https://www.tutorialist.io/&#34;&gt;Collection of free software development tutorials&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个 YouTube  软件开发教程的集锦。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10、&lt;a href=&#34;https://github.com/chunliu/sttf-url-generator&#34;&gt;scroll-to-text-fragment url generator&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chrome 浏览器的扩展，可以对选中的网页文字，生成一个 URL。其他用户访问这个  URL，打开网页后，就会自动滚动到这段文字。它的原理是使用了 Chrome 浏览器的新功能 scroll to text fragment。&lt;/p&gt;
+&lt;h3 id=&#34;文章&#34;&gt;文章&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://kk.org/thetechnium/68-bits-of-unsolicited-advice/&#34;&gt;68 Bits of Unsolicited Advice&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【68 条小建议】凯文·凯利，常被称为 KK，《连线》杂志创始主编；曾担任《全球评论》主编、出版人。作为互联网时代重要的观察家，这是他 68 岁生日给年轻人提的 68 条「不成熟」的建议。中文版在&lt;a href=&#34;https://www.sohu.com/a/397318272_355115&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f&#34;&gt;The Google ‘vs’ Trick&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【谷歌‘VS’的技巧】搜索引擎里输入关键词，然后带上‘VS’或者‘OR’之后，搜索引擎会自动帮你填充相似或相反的关键词。由于搜索引擎本身对关键词会做聚类等分析，因此这个技巧可以帮助你对一个新事物快速建立起大致的认知，如果再进一步联系分析，你将会得到一个比较完整的认识。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://github.com/taosue/how-to-get-rich-without-getting-lucky/&#34;&gt;如何不靠运气变得富有&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Naval 是美国风险投资家，这是他的3小时长播客《如何不靠运气变得富有》的中文翻译，介绍了他的财富观，非常值得一读。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十六期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E6%9C%9F/</guid>
+                <pubDate>Sat, 20 Jun 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;人脸识别｜AI 人才的流向｜Python｜临时视频聊天｜电话攻击｜LeetCode｜Facebook 为何不做公有云｜付费墙｜Google｜创业&lt;/p&gt;
+&lt;h3 id=&#34;资讯&#34;&gt;资讯&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、Face recognition on hold&lt;/strong&gt; &lt;strong&gt;｜&lt;/strong&gt;&lt;a href=&#34;https://twitter.com/postlive/status/1271116509625020417&#34;&gt;&lt;strong&gt;Microsoft&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;｜&lt;/strong&gt;&lt;a href=&#34;https://blog.aboutamazon.com/policy/we-are-implementing-a-one-year-moratorium-on-police-use-of-rekognition&#34;&gt;&lt;strong&gt;Amazon&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;｜&lt;/strong&gt;&lt;a href=&#34;https://www.ibm.com/blogs/policy/facial-recognition-susset-racial-justice-reforms/&#34;&gt;&lt;strong&gt;IBM&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;｜&lt;/strong&gt;&lt;a href=&#34;https://www.blog.google/around-the-globe/google-asia/ai-social-good-asia-pacific/&#34;&gt;&lt;strong&gt;Google&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【面部识别暂停】亚马逊、微软和 IBM 都宣布，无论是针对执法部门，还是针对其使用的监管，他们都不会在其云平台上提供面部识别 api。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://macropolo.org/digital-projects/the-global-ai-talent-tracker/&#34;&gt;The Global AI Talent Tracker&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【全球人工智能人才追踪系统】这是一份关于全球人工智能人才的研究报告，里面有很多有趣的数据和结论。例如绝大部分来自中国或者印度的本科生毕业后会选择去美国深造，然后绝大部分都会留在美国工作。&lt;/p&gt;
+&lt;h3 id=&#34;言论&#34;&gt;言论&lt;/h3&gt;
+&lt;p&gt;**1、**在一个音乐不受重视的时代，耳机却被众人迷恋。——网友&lt;/p&gt;
+&lt;p&gt;**2、**教育像科学研究一样，本身并没有什么阶级性，没必要给教育强加什么政治使命。——《我对教育的几点思考（第17稿）》&lt;/p&gt;
+&lt;p&gt;**3、**最好的说明是在使用环境中，通过现实如何完成特定任务来解释使用方法。——《设计心理学2:与复杂共处》&lt;/p&gt;
+&lt;h3 id=&#34;资源&#34;&gt;资源&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://www.cnblogs.com/nxld/p/6756492.html&#34;&gt;像Excel一样使用Python进行数据分析&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;文章通过 Python 与 Excel 的功能对比介绍如何使用 Python 通过函数式编程完成 Excel 中的数据处理及分析工作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://brie.fi/ng&#34;&gt;Briefing&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个基于浏览器的视频聊天室，它会给出一个一次性链接，只要分享这个链接，其他人就可以跟你视频聊天。（via &lt;a href=&#34;http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html&#34;&gt;科技爱好者周刊&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://mathtocode.now.sh/&#34;&gt;Math to Code&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Math to Code 是一个交互式 Python 教程，教工程师如何使用 NumPy 库读取和实现数学。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://github.com/aqiongbei/buy_pig_plan&#34;&gt;buy_pig_plan&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;电话攻击，这玩意儿虽然不道德，但指不定哪天能用上呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5、&lt;a href=&#34;https://github.com/greyireland/algorithm-pattern&#34;&gt;algorithm-pattern&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;算法模板，最科学的刷题方式，最快速的刷题路径。此项目是作者找工作时，从 0 开始刷 LeetCode 的心得记录，通过各种刷题文章、专栏、视频等总结了一套自己的刷题模板。&lt;/p&gt;
+&lt;h3 id=&#34;文章&#34;&gt;文章&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://interconnected.blog/why-is-facebook-not-in-the-cloud-business/#chinese-version-below&#34;&gt;Why Is Facebook Not in the Cloud Business?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【为什么 Facebook 不做云的生意？】顶尖的互联网科技公司几乎都在做公有云的生意，并且都给各自的公司带来了巨大的利润，Facebook 作为首屈一指的科技公司，为何不做云？｜文章提供了双语阅读。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://slatestarcodex.com/2020/06/04/problems-with-paywalls/&#34;&gt;PROBLEMS WITH PAYWALLS&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【付费墙的问题】逛知乎的时候，你有没有发现越来越多的那种文章——正看得兴起，底部突然露出了购买会员才能继续看完的提示。这类「付费墙」，正是众多媒体在使用的盈利模式。我发现自从存在「付费墙」之后，愈来愈多的标题党，或者通过前半部分的免费内容制造诱饵，吸引付费后，才发现最终是个烂尾。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;http://googlepress.blogspot.com/1999/06/google-receives-25-million-in-equity.html?m=1&#34;&gt;Google Receives $25 Million in Equity Funding&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【谷歌获得2500万美元股权融资】大约 21 年前的这段时间，谷歌从红杉资本和凯鹏华盈融资 2500 万美元。“一个完美的搜索引擎将处理和理解世界上所有的信息。”谷歌总裁兼联合创始人谢尔盖•布林表示， “这正是谷歌的发展方向”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;http://www.david.blog/blog/the-importance-of-launching-early-and-staying-alive&#34;&gt;THE IMPORTANCE OF LAUNCHING EARLY AND STAYING ALIVE&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【尽早出发并保持活下去的重要性】Weebly 创始人以自己产品的增长走势给出的创业建议。早点上线产品，早点有用户的反馈；不要太早放弃，全世界大部分人还没听过你的产品呢。很多人创业就是 build, build, build, build, quit。花 6 个月做产品，上线 3 星期没什么人用，自尊心备受打击，然后放弃了。（via &lt;a href=&#34;https://wanqu.co/issues/%E5%A6%82%E4%BD%95%E4%B8%BA%E6%88%91%E4%BB%AC%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E8%9E%8D%E8%B5%84-300-%E4%B8%87launching-early-and-staying-alivefigma-%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%9A%84-thiel-fellowshi-1357/&#34;&gt;湾区日报&lt;/a&gt;）&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十五期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%9C%9F/</guid>
+                <pubDate>Sun, 14 Jun 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;Facebook｜面部识别｜电动车｜气候问题｜写作托盘助手｜疫情影响下的世界｜思考框架｜IMAP 邮件备份｜数据科学家在线课程｜播客｜Apple 中国市场策略&lt;/p&gt;
+&lt;h3 id=&#34;资讯&#34;&gt;资讯&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;/strong&gt;&lt;a href=&#34;https://npe.fb.com/2020/05/26/introducing-catchup-helping-you-stay-in-touch-with-the-people-you-care-about/&#34;&gt;&lt;strong&gt;CatchUp – Helping you stay in touch with the people you care about&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【CatchUp——帮助你和你关心的人保持联系】来自 Facebook 的 NPE 团队现在正在推出 CatchUp，这个应用程序可以通过显示你的朋友和家人什么时候可以聊天来帮助你与你关心的人保持联系。（就目前的界面展示来看，就是加了一个在线/离线状态，这不是 QQ 玩剩下的么？或许还有其他大招没放出来吧。）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.gov.uk/government/publications/cdei-publishes-briefing-paper-on-facial-recognition-technology&#34;&gt;CDEI publishes briefing paper on facial recognition technology&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【CDEI 发表关于面部识别技术的简报】CDEI 发表了一份简报，介绍了面部识别技术在英国的应用和潜在影响。面部识别技术是当今最具争议的数据驱动的创新技术之一。 支持者声称，它可以使我们的街道更安全，我们的银行账户更安全，我们的公共服务更方便。 批评者认为它对隐私和其他公民自由构成了威胁。 本文试图澄清这一争论，仔细审查各种说法，帮助读者理解应该把注意力引向哪里。 它试图回答关于 FRT 系统的几个基本问题，包括它们是如何发展的，到目前为止在哪里部署的，以及它们是由什么机制管理的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://www.reuters.com/article/us-health-coronavirus-germany-autos/germany-forces-all-petrol-stations-to-provide-electric-car-charging-idUSKBN23B1WU&#34;&gt;Germany will require all petrol stations to provide electric car charging&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【德国将要求所有加油站提供电动汽车充电服务】德国表示，将要求所有加油站提供电动汽车充电服务，以帮助消除充电担忧，提振消费者对电动汽车的需求，作为其 1,300 亿欧元( 1,460 亿美元)经济复苏计划的一部分。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://www.resilience.org/stories/2020-06-08/collapse-of-civilisation-is-the-most-likely-outcome-top-climate-scientists/&#34;&gt;‘Collapse of Civilisation is the Most Likely Outcome’: Top Climate Scientists&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【顶级气候学家：文明的崩溃是最有可能的结果】澳大利亚国立大学教授威尔·斯特芬（Will Steffen）提出：&amp;quot;气候变化已经不可逆了，人类文明的崩溃将是最可能的结果。&amp;quot;无论人类是否减少二氧化碳排放，都已经为时过晚，因为 15 个已知的全球气候临界点，已经有 9 个激活了。&lt;/p&gt;
+&lt;p&gt;[✓] 北极海冰开始融化&lt;/p&gt;
+&lt;p&gt;[✓] 格陵兰冰盖开始融化&lt;/p&gt;
+&lt;p&gt;[✓] 南极西部冰盖开始崩解&lt;/p&gt;
+&lt;p&gt;[✓] 南极东部冰盖开始崩解&lt;/p&gt;
+&lt;p&gt;[✓] 西伯利亚冻土层开始融化&lt;/p&gt;
+&lt;p&gt;海底甲烷开始释放&lt;/p&gt;
+&lt;p&gt;[✓] 大西洋&amp;quot;热盐循环&amp;quot;洋流开始减速&lt;/p&gt;
+&lt;p&gt;厄尔尼诺现象加剧&lt;/p&gt;
+&lt;p&gt;大气喷射流减速或停滞&lt;/p&gt;
+&lt;p&gt;印度洋夏季季风出现波动&lt;/p&gt;
+&lt;p&gt;西非季风转变&lt;/p&gt;
+&lt;p&gt;北美西南部开始干旱&lt;/p&gt;
+&lt;p&gt;[✓] 亚马逊雨林开始消失&lt;/p&gt;
+&lt;p&gt;[✓] 高纬度森林开始消失&lt;/p&gt;
+&lt;p&gt;[✓] 澳大利亚大堡礁开始消失&lt;/p&gt;
+&lt;p&gt;海洋不再大量吸收碳元素&lt;/p&gt;
+&lt;h3 id=&#34;言论&#34;&gt;言论&lt;/h3&gt;
+&lt;p&gt;**1、**有两样东西加剧了人们的极端化，算法和政客。当他们结合在一起时，不是相加，而是相乘。——&lt;a href=&#34;https://twitter.com/jason5ng32/status/1268206232570957825&#34;&gt;@jason5ng32&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;**2、**国际上的事情，如果只有中文互联网里有相关信息，几乎肯定是伪造的。然而问题在于，找信息的出处本身就很难，更不用说证有不证无，想确认“不存在这条信息”实在是太累了。所以这里教大家一个简单的方法，那就是你看这段话的行文，是否有翻译腔。如果读起来特别顺畅，甚至绘声绘色有故事会文风，那大概率就是伪造的。道理很简单：能把外语翻译到这种水平的人不多，更不用说免费帮你搬运外网信息了。——&lt;a href=&#34;https://weibo.com/u/2501511785?refer_flag=1005055010_&#34;&gt;@周玄毅&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;**3、**刚刚偶然发现，贝加尔湖（Baykal）就是汉朝时对它的称呼“北海”的音译——经由俄语转译、满语转译之后音译回汉语（对着拉丁字母按英文发音念念看），堪称出口转内销的典范……然后又偶然发现，听起来高大上的苏必利尔湖的英文居然就是简单的“Superior”，三观都要崩塌了……（维基百科）至于“苏必利尔”一名，来自于法国探险家于17世纪造访时，将此湖称为“Supérieur”音译：索菲莉尔，意为“上湖”，因为它坐落于休伦湖的北方。法国－印第安人战争后，英国人拿下五大湖周边地区的控制权，于是将此名英语化，改名为“Superior”。——&lt;a href=&#34;https://weibo.com/azuki707?refer_flag=1005055010_&#34;&gt;@北落师门捷列夫&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;资源&#34;&gt;资源&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://github.com/ystcode/BlogHelper&#34;&gt;BlogHelper&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床。（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://straight2spam.com/&#34;&gt;Straight 2 spam&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个很奇特的服务。有时候，我们不得不发电子邮件，但是又不希望对方看到。这个服务提供一段文本，只要你把它拷贝到邮件，你的邮件就会进入对方的垃圾邮件分类。（via &lt;a href=&#34;http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html&#34;&gt;科技爱好者周刊&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://unstats.un.org/unsd/ccsa/documents/covid19-report-ccsa.pdf&#34;&gt;How COVID-19 is changing the world: a statistical perspective | PDF&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;统计学视角：COVID-19 正在如何改变世界。联合国收集了许多不同领域的数据——从经济和贸易流动到教育和犯罪。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://untools.co/&#34;&gt;untools&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;收集思考工具和框架，帮助人更好地思考。例如冰山模型、第一原则等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5、&lt;a href=&#34;https://smalldata.tech/blog/2020/04/07/imap-email-backup&#34;&gt;IMAP EMAIL BACKUP IMAP&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;有些电子邮件服务使用 IMAP 协议（比如 GMail），本文介绍如何使用一个 Python 脚本，将邮件从服务器备份到本地。当前这个脚本不适用 python3。（via &lt;a href=&#34;http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html&#34;&gt;科技爱好者周刊&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6、&lt;a href=&#34;https://davidadrian.cc/top-courses-data-science/&#34;&gt;The online courses you must take to be a better Data Scientist&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是一个在线课程的推荐名单，主题是「数据科学」。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7、&lt;a href=&#34;https://github.com/mxpv/podsync&#34;&gt;podsync&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;把YouTube 或者 Vimeo 的频道，用户，或者播放列表变成播客订阅。&lt;/p&gt;
+&lt;h3 id=&#34;文章&#34;&gt;文章&lt;/h3&gt;
+&lt;p&gt;1、&lt;a href=&#34;https://www.distillingfrenzy.com/2020/05/&#34;&gt;&lt;strong&gt;Apple&#39;s Success in China (Part 1-9): A Notable Exception&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;【苹果在中国的成功：一个明显的例外】这是一个精彩而详细的研究，主题是苹果在中国市场的进入策略。共有九篇文章，分为九个部分。第一部分介绍本系列文章。 第二部分解释了苹果在中国的产品时代精神。 第三部分着眼于产品本地化。 第四部分着眼于苹果在中国的服务和与腾讯的关系。 第五部分着眼于在中国经营的复杂性。 第六部分和第七部分分别介绍了苹果在 App Store 和iCloud 方面的合规努力。 第八部分着眼于苹果对滴滴的投资。 第九部分总结了苹果在中国的经验教训。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十四期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%9C%9F/</guid>
+                <pubDate>Sun, 31 May 2020 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;Facebook Shop | Pokémon | 新闻的未来 | 视频播放器 | 技术资源 | Edge 内置游戏 | Python | 微信读书导出笔记 | 云音乐 | 临时云盘 | 网络安全 | 浏览器工作原理 | 内外动机 | TikTok 增长指南 | 信息超载&lt;/p&gt;
+&lt;h3 id=&#34;资讯&#34;&gt;资讯&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://about.fb.com/news/2020/05/introducing-facebook-shops/&#34;&gt;Introducing Facebook Shops: Helping Small Businesses Sell Online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Facebook 与 Shopify 合作，让品牌直接将购物内容添加到他们的 Facebook / Instagram 个人资料中。用户可以直接在 Facebook 程序中查看甚至不离开程序下单，也可以通过 WhatsApp 等向商家进行咨询。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://aeon.co/videos/parents-have-long-suspected-pokemon-rewires-kids-brains-now-theres-evidence&#34;&gt;Parents have long suspected Pokémon rewires kids&#39; brains. Now there&#39; s evidence&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【长期以来，父母们一直怀疑 Pokémon 能够刺激孩子们的大脑，现在有了证据】戈麦斯在斯坦福大学攻读博士期间，分别对一组玩过 Pokémon 及没玩过的成年人大脑进行扫描后发现，童年里玩过 Pokémon 的人的脑颞叶中的一个小凹槽被点亮了，而这个凹槽在 Pokémon 新手的大脑中几乎没有活动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://www.niemanlab.org/collection/predictions-2020/&#34;&gt;PREDICTIONS FOR JOURNALISM 2020&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【2020年新闻业的预测】2020 已过半，这些关于新闻的预测真实情况如何？中立和客观？支离破碎？资金短缺？还是变成音频网络的世界？&lt;/p&gt;
+&lt;h3 id=&#34;言论&#34;&gt;言论&lt;/h3&gt;
+&lt;p&gt;**1、**努力是为了提高下限，而选择是为了提高上限。——&lt;a href=&#34;https://horde.geekbang.org/message/detail/tAWVird60mv-yRtwktwpjJfQExE271dK-sQl3P0PwuA&#34;&gt;郭蕾&lt;/a&gt;（极客邦科技总编辑）&lt;/p&gt;
+&lt;p&gt;**2、**深夜是填充时间的高峰期——也是吸引观众的机会。 因此，在撰写或创建产品时，编辑、记者和用户体验设计师应该考虑让读者坐在床上看手机。——&lt;a href=&#34;https://www.niemanlab.org/2020/01/the-year-to-learn-about-news-moments/&#34;&gt;Sarah Marshall&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;**3、**玩电子游戏能显著提高人的空间注意力和物体追踪能力，能让一个普通的笨蛋拥有战斗机飞行员的注意力技能。照此发展下去，我们就是幸运的，因为由下丘脑控制的基本动力——著名的「4F」理论原来包括：冲突（fighting）、逃跑（fleeing）、喂养（feeding）和向你的父亲致以问候（how&#39;s your father？）不需要第五个元素来增强：Facebook。——斯坦福大学心理学教授莱拉·博格迪特斯基&lt;/p&gt;
+&lt;h3 id=&#34;资源&#34;&gt;资源&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://github.com/Hunlongyu/ZY-Player&#34;&gt;跨平台开源桌面端视频资源播放器&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ZyPlayer，支持 Windows, Mac, Linux，12 个视频源，简洁无广告，免费高颜值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.notion.so/9667019865984ba5b772cb80f31097b2?v=993281a687f347beb46c95287086ffc0&#34;&gt;程序员技术资源分享群内容整理 | Notion&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;通过 Notion 整理的技术资源，展示效果不错。源于 Telegram 频道：https://t.me/gotoshare，维护者为「左耳朵耗子」及群组成员。（via Linmiv）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://t.me/weiyexing/2095&#34;&gt;微软 Edge 浏览器内置「冲浪」游戏&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;类似 Chrome 的恐龙游戏。开启方式：1）断网；2）输入：edge://surf。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://www.v2ex.com/t/670000#reply2&#34;&gt;微软官方 Python 教程/文档&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.microsoft.com/zh-cn/windows/python/&#34;&gt;「Windows  上的 Python」文档&lt;/a&gt;（有中文）；&lt;a href=&#34;https://docs.microsoft.com/zh-cn/learn/paths/python-first-steps/&#34;&gt;使用  Python 迈出第一步&lt;/a&gt;（非中文）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5、&lt;a href=&#34;https://mp.weixin.qq.com/s/hCZWQEfHrCAxTiO0h8ukJw&#34;&gt;一键导出「微信读书」笔记，支持 Markdown 等格式 | 浏览器插件&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;亮点：一键导出；突破笔记导出限制；可选多种导出模式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6、&lt;a href=&#34;https://support.google.com/youtubemusic/answer/9716522?hl=zh-Hans#&#34;&gt;云音乐的另一种选择 | YouTube Music&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;YT Music 现已支持上传本地音乐。支持多种格式，上限 10 万首音乐。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7、&lt;a href=&#34;https://sendfiles.online/?lang=zh-hans&#34;&gt;Send files online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在线临时文件储存服务，最大可上传 2GB 文件。它会生成下载链接，通过填入邮箱，进行分享。国内有类似的服务「&lt;a href=&#34;https://cowtransfer.com/&#34;&gt;奶牛快传&lt;/a&gt;」，可通过扫码、链接、6位数字码进行分享，相比之下奶牛快传更便捷。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8、&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=goobyter.vscode-weixin-read&#34;&gt;VS Code 微信读书插件&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VS Code 编辑器里面的微信读书客户端。（via goobyter ）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9、&lt;a href=&#34;https://github.com/zhengjim/Chinese-Security-RSS&#34;&gt;Chinese Security RSS&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网络安全资讯及网络安全博客的 RSS 订阅、网站集锦。&lt;/p&gt;
+&lt;h3 id=&#34;文章&#34;&gt;文章&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://zhuanlan.zhihu.com/p/47407398&#34;&gt;图解浏览器的基本工作原理&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从浏览器地址栏输入 URL 到页面展示，浏览器做了哪些工作。文章图文并茂，讲述比较生动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://github.com/vasanthk/how-web-works&#34;&gt;How Web Works&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当我们在浏览器中输入 &lt;a href=&#34;http://www.google.com&#34;&gt;www.google.com&lt;/a&gt; 后发生什么？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://www.nirandfar.com/extrinsic-motivation/&#34;&gt;Extrinsic Motivation: Why You Make Terrible Life Choices&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【外在动机：为什么你会做出糟糕的人生选择】独居时，屋子可能凌乱不堪，若有异性要来，则可能打扫得干干净净，这便是外在动机在起作用。更新「周记」，外在动机是希望得到订阅及阅读，甚至是「在看」和分享。内在动机是整合资源，沉淀所学，然后分享。外在动机在一定程度上有利的，但是对于一些工作如创造性工作则不如内在动机效果好。文章讲述了两者的差别，以及如何转变。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://hbr.org/2020/03/how-to-spot-an-incompetent-leader?&#34;&gt;How to Spot an Incompetent Leader&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【如何识别不称职的领导者 | 哈佛商业周刊】如何识别公司的文化以及未来发展？看公司的领导团队质量就好了。而如何识别领导质量，文章提供了一些评估方法。可惜的是，我们并不缺少评估的方法，缺的是鲜有组织去使用它们。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5、&lt;a href=&#34;http://behavioralscientist.org/hourly-employees-need-reliable-schedules-can-behavioral-science-help-companies-deliver/?&#34;&gt;Hourly Employees Need Reliable Schedules: Can Behavioral Science Help Companies Deliver?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【小时工需要可靠的时间表：行为科学能帮助公司交付吗？】员工愿意放弃超 1/5 年收入的薪资换一份稳定的工作，原因很明显，不确定性带来现金流的不稳定以及内心对不确定性的厌恶。雇主若要制定稳定的工作时间表，则需要巨大的时间和精力。例如搜集员工的偏好，修改日程，制定通知等。为了节省精力，雇主把这部分的消耗转接给了雇员。这很像强制「垃圾分类」，某些人的工作转接到了普通人身上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6、&lt;a href=&#34;https://reason.com/2020/05/06/plastic-bag-bans-do-more-harm-than-good/&#34;&gt;Plastic Bag Bans Do More Harm Than Good&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【塑料袋禁令弊大于利】为什么政客们突然取消他们的塑料袋禁令？当然是因为新型冠状病毒肺炎。重复使用的环保袋布满了细菌，且人们并不会去经常清洗它。观察当下，何时才能摘下口罩？许多人戴口罩并不是为了隔离病毒，而是应付商场、车站等地方的强制性措施，导致很多人的口罩一用再用，无病都能憋出病来。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7、&lt;a href=&#34;https://medium.com/@davidnihill/tiktoking-from-0-to-300k-followers-in-60-days-ea459432abfe&#34;&gt;TikToking From 0 to 300k Followers in 60 Days&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【60 天内在 TikTok 上从 0  做到 60 万粉丝】该指南适用于单口喜剧演员，但原则上也适用大多数内容生产者。里面有个有趣的数据，作者分别在 TikTok 和 Instagram 上发布了一些相同的视频，累计的阅读量前者是后者的 161 倍。虽说有一定的原因是 Instagram 作为一个图片社区，对短视频曝光不足，但是也能看出 TikTok 用户增势迅猛。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8、&lt;a href=&#34;https://www.1843magazine.com/features/can-we-escape-from-information-overload?src=longreads&#34;&gt;Can we escape from information overload?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【我们能逃离信息超载吗？ | 经济学人】我们生活在一个无限滚动和无休止干扰的时代。那么，当你关闭所有干扰后，会发生什么呢？英国的一位艺术家制作了一个「黑屋」并在里面度过了数十天，期间他开始感受到「我们的感官是多么聪明……」，甚至能听得出热的和冷的液体之间的差别。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十三期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%9C%9F/</guid>
+                <pubDate>Sat, 21 Sep 2019 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h3 id=&#34;每周资讯&#34;&gt;每周资讯&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://www.solidot.org/story?sid=62102&#34;&gt;MIT 工程师制造出最黑的黑色材料&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MIT 工程师报告他们制造出了至今最黑的黑色材料。研究报告发表在《ACS-Applied Materials and  Interfaces》期刊上。这种材料由定向碳纳米管阵列构成，能吸收超过 99.995% 的入射光，用它覆盖的钻石看起来就像变成了黑洞。MIT 教授  Brian Wardle 表示这种材料具有实用价值，如可用于太空望远镜。他的合作者是博士生 Kehang Cui，目前是上海交大的教授。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.solidot.org/story?sid=62072&#34;&gt;研究发现基因与左撇子的关联&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据发表在《Brain》医学期刊上的研究，英国研究人员分析了英国生物库 (UK Biobank）中 40  万人的数据，该生物库中记录了这 40  万人遗传密码的完整序列。研究人员发现，他们之中有超过三万八千人是左撇子，和世界人口左撇子的比例相吻合。他们找到了与左撇子有关的人类  DNA（脱氧核糖核酸）的首批基因指令。可能正是这些基因指令决定了人们主要使用左手还是右手。不但如此，该基因指令还与人脑的结构和功能有密切联系，特别是与主导语言功能的那部分大脑区域。&lt;/p&gt;
+&lt;h3 id=&#34;有趣数据&#34;&gt;有趣数据&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;/strong&gt; &lt;a href=&#34;https://blog.leavemealone.app/clean-your-inbox-save-the-planet/&#34;&gt;一篇文章&lt;/a&gt;提出，不受欢迎的电子邮件每天向大气中排放28397吨二氧化碳。他们分析了10,000,000封匿名电子邮件，发现约8%是订阅的，而38%是不需要的。这意味着每天有多达28,397吨的二氧化碳被排放到大气中，用于处理人们不想要也不愿意阅读的电子邮件。     这相当于生产了近30亿个塑料袋，或者说生产了近100万人从伦敦飞往巴黎的航班。电子邮件如何与二氧化碳相关的？他们的计算方式是：存储和传输电子邮件需要数据中心支持，而数据中心则需要消耗电力、水资源。具体计算方式可以看原文。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;/strong&gt;&lt;a href=&#34;https://www.studyfinds.org/spending-time-with-friends-every-day-may-lower-dementia-risk-study-finds/&#34;&gt;研究发现&lt;/a&gt;，年老时社交活动确实能够显著降低患老年痴呆症的风险。一个在60岁时几乎每天都与朋友见面的人患老年痴呆症的可能性比那些每两个月只与几个朋友见面几次的人低12%    。原因之一是参与社交活动可以锻炼人的记忆和语言能力等认知能力，进而形成认知储备，而认知储备可以帮助人们更好的应对年龄的影响。&lt;/p&gt;
+&lt;h3 id=&#34;每周言论&#34;&gt;每周言论&lt;/h3&gt;
+&lt;p&gt;**1、**自打孔孟到如今，我们这个社会里只有两种人。一种编写生活的脚本，另一种去演出这些脚本。前一种人是古代的圣贤，七十年代的政工干部；后一种包括古代的老百姓和近代的知青。所谓上智下愚、劳心者治人劳力者治于人，就是这个意思吧。——王小波《关于崇高》&lt;/p&gt;
+&lt;p&gt;**2、**崇高并不总是对的，低下的一方有时也会有些道理。实际上，就是唱高调的人见了一根稻草被冲走，也不会跳下水，但不妨碍他继续这么说下去。事实上，有些崇高是人所共知的虚伪，这种东西比堕落还要坏。——王小波《关于崇高》&lt;/p&gt;
+&lt;p&gt;**3、**我一向认为两个人相处，这是他们的最高职责：保护对方的孤独。——里尔克《给青年诗人的信》&lt;/p&gt;
+&lt;h3 id=&#34;教程技巧&#34;&gt;教程技巧&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://sspai.com/post/56394&#34;&gt;用 Coda 打造你的个人仪表盘 (1) ——个人任务管理系统&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coda是一个在线免费的文档工具，可以自由排版，同时提供了强大的 database  和自动化功能。这类软件可以拿来做的事情当然就会非常多了，比如该作者的三篇系列文章。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;/strong&gt;&lt;a href=&#34;http://github.phodal.com/#%E5%89%8D%E8%A8%80&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt; &lt;strong&gt;漫游指南&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub 可以是一个优秀的学习社区，同时也可以通过其推销自己，项目优秀，自然会有人找上你。&lt;/p&gt;
+&lt;h3 id=&#34;资源福利&#34;&gt;资源福利&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://github.com/testerSunshine/12306&#34;&gt;12306智能刷票，订票&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如题，支持自动打码、自动登录、准点预售和捡漏等功能。另外也推荐&lt;a href=&#34;https://www.bypass.cn/&#34;&gt;bypass&lt;/a&gt;抢票工具。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.washingtonpost.com/graphics/2019/business/how-does-an-autonomous-car-work/?noredirect=on&#34;&gt;How does an autonomous car work? Not so great.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;华盛顿邮报设计的介绍自动驾驶汽车原理的互动演示。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://easyai.tech/blog/65pdf-pm-understand-dl/&#34;&gt;「65页PDF」让 PM 全面理解深度学习&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;咱也看不懂，咱也没细看，先码再说。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://github.com/MustangYM/WeChatExtension-ForMac&#34;&gt;WeChatExtension-ForMac&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mac版微信的功能拓展，支持消息防撤回、多开、自动登录、自动回复等功能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5、&lt;a href=&#34;https://www.versionmuseum.com/&#34;&gt;Version Museum&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;版本博物馆：展示了流行网站、操作系统、应用程序和游戏的视觉历史，它们塑造了我们的生活。  这个网站就像走过现实生活中的博物馆一样，专注于历史版本技术的设计变化，而不仅仅是其背后的文字历史。&lt;/p&gt;
+&lt;h3 id=&#34;每周文章&#34;&gt;每周文章&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;/strong&gt;&lt;a href=&#34;http://www.qdaily.com/articles/64107.html&#34;&gt;&lt;strong&gt;那些流行文本的套路，都在这些词里了&lt;/strong&gt; &lt;strong&gt;| 100****个生活大问题&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我觉得熟悉这些套路的一个好处是，可以快速识别那些由无良自媒体陈词滥调堆砌而成的垃圾文章，从而节省宝贵的时间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://aeon.co/essays/on-immanuel-kants-hydraulic-model-of-moral-education&#34;&gt;The value of shame&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【羞耻的价值】羞耻会压倒我们的罪恶，为美德的崛起创造空间。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://onezero.medium.com/what-is-apples-tv-plus-strategy-d7c7bb10ea2f&#34;&gt;What Is Apple’s TV Plus Strategy?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【苹果的 TV + 战略是什么？】免费试用一年是这项服务成功的关键。如果一开始就付费，可能只是获得了尝鲜及铁粉的那小部分用户，一旦免费，将会引来更多的人尝试、讨论，而媒体和娱乐是一个以点击量为导向的产业，消费和传播的消费者越多，那你的机会就越大。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short&#34;&gt;The days are long but the decades are short&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【日子很长，但几十年很短】博主30岁之际，梳理了过去十年里值得传递的建议，有些鸡汤，但是确实击中心灵。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十二期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E6%9C%9F/</guid>
+                <pubDate>Sat, 07 Sep 2019 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h3 id=&#34;每周资讯&#34;&gt;每周资讯&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://www.solidot.org/story?sid=62000&#34;&gt;60 万 GPS 跟踪器使用的密码是 123456&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大约 60 万被用于定位儿童或宠物的 GPS 跟踪器被发现使用简单密码如 123456。GPS 跟踪器价格在 25 到  50 美元之间，可以挂在脖子下或放在口袋里。但这些主要由中国公司制造的设备安全性欠缺，很容易被黑客用于监视或修改真正的位置。安全公司 Avast  发现，GPS 跟踪器除了使用相同密码外，还使用明文传输所有数据，允许同一网络的设备监视或修改敏感数据，比如改变 GPS 坐标。研究人员识别的设备默认密码除了  123456，还有 S1、P1、3G 等等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.solidot.org/story?sid=61980&#34;&gt;Facebook 用户电话号码泄漏&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;储存数亿 Facebook 用户关联电话号码的服务器被发现没有任何密码保护就能访问。暴露的服务器包含了超过 4.19  亿条记录，其中包括 1.33 亿美国用户，1800 万英国用户，5000 多万越南用户。每一条记录包含了用户唯一的 Facebook ID  和电话号码。一些记录还包含了用户的姓名、性别和国别。GDI Foundation 的安全研究员 Sanyam Jain  发现了无密码保护的数据库，因无法识别所有者而联络了 TechCrunch，在联络了托管商之后数据库已经下线。Facebook 发言人 Jay  Nancarrow 称，该公司去年关闭了对用户电话号码数据的访问，这些数据是在关闭前抓取的。Facebook  声称这些数据不是新的，但几乎没有人会频繁更换电话号码。&lt;/p&gt;
+&lt;h3 id=&#34;有趣数据&#34;&gt;有趣数据&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;/strong&gt; 一个完全发达的飓风可以释放5~20x1013瓦的热能，并将不到10% 的热量转化为风的机械能。     释放的热量相当于每20分钟爆炸一枚1000万吨级的核弹。 根据1993年的《世界年鉴》     ，整个人类在1990年的能量消耗率为1013瓦，不到飓风能量的20% 。&lt;/p&gt;
+&lt;p&gt;——&lt;a href=&#34;https://www.aoml.noaa.gov/hrd/tcfaq/C5c.html&#34;&gt;Why don&#39;t we try to  destroy tropical cyclones by nuking them ?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;**2、**一份英国技术生态的新报告指出：1）英国科技投资飙升(同比增长43%)；2）全球投资者对英国科技的兴趣飙升(+ 147%)。&lt;/p&gt;
+&lt;p&gt;——&lt;a href=&#34;https://blog.dealroom.co/has-the-uk-has-become-the-worlds-hottest-tech-hub-in-2019/&#34;&gt;Has  the UK has become the world’s hottest tech hub in 2019?&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;每周言论&#34;&gt;每周言论&lt;/h3&gt;
+&lt;p&gt;**1、**勤劳最终会被人工智能取代。但有阅历的人，会想到的更深。你仔细想想，机器最终又会归于谁呢？&lt;/p&gt;
+&lt;p&gt;——奥巴马与《美国工厂》&lt;/p&gt;
+&lt;p&gt;**2、**大多数装腔作势的背后总是隐藏某种东西，尽管在开始时并非都如此。&lt;/p&gt;
+&lt;p&gt;——《了不起的盖茨比》&lt;/p&gt;
+&lt;p&gt;**3、**群体是匿名的，因此是免责的。对个体产生约束力的责任感在这里完全缺席。&lt;/p&gt;
+&lt;p&gt;——《乌合之众》&lt;/p&gt;
+&lt;h3 id=&#34;教程技巧&#34;&gt;教程技巧&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://github.com/exacity/simplified-deeplearning&#34;&gt;DeepLearningBook&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DeepLearningBook 中文版，以及读书笔记。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://github.com/nondanee/UnblockNeteaseMusic&#34;&gt;UnblockNeteaseMusic&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;解锁网易云音乐客户端变灰歌曲。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://victorzhou.com/blog/minify-svgs/&#34;&gt;Minify Your SVGs&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如何缩小你的SVG文件。&lt;/p&gt;
+&lt;h3 id=&#34;资源福利&#34;&gt;资源福利&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://github.com/fangzesheng/free-api&#34;&gt;free-api&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;收集免费的接口服务，做一个api的搬运工。含有很多免费的接口：网络图片文字识别、手写文字识别、车牌识别、票据识别等等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://ptable.com/&#34;&gt;互动式元素周期表&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;点击查看各种元素的介绍，以及其他一些互动功能。（via &lt;a href=&#34;http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html&#34;&gt;科技爱好者周刊&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://gissue.github.io/&#34;&gt;Gissue&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GitHub issues  备份工具，只要填入仓库地址就可以下载压缩文件包，一次性下载所有 issue。（via tangkaichuan ）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;http://bbcsfx.acropolis.org.uk/&#34;&gt;BBC Logo Sound Effects&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;英国广播公司 BBC 的音效库，包含16000多种可以下载的音效，比如停车的声音、机床的声音、鸟叫的声音等等。(via &lt;a href=&#34;http://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html&#34;&gt;科技爱好者周刊&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5、&lt;a href=&#34;https://github.com/tebelorg/TagUI-Python&#34;&gt;TagUI-Python&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个 Python 的自动化模块，可以自己编写脚本，完成浏览器自动化、键盘自动化、鼠标自动化等操作。（via kensoh ）&lt;/p&gt;
+&lt;h3 id=&#34;每周文章&#34;&gt;每周文章&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://aeon.co/ideas/let-us-now-stop-praising-famous-men-and-women&#34;&gt;Let us now stop praising famous men (and women)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【现在，让我们停止赞美名人（和女人）】文章觉得，弥漫在社会上层的赞美之雾，是不正当激励的产物。同时，过度赞扬也会对行为产生影响，不利方面的影响。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://jpkoning.blogspot.com/2019/08/starbucks-monetary-superpower.html&#34;&gt;Starbucks,  Monetary Superpower&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【星巴克，货币超级大国】星巴克已经成功让顾客不用现金、借记卡、信用卡购买咖啡了，它有自己的支付选项。而你存入星巴克电子账户的钱，正在为公司提供免费的债务。这个数字现在是16亿美元，想想这么多钱公司可以拿来做什么。另外，还不算各种原因导致电子账户钱丢失的，2018年这部分的钱是1.55亿美元，这些钱将直接进入公司账户。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://mp.weixin.qq.com/s/C9DRqai3Jmk4NYzp114pKg&#34;&gt;榨干每一滴流量：产品全链路增长体系&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;强有力的引导，细节优化再优化，串联起来。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://tjcx.me/posts/consumption-distraction/&#34;&gt;Consume less, create more&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【少消费，多创造】现代科技让我们成为消费者，而不是创造者。作者在通勤路上的公交写了一个月的博文，1600个词。他鼓励多创造而不是多消费，即使创造的是垃圾，那也是自己的垃圾，垃圾里总会有那么一些可以用的。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>周记｜第二十一期</title>
+                <link>https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9C%9F/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9C%9F/</guid>
+                <pubDate>Sat, 17 Aug 2019 12:29:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (YXNG)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h3 id=&#34;每周资讯&#34;&gt;每周资讯&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://techxplore.com/news/2019-07-drones-days-photovoltaic.html&#34;&gt;加州大学伯克利分校宣布发现更高效率的光伏电池&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;加州大学伯克利分校的研究人员宣布，他们研发出了更高效率的光伏电池，可以让超轻型无人飞机连续飞行数天。目前，商用光伏电池的光能转化效率是23％，该团队将效率提高到29％，还声称不久的将来有望达到50％。而在过去的15年里，利用热伏特将热转化为电的效率一直停留在23%  ，因此这算是一个很重大的突破。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.theverge.com/2019/7/30/20746868/apple-data-transfer-project-google-microsoft-twitter&#34;&gt;Apple joins Google, Facebook, and Twitter in data-sharing project&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;苹果宣布加入了谷歌、 Facebook 和 Twitter 的数据共享项目，开发可互操作的系统，将数据输入和输出  iCloud。在未来，不同服务之间移动数据将变得容易，当然，一方面是方便，另一方面是安全。&lt;/p&gt;
+&lt;h3 id=&#34;有趣数据&#34;&gt;有趣数据&lt;/h3&gt;
+&lt;p&gt;在阿波罗11号的纪念日前夕，乐高让哈里斯民意调查公司&lt;a href=&#34;https://arstechnica.com/science/2019/07/american-kids-would-much-rather-be-youtubers-than-astronauts/&#34;&gt;调查&lt;/a&gt;了来自美国、中国和英国的&lt;strong&gt;3000&lt;/strong&gt;名儿童，了解他们对太空的态度和知识。  结果显示，至少对于西方国家来说，现在的孩子们对 YouTube 的兴趣要大于对太空飞行的兴趣。大约&lt;strong&gt;3/10&lt;/strong&gt;的英美国家的孩子想要成为YouTubers  或者 Vloggers，仅有&lt;strong&gt;11%&lt;strong&gt;的孩子想要成为宇航员。相对的，中国孩子想要成为宇航员的占比为&lt;/strong&gt;56%&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;每周言论&#34;&gt;每周言论&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、《你的第一本哲学书》&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们比较不同个人的动机时，道德要求是否普遍的问题就会出现；不仅如此，在我们比较不同社会和时代的道德标准时，这一问题也会出现。很多你认为是错误的事情，在以前却被大多数人当作是天经地义的，例如奴隶制、农奴制、活人献祭、种族隔离、对宗教和政治自由的禁锢、世袭等级制等等。而且或许某些你现在认为是正确的事情，将来也会被后人认为是错误的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、《乌合之众》&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-在与理性永恒的冲突中，感情从未失过手。&lt;/p&gt;
+&lt;p&gt;-影响民众想象力的，并不是事实本身，而是它们发生和引起注意的方式。&lt;/p&gt;
+&lt;h3 id=&#34;教程技巧&#34;&gt;教程技巧&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://github.com/pingan8787/Leo-JavaScript/blob/master/Cute-GraphQL/README.md&#34;&gt;《GraphQL 入门手册》&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;GraphQL 入门教程，非常基础适合新手学习。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html&#34;&gt;Bypassing anti-incognito detection in Google Chrome&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;隐身模式用来防止网站追踪用户。有时，开发者可能希望识别，哪些用户正在使用隐身模式。本文介绍可用的方法。（via &lt;a href=&#34;http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html&#34;&gt;科技爱好者周刊&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://www.fastcompany.com/90334451/27-incredibly-useful-things-you-didnt-know-google-sheets-could-do&#34;&gt;27 incredibly useful things you didn’t know Google Sheets could do&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【27个你不知道 Google  Sheets 能做的非常有用的事情】快速创建表格、IMPORTRANGE函数等的应用确实很常用且高效。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4、&lt;a href=&#34;https://github.com/ziishaned/learn-regex/blob/master/translations/README-zh-simple.md&#34;&gt;learn-regex&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;学习正则表达式。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5、&lt;a href=&#34;https://medium.com/@filipvitas/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c&#34;&gt;How to bypass “slider CAPTCHA” with JS and Puppeteer&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如何使用 JS 和 Puppeteer 绕过“滑块验证码”。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6、&lt;/strong&gt;&lt;a href=&#34;https://github.com/iamadamdev/bypass-paywalls-chrome&#34;&gt;&lt;strong&gt;通过&lt;/strong&gt; &lt;strong&gt;Chrome&lt;/strong&gt; &lt;strong&gt;插件绕过付费墙&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这里介绍的是通过 Bypass  Paywalls for Chrome 绕过 Chrome 的收费墙，中文教程在&lt;a href=&#34;https://digitalimmigrant.org/766&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;资源福利&#34;&gt;资源福利&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;https://github.com/crimx/ext-saladict&#34;&gt;ext-saladict&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chrome/Firefox 浏览器插件，网页划词翻译。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://github.com/guanguans/favorite-link&#34;&gt;favorite-link&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;每日收集开源项目，包含开发工具和资源。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://github.com/No-Github/Digital-Privacy&#34;&gt;Digital-Privacy&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一个关于数字隐私搜集、保护、清理集一体的方案。&lt;/p&gt;
+&lt;h3 id=&#34;每周文章&#34;&gt;每周文章&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1、&lt;a href=&#34;http://jsomers.net/blog/speed-matters&#34;&gt;Speed matters: Why working quickly is more important than it seems&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;速度很重要。做得快不仅可以让你在单位时间内完成更多的工作，而且 因为你工作得很快，所以你会觉得成本低，从而倾向于做更多。（via &lt;a href=&#34;http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html&#34;&gt;科技爱好者周刊&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2、&lt;a href=&#34;https://www.ben-evans.com/benedictevans/2019/7/31/Netflix&#34;&gt;Netflix is not a tech company&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;【Netflix 不是一家科技公司】所有重要的问题都是电视问题。  同样的镜头也适用于特斯拉，或许多消费者的 D2C 品牌。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3、&lt;a href=&#34;https://matthewstrom.com/writing/wayfinding.html?utm_source=wanqu.co&amp;amp;utm_campaign=Wanqu+Daily&amp;amp;utm_medium=website&#34;&gt;The Slippery Slope of In-Product Messaging&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“任何时候，你看到一个设备上添加了标志或标签，这就是设计不好的迹象。”对于产品内弹出消息解释某些功能的这类设定，作者认为这是设计不好的体现。其实可以观察地铁、火车站、机场的那些指示标，看看人家是怎么设计的，能够帮助人们在人流大且陌生环境中如何快速获取信息。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
                                 
                             
                         
