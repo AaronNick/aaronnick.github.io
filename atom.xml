@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-22T22:53:42&#43;08:00</updated>
+    <updated>2020-12-23T12:14:36&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -77,17 +77,17 @@
             <title type="text">朋友圈消失的个人生活</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%94%9F%E6%B4%BB/" />
             <id>https://aaronnick.github.io/posts/%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%B6%88%E5%A4%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%94%9F%E6%B4%BB/</id>
-            <updated>2020-12-20T00:54:01&#43;08:00</updated>
+            <updated>2020-12-23T09:22:07&#43;08:00</updated>
             <published>2020-12-15T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">大概从两年前开始，我逐渐放弃了在朋友圈发太多的个人生活。 这样做的原因主要有两个，其一是保护隐私，其二是避免对比。 先说第一个，关于隐……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">大概从两年前开始，我逐渐放弃了在朋友圈发太多的个人生活。 这样做的原因主要有两个，其一是..保护隐私..，其二是..避免对比..。 先……</summary>
             
                 <content type="html">&lt;p&gt;大概从两年前开始，我逐渐放弃了在朋友圈发太多的个人生活。&lt;/p&gt;
-&lt;p&gt;这样做的原因主要有两个，其一是保护隐私，其二是避免对比。&lt;/p&gt;
+&lt;p&gt;这样做的原因主要有两个，其一是..保护隐私..，其二是..避免对比..。&lt;/p&gt;
 &lt;p&gt;先说第一个，关于隐私。&lt;/p&gt;
 &lt;p&gt;从业互联网以来，我深知在社交平台暴露自己隐私的危害性，即使是简单的一张照片，一段吐槽，一截视频，都有可能包含着我众多的隐私，而这些隐私会在某个时间点被某些人利用。&lt;/p&gt;
 &lt;p&gt;我的微信从大学开始便加入了众多的陌生人，一面之缘的朋友，为了交换利益的社会人，鱼龙混杂。有人说，你可以设置标签、分组啊。这是一个办法，但我不能保证一段时间后，我的分组还能跟上，相对于花费较大精力去维护分组的准确性，不如从源头切断。&lt;/p&gt;
@@ -108,7 +108,7 @@
 &lt;p&gt;朋友圈不发个人生活，那我发什么呢？取而代之的是发一些书籍、电影的推荐，或是简单写一下感想。&lt;/p&gt;
 &lt;p&gt;书籍和电影，在我看来是一种艺术，而艺术是共通的，不管是阳春白雪，还是下里巴人，均有人能够欣赏，产生共鸣。&lt;/p&gt;
 &lt;p&gt;生活不一样，它被发出来之前，大多就被编辑好了，也定位好了，作用就是表现。我回看以前的生活朋友圈，无不隐含着炫耀的底色，为了满足我卑微的虚荣心。我看到朋友圈里那些琳琅满目的照片，那高大上的定位，立刻就想起我以前的样子。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;艺术的记录可以带来平静，也可以吸引志同道合的朋友；生活的炫耀带来仰慕或嫉妒，带来遥不可及或疏远。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;艺术的记录可以带来平静，也可以吸引..志同道合..的朋友；生活的炫耀带来仰慕或嫉妒，带来遥不可及或疏远。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;于是对比之下，我选择了前者。&lt;/p&gt;
 </content>
             
@@ -133,6 +133,12 @@
                                 <category scheme="https://aaronnick.github.io/tags/%E6%9C%8B%E5%8F%8B%E5%9C%88/" term="朋友圈" label="朋友圈" />
                             
                         
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/" term="隐私" label="隐私" />
+                            
+                        
                     
                 
             
@@ -142,7 +148,7 @@
             <title type="text">北京网上预约洁牙经历</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E8%AE%B0%E9%A6%96%E6%AC%A1%E7%BD%91%E4%B8%8A%E9%A2%84%E7%BA%A6%E6%B4%81%E7%89%99%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%AE%A8%E5%8E%8C%E6%8E%A8%E9%94%80/" />
             <id>https://aaronnick.github.io/posts/%E8%AE%B0%E9%A6%96%E6%AC%A1%E7%BD%91%E4%B8%8A%E9%A2%84%E7%BA%A6%E6%B4%81%E7%89%99%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%AE%A8%E5%8E%8C%E6%8E%A8%E9%94%80/</id>
-            <updated>2020-12-20T01:14:27&#43;08:00</updated>
+            <updated>2020-12-23T09:23:58&#43;08:00</updated>
             <published>2020-12-13T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -180,12 +186,12 @@
 &lt;li&gt;逛街时被路边推销员拦下的推销；&lt;/li&gt;
 &lt;li&gt;被服务时如理发中的推销。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;这几类推销场景，我的厌恶程度是逐渐提升的。对于列车员、同学的推销，我是对主体有所理解，且这个推销行为不会特别影响我，所以我的接受程度还行；逛街时被打断，对于一个毫无关联的人，给我推销毫无兴趣的东西，还影响到我的行走，我觉得这是比较自私自利的行为；而最不可接受的一类是，我既然付费购买了服务，却在服务当中被「夹带私货」，令服务体验大打折扣，理发便是最常见的此类场景。&lt;/p&gt;
+&lt;p&gt;这几类推销场景，我的厌恶程度是逐渐提升的。对于列车员、同学的推销，我是对主体有所理解，且这个推销行为不会特别影响我，所以我的接受程度还行；逛街时被打断，对于一个毫无关联的人，给我推销毫无兴趣的东西，还影响到我的行走，我觉得这是比较自私自利的行为；而最不可接受的一类是，我既然付费购买了服务，却在服务当中被「..夹带私货..」，令服务体验大打折扣，理发便是最常见的此类场景。&lt;/p&gt;
 &lt;p&gt;广告也是一种推销，一部分类型的广告可接受程度还行，例如豆瓣的信息流广告，我免费使用它的产品，它为了收益推荐广告，这是一个合理的模式；但是有些广告就很难接受，例如我已经买了某视频网站的会员，但还是给我插播「会员专属广告」，这就很难说得过去了。&lt;/p&gt;
 &lt;p&gt;因此，在我看来推销主要有两类，一类是可接受的，因为自己几乎没有成本，例如互联网里免费提供的产品；另一类是难以接受的，自己已经对服务付费了，它还要想尽办法榨取用户的价值，恨不得每个缝里都要塞进几个广告，典型的如理发时喋喋不休的理发师、某些视频网站、某些产品。&lt;/p&gt;
 &lt;p&gt;所以，回到最初的问题，为什么大家都讨厌推销？从我的角度来看，大家讨厌的不是推销这个行为，而是对于自己已经付费却得不到应有服务的愤怒。如果这些医生在路边大声推销，而我只是路过，对于他们的推销我自然是毫无厌恶之情，因为与我无关；但是一旦我付费了，再给我推销，那就完全不一样了。&lt;/p&gt;
 &lt;p&gt;再往进一步想，这种现象为什么那么普遍？&lt;/p&gt;
-&lt;p&gt;一部分是利益，或是为了钱，或是完成 KPI；另一部分，我觉得往严重来讲，是缺乏一种契约精神。&lt;/p&gt;
+&lt;p&gt;一部分是利益，或是为了钱，或是完成 KPI；另一部分，我觉得往严重来讲，是缺乏一种..契约精神..。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;卢梭曾说「人生而自由，但却无往不在枷锁之中。」&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -322,7 +328,7 @@
             <title type="text">带饭一个月带给了我什么</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%B8%A6%E9%A5%AD%E4%B8%80%E4%B8%AA%E6%9C%88%E5%B8%A6%E7%BB%99%E4%BA%86%E6%88%91%E4%BB%80%E4%B9%88/" />
             <id>https://aaronnick.github.io/posts/%E5%B8%A6%E9%A5%AD%E4%B8%80%E4%B8%AA%E6%9C%88%E5%B8%A6%E7%BB%99%E4%BA%86%E6%88%91%E4%BB%80%E4%B9%88/</id>
-            <updated>2020-12-20T02:23:50&#43;08:00</updated>
+            <updated>2020-12-22T22:57:52&#43;08:00</updated>
             <published>2020-12-05T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -340,7 +346,7 @@
 &lt;p&gt;下定决心后，便趁着双十一在网上购买了两个钢化玻璃的带饭盒，很好看，清洗也方便，但是重量也不是盖的，每天提着上班手都要断了，于是乎干脆打车上下班，便没有了这烦恼。&lt;/p&gt;
 &lt;p&gt;准备好带饭工具之后，就要开始考虑该做什么菜。我此前基本是个做饭小白，炒个青菜都不知道该放多少油盐。这个月的带饭经历也给自己带来了不小的收获，不敢说是居家好男人，但至少能做出几样菜出来，不至于饿死自己。&lt;/p&gt;
 &lt;p&gt;一开始我在「下厨房」这款小程序上学习，每到要做饭的时候就点开看下，简单方便。后面发现上面的教程要么就是很平常，要么就是不清晰。然后朋友推荐我在「抖音」上搜菜谱，说是上面简单易懂且很好吃，无奈自己几乎不用这款软件，便放弃了。最后是一个室友推荐了一款软件「懒饭」，一看名字就很符合我。下载之后觉得很好用，两三分钟视频教程，附带图文教程，生动具体。我的不少菜都是从上面学习而来，也推荐给有需要的人。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/0081Kckwgy1glcr7ltrhlj30zu0qc1ky.jpg&#34; alt=&#34;◎ 初学者的菜&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/0081Kckwgy1glcr7ltrhlj30zu0qc1ky.jp&#34; alt=&#34;◎ 初学者的菜&#34; title=&#34;初学者的菜&#34;&gt;&lt;/p&gt;
 &lt;p&gt;关于买菜。作为一个号称普遍「996」的互联网搬砖者，下班买菜这种场景只存在梦里。我一般通过京东到家（前期），美团买菜（当前）线上购买，在当天吃晚餐的时候买第二天或者第三天的菜，回到家后菜也刚好送达。&lt;/p&gt;
 &lt;p&gt;我日常操作是当天下班回来开始准备明天的饭菜：准备配料、切菜、装好米定时明日八点开始煮。这过程大约花费 20 分钟，加上洗锅刷饭差不多 30 分钟。早上八点半醒来，开始拿菜出来炒，炒完菜盛好饭大概花去 20 分钟。大多数时候我只是煮一个大菜，然后分两份早晚吃，有时候也会煮两个菜，时间上就会多几分钟。剩余的刷锅洗碗，放水先泡着，留晚上回来再一并解决。&lt;/p&gt;
 &lt;h3 id=&#34;带饭给我带来了什么&#34;&gt;带饭给我带来了什么？&lt;/h3&gt;
@@ -1169,7 +1175,7 @@
             <title type="text">电脑操作手机的好利器</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E6%89%8B%E6%9C%BA%E7%9A%84%E5%A5%BD%E5%88%A9%E5%99%A8/" />
             <id>https://aaronnick.github.io/posts/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E6%89%8B%E6%9C%BA%E7%9A%84%E5%A5%BD%E5%88%A9%E5%99%A8/</id>
-            <updated>2020-12-22T22:50:09&#43;08:00</updated>
+            <updated>2020-12-22T22:56:52&#43;08:00</updated>
             <published>2020-08-30T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1192,14 +1198,12 @@
 &lt;p&gt;其实，还有一个很大的用处，那就是适合上班摸鱼。老板以为你在电脑上奋笔疾书，其实是在刷别的东西。&lt;/p&gt;
 &lt;h3 id=&#34;解决方案&#34;&gt;解决方案&lt;/h3&gt;
 &lt;p&gt;多番寻找之下，找到一个几乎支持全平台的软件——&lt;strong&gt;虫洞&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1gi938fka7ij31tx0u0npd.jpg&#34; alt=&#34;◎ 虫洞&#34; title=&#34;虫洞&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;官网：https://er.run/&lt;/p&gt;
 &lt;p&gt;支持平台：PC、Mac、iOS、Android、Linux（开发中）&lt;/p&gt;
 &lt;p&gt;连接方式：Wi-Fi、USB&lt;/p&gt;
 &lt;p&gt;费用：基础功能免费，可付费解锁高级功能&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlgy1gi93b7d910j30u010mn2y.jpg&#34; alt=&#34;◎ 功能列表&#34; title=&#34;功能列表&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;实际体验&#34;&gt;实际体验&lt;/h3&gt;
 &lt;p&gt;我的两端是 Mac 以及 Android，经过一天的体验，功能上基本满足了我的需求，以下讲讲主观感受。&lt;/p&gt;
 &lt;p&gt;在连接的时候，发现通过 Wi-Fi 的方式一直连不上，电脑始终提示「尚未发现设备」。于是我加入到了官方的 Telegram 群组并反馈该问题，没想到热心的用户还是挺多，很多就解决了我的问题——&lt;strong&gt;先通过 USB 连接一次，然后拔掉线，重新进软件就可以了&lt;/strong&gt;。&lt;/p&gt;
