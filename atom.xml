@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-24T13:06:57&#43;08:00</updated>
+    <updated>2020-12-24T21:27:20&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,10 +17,103 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
         <entry>
+            <title type="text">典型的一天</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%85%B8%E5%9E%8B%E7%9A%84%E4%B8%80%E5%A4%A9/" />
+            <id>https://aaronnick.github.io/posts/%E5%85%B8%E5%9E%8B%E7%9A%84%E4%B8%80%E5%A4%A9/</id>
+            <updated>2020-12-24T21:24:50&#43;08:00</updated>
+            <published>2020-12-24T21:20:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">以前生活不是很规律，早上睡懒觉到即将上班的点，然后急冲冲赶去公司；晚上加班写需求，熬夜刷剧。自从开始做饭以后，我的生活便开始过得很……</summary>
+            
+                <content type="html">&lt;p&gt;以前生活不是很规律，早上睡懒觉到即将上班的点，然后急冲冲赶去公司；晚上加班写需求，熬夜刷剧。自从开始做饭以后，我的生活便开始过得很规律。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;时间&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;事项&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;起床做饭，洗漱，看会儿资讯&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;打车出发去公司&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:00～12:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;查看关键数据，整理方案&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12:00～14:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;午饭，休息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14:00～18:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;评审/跟进项目，调研&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18:30～19:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;晚饭，网上买菜&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;19:00～20:00&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;处理今日琐事，或下班回家&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20:30～23:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;聊天放松/洗锅/切好明早的菜/洗澡/写作/学习&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;23:30～00:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;看书，然后睡觉&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;当然，这只是比较典型的一天，并不是每天都做同样的事情，事情虽然偶有不同，但是各个时间点差不了太多。&lt;/p&gt;
+&lt;p&gt;例如，早上往往会沟通方案，和相关人员对接，下午也不是每天都会有评审，大多只是跟进项目，与研发、测试沟通细节。&lt;/p&gt;
+&lt;p&gt;饭点的时间，我有时候和同组同事一起吃，有时候和前端同事一起吃。不同的人，聊的话题也各不相同。&lt;/p&gt;
+&lt;p&gt;自己的时间主要是在晚上下班后，放下一天的工作，开始自己的事情。有时候会和同事一起去吃顿饭，或者看个电影。大部分还是直接回家，然后简单放松下，偶尔会用健身器材锻炼一会儿。&lt;/p&gt;
+&lt;p&gt;相比一大群人出去，我比较喜欢呆在家里看书刷电影，然后写些文字，或者研究研究新东西。生活一旦..规律..，自己的时间也变得..充裕..，因为少了琐事的干扰，可以专心做自己感兴趣的事情。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Telegram 开始寻求创收</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/telegram-%E5%BC%80%E5%A7%8B%E5%AF%BB%E6%B1%82%E5%88%9B%E6%94%B6/" />
             <id>https://aaronnick.github.io/posts/telegram-%E5%BC%80%E5%A7%8B%E5%AF%BB%E6%B1%82%E5%88%9B%E6%94%B6/</id>
-            <updated>2020-12-24T13:06:28&#43;08:00</updated>
+            <updated>2020-12-24T14:14:13&#43;08:00</updated>
             <published>2020-12-24T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -30,9 +123,10 @@
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Telegram 创始人保罗昨日在自己的频道宣布，明年将开始通过给商业用户提供高级功能、频道广告平台、付费贴纸等方式进行创收以维持成本。 他在文中揭……</summary>
             
                 <content type="html">&lt;p&gt;Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/durov/142&#34;&gt;宣布&lt;/a&gt;，明年将开始通过给&lt;strong&gt;商业用户提供高级功能、频道广告平台、付费贴纸&lt;/strong&gt;等方式进行创收以维持成本。&lt;/p&gt;
-&lt;p&gt;他在文中揭露过去几年里，Telegram 大部分的开支（每年几亿美元成本），都是他用自己的积蓄维持的，很让人敬佩。&lt;/p&gt;
-&lt;p&gt;寻求合适的商业模式，这是好消息。之前我还一直担心 Telegram 一直免费下去，这种不可持续的运作方式迟早要完。而我完全舍不得这个如此好用的即时通讯软件。&lt;/p&gt;
-&lt;p&gt;他提到，这样做只是为了维持成本，用来支持 Telegram 不断发展下去，为数十亿用户服务。Telegram 将继续..保持中立..，忠于自己的价值观。&lt;/p&gt;
+&lt;p&gt;他在文中揭露过去几年里，Telegram 大部分的开支（每年几亿美元成本），都是他用&lt;strong&gt;自己的积蓄维持&lt;/strong&gt;的，很让人敬佩。&lt;/p&gt;
+&lt;p&gt;寻求合适的商业模式，这是好消息。之前我还一直担心 Telegram 一直免费下去，这种不可持续的运作方式迟早要完。&lt;/p&gt;
+&lt;p&gt;从 2018 年开始接触 Telegram，而后打开了我的新世界。至今，我都认为它是当下..最好用..的即时通讯软件，没有之一。我希望 Telegram 能够寻求合适的商业模式，持续地发展下去。&lt;/p&gt;
+&lt;p&gt;另外他还提到，这样做是为了维持成本，用来支持 Telegram 不断发展下去，为数十亿用户服务。Telegram 将..继续保持中立..，忠于自己的价值观。&lt;/p&gt;
 &lt;p&gt;一家令人敬佩的企业，一个令人敬佩的人物。&lt;/p&gt;
 &lt;p&gt;以下是翻译原文：&lt;/p&gt;
 &lt;blockquote&gt;
