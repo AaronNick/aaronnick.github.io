@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-25T01:23:06&#43;08:00</updated>
+    <updated>2020-12-25T20:57:30&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,63 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">使用 OneDrive 做轻量图床</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E4%BD%BF%E7%94%A8-onedrive-%E5%81%9A%E8%BD%BB%E9%87%8F%E5%9B%BE%E5%BA%8A/" />
+            <id>https://aaronnick.github.io/posts/%E4%BD%BF%E7%94%A8-onedrive-%E5%81%9A%E8%BD%BB%E9%87%8F%E5%9B%BE%E5%BA%8A/</id>
+            <updated>2020-12-25T20:55:22&#43;08:00</updated>
+            <published>2020-12-25T20:49:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">翻看我之前在 Typora 写的笔记，发现有些照片已经不能查看了，很是苦恼。 这时候才发现，拥有一个稳定的图床尤为重要。尤其是当自己需要放一些重要……</summary>
+            
+                <content type="html">&lt;p&gt;翻看我之前在 Typora 写的笔记，发现有些照片已经不能查看了，很是苦恼。&lt;/p&gt;
+&lt;p&gt;这时候才发现，拥有一个稳定的图床尤为重要。尤其是当自己需要放一些重要图片，或者敏感图片的时候，新浪、七牛云等这些图床就不再适用了。&lt;/p&gt;
+&lt;p&gt;我曾想过购买服务器自己搭建，大材小用而且还得备案，于是就放弃了，毕竟我只是轻量使用。&lt;/p&gt;
+&lt;p&gt;一番寻找之下，看到有介绍说 OneDrive 可以对图片生成外链，直接嵌入到博客当中，于是我便尝试了一下，发现..访问速度..还可以。&lt;/p&gt;
+&lt;h3 id=&#34;电脑端操作&#34;&gt;电脑端操作&lt;/h3&gt;
+&lt;p&gt;电脑打开 OneDrive 并登录，选择你要插入的图片，就会看到有个「嵌入」的选项。点击后就可以生成一个 URL，复制后使用 Markdown 语法插入即可。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m2CzMYKsuutZb5nQizXhavX0MygEFNZKy73v1EISQk3bZChH1AN2bKDxkT6-7Mq6Gos9NkN4nriYh1XbvpKjEup4gmnqxdwUybxRt6JETXO4UUAhJcTnIsKQSlIYkGYlf-dgUyMX2yLR5JpMU685wntNzqLBxUl82M1-YzZNM8wZNWUJhHutE8f4RDGtAMSO8?width=1024&amp;amp;height=543&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;生成 URL&#34;&gt;&lt;/p&gt;
+&lt;p&gt;因为我和朋友一起合租了 office 365 家庭版，OneDrive 有 1T 的储存空间，一年也才四五十，很划算。&lt;/p&gt;
+&lt;p&gt;作为主要面向企业服务的 OneDrive，..稳定性..肯定是高于一些小服务商的，不用担心倒闭的那天。&lt;/p&gt;
+&lt;h3 id=&#34;手机操作&#34;&gt;手机操作&lt;/h3&gt;
+&lt;p&gt;我手机也会使用 Markdown 记录笔记，这个时候不好访问网页版 OneDrive 来回去嵌入链接，怎么办呢？&lt;/p&gt;
+&lt;p&gt;这里有一个服务，可以将 OneDrive 的公开分享链接，转成直链，这样就可以插入到 Markdown 文档里面了。&lt;/p&gt;
+&lt;p&gt;OneDrive 直链获取工具：&lt;a href=&#34;https://onedrive.gimhoy.com/&#34;&gt;点击尝试&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mkG5e2mvk8oluTpLlaoPM_Ml7xn_H4MZxhDlrTuEih0aO3mM9qt5_n7P4S9zdoYoIRAU7cYbw1FrsYbQgdvkjPLz8AJ5A66tsI1FyhfWBBHMl9OOhZDA6lX44Hz-2euzghppNVxZKsJOxhDntSgv_-6_vSZ-_TSl8gX7Wy6bmI7guga6q-uM_3ChU-MBA7l2N?width=1024&amp;amp;height=454&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;直链生成工具&#34;&gt;&lt;/p&gt;
+&lt;p&gt;本文所有图片都是通过 OneDrive 嵌入的，访问速度如何？&lt;/p&gt;
+&lt;p&gt;对于轻量使用的我来说，..够用..。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/onedrive/" term="OneDrive" label="OneDrive" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E5%9B%BE%E5%BA%8A/" term="图床" label="图床" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">典型的一天</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%85%B8%E5%9E%8B%E7%9A%84%E4%B8%80%E5%A4%A9/" />
