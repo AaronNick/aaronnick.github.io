@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 25 Dec 2020 20:57:30 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2020 09:36:06 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
@@ -39,7 +39,7 @@
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;p&gt;翻看我之前在 Typora 写的笔记，发现有些照片已经不能查看了，很是苦恼。&lt;/p&gt;
-&lt;p&gt;这时候才发现，拥有一个稳定的图床尤为重要。尤其是当自己需要放一些重要图片，或者敏感图片的时候，新浪、七牛云等这些图床就不再适用了。&lt;/p&gt;
+&lt;p&gt;这时候才发现，拥有一个稳定的图床尤为重要。尤其是当自己需要放一些..重要..图片，或者..敏感..图片的时候，新浪、七牛云等这些图床就不再适用了。&lt;/p&gt;
 &lt;p&gt;我曾想过购买服务器自己搭建，大材小用而且还得备案，于是就放弃了，毕竟我只是轻量使用。&lt;/p&gt;
 &lt;p&gt;一番寻找之下，看到有介绍说 OneDrive 可以对图片生成外链，直接嵌入到博客当中，于是我便尝试了一下，发现..访问速度..还可以。&lt;/p&gt;
 &lt;h3 id=&#34;电脑端操作&#34;&gt;电脑端操作&lt;/h3&gt;
