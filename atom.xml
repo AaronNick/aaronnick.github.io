@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-27T16:39:41&#43;08:00</updated>
+    <updated>2020-12-27T17:08:31&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,10 +17,10 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
         <entry>
-            <title type="text">添加诗歌引用</title>
+            <title type="text">poetry-quote</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%A2%9E%E5%8A%A0%E8%AF%97%E6%AD%8C%E5%BC%95%E7%94%A8/" />
             <id>https://aaronnick.github.io/posts/%E5%A2%9E%E5%8A%A0%E8%AF%97%E6%AD%8C%E5%BC%95%E7%94%A8/</id>
-            <updated>2020-12-27T16:39:03&#43;08:00</updated>
+            <updated>2020-12-27T17:08:13&#43;08:00</updated>
             <published>2020-12-27T15:50:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -137,10 +137,13 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;语法：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;话括号放上去就被直接识别了，无奈只能用文字描述了……&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;pre&gt;&lt;code&gt;两个花括号&amp;lt; quote-center &amp;gt;
 诗歌内容
 &amp;lt; /quote-center &amp;gt;两个花括号
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;效果见本文开头。&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;效果：见本文开头。&lt;/p&gt;
 </content>
             
             
@@ -701,10 +704,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">带饭一个月带给了我什么</title>
+            <title type="text">带饭</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%B8%A6%E9%A5%AD%E4%B8%80%E4%B8%AA%E6%9C%88%E5%B8%A6%E7%BB%99%E4%BA%86%E6%88%91%E4%BB%80%E4%B9%88/" />
             <id>https://aaronnick.github.io/posts/%E5%B8%A6%E9%A5%AD%E4%B8%80%E4%B8%AA%E6%9C%88%E5%B8%A6%E7%BB%99%E4%BA%86%E6%88%91%E4%BB%80%E4%B9%88/</id>
-            <updated>2020-12-24T22:18:14&#43;08:00</updated>
+            <updated>2020-12-27T16:42:35&#43;08:00</updated>
             <published>2020-12-05T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
