@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2020-12-26T16:45:59&#43;08:00</updated>
+    <updated>2020-12-27T16:39:41&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,10 +17,163 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
         <entry>
+            <title type="text">添加诗歌引用</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%A2%9E%E5%8A%A0%E8%AF%97%E6%AD%8C%E5%BC%95%E7%94%A8/" />
+            <id>https://aaronnick.github.io/posts/%E5%A2%9E%E5%8A%A0%E8%AF%97%E6%AD%8C%E5%BC%95%E7%94%A8/</id>
+            <updated>2020-12-27T16:39:03&#43;08:00</updated>
+            <published>2020-12-27T15:50:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">《错误》 郑愁予 我打江南走过 那等在季节里的容颜如莲花的开落 东风不来，三月的柳絮不飞 你的心如小小的寂寞的城 恰若青石的街道向晚 跫音不响，……</summary>
+            
+                <content type="html">&lt;blockquote class=&#34;quote-center&#34;&gt;
+        &lt;p&gt;&lt;strong&gt;《错误》&lt;/strong&gt;&lt;br/&gt;
+郑愁予&lt;br/&gt;
+我打江南走过&lt;br/&gt;
+那等在季节里的容颜如莲花的开落&lt;br/&gt;
+东风不来，三月的柳絮不飞&lt;br/&gt;
+你的心如小小的寂寞的城&lt;br/&gt;
+恰若青石的街道向晚&lt;br/&gt;
+跫音不响，三月的春帷不揭&lt;br/&gt;
+你的心是小小的窗扉紧掩&lt;br/&gt;
+我达达的马蹄是美丽的错误&lt;br/&gt;
+我不是归人，是个过客……&lt;/p&gt;&lt;/blockquote&gt; 
+&lt;h3 id=&#34;诗歌引用格式&#34;&gt;诗歌引用格式&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首先在位置：blog\layouts\shortcodes 文件夹下新建文件 &lt;code&gt;quote-center.html&lt;/code&gt;，填入以下代码：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;blockquote&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;quote-center&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+    {{- $content := .Inner | markdownify -}}
+    {{- if not (strings.HasPrefix $content &amp;#34;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&amp;#34;) }}
+        {{ printf `&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;%s&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;` $content | safeHTML }}
+    {{- else }}
+        {{- $content }}
+    {{- end -}}
+&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;blockquote&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;其次在位置：\themes\meme\assets\scss\custom\ 下的 &lt;code&gt;_custom.scss&lt;/code&gt; 填入以下代码：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;nt&#34;&gt;blockquote&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;quote-center&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;position&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;relative&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;border-left&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;none&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;padding-left&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;border-top&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;px&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;solid&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;contrast&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;lower&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;border-bottom&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;px&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;solid&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;contrast&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;lower&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+    &lt;span class=&#34;err&#34;&gt;p{&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;text-align&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;center&lt;/span&gt; &lt;span class=&#34;cp&#34;&gt;!important&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;margin-top&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;1.5&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;em&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;margin-bottom&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;1.5&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;em&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+    &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;before&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;position&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;absolute&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;left&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;content&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;“&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;contrast&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;low&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;font-size&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;em&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;font-weight&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;bold&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;margin-top&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;-0.42&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;em&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+    &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nd&#34;&gt;after&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;position&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;absolute&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;right&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;content&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;”&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;var&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;--&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;contrast&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;low&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;font-size&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;em&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;font-weight&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;bold&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+        &lt;span class=&#34;k&#34;&gt;margin-top&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;-0.74&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;em&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;span class=&#34;err&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;语法：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;两个花括号&amp;lt; quote-center &amp;gt;
+诗歌内容
+&amp;lt; /quote-center &amp;gt;两个花括号
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;效果见本文开头。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/hugo/" term="Hugo" label="Hugo" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%97%E6%AD%8C/" term="诗歌" label="诗歌" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">使用 OneDrive 做轻量图床</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E4%BD%BF%E7%94%A8-onedrive-%E5%81%9A%E8%BD%BB%E9%87%8F%E5%9B%BE%E5%BA%8A/" />
             <id>https://aaronnick.github.io/posts/%E4%BD%BF%E7%94%A8-onedrive-%E5%81%9A%E8%BD%BB%E9%87%8F%E5%9B%BE%E5%BA%8A/</id>
-            <updated>2020-12-26T16:32:32&#43;08:00</updated>
+            <updated>2020-12-27T15:38:07&#43;08:00</updated>
             <published>2020-12-25T20:49:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -240,10 +393,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">《后翼弃兵》｜天才棋手的成长故事</title>
+            <title type="text">《后翼弃兵》｜天才棋手成长故事</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%90%8E%E7%BF%BC%E5%BC%83%E5%85%B5%E5%A4%A9%E6%89%8D%E6%A3%8B%E6%89%8B%E6%88%90%E9%95%BF%E6%95%85%E4%BA%8B/" />
             <id>https://aaronnick.github.io/posts/%E5%90%8E%E7%BF%BC%E5%BC%83%E5%85%B5%E5%A4%A9%E6%89%8D%E6%A3%8B%E6%89%8B%E6%88%90%E9%95%BF%E6%95%85%E4%BA%8B/</id>
-            <updated>2020-12-23T20:09:35&#43;08:00</updated>
+            <updated>2020-12-27T00:12:26&#43;08:00</updated>
             <published>2020-12-22T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -252,7 +405,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">《后翼弃兵》这部剧，可以说是 2020 的迷你剧黑马，横空出世后，横扫各大排行榜。 看完这部剧后，才知道它不仅讲的是一个天才儿童的成长故事，还……</summary>
             
-                <content type="html">&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/0081Kckwgy1glx018qw5qj30u018fn5d.jpg&#34; alt=&#34;&#34; title=&#34;《后翼弃兵》海报&#34;&gt;&lt;/p&gt;
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mNZimtLWITwKEmjGz907_4yEomF-K8rdTJ_SmBJkFFtd39M4eFBr0oYsy4QqcoMAGzMZcQEq9lDvo9UZsh5vhgqTaRSzuDGD-81NxaoTOQ5vGmR8h_YV-k58jXuvVod59kvq7HOwaTCFRFcB1AJGb7keylqKyVvBO0FjSZVGakndJRrLgCisop47ZZm1ghgpb?width=692&amp;amp;height=1024&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;《后翼弃兵》&#34;&gt;&lt;/p&gt;
 &lt;p&gt;《后翼弃兵》这部剧，可以说是 2020 的迷你剧黑马，横空出世后，横扫各大排行榜。&lt;/p&gt;
 &lt;p&gt;看完这部剧后，才知道它不仅讲的是一个天才儿童的成长故事，还试图讨论更多的话题：&lt;strong&gt;女性，婚姻，自我救赎，个人主义和合作&lt;/strong&gt;等。&lt;/p&gt;
 &lt;p&gt;哈蒙身边出现的几个关键女性：&lt;/p&gt;
@@ -458,10 +611,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">最近成都女孩被网暴后，我想起了我的故事</title>
+            <title type="text">隐私泄露</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AE%B2%E8%AE%B2%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/" />
             <id>https://aaronnick.github.io/posts/%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%BF%99%E4%BB%B6%E4%BA%8B%E8%AE%B2%E8%AE%B2%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B/</id>
-            <updated>2020-12-23T20:24:37&#43;08:00</updated>
+            <updated>2020-12-27T00:11:03&#43;08:00</updated>
             <published>2020-12-08T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1117,10 +1270,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">《人间值得》｜90 岁老人的谆谆教诲</title>
+            <title type="text">《人间值得》｜九十老者谆谆教诲</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E4%BA%BA%E9%97%B4%E5%80%BC%E5%BE%97%E4%B9%9D%E5%8D%81%E5%B2%81%E8%80%81%E4%BA%BA%E7%9A%84%E8%B0%86%E8%B0%86%E6%95%99%E8%AF%B2/" />
             <id>https://aaronnick.github.io/posts/%E4%BA%BA%E9%97%B4%E5%80%BC%E5%BE%97%E4%B9%9D%E5%8D%81%E5%B2%81%E8%80%81%E4%BA%BA%E7%9A%84%E8%B0%86%E8%B0%86%E6%95%99%E8%AF%B2/</id>
-            <updated>2020-12-26T12:27:51&#43;08:00</updated>
+            <updated>2020-12-27T00:10:47&#43;08:00</updated>
             <published>2020-09-05T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -1566,10 +1719,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">电脑操作手机的好利器</title>
+            <title type="text">软件｜电脑操作手机</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E6%89%8B%E6%9C%BA%E7%9A%84%E5%A5%BD%E5%88%A9%E5%99%A8/" />
             <id>https://aaronnick.github.io/posts/%E7%94%B5%E8%84%91%E6%93%8D%E4%BD%9C%E6%89%8B%E6%9C%BA%E7%9A%84%E5%A5%BD%E5%88%A9%E5%99%A8/</id>
-            <updated>2020-12-22T22:56:52&#43;08:00</updated>
+            <updated>2020-12-27T00:10:14&#43;08:00</updated>
             <published>2020-08-30T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -2417,10 +2570,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">增加两行代码，为什么要花两天时间！</title>
+            <title type="text">两行代码改两天</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E4%BD%A0%E5%8F%AA%E5%A2%9E%E5%8A%A0%E4%BA%86%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4/" />
             <id>https://aaronnick.github.io/posts/%E4%BD%A0%E5%8F%AA%E5%A2%9E%E5%8A%A0%E4%BA%86%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E4%B8%A4%E5%A4%A9%E6%97%B6%E9%97%B4/</id>
-            <updated>2020-12-25T00:02:20&#43;08:00</updated>
+            <updated>2020-12-27T00:09:12&#43;08:00</updated>
             <published>2020-07-28T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -2608,10 +2761,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">记账｜我从「钱迹」转至 Google sheets</title>
+            <title type="text">记账｜Google sheets 做预算和记账</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E5%B7%A5%E5%85%B7%E8%81%8A%E4%B8%80%E8%81%8A%E8%AE%B0%E8%B4%A6%E4%BB%8E%E9%92%B1%E8%BF%B9%E8%BD%AC%E7%A7%BB%E8%87%B3-google-sheets-%E7%9A%84%E5%BF%83%E7%90%86%E8%B7%AF%E7%A8%8B/" />
             <id>https://aaronnick.github.io/posts/%E5%B7%A5%E5%85%B7%E8%81%8A%E4%B8%80%E8%81%8A%E8%AE%B0%E8%B4%A6%E4%BB%8E%E9%92%B1%E8%BF%B9%E8%BD%AC%E7%A7%BB%E8%87%B3-google-sheets-%E7%9A%84%E5%BF%83%E7%90%86%E8%B7%AF%E7%A8%8B/</id>
-            <updated>2020-12-22T22:48:07&#43;08:00</updated>
+            <updated>2020-12-27T00:09:45&#43;08:00</updated>
             <published>2020-07-22T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -3391,10 +3544,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">翻译｜拯救互联网的黑客马库斯·哈钦斯的自白（第三篇｜清算）</title>
+            <title type="text">翻译｜黑客哈钦斯（第三篇｜清算）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/" />
             <id>https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/</id>
-            <updated>2020-12-21T22:40:11&#43;08:00</updated>
+            <updated>2020-12-27T00:12:06&#43;08:00</updated>
             <published>2020-06-08T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -3518,10 +3671,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">翻译｜拯救互联网的黑客马库斯·哈钦斯的自白（第二篇｜重生）</title>
+            <title type="text">翻译｜黑客哈钦斯（第二篇｜重生）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/" />
             <id>https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/</id>
-            <updated>2020-12-21T22:40:04&#43;08:00</updated>
+            <updated>2020-12-27T00:12:15&#43;08:00</updated>
             <published>2020-06-07T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -3675,10 +3828,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">翻译｜拯救互联网的黑客马库斯·哈钦斯的自白（第一篇｜堕落）</title>
+            <title type="text">翻译｜黑客哈钦斯（第一篇｜堕落）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/" />
             <id>https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/</id>
-            <updated>2020-12-21T22:39:53&#43;08:00</updated>
+            <updated>2020-12-27T00:11:58&#43;08:00</updated>
             <published>2020-06-06T12:29:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
