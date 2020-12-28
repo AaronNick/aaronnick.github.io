@@ -3,33 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aaronnick.github.io/tags/hugo/</loc>
-    <lastmod>2020-12-27T20:17:28+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2020-12-27T21:04:36+08:00</lastmod>
+    <lastmod>2020-12-28T23:37:42+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2020-12-27T21:04:36+08:00</lastmod>
+    <lastmod>2020-12-28T23:37:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronnick.github.io/tags/%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2020-12-28T23:37:42+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/</loc>
-    <lastmod>2020-12-27T21:04:36+08:00</lastmod>
+    <lastmod>2020-12-28T23:37:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronnick.github.io/tags/%E8%8B%B1%E5%BC%8F%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2020-12-28T23:37:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronnick.github.io/posts/westernised-chinese-language/</loc>
+    <lastmod>2020-12-28T23:37:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronnick.github.io/tags/hugo/</loc>
+    <lastmod>2020-12-27T22:28:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/posts/poetry-quote/</loc>
-    <lastmod>2020-12-27T20:17:28+08:00</lastmod>
+    <lastmod>2020-12-27T22:28:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/tags/%E8%AF%97%E6%AD%8C/</loc>
-    <lastmod>2020-12-27T20:17:28+08:00</lastmod>
+    <lastmod>2020-12-27T22:28:03+08:00</lastmod>
   </url>
   
   <url>
@@ -59,7 +74,7 @@
   
   <url>
     <loc>https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2020-12-27T16:42:35+08:00</lastmod>
+    <lastmod>2020-12-28T15:35:22+08:00</lastmod>
   </url>
   
   <url>
@@ -89,7 +104,7 @@
   
   <url>
     <loc>https://aaronnick.github.io/about/</loc>
-    <lastmod>2020-12-23T12:11:07+08:00</lastmod>
+    <lastmod>2020-12-27T23:21:47+08:00</lastmod>
   </url>
   
   <url>
@@ -159,7 +174,7 @@
   
   <url>
     <loc>https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2020-12-25T00:00:59+08:00</lastmod>
+    <lastmod>2020-12-28T15:35:22+08:00</lastmod>
   </url>
   
   <url>
@@ -184,17 +199,17 @@
   
   <url>
     <loc>https://aaronnick.github.io/posts/palace-of-desire/</loc>
-    <lastmod>2020-12-25T00:00:59+08:00</lastmod>
+    <lastmod>2020-12-28T15:35:22+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/tags/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D/</loc>
-    <lastmod>2020-12-25T00:00:59+08:00</lastmod>
+    <lastmod>2020-12-28T15:35:22+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/tags/%E6%82%B2%E5%89%A7/</loc>
-    <lastmod>2020-12-25T00:00:59+08:00</lastmod>
+    <lastmod>2020-12-28T15:35:22+08:00</lastmod>
   </url>
   
   <url>
@@ -294,7 +309,7 @@
   
   <url>
     <loc>https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/</loc>
-    <lastmod>2020-12-27T00:12:15+08:00</lastmod>
+    <lastmod>2020-12-28T17:43:21+08:00</lastmod>
   </url>
   
   <url>
@@ -304,32 +319,32 @@
   
   <url>
     <loc>https://aaronnick.github.io/tags/google/</loc>
-    <lastmod>2020-12-27T00:09:45+08:00</lastmod>
+    <lastmod>2020-12-28T15:27:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/tags/%E8%AE%B0%E8%B4%A6/</loc>
-    <lastmod>2020-12-27T00:09:45+08:00</lastmod>
+    <lastmod>2020-12-28T15:27:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/posts/keep-accounts-with-google-sheets/</loc>
-    <lastmod>2020-12-27T00:09:45+08:00</lastmod>
+    <lastmod>2020-12-28T15:27:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/tags/twitter/</loc>
-    <lastmod>2020-12-22T22:53:05+08:00</lastmod>
+    <lastmod>2020-12-28T17:43:21+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/tags/%E7%A4%BE%E4%BA%A4/</loc>
-    <lastmod>2020-12-22T22:53:05+08:00</lastmod>
+    <lastmod>2020-12-28T17:43:21+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://aaronnick.github.io/posts/the-conflict-of-social-media/</loc>
-    <lastmod>2020-12-22T22:53:05+08:00</lastmod>
+    <lastmod>2020-12-28T17:43:21+08:00</lastmod>
   </url>
   
   <url>
