@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-01-02T22:21:10&#43;08:00</updated>
+    <updated>2021-01-02T22:25:33&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -174,7 +174,7 @@
             <title type="text">2020 观影记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record-2020/" />
             <id>https://aaronnick.github.io/posts/film-record-2020/</id>
-            <updated>2021-01-02T22:19:26&#43;08:00</updated>
+            <updated>2021-01-02T22:25:10&#43;08:00</updated>
             <published>2020-12-31T19:20:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -183,7 +183,7 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2020 年观影记录，完整的观影记录请移步这里。 时间 影视剧名 标签 评分 备注 2020-12-12 《香水》·（德）2006 理想主义 4.5 让我想起《海上钢琴师》的 1900 2020-12-06 《……</summary>
             
-                <content type="html">&lt;p&gt;2020 年观影记录，完整的观影记录请移步这里。&lt;/p&gt;
+                <content type="html">&lt;p&gt;2020 年观影记录，完整的观影记录请移步&lt;a href=&#34;https://aaronnick.github.io/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -594,7 +594,7 @@
             <title type="text">2020 读书记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record-2020/" />
             <id>https://aaronnick.github.io/posts/reading-record-2020/</id>
-            <updated>2021-01-02T22:14:51&#43;08:00</updated>
+            <updated>2021-01-02T22:24:49&#43;08:00</updated>
             <published>2020-12-31T12:00:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -603,7 +603,7 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2020 年阅读记录，完整的阅读记录请移步这里。 时间 书名 标签 评分 备注 2020-12-12 《浮生六记》·（清）沈复 随笔 中国文学 4.0 其妻是个可爱之人 2020-12-12 《香水》·（……</summary>
             
-                <content type="html">&lt;p&gt;2020 年阅读记录，完整的阅读记录请移步这里。&lt;/p&gt;
+                <content type="html">&lt;p&gt;2020 年阅读记录，完整的阅读记录请移步&lt;a href=&#34;https://aaronnick.github.io/posts/reading-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2048,10 +2048,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">观影记录</title>
+            <title type="text">观影记录（更新ing）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-01-02T22:18:00&#43;08:00</updated>
+            <updated>2021-01-02T22:24:26&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -2061,7 +2061,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人观看过的影视剧，不断更新…… 读书记录请移步这里。 时间 影视剧名 标签 评分 备注 2021-01-01 《甜蜜家园》·（韩）2020 惊悚 4.0 特效不错，……</summary>
             
                 <content type="html">&lt;p&gt;本处记录个人观看过的影视剧，不断更新……&lt;/p&gt;
-&lt;p&gt;读书记录请移步这里。&lt;/p&gt;
+&lt;p&gt;读书记录请移步&lt;a href=&#34;https://aaronnick.github.io/posts/reading-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2774,10 +2774,10 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
         </entry>
     
         <entry>
-            <title type="text">读书记录</title>
+            <title type="text">读书记录（更新ing）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-01-02T22:17:58&#43;08:00</updated>
+            <updated>2021-01-02T22:23:50&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
@@ -2787,7 +2787,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，不断更新…… 观影记录请移步这里。 时间 书名 标签 评分 备注 2021-01-02 《教父》·（美）马里奥·普佐 黑帮 黑手党 4.5 电影高度还……</summary>
             
                 <content type="html">&lt;p&gt;本处记录个人阅读过的书籍，不断更新……&lt;/p&gt;
-&lt;p&gt;观影记录请移步这里。&lt;/p&gt;
+&lt;p&gt;观影记录请移步&lt;a href=&#34;https://aaronnick.github.io/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
