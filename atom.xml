@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-01-09T00:17:26&#43;08:00</updated>
+    <updated>2021-01-09T08:57:39&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,70 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">专业书阅读的教训</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/lessons-from-reading-professional-books/" />
+            <id>https://aaronnick.github.io/posts/lessons-from-reading-professional-books/</id>
+            <updated>2021-01-09T08:57:28&#43;08:00</updated>
+            <published>2021-01-09T08:50:21&#43;08:00</published>
+            <author>
+                    <name>YXNG</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">关于书籍的阅读，我常常陷入一种误区，那就是一定要阅读完毕，哪怕是序言和脚注。 这种追求打卡式的阅读是不对的。尤其在阅读专业书的时候。……</summary>
+            
+                <content type="html">&lt;p&gt;关于书籍的阅读，我常常陷入一种误区，那就是一定要阅读完毕，哪怕是序言和脚注。&lt;/p&gt;
+&lt;p&gt;这种追求打卡式的阅读是不对的。尤其在阅读专业书的时候。&lt;/p&gt;
+&lt;p&gt;首先应该理清楚自己读书的..目的..是什么，是为了获取什么样的知识点，带着目的去寻找合适的书籍。&lt;/p&gt;
+&lt;p&gt;然后确定书中知识点的..位置..。因为有的书籍很全，囊括了全方位的知识点。如果我们从头开始阅读，必然会浪费巨大的精力，当读到我们需要的部分时，往往已经过了那个劲儿，甚至失去了知识点应用到实际的机会。因此，最有效率的方法是找到相关的知识点直接开始阅读。&lt;/p&gt;
+&lt;p&gt;另外，最好是多本书一起看，交叉验证相关的知识点，既可以加深印象，也可以更加全面、深入地掌握它。&lt;/p&gt;
+&lt;p&gt;最后，将学习到的知识点..内化..为自己的思考，最好能用自己的话去表述，能表述出来说明已经掌握了其原理，且能加入自己的思考，这才是自己的知识，而不应该追求阅读了几本书。&lt;/p&gt;
+&lt;p&gt;汇总一下自己的教训带来的感悟：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;明确目的：提高效率&lt;/li&gt;
+&lt;li&gt;找到多本书的相关知识点：加深理解&lt;/li&gt;
+&lt;li&gt;理解原理并应用：内化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我之前的阅读习惯——打卡式阅读、无目的阅读、流于表面形式阅读，经过深刻反思，其中的原因和十几年的教育息息相关，尤其是在形成心智的..关键时期..养成了不好的习惯。&lt;/p&gt;
+&lt;p&gt;这里的教育包括学校教学和家庭教育。&lt;/p&gt;
+&lt;p&gt;在学校，多数情况只是填鸭式学习，不为理解原理，多数只为了追求高分。平常做着没完没了的作业，没有过多的好奇心，不明白为何而做，不知其目的。&lt;/p&gt;
+&lt;p&gt;家庭里的引导也不足，算是学校的延伸，完成作业就是好学生，此外没有恰当地引导，失去了分数外的探索。&lt;/p&gt;
+&lt;p&gt;改变阅读习惯，需要..自上而下..去改变，先改变思维上的习惯，然后开始行动，养成习惯并坚持做下去。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/" term="阅读" label="阅读" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E6%95%99%E8%82%B2/" term="教育" label="教育" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">《一生自在》｜求新与严谨</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/innovation-and-rigor/" />
@@ -2958,14 +3022,14 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（更新ing）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-01-08T21:57:34&#43;08:00</updated>
+            <updated>2021-01-09T00:23:30&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>YXNG</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，不断更新…… 观影记录请移步这里。 时间 书名 标签 评分 备注 2021-01-08 《一生自在》· 季羡林 散文 4.0 较散，见解不够深入 2021-01-02 《教……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，不断更新…… 观影记录请移步这里。 时间 书名 标签 评分 备注 2021-01-08 《一生自在》· 季羡林 散文 4.0 读后感｜话题散而不深，留……</summary>
             
                 <content type="html">&lt;p&gt;本处记录个人阅读过的书籍，不断更新……&lt;/p&gt;
 &lt;p&gt;观影记录请移步&lt;a href=&#34;https://aaronnick.github.io/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
@@ -2985,7 +3049,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《一生自在》· 季羡林&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;散文&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;较散，见解不够深入&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/innovation-and-rigor/&#34;&gt;读后感&lt;/a&gt;｜话题散而不深，留学部分有启发&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-01-02&lt;/td&gt;
