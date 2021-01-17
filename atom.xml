@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是叶星的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-01-17T14:49:28&#43;08:00</updated>
+    <updated>2021-01-17T19:49:47&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,80 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">致忧愁的人</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/to-the-sad-one/" />
+            <id>https://aaronnick.github.io/posts/to-the-sad-one/</id>
+            <updated>2021-01-17T19:49:36&#43;08:00</updated>
+            <published>2021-01-17T19:40:21&#43;08:00</published>
+            <author>
+                    <name>叶星优酸乳</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">彼处是过往之物：撒克森人 坚忍的剑和他黑铁的格律。 放逐拉厄耳忒斯之子的 海域和岛屿，波斯天空中 镀金的月亮……</summary>
+            
+                <content type="html">&lt;blockquote class=&#34;quote-center&#34;&gt;&lt;p&gt;彼处是过往之物：撒克森人&lt;br&gt;
+坚忍的剑和他黑铁的格律。&lt;/p&gt;
+&lt;p&gt;放逐拉厄耳忒斯之子的&lt;br&gt;
+海域和岛屿，波斯天空中&lt;br&gt;
+镀金的月亮和那无穷无尽的&lt;br&gt;
+两座花园，哲学和历史，&lt;br&gt;
+记忆的墓葬里埋没的黄金&lt;br&gt;
+和阴影中茉莉花的香气。&lt;/p&gt;
+&lt;p&gt;那一切都无关紧要。写诗&lt;br&gt;
+这甘心承受的操练救不了你&lt;br&gt;
+梦的水域和那颗星星也不行&lt;br&gt;
+它在荒废之夜将黎明遗忘。&lt;/p&gt;
+&lt;p&gt;唯有一个女人是你的牵挂。&lt;br&gt;
+和旁人无异，但恰恰就是她。&lt;/p&gt;
+&lt;p&gt;——《致忧愁的人》博尔赫斯｜陈东飚 译&lt;/p&gt;
+&lt;/blockquote&gt; 
+&lt;hr&gt;
+&lt;blockquote class=&#34;quote-center&#34;&gt;&lt;p&gt;There lies what once was: the stubborn sword&lt;br&gt;
+of the Saxon and its steel metric,&lt;/p&gt;
+&lt;p&gt;the seas and the islands of exile&lt;br&gt;
+of Laertes&#39; son, the golden&lt;br&gt;
+moon of the Persian and the endless gardens&lt;br&gt;
+of philosophy and history,&lt;br&gt;
+the sepulchral gold of the memory&lt;br&gt;
+and in the shadow, the smell of the jasmines.&lt;/p&gt;
+&lt;p&gt;And none of it matters. The resigned&lt;br&gt;
+exercising of the verse doesn&#39;t save you&lt;br&gt;
+nor do the waters of the dream or the star&lt;br&gt;
+which forgets dawn in the razed night.&lt;/p&gt;
+&lt;p&gt;A single woman is your care,&lt;br&gt;
+she&#39;s just like the others, but she is herself.&lt;/p&gt;
+&lt;p&gt;——《To the Sad One》Jorge Luis Borges｜Jose translator&lt;/p&gt;
+&lt;/blockquote&gt; 
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%97%E6%AD%8C/" term="诗歌" label="诗歌" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E5%8D%9A%E5%B0%94%E8%B5%AB%E6%96%AF/" term="博尔赫斯" label="博尔赫斯" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">初识《读库》</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/duku1802/" />
@@ -3299,14 +3373,14 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（更新ing）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-01-15T22:16:47&#43;08:00</updated>
+            <updated>2021-01-17T14:54:49&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>叶星优酸乳</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，不断更新…… 观影记录请移步这里。 时间 书名 标签 评分 备注 2021-01-08 《一生自在》· 季羡林……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，不断更新…… 观影记录请移步这里。 时间 书名 标签 评分 备注 2021-01-17 《读库1802》· 张……</summary>
             
                 <content type="html">&lt;p&gt;本处记录个人阅读过的书籍，不断更新……&lt;/p&gt;
 &lt;p&gt;观影记录请移步&lt;a href=&#34;https://aaronnick.github.io/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
@@ -3321,6 +3395,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-01-17&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《读库1802》· 张立宪主编&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;散文&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/duku1802/&#34;&gt;读后感&lt;/a&gt;｜吴小兔、郁达夫、孟伟哉这几篇写得好&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-01-08&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《一生自在》· 季羡林&lt;/td&gt;
