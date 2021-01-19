@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 19 Jan 2021 01:52:43 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2021 11:00:45 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
@@ -38,8 +38,8 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;博客是我的其中一个笔记本，对于上面的内容，我会反复地看，因此，有的时候，挺期望能够在看文字的同时也可以听着歌曲，那样比较有..氛围..。&lt;/p&gt;
-&lt;p&gt;研究了一下，给博客增加了音频支持。&lt;/p&gt;
+                    <description>&lt;p&gt;我一直将博客当作是一本电子笔记本，对于上面的内容，我会时常翻来看，因此，有的时候，挺期望能够在看文字的同时也可以听着歌，那样的感觉就很..惬意..。&lt;/p&gt;
+&lt;p&gt;于是研究了一下，给博客增加了音频支持。&lt;/p&gt;
 &lt;p&gt;在&lt;code&gt;～/myblog/themes/meme/layouts/shotcodes/audio.html&lt;/code&gt;添加：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
