@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-01-21T22:54:25&#43;08:00</updated>
+    <updated>2021-01-22T23:53:08&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,61 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">吃瓜</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/onlooker/" />
+            <id>https://aaronnick.github.io/posts/onlooker/</id>
+            <updated>2021-01-22T23:51:36&#43;08:00</updated>
+            <published>2021-01-22T22:30:21&#43;08:00</published>
+            <author>
+                    <name>叶星优酸乳</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期娱乐圈很热闹，先是郑爽弃子，再到华晨宇意外得子，然后牵扯出一大堆的艺人八卦。 我无意讨论这些娱乐新……</summary>
+            
+                <content type="html">&lt;p&gt;近期娱乐圈很热闹，先是郑爽弃子，再到华晨宇意外得子，然后牵扯出一大堆的艺人八卦。&lt;/p&gt;
+&lt;p&gt;我无意讨论这些娱乐新闻，只是对「吃瓜」这个词感兴趣。&lt;/p&gt;
+&lt;p&gt;所谓吃瓜，据百度百科的解释：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「吃瓜群众」是一个网络用语。在网络论坛中，人们发帖讨论问题，后面往往有一堆人排队跟帖，或发表意见，或不着边际地闲扯。2016 年，有人将「不发言只围观」的普通网民称为「吃瓜群众」，用来表示一种不关己事、不发表意见仅围观的状态。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;从这个定义来看，大多数网友并不是吃瓜群众，因为已经切切实实地参与到了讨论里面。他们通过评论留下自己的观点，通过群发分享「最新资讯」，这些都不符合「不发言只围观」的行为。&lt;/p&gt;
+&lt;p&gt;其实，在我看来，这类行为和村头大妈的八卦议论..并无两样..。&lt;/p&gt;
+&lt;p&gt;它们的本质都是通过议论他人的行为来满足无聊的生活，同时达到社交的目的。这类行为，进一步讲，也是一种侵扰他人隐私的行为。当议论的当事人是自己时，必然会引来厌恶之情，咒骂她们嘴碎。这就是为什么我们常常对村头大妈这类人深恶痛绝的缘故。&lt;/p&gt;
+&lt;p&gt;同样，当我们在肆意传播这类八卦之时，也是在践行村头大妈的行为，只是我们没有发现而已，因为当事人不是自己，就像村头大妈议论的人不是她们一样，所以也不会产生愧疚之情。&lt;/p&gt;
+&lt;p&gt;那么，这类「..嘴碎..」的行为，除了当事人不是自己之外，还有什么原因让我们无视他人之痛苦，蒙住羞耻之心，大肆讨论别人的隐私呢？&lt;/p&gt;
+&lt;p&gt;我觉得是「吃瓜」这个词。吃瓜，带着一点嘲讽，带着一点戏虐，仿佛给讨论他人隐私这个行为披上一层「..外衣..」，然后便能堂而皇之地发表意见了。&lt;/p&gt;
+&lt;p&gt;就好比有些人，喜欢在说出伤人之话之前用「我这个人说话比较直」做铺垫，有了这个「外衣」，往下说出再难听的话似乎也理所当然了，因为有「这个人说话很直」这个外衣挡着。&lt;/p&gt;
+&lt;p&gt;如果能换位思考一下，如果将「吃瓜」替换成「讨论他人隐私」，是不是这类疯狂的行为会减少一些？&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/" term="隐私" label="隐私" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">开启远程办公</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/work-from-home/" />
@@ -1350,7 +1405,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">请回答 2020</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/back-to-2020/" />
             <id>https://aaronnick.github.io/posts/back-to-2020/</id>
-            <updated>2020-12-31T21:33:21&#43;08:00</updated>
+            <updated>2021-01-22T19:29:35&#43;08:00</updated>
             <published>2020-12-31T20:20:21&#43;08:00</published>
             <author>
                     <name>叶星优酸乳</name>
@@ -1421,6 +1476,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;p&gt;这个时候我才知道，赚个钱实在是不容易，分分钟就能把你掏空了。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;都说 2020 太糟糕，人人期望赶紧跨过去，迎接新的一年。殊不知..时间是连续的..，年份只是人类自己的划分。糟糕并不会随着一个节点的流转而有所变化，没准 2020 才是开始呢？&lt;/p&gt;
+&lt;script async src=&#34;https://telegram.org/js/telegram-widget.js?14&#34; data-telegram-post=&#34;weiyexing/2373&#34; data-width=&#34;100%&#34;&gt;&lt;/script&gt;
 </content>
             
             
@@ -1447,7 +1503,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">2020 观影记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record-2020/" />
             <id>https://aaronnick.github.io/posts/film-record-2020/</id>
-            <updated>2021-01-02T22:25:10&#43;08:00</updated>
+            <updated>2021-01-22T09:27:58&#43;08:00</updated>
             <published>2020-12-31T19:20:21&#43;08:00</published>
             <author>
                     <name>叶星优酸乳</name>
@@ -1855,7 +1911,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
                             
                         
                     
@@ -2870,7 +2926,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《后翼弃兵》｜天才之路</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-queens-gambit/" />
             <id>https://aaronnick.github.io/posts/the-queens-gambit/</id>
-            <updated>2021-01-10T00:07:35&#43;08:00</updated>
+            <updated>2021-01-22T09:29:22&#43;08:00</updated>
             <published>2020-12-22T12:29:21&#43;08:00</published>
             <author>
                     <name>叶星优酸乳</name>
@@ -2905,6 +2961,12 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                     
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                            
                         
                             
                             
@@ -3321,7 +3383,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">三和大神</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-people-of-sanhe/" />
             <id>https://aaronnick.github.io/posts/the-people-of-sanhe/</id>
-            <updated>2021-01-15T22:22:43&#43;08:00</updated>
+            <updated>2021-01-22T09:30:40&#43;08:00</updated>
             <published>2020-10-16T00:30:21&#43;08:00</published>
             <author>
                     <name>叶星优酸乳</name>
@@ -3378,6 +3440,12 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
+                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                            
+                        
+                            
+                            
+                            
                                 <category scheme="https://aaronnick.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/" term="纪录片" label="纪录片" />
                             
                         
@@ -3390,7 +3458,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（更新ing）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-01-03T18:58:51&#43;08:00</updated>
+            <updated>2021-01-22T09:28:25&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>叶星优酸乳</name>
@@ -3813,7 +3881,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
                             
                         
                     
@@ -4751,7 +4819,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《大明宫词》｜一部凄美的悲剧</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/palace-of-desire/" />
             <id>https://aaronnick.github.io/posts/palace-of-desire/</id>
-            <updated>2021-01-17T14:08:49&#43;08:00</updated>
+            <updated>2021-01-22T09:27:49&#43;08:00</updated>
             <published>2020-09-01T12:29:21&#43;08:00</published>
             <author>
                     <name>叶星优酸乳</name>
@@ -4844,7 +4912,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%B5%E8%A7%86%E5%89%A7/" term="电视剧" label="电视剧" />
+                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
                             
                         
                             
