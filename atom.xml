@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客 —— 叶星优酸乳。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-01-22T23:53:08&#43;08:00</updated>
+    <updated>2021-01-23T14:39:19&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,84 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">我在用的境外卡</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/mylink/" />
+            <id>https://aaronnick.github.io/posts/mylink/</id>
+            <updated>2021-01-23T14:37:54&#43;08:00</updated>
+            <published>2021-01-23T13:30:21&#43;08:00</published>
+            <author>
+                    <name>叶星优酸乳</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">除了国内必须的软件外，我大部分的工作、生活类工具，都使用的国外服务，例如 Google、YouTube……</summary>
+            
+                <content type="html">&lt;p&gt;除了国内必须的软件外，我大部分的工作、生活类工具，都使用的国外服务，例如 Google、YouTube、Twitter、Netflix 等等。对于重度依赖国外应用和服务的我来说，有一张非&lt;code&gt;+86&lt;/code&gt;的卡是很有必要的。&lt;/p&gt;
+&lt;h3 id=&#34;为什么需要一张境外卡&#34;&gt;为什么需要一张境外卡&lt;/h3&gt;
+&lt;p&gt;一方面是..方便..，虽说境外服务基本都支持&lt;code&gt;+86&lt;/code&gt;号码注册，但如果是境外卡的话，可以免去一些麻烦。例如 Telegram 里，&lt;code&gt;+86&lt;/code&gt;开头的号码在私聊时是受限的。&lt;/p&gt;
+&lt;p&gt;另一方面是..隐私保护..，这是最重要也是我下定决心用境外卡的原因。我不想一些别有用心的人通过社交账户绑定的号码定位到真实的我，这是我很忌讳的地方，所以我用非注册的境外卡做一道屏障，虽说不一定有用，但聊胜于无。&lt;/p&gt;
+&lt;h3 id=&#34;google-voice-初体验&#34;&gt;Google Voice 初体验&lt;/h3&gt;
+&lt;p&gt;我一开始用的是..虚拟号码..，即 Google Voice，购买渠道很多，淘宝、Telegram 等等都有售卖。记得我是 2018 年在 Telegram 向一位网友购买的，花了 ¥15。当时还是一个小白，不过好在这位网友非常耐心，一步步教我设置，以及教我如何通过 Google Handout 定期发信息保号&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/mylink/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;我用这个虚拟号码绑定了我所有的境外服务，大概用了一年多，相安无事。&lt;/p&gt;
+&lt;p&gt;后来，偶尔听说有用户的 Google Voice 在未收到任何通知的情况下..被回收..了，且 Google 没有留给用户转移账号的机会。这个消息让我有点担忧，因为我的不少账户绑定的都是这个虚拟号码，若一旦被回收，那我损失巨大，尤其是 Telegram 账户。&lt;/p&gt;
+&lt;p&gt;于是我开始寻求其他更加稳妥的方案。&lt;/p&gt;
+&lt;h3 id=&#34;高性价比的香港移动卡&#34;&gt;高性价比的香港移动卡&lt;/h3&gt;
+&lt;p&gt;经朋友介绍，中国移动在香港推出了一种..万众卡..&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/mylink/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;，于是托去香港的朋友给带了一张。&lt;/p&gt;
+&lt;p&gt;这张卡的..优点..：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;资费低，$2 港币/月；&lt;/li&gt;
+&lt;li&gt;启用后需每半年充值一次以续期，每次 $50 港币，充值的港币可以累积到账户；&lt;/li&gt;
+&lt;li&gt;充值简单，支持支付宝等国内充值方式；&lt;/li&gt;
+&lt;li&gt;不必实名注册。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;使用这张卡的一些..注意事项..：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;输入 &lt;code&gt;*102*123456#&lt;/code&gt; 重置服务密码；&lt;/li&gt;
+&lt;li&gt;输入&lt;code&gt;*106*02#&lt;/code&gt;关闭数据流量上网服务，流量很贵，建议关闭。可以输入&lt;code&gt;*106*02#&lt;/code&gt;重新开启；&lt;/li&gt;
+&lt;li&gt;输入&lt;code&gt;*#130#&lt;/code&gt;可以查询余额以及号码有效期，千万别错过有效期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前这张卡已经用了一年半，账户余额为 $177 港币，这些港币在以后去香港玩的时候可以用上。现在我的境外服务基本都绑定了这个号码，算是花点钱..买个放心..。&lt;/p&gt;
+&lt;p&gt;这个卡也不一定非得去香港买，淘宝这类地方也是有售卖的。相对于虚拟号码，实体卡更安心一些。&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Google Voice 保号：Google 会不定期回收不活跃的号码，所以需要一两个月活跃一次，例如发信息、打电话。 &lt;a href=&#34;https://aaronnick.github.io/posts/mylink/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;详情可看此文：https://51.ruyo.net/6593.html &lt;a href=&#34;https://aaronnick.github.io/posts/mylink/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/" term="隐私" label="隐私" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">吃瓜</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/onlooker/" />
@@ -1034,6 +1112,176 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
         </entry>
     
         <entry>
+            <title type="text">支教回顾</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-memory-of-volunteer-education/" />
+            <id>https://aaronnick.github.io/posts/the-memory-of-volunteer-education/</id>
+            <updated>2021-01-23T10:41:04&#43;08:00</updated>
+            <published>2021-01-13T00:30:21&#43;08:00</published>
+            <author>
+                    <name>叶星优酸乳</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">前段时间和同事聊起支教的话题，想起我在大学的时候曾参加过支教，于是和他们分享了那段经历，以及那些纯真……</summary>
+            
+                <content type="html">&lt;p&gt;前段时间和同事聊起支教的话题，想起我在大学的时候曾参加过支教，于是和他们分享了那段经历，以及那些纯真的孩子带给我的美好记忆。其中一个小女孩，在我离开的时候给了我一个本子，记录了&lt;a href=&#34;https://aaronnick.github.io/posts/the-volunteer-education/&#34;&gt;她想对我们说的话&lt;/a&gt;，句句都令人感动。&lt;/p&gt;
+&lt;p&gt;我抽时间整理了当初拍的一些照片，回顾这段..美好的记忆..。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;时间拉回 2017 年，我有幸跟随「微爱支教队」赴湖北荆州大垸镇..黄金湾村..开展支教。支教为期一个多月，和几十个大大小小的孩子一同学习玩耍，有苦有乐。下面是我在这段支教经历中拍摄的照片。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mgpIHg0RsiXhAnY0ytueqUnvGT6WRqkk2Y1b0cKET4KTh5Bte8hT8LgA8S2dY-aTPbb12vPe2syHAsZdXNGf4wUg6uN4xgztUUZUAT0Nd_B1erd7eTPElNX5xC572bsuYox9OcjfbxfHi1VmYLvq5DBT8RvdxZwTzvsFD4jACCa-_mwJcLCKq-8ImT0fNDooL?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;出发前在校门的石碑合影&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m-KjE2VH4hp8trFYoNoEqt6oh2tM782ZdRavFnIYgUAKBGCHvbODLWKlWBTPAvjgySxRHDA7suszRIxH__UK_IF4_IEFTNz4f4yorUtzNg4u25cZRJoG43KXYZnPo4s-vHa4pQ5XJUED6UvhPdQrTZYAkxcBmqSXzXnE8Ra-F79u7Wxz2z6w4hzfx_yjuwhaB?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;安全抵达荆州&#34;&gt;&lt;/p&gt;
+&lt;p&gt;到了荆州之后，那边的胡书记特地包了一辆公交接送我们回去。经过颠簸的几个小时之后，我们终于到达了黄金湾村。&lt;/p&gt;
+&lt;p&gt;我们的教学地方是一个几乎停用的村委会，中间是大厅，用作上课的地方，特地运了一些桌椅板凳给孩子们。大厅两侧各有一个房间，用作我们的办公区和休息区。&lt;/p&gt;
+&lt;p&gt;因为那个地方太久不用了，不少地方都积满了灰尘，我们到的第一件事就是大扫除。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mYWxU9qW-aNR0nAIw0qPpQ2L2ioTlYKR6tB_ooFpUN38uWKMBgX6h4xXFZdh8Nzm-d0yqNMk_JcMg4DtHianvkxkLUXlFBrUg4xTzFmcUjJd-mSBzfKramfAf7F3yWFmOtLEl37uKNRxqYr81i0OsjphdfLJsgLFqQ_nGn_hma4xLz-_J7_HiIIowg2jV66dB?width=1024&amp;amp;height=576&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;大家正在清洗日用品，许多都是往届支教队员留下的&#34;&gt;&lt;/p&gt;
+&lt;p&gt;当地有种..千足虫..，很像蜈蚣，怪恶心的，而且满地都是，非常恐怖。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m2VLM-1yrLKnfXJuqzf37DFSONfEq_lNULwizQFnztSkJTKhsZChS5ScGLqm6uj5FnIiNwFYgMJfVkAdaMUpe5Ro3z9qaj8fb-_mdBm3UnfnZ8PpWPV_14aL-I9J5KwDPA9zr6W5bOzOjKEsHOibvxlK_tA_LH0AsAToTMBD4E_EizmrxlVCUYgl9F638D6uz?width=1024&amp;amp;height=576&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;当晚的日志，记录了清理千足虫和我们四个的睡姿&#34;&gt;&lt;/p&gt;
+&lt;p&gt;清理了几个小时，终于可以休息了，也到了深夜。床不是很多，腾给了四个女生睡，我们男生打地铺。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mVtJQs82Y22q1EuIHWhTcoXs0mbeed5foBYgl-4MehTPAQers0fZfH8srgn03LtXhA28Nom7uYd80vVDeJHJKx_U_UNhuDQ4vkW4SyW_hk94jEmYFoInKazjloi6VfOzKbHv6M02Hro_pCmay8nvXXBrTsWEdLgqFtRo7DgENaYW_knnQDqhViYmydJgC0wzx?width=576&amp;amp;height=1024&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;基情满满&#34;&gt;&lt;/p&gt;
+&lt;p&gt;第二天，我们便开始去..招生..。所谓招生，就是走访周边的村，看看是否有适龄的孩子，同时征求他们家人的意见，看是否愿意送过来上课。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mCoxtUDfJvxf8sU9yimEIwmV-PZgXkYfMDR8KSjD7dYLwr3bb2tjcOFrdTcH6YpXgeudgyHm1wu7woyn6Xx8vrlB4F3mpcUl5nZMhfAANXi4_D90ScPq-AMMjGwzCrVDcgaPQGzyAZ_VIJoAY2FLNfV2fsl-f2tPKBPnr4bFHdPoNHdHLbY9jqavSD2BGUNsR?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;飞奔的孩子&#34;&gt;&lt;/p&gt;
+&lt;p&gt;令我们意外的是，村民们都很友善配合，因为支教队已经连续来五年了，大家都很信任支教队员，所以看到我们来招生，都非常热情地招呼我们，纷纷报名。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mQvwWpAzPoqv2Jo7KUCOp4_Zrr8QQXSTk2nfw2pAxpXLSiznUhDIPZHuP9bDJUvyJrAovkNtnTK8W4HBKaqeU0qvcpAMyWpeauCuOAIznboMmpVPW2f8ewmw0QEd9kthVG4gzoTlggmhA70AM-vqPlJnrXwcbW4hnRRsIv4Uh2jYiPoczgb9tyJRfus-aRqQv?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;还没上学的孩子也参加了我们的招生&#34;&gt;&lt;/p&gt;
+&lt;p&gt;一开始我们担心没有达到上学年龄的孩子很难管教，但是他们的乖巧却打消了我们的顾虑。于是，我们的名单上，有三四岁的小孩子，也有上初中的大孩子。&lt;/p&gt;
+&lt;p&gt;经过两天的走访招生，我们招够了预期的人数，于是开始准备后续的课程。除了常规的课之外，还开设了科学、绘画、艺术鉴赏、书法、文汇、创意等课程。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m_vjf4yy39J-xj5B9nx5KAeH6RQ-OsVfi8Ma5JTisHqKzAYeDWi8sJ_77dH3PhN3A9mwydnaxZLMJP5V78yhdQ52fNUzw3HGpHoNEm1R3TgNf6n7J3VMNTiwLLGGWWmz9dyhvx0URF7Cb7M2vuqRd7Tw8ivuJLa0ONVolSw-OLoMTYIDjUjgWKFgxZR43i8M-?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;课程表&#34;&gt;&lt;/p&gt;
+&lt;p&gt;第一堂课上，大家都还比较拘谨，但却很积极。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mhDos-smXEfiOxl-5C3MzjdRztYLMkH67foE4dh4B6XQ2NtOIL0xKqVDhob29ZqsY5iz9_tj5csTCphasvTlCFvOVOGLMm8Uo4zXqbHp9B7nFHEUGYkB0Lwr8nYRxD-hXpXxOD7lT0-9lIrgoVRGws0yWAdg43oT6zssOTeGf7vJ_oNKniZaZssBuRTdFpXDq?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;大大小小的孩子都有，课桌是从隔壁搬来的办公桌&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mJzyECgqAKqL1qCy2KgYOfaA7jakR_e_BZQBC03xhIiirTmnzHE3DV341BT529cFn4VaHmMotomzNzIvKt40WYsQTxoGlR-2jr_5aSJvzhuQJuLoygVxQsFEI_vh53HeSzuucMwrQ-QH2o6WfvR3JeBGTIGMA0mP_piMD6cFH09pE6Uh317afVGXqqYPTdCaG?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;乖巧可爱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4msj8bz5uMh7wJp64IzK3POalp_zW8s3UCRXd9QC8XLbFkqO7kmaIqYjb1JAg2KNB8zXgWKCelW_DI9EnIH5X2GDm-WXz3et7Eg3nwYVnCqA7nViH6XRSHVBMTFKKmgIKiP6I-PFxSxmurAbzI_OpWqENrdw8YdYen6loU0090hO9WmQ-0lsyB_itmoEcvoEzH?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;积极举手&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mnosjuhUZcVoYA9LWkL3WD8a12PHb52NR-l6V-fXoqTSHHgfS_Dyprbhiw-l4zWMdaVbYy-hFc1PN3lwtRaxZpWnp9l3pTC2IzXHlDdaPv292jyAAOpomU8eenhnh7iW92_h4DlGSSXZ4yMrBGZF3phwfGLgTrq3heeYz7m4de0SiLgcQLJxzQFFAGlVoFEVO?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;课间一起老鹰抓小鸡&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mP_yKP5KF46tQJoINTYys_vgjAs6-UCmxIVDpAs7qj-CQ8QsNiyhAQglagMA2m7oH_S_LFICjSKzcgupkImDqC74-3R5a_FbeoZ0lPj-VcoxCSucCLMn7mYukJAN5QR8Kf9y9cCaimgKH7DnfYXMDU9G8SkznrDGFGtI66tARbnseW3TUS5dUf75AP7LI4Nuv?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;兜兜转转，不亦乐乎&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mDWWIZcDPnEWrZFvU6JHOjNg7NguMSTr1omX-PQ-KC3Izf583yJpGhesDgRgZVWzegmN5JSYJzWHvF3y6iUUgdwcBYpg9_f9-CquDYcW521GpSGGRxp5_hhKO0LKW3Q_3ac3uL7XNlYMTtexhrMiuWaMoy8qTKOhvYKdixqiQ2nScjSPBBXbMPD7rPsaBeyka?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;喉咙都哑了，必须带上「小蜜蜂」&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mvAfCqI0n0NAF109UJaTTzxgLP8QS7XKlKJ7GJvPny24FOLMckIEn5ANvwiawaC5tS6wnZMdgeGMGKBViY7FEGAkzMdFBGdHB8rALfiVXBMjGcmHse49jQTaHmKB0q81OoIpC54nReCclYOhck9i0Gp7671zWU_FTPTYUE2fR_ofnDr2142QpnZrScvtA8G6h?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;可爱的姐妹俩&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mGC0f0Ejcg_1DkyJFG-70kzS3Ms1opocx1MPf4WxxPxC04WGiK9EEvGIPR-1B1affPrjvZOLctBeRoXfRJV4nGXzMyWwFvrFJSg7WBqaqv4lhK8FGGfZhnvcn1ggjskpVvIezdDfIibILrA17-hkL9tkS5zH9T1FhJXN2Hy03xpIt5_tM9YDIiYBrJK_q6MfN?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;绘画课上，盖住不给看&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mJyylsOfSLzNpjMGyykEeqmJwCcq7s6ScHnFV_OM1HUh6ElgTVS7rBRhXyTHXcypaR89sog3wse9JtANq6aOfcT69W1Lt_U6yDMQvRinNrywXj6HJI1W7nYDXWSNuv2KYMajY3fLfr-vkxDrUuTVj8QMXy-v6Bo8N00b5PSWMvKetAG4Zm837ptKICw_3hGj_?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;课间娱乐时间&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m0fkqIssCsrgvHTienP-4F_luMnYVq6XP3ut9VdWxawEvZ6DD1AGTGB-HrbMU0tYO-diSFBRuG5LByOB_wP027KTja-qhMBdtkN5yzAGoVqroEU4tHkaO_IDZzyEBon_XtOH-frQhm32HTD8oN5NIoaHw5amrgGAVZZGFg188tAdtOl3XUrZvPfnZurS2Tm0v?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;剪刀石头布&#34;&gt;&lt;/p&gt;
+&lt;p&gt;孩子们都非常可爱善良，但同时也很顽皮。印象很深的是一个小女孩，平常特别叛逆，总是通过闹事来吸引老师们的关注，几乎每个人都找过她聊天谈话。一天中午，我们正准备休息，她骑车跑来告诉我们她要走了，父母在广州，要接她过去玩。说到要走，她就忍不住哭了，眼泪滴滴答答地流个不停。&lt;/p&gt;
+&lt;p&gt;平常我们对它她管教比较严，但是她能真正感受到我们的关心，临走前特意来和我们告别。我们也是非常不舍，看到她哭得不成样子，每个人鼻子都酸了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m_O92euEU6MAfxn06GZnderQKQdDE5id5IWCme9-8qDnYR-f54-FqgHImPi8WvKLfvcuZSawyz582DW5YJ3UtUdEj5SAiMPyddZ4rQRTYsmkPib6N5lC4XrH81L9G1c1ZlOzimNFN_FCwGMFkQSRrVKfWaSCruO8k6mgZI_QH5T8F6Qw7rQ9t4xY4NIFzXmPx?width=1024&amp;amp;height=625&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;抱抱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mggaEtWTVxp2dllVJa9BY48BZSP66TZreW_dS0dbP4nPj-dLo-lak-iDK0dahtywH_Mf60Dff83Sd3y2jjTm6_RjM2oL8Tle8B1XCDyjs3OZol-ZRFPn5IfS86BnX0delJeP7R_XbXpwtBI__SC_kW077vJyvIluJf5LURQLXbFA9p_evWGRWtgiuIlvNrZVU?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;体育课，集合啦！&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m0l0pTaGXSrEnRlXUYqe_PrCKrL7tbdXz-faYuOxa6LzaDz_gr0wB0ReLi-m2kPXml1SOKjhwPp_6arsJmd0uXJBDt5_sOKxYLTTPusxzw0WvwsI-dVGAkQ67UzXKzp7g7rRCa7OhS6vb3k_Qq39grGnQoo8ALotlcpiNvS_EPbssKOPQOQnmVcfA06_7YZYc?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;起飞！&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mpLOa2cdsuDinzr3rmDirOVOqDx7vMtasCPYOFgatVELfdl5_17-M_f_kdBNDLkEA-WHKZ_ZuH11EJ-0QAMtKAzh1PK207D2yFqQLimsVmhraJrg7FZVIMdMS-h2NUXECxzygvPpts5IBouvRbLBx2cKw2DJ4sgflpiK4zyO7qR-TcZ8blB8ruZFm2SekBU3W?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;我的篮球我做主&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m_WmszKoNHr9GAMX0aUJvLg3Zglz7FDRq8ze9h3Y8fGd1JTM2OJzlgDmpLENmobPBXi7-Xx6R6Qp8GgbhHmaPggaplUu6HhBdbuEgQXoDaAN6lamN7lQZ0ezA6yvITOCvMqsUwQu-z5gaqzMR5h-9qwF4dNgUMMZFUCfhU2M82tQcx_n6mU_Aarr_F-uxuRI7?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;摸摸体育老师的脸&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4maFjNB5mPMmX12-hNPSw4qftprRVwIZAjK8GkAe-7ZHj7wS7amXMHneeRWPg7Unr4qhmbLulDYNABtVvsTaQDbXcS8uBVFhB4jfeFn32eebXd0K2bHtyMHDEZL_F_1hfdGULEIAORLb8Rb17rWK1ArpVprzoxegmmRz5mqM6JPRL7SCYYtpgKQeP-DhgBxDU1?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;讲讲纸飞机的原理&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我们的课程设置得很丰富，有理论课，也有实践课。考虑到孩子的天性喜欢动手，不喜欢坐着，于是我们大多先给孩子讲一下理论，然后其余的时间带着孩子们一起动手操作。&lt;/p&gt;
+&lt;p&gt;在动手实践的同时，我们发现孩子的想象力非常丰富，例如其中的一节食品课，原本带着大家和面团捏包子，最后变成了捏面团……孩子们捏出了各种奇奇怪怪的小玩意儿，有可爱的猪八戒，有精美的花瓣，应有尽有。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m_-d09gyCLrSB-lIbxV5_9LHH7k3Cj542Asf-OlDC2LhM2KJOrEr7OdMSXGgQzpoYbsZoOJfwC-xNFZhLYzAK35PfpFBmXqSgAqacSuL9ZVMT_HSHyLwJJ6F_pbhdweeunf2Sa1anf8HwBmjPVhMMaLE6iAJTy7amURqMDqFnnT6gqq907KPhijgwwx21i9ds?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;食品课进行时&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4msBbcqyO2xjS1FCNnoyDjDGSR_spRsT-VYuTtEsTSxbEMb3gnaydFcIasxHjPTeNfFyGaueB0VS5mIr6LvJx5sc0XLcr3O4_HlZIxx-VctoRbVCsqHUvucG81SlvAloHxoQQ5LA1oJcbO0OGIZf0pXFQzeThRRRFVrE6q-Hea6_jd8FpGLjSeOWqSwq398hlQ?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;教大家和面&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mc1wKW-Xc809kkz3KNT_4VvcxADDbhgySxVMqXQxO-pI1KDfqpmeaDcVc2GTGFRU65vM09ZXLKHbrWTgjiZSRL6oANs-jV1UXDPxajtWbhphp_DJQjLENg8Dpd0CCDw14JGnDwh4X7XeO50kMdvxjnTq8BMsg-WT7KWYVnervRCRqaIJ2CWfXS5Xo0IdT4JXU?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;给你一颗小❤️❤️&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mFFgPDR9hDPuwOookIHDT-xe9W77Sm7lFhLbs6dIvcc0RNYhWBje5hWKJKBdbEahgqpdgib35vb87HGz0q8LagdaHM0PcVrjkAas9GZkubm_NwpUoIWKqLZ1QPP0pZ0WhPQyHjw4wGO0xzOBK7g6KwuXPbR2RmV-W7mV2qu7PxWnT5EYx_Y1sg7IcuKWYervf?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;给你一颗小🌟🌟&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mY9bYPvnwJtwRi9HE9yiAHF2kvm5JQjUGMYSuMjYqsiw7UfO2jW06YYqMyGcdqklubWY1kWFxwH-e-soTy9GbF7TSbcUdPVH00qBGcsfO65b5s8Y1VvJpazaVhqhJraa-DjozwNspcfmN7VjjjtlugVVzjiHrvfW59BmGJWOzRPOcvDOb5rXID-8QFR6iDEiI?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;面团人儿&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mgL0KVaVLTgPKKJn_uREmJOkZw6aIvl2Mim-WnofTvU23-O_ibPyuWbmkNyebGoIlaOOq1c_0HPed763mIu5lDAh95cWYYumNJ-r37fxEjNnHdIAizm3FjeywmATKfBUiiwhbxRdwabsW_pax9rfWtvEdM4uI6POj4jJ5U_HSXTmuKjfhsPiz4Jx3iHYJVQNI?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;小可爱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mDnQrrnaCVXxoTM7qfiDS3b1ArBKOWGqCYqWAf6VelCQp0vz6Gap9pVr03sI9SpvA6qzTxWPoH6b_yhFJUdYQK2PiYPsKPzvQjb44XcjTBv0heCfETHzzyMorM_-DwDgR0AQxe7gXYRNELtFbIMhsBQDwjxzc6KsYRgdFJ9koyVH78kTwigijp8Rn4F8BLWfm?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;看不出这是啥&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mhPo2mEMLP-pix4rbdGf4jFyWhmIXHGzkoerrzjie1m19oifhTy1o-YnzHZJ9TmM3xEoE_O5nnBDj7x3vRjfMpYClTfaf2ben_YvuYsNrCAbRddMwV4xr8Eohh9lyCiLjBkBcIgWsFwAQyiqPakllTk2BlqK3VDXJASIeDLA8F6bI4rnY131g856V6kDbEFZ8?width=1024&amp;amp;height=584&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;天马行空的想象力&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mlIkssQyINxVGOTBRW0O2Rdd4M7n_M1NAGrscChWfGO2b5NHnu4BKTBZQFCrcF6hUxxb30OcEbCTaPBw_6I2XeuDc_RxckSO3IrfP8iA9zt-dB8fjZDT7oa5CQNlAxKHiQtaRtGQKMhSoSr2j8i3M_XMnQlpFxRbceR9um94WuvORc7wdrEXu1-TsQJNr_krm?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;右边的孩子是个表情帝&#34;&gt;&lt;/p&gt;
+&lt;p&gt;关于吃喝，我们是自己买菜做饭，轮流着做饭。买菜需要起很早，六点就得起来，骑着一位阿姨借给我们的电动车去几公里外的镇上买接下来几天的菜。&lt;/p&gt;
+&lt;p&gt;由于我不会做菜，做出来的东西大家都..光盘..不了，印象很深的是有一次我给大家煮汤，觉得味道太淡了，就放了几包泡面的料包，最后大家都喝不下去了……于是乎，我被限制了做菜，只是帮忙切菜打杂，另外还有一个原因是我要拍照、处理照片，所以课余时间也不是很多，大家就让着我点了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mk0ZpzXroN6JfJ_spNFldC3yPuNM0BonXHdSK8d7Z-F1Wb6u8MUkfIh_bQ8GZa13SgFEVlJBWNTx8RTOu72_G8QDVxy99K6gLnb1AAavJ_TyGCnF4-xPjauB_vEL9Df_UIyqml0R2Owte58DhOt1XzASK5sz2I0yMVDmVTV0XkGarHlMntz_zQgJFgffPqbKc?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;自己煮饭做菜&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mlxshLuFMtbXxSpCKWe1drho3pRk-JPVLpy6XueLJ7tp54r3kksXQjMoXvNbukbHyT9vl-ev4IU7n_4YdSwMcvgVRMI9r0xt06Mn1-nNpiLG0-hiS0m2_1hrU5n_oCY3TIVtdI3Vv2AdOeHtlFfps8bTJioyYnxa2GyAHFGxOe-rhBwMc1Bd4RdimhYNzNMbs?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;虽然清淡，但是味道都很不错&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mPqhUFeGpTJPltZdoibBE0RH7SXwPo-oK54o1HUjgAS6KpeYCPZwHy5Fga4Ge2xMVpUvTyiO-v7EmioAskX-w_fqcXLqrv-ku2g68QpPTfo1vJjaOvQdG0I03_pi4k-GfNKcAUT4stvki_i65zaoYpYozD46iMattu9Dh_9ZO-V_316Cz2YOSItOHJWUIrUm2?width=1024&amp;amp;height=576&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;连盆端，我的最爱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4miVKjgM71kRT_2X3Va_CR6O4BgES9V65PQ0MastAbbLq-rDsx_tjrIKQEmVLN8_X2QmCN3smoTkhkXodYVQp-KUN_EUSuCsMx9FfunM97oGFzoiJ-C2uWvxeBy_Md-urvt8st0qYLSV4jBnIIu54NP6Z2FubWqGiZ9xUUw1xYEFbFSLY8_pjFs09qvRGYMnDs?width=720&amp;amp;height=960&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;光盘行动，从我做起&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m1otvp2KdT815mTvs0VT5xS40wXIIN8LoXzvOb9s7IQM3syG_uuoKWRD8hggMFCIeBLNiuJt7j-b0UKgpJ--pvOB4yQS9iNiF6ovmbRy_IJ3sBt0t9hovmC860C5nLz183h8DulSSQ5XcVnrVg_BymGsqq3JovlUDp5vQNExVd7G2cXSriCewT8VaKV-rB2wj?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;累了，午休一下&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4maqakrjvZPqHULSgO2RMXFNMOoB048jMdA3aUs6pdVUnCxzcnNpkAtG9xYYM8z2EbYUjlriACeYweKXPbANLeSVtKz4UafMbG7U17lRxT8lKjA8Fpj5h59-xxKUV_ExHJr3A3IWwK_o7PDQWyzohyddJftVPuoM865XxbcQDGAPPiDCymoq3mmRQbDBK4eXGN?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;「感恩的心」手语课&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mhMjT9kpKdzGuvauSqMiZNLBKSssxvAM-1pQIkc60VPfbJzgANqlAa5aaWT-JhfM2UpHG9iBSnckpdmv15MaFgYzgmX55UNNucu5dSuk3LNbD2zdeiUVAw11gaOADm7bHEKiDhZdcwDCDeXXaEfvNlJtdVM5Iql7rkJ2i8tjxo8mSP4u1B4Y6yeAGKE_9LJqz?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;排练话剧&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mbirZAXpzJpY9utA-0avUNS-XURiZk9DQLDvbmY-9JXZqcMZeC9bl_35UYzsB1qqNDOo63sQnr2g2VyniDqYZh01peqLodaXuKmuxLixngcxJGZWRQD5K-ZmGAOReV6GTwKIbK6U82I0wH_sHzwcfsCD968eVEzcCqO4zHlG_T7yf6q00VUDoD61_sdexcR9n?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;看动画片是最认真的时刻&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4moKjp7dIMHMZGcFGbx2cRy8wc7vye4WUGkw4Y24ST5s3Q1OPZe0EuWlf0mVhoNyH9yExEikUwdfGXf3AlAnvZCTwfScekrGQT0U1uOZvoAABytqRYwe9rEcpyfElXVoOZr5jKlDsHg6PxG_0JAIdqMB2rQyCP_hDOfcbF0Pw63HFh2sug3SmtHBgEzMH8qLMD?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;专心致志&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4my_3_IhaTOqGzWs_eCJ_OEghJmI1U0Kgczg88yv4m_iWmtlzv29-bFdqgUUjY-q06Hxgiwn0WL_vhuMVMsTXX6dmoJ79RNMIWeZIFY61fEaQgskWkqCs86pXExPpPsZcq5unpdYgv8Ph7An2uXI8fNzyXQOGVELQvT5kb0fcv0UPcnOXEiMVKpTPGuEadWjPg?width=1024&amp;amp;height=636&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;科学课上完摩擦生电后，年轻人不讲武德&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mw0IdmnomQuKvbfchYJb7Dac10ue0TG9l9PhTHy-wAHByEqetq4M6GSLpMSmXDDJOdwIBMkY91lZuEOnbdMoXLI0S6GK5GSIjvfFd6WZZ9Gsi-L9GD6caIq-mhpRElkg-SAJUdxx-zFYrTuziHuNoFKdBJM_hZgsqtGCkZQwQmDCb9EQ8sCK7PdmpK1Gzkh8G?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;猜猜这是啥&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mUeaUHuV58ZhuHP1Ud9EDpE2-CPuAbw8VhaqwJqhbzEYG5rHDiBvNGYD7-zBy3VFFtkwKqBqIQeYxYNuJi7rORd8aogwu90p8xIUsjL_4jNQNk0aBCAvg-GJxeT0WJCSkieaUWORZsw6c-wcf4-Hy63Vom-l3FRq3XWUoQeYz950cVZwLE30g5FNml3lY8chT?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;你瞅啥～&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mfCRPRxSl6zUu-Xr7uLyFmaw2Vq_6olm3D28yGYoSw6uDR5aT76Tv11u9RqOOjEVLL_RIJYxu05iJEnk5AkKZ7JosfE8KjcpNI2XlIa4sPM2DCeoO7j8qLIxE5dv4vFNt232pNxwcQ-fGFjVY3pEa9Wyc9aUMB9PhIlxtn18xozOPIE_Sto2g8kNN1mq_hVEi?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;行走江湖，发型一定要帅&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m2pI4czcCTd_g29PeuNS8vGSj4667Pis4--L8vgtnCwExh890ZQMaP8p_T9JWEhg0tW4QsVgjRd8yObNTHBUctPEFzXFwD9CFvl-h93dLDlgQnjdG8wX_TJKPlv4R-MGdHzKXT_I24bDzvgTwJ3KDTv-zv7Ry5cvtLMIe3PMuk-f4-OqtFxsb2iTYY05MKQR-?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;在抄写我们的队歌《骄傲的少年》&#34;&gt;&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;style type=&#34;text/css&#34;&gt;.dark-theme .aplayer{background:#212121}.dark-theme .aplayer.aplayer-withlist .aplayer-info{border-bottom-color:#5c5c5c}.dark-theme .aplayer.aplayer-fixed .aplayer-list{border-color:#5c5c5c}.dark-theme .aplayer .aplayer-body{background-color:#212121}.dark-theme .aplayer .aplayer-info{border-top-color:#212121}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-title{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-music .aplayer-author{color:#fff}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time{color:#eee}.dark-theme .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon path{fill:#eee}.dark-theme .aplayer .aplayer-list{background-color:#212121}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb{background-color:#999}.dark-theme .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover{background-color:#bbb}.dark-theme .aplayer .aplayer-list li{color:#fff;border-top-color:#666}.dark-theme .aplayer .aplayer-list li:hover{background:#4e4e4e}.dark-theme .aplayer .aplayer-list li.aplayer-list-light{background:#6c6c6c}.dark-theme .aplayer .aplayer-list li .aplayer-list-index{color:#ddd}.dark-theme .aplayer .aplayer-list li .aplayer-list-author{color:#ddd}.dark-theme .aplayer .aplayer-lrc{text-shadow:-1px -1px 0 #666}.dark-theme .aplayer .aplayer-lrc:before{background:-moz-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:-webkit-linear-gradient(top, #212121 0%, rgba(33,33,33,0) 100%);background:linear-gradient(to bottom, #212121 0%, rgba(33,33,33,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#212121&#39;, endColorstr=&#39;#00212121&#39;,GradientType=0 )}.dark-theme .aplayer .aplayer-lrc:after{background:-moz-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:-webkit-linear-gradient(top, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);background:linear-gradient(to bottom, rgba(33,33,33,0) 0%, rgba(33,33,33,0.8) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr=&#39;#00212121&#39;, endColorstr=&#39;#cc212121&#39;,GradientType=0 )}.dark-theme .aplayer .aplayer-lrc p{color:#fff}.dark-theme .aplayer .aplayer-miniswitcher{background:#484848}.dark-theme .aplayer .aplayer-miniswitcher .aplayer-icon path{fill:#eee}&lt;/style&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;meting-js server=&#34;netease&#34; type=&#34;song&#34; id=&#34;479979076&#34; theme=&#34;#2980b9&#34;&gt;&lt;/meting-js&gt;
+&lt;blockquote class=&#34;quote-center&#34;&gt;&lt;p&gt;在一开始 当初我还是&lt;br&gt;
+一个天真而又爱哭的孩子&lt;br&gt;
+十年之后 终于才明白&lt;br&gt;
+只要全力以赴就无所谓失败&lt;/p&gt;
+&lt;p&gt;转眼间 一切都已改变&lt;br&gt;
+新的起点新的世界就在眼前&lt;br&gt;
+受过伤 也流过了眼泪&lt;br&gt;
+为了梦想疯狂这一次又怎样&lt;/p&gt;
+&lt;p&gt;奔跑吧 骄傲的少年&lt;br&gt;
+年轻的心里面是坚定的信念&lt;br&gt;
+燃烧吧 骄傲的热血&lt;br&gt;
+胜利的歌我要再唱一遍&lt;/p&gt;
+&lt;p&gt;世界之大 总想要去飞&lt;br&gt;
+就算满身伤痕也不曾后悔&lt;br&gt;
+无人喝彩 依然在期待&lt;br&gt;
+雨后的彩虹它是那样的精彩&lt;/p&gt;
+&lt;p&gt;转眼间 一切都已改变&lt;br&gt;
+新的起点新的世界就在眼前&lt;br&gt;
+受过伤 也流过了眼泪&lt;br&gt;
+为了梦想疯狂这一次又怎样&lt;/p&gt;
+&lt;p&gt;——《骄傲的少年》&lt;/p&gt;
+&lt;/blockquote&gt; 
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mJMzXGNAGpWqVbxKUH5FD3Jh1LLIkQiDwNs45iqh3Cujes5KfHuHJTbBOLn7xrw28BHZRD5cYcsxl2G0cj3Xv9Ue1MDMMxYHQ9Uxqrb-QJaYTFs80aGjaGVZgTMme9vBpytlj268lSvv7GhMlsFnZxrAJGY0ufYegGJKMiRbrFeOeZyIv75jjeYq30jrexe_Z?width=1024&amp;amp;height=641&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;卖个萌&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mEvKlRmmXNhOvYZjqJ_V2vNBG39FFl_ZuwKxPN0fwc4baDttFDJ_6R7SFpldB0kU9EghrUr5sPUHWQ5aezI12RvXVu_etRzxevn7wFCvv4K5MGoIyXNI_y-nZAFPTKlY6YVpaodL-YrTigDH7Ku3M_D3_OIIcKC5eYf5bGrpzj3wBrqdH0Dk1uhvxzB5bmpZJ?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;比心❤️～&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mwfeMgObKByyQJWE1fbovc8gtEakme-fJmquQJ5PXdRZTczNoWOsWyy8DFYFpDSsxyY-Nnm5IQpthcJzNR9uxhowmDN9La0qTSbOlxqO0E-ZlcDbCFQirpLHiLLsKSD_JSoFWW7OOVgPySpS08IFc0M0GZdOT3ZNFfgUDeJW8kX5e6FI1w9L2jsyvO9kAAVaf?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;✌️&#34;&gt;&lt;/p&gt;
+&lt;p&gt;家长们经常给我们送来他们种的菜，时不时还会送一些水果给我们。尽管我们一再拒绝，但是他们总是趁着午休的时候放在门口就离开了。&lt;/p&gt;
+&lt;p&gt;于是，下午的时候，我们就会把水果洗好给孩子们分来吃。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mgr252CxLTUZfkZhpRWxIpdXOgQSL26NblFMpv3TlM0fhMdoT-v1CI4flIRI2YgbsIlYh2HqcE1FGOEQKNCuom_FnBczGf8gjZ1Nr8R4dsoIktbapDxI5VBFOfGlhly3-901siA4WhsOizcPxfncUXPvQS7H_PZoi7mNeZCgBEr2cOScEjdmhsn8igqXYN4ap?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;给孩子们分发阿姨带来的水果&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4ma-YWkU2xbfIEeYkz6JcW9UDM3GIZYlI0fZ2fUH6GZsrEnD-r-j3p9BCc0_Bg3NIBljZwy25geUvMlro1acFbJZ2lKOqESh7fyWRMmtS_KzsxhZ1KQygZNTEajD-Jmx4KPJbg5IXFnlEkR-_OUI9nj7A5FNgwSSsBTFkyb7J0Qu4zWTbuOfWfn3b87sqqR1FI?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;放学啦，冲冲冲！&#34;&gt;&lt;/p&gt;
+&lt;p&gt;放学后，大家各自回家。大部分孩子都有自行车，一些没有车的孩子就显得有点..孤独..。我们会陪着他们一起回家，路上也和他们谈谈心。这个时候他们没有任何负担，什么都会说，我们也借此机会更加深入地了解他们的内心。&lt;/p&gt;
+&lt;p&gt;在这里，一花一草都是他们的朋友，他们像主人似的拉着你介绍这个这条路、那条河，会带着你去摘莲蓬。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mPDConwi6HOz3jNc8sjyMHEmEsXi8aIErLKfV1UPUv-jKrFKmWRZuznN-DCYbWY9OLD64ou4t0fluhnQhLik9HprZO2YL0bkCQUeDfpvZRWULGRL3LiIB__YzENYTepPDuynaNqoO6A8Q_n6LJgcSTSwbwKtPZS_g-B-OYZOHoic7wcEdG4Vo49FdW6m6lZjM?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;陪孩子一起回家&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4msWEnVQpbCV0uELDwMeqSbo-OSWHPCdnWKYcJmcXZecBwxMMWMa1LRX637WPbizbWy02bMDx8BH8ePwKmJrterdQBselMRqGxausRcLRz6GevCgOhFD7K5AeB-rfRtDB6kMRURqu7GBzaltEJujHG5GZZVCIDkBHVtbss9Ls_e5bWo_JibaFXMMROf7Kvg0s3?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;黄昏下奔跑的孩子&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mTckmgc1aH1lauq3ZTJSdvbRlYxor028xnTibH_T5sisdYvU8aDUuwgQZZG3tMRsr9Fr9dEaUXh8PjX07eLlJGHxPEXcZJ8Swh0MFOJY2urW6FzEhVXpYLCyA2UhIZnmqp0QSRuN_B1Ok7rTc_CmJU4z-xsr-OYmzcTPjxb_T6rgjLCUDeEcrPhxpY-shx4PL?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;带着弟弟过来一起玩&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m9ls6MT0p9XwyJnO22RCXobsi2dSXVFrb07u7dKYO021tbdP7sofkzyrMmfTAi1RtrMwSXOyFJGK9PktcdmrUeLSiejBSV7PaDHhf_M3Z_Q9ncDAYzwzXU7-sxnvowTMdqTzi44p-5yVhq-OakaZ6DyoQLWqoG_Bzz_w5hSD62HyjoNB6cu-SP-DHFwlkOLWL?width=1024&amp;amp;height=576&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;送给老师们的折纸&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mvlexFzKGpUdYrPkf5dXIVocIQ4-PpIjZmDzvFKDCU26tawjNVFExX8mAHE_bHAS6gSAYCuv4jiK-p6epDWvh5Is7-h65rUaBHlYX0ZBJj7_W40RHlBUYdYBtYOEr5N3f9qbV3yfTKjXqU5EvKSUaic9hzePANDZt80aqLwm_CdaGu8VMjXehRgtbbB6AsLHk?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;肉眼可见的银河&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4myadGSDcpy68Kmc9LLEFFoUj5O7XpWXkX6L1A7qV-_W8-fcK4xGUxZbmlitOESoaCCaImdE4Xat6XYsuFnuWhx1S3o14RYLh3ZVkYa2MJyqZlZQRFOyPbPIXBZOuQLGax2E6nXwETpCBiqI09uazL13pRqcBXVg83jrU0ft5FsBmmmaknREhVboXX1-JGme6m?width=862&amp;amp;height=647&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;愿上青天揽明月&#34;&gt;&lt;/p&gt;
+&lt;p&gt;支教中期，我们趁着周末时间，..走访..了大部分孩子的家人，和他们说说孩子的上课情况，同时从另一个角度去认识这些孩子。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mgPNmsK2ri7WotPj54Ye9cNNCz0MhEdf-fDleW6vZLfQk_DkZqjNRjDr2HeVdXG83RFDhZNuzAjgL5smRkyFA7PMzr5cvzC73nJTq1tAU7_QzAiKSEqaHoUhZ__UnmEgxiVmlKP7bWkrPUn51CTkuLdyLFn49odHjHwheSvsPZ6yInxv7jADesrG9c6PaISBP?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;家访一&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mYN8oDB3TqjCntJH64crDliSbII2gWClKLyH5sgq3McluPOVY_4Y9sNXNbq3ZB-ua9DBtv1j3YTxovCdOIH5yBduWDAAO2ULatRTflGiuJqkkcnT_bbfQziycSfbob3HCUjyLwjCErbGq2e7HVd-vqBrPZZ8C8Q4swAle0O3SFQTMreoEg3ecnnaC3pEJEVgh?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;家访二&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mjJA2wyvZXf4OBGSQ23PQTRUWyQmqRSVKft8tLmydEYgy_Tb4_Vh2KzjPvTbeMkrevoToh1f40w5l_bf3Xy13r0b9oib94wmVV6dk8O0VtdCIaof2K7DJSIw4IuJUxMZztm3dKjUjlm-1mp9wrxYja-Kb5Hs2FRUFaN5kqNLuPL6ZyB9elZZOZNhs-CeWwDNb?width=1024&amp;amp;height=696&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;家访三&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mSaBqzv_F3PaA_cBARoci3nYDS3SV1ZxXhl3LAVu7JihtWy4nKMpYiUvS2a9LcMAxmSbIqS3YplhcOawYgu-ya8kwhiCMXH-Oi6cL9vGRlJD5x7VdrnKmTK2R1Q42rXiA9H8YO69_Qywt2vqbT2ZrzK3QQEcCsiv7b4_TYpJ25JPh_b5eIe2HokH1gNJGYm4g?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;乡下的风景，好美&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m0mpo5G2Ntwmsd9i4pAMlJMLzr6gB5FRXbpgJQyOk9D_a-U4zXtbNBi2VNcb9e_aNzMtRuFkoTc728SNha7oua2FE-e23GGGEkDPHU9f8OkQ6VLN_mdtAUYvTnGeaFtjsh_ZqKhVJygdsBYHlFnKnmc7BP_PoLce-IqBjz-hFeS98W4KUYZ8tfcp_Jcbbkr8R?width=1024&amp;amp;height=660&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;走访到黄昏日落&#34;&gt;&lt;/p&gt;
+&lt;p&gt;支教后期，我们举办了..运动会..以及..文艺汇演..，这是大家最开怀大笑的时候。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4msrwTRuAPpWEhNtrEsr4MCHHJAxKfVyZp1LKgVSz4uOSui6G5v6SqSNHk_uWQgyA9mk00k-kFCsawbS2wK1Y3ezJJz4JEmoUUTYi4ltoMPWYejUO9qRMvSIrtP9qX2_LVbkfRtWPD-OIgV2NtnKZskRbZPDCZHLCqwmPiGyuproH7I8i4y6MBBLRr9a-LfI_u?width=1024&amp;amp;height=642&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;运动会之跳绳&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m-KbX2kLfzbCxf2k59IY0zkouu1f-9dvxD5ukS2V_V-O-B7u_ih3L3z8CCnVPIFtGBfH9LuZqz4byiOkWZSS0cUlT_qtjgrPiZeAjlq7mnnxKDAMn64GQS-LG_LIpo1lg2frG79mpeGFlBQ8dX7RToOoZgjGzh9RRagvDn-RhHZlxx7lfpQIHEZwJRTlq63f3?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;运动会之投篮&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mgZsI204gp1YIWJJamQANyBB885DszC-093AQyZ7TMrBMv4SZFF6QhF3X8uAn2cv16RI7qj6NBUmW-Dsprt4L1PYsXtLtPggFep4gKdqjMJ6NRe4B8xqnohFVWlScvRxeB6cwo728nVSunHtKBR0q3MxNwM5DqKQt8N3om95T6cju6EonU3X7DzHac89XLCms?width=1024&amp;amp;height=562&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;运动会之拔河&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mJPE3ppb0cYHyGKJJBU9KnvsxKrP_YMel_rBxXEaqa8EgxUiIKS9YQQM_TYa7amZeE4e7i4kjvHjVmFXgLv2Cqav3121cWLlHpP0Pn9NFpQPbULlGm_kL7hHnXV3Fh5Ze2ToCyB5RqoVOzdxTvYJaLjbuoe-NLfYThqN2WGgj5ck498OPkU_GPhKv_fXoDg6t?width=1024&amp;amp;height=600&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;拖鞋可以飞，气势不能倒&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m2rm99-CDM4OWJpTA9GSyliyXFo3JP0hHndQhXgT-mBwIVFpC-1KSPTf_DNJeo8AlQ6XDDn8YHs6j5Faxubp4myv2eqVuAbcIL5JrJty6nmgOVJ3xdswszY7mcVSqT-tyCvXovGNkkh2vS4mttLkvE4bEyrC5OE01HCVB8Y6Hyduo3px_rLoh8_NDhR0_O59B?width=1024&amp;amp;height=603&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;重量级选手放后面&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mMjIeaWpJnIFrvg_J1t6WZuQBjh5Mf7o73wLBMV2Z1dCLCgXnyTC3jYa8KJ1OGucL6VSr-CVZLrlcLYu4uW_ZerabeTw4yJAtXUhTiiSWIVzxFjRE69w611LQuelO5JgZXUyboFe4wINRs1mojxtJrQMugvkVnpAuqnQdyn9tCNHmx1m3_cFHauv-Dp2G-aJe?width=1024&amp;amp;height=678&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;文艺汇演之七个小矮人&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m1rCeT2OvTV2JynQROclWSk9YidaGpOCEkQtyYYND_RBOkE-tg9hSzWI2EA8oDUQ0PmODBpoN7iHX5XPP0qsvjJ7b-qCj1awEYz1ykIRztoq9O8OkjngLpJVPJbO2tWtvY-jgEHSABo5EsJQMUbbaRGHt3d_5wo1MWQ3vTfItWukClwZ11ii9sWPZeu10dT7a?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;邀请了妈妈们献舞一支&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mbLs8Yyby74YN1hEtST5_lg12gsI9oe89JVgtKUON71pdReSoBOU7PNS54eHCvV_sl2SFoGmUv2URSKqXV1n-vanc_IWPhHdaYP0tzT2u4vbuXV3_LaKnrVveUeHu12Rmkft0cGdFxulVlMRL5n3Pt9yGceCTP6pQaSCS3dOpUSEaKxl5HuzPOzFoRedRQotp?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;舞蹈老师和大学生村官来一支爵士&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m1gVYQbB6J1Z39_kKBZuHlvCdp8ubmhnbunXozFwACXIuii20RdeokugOxvXK4czjuxkfkFR8rTSnJDQpTbF3M5pVwWKu2bb5cwWdDP9hs_6Z0V1klW-u6zneEJ-5ykqZjrYPrgFqJAANTeMeA51qWgJt7tuJGnvAeW5IHUdteXhksjx2EKRpuld6lUJOTcUZ?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;文艺汇演圆满结束&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mJRLq8KBRURUf4aLJyIm_q8G80GVOZodSOoQITuSgdKMkgXki0XSh7qDAcXYNbdUYd2yizrKEmKPQBKrUs9Vw-dtilDRIDt64l75r_8Mnx0GIvr54f_DOQ4EeX34_-DvAUcPhmnMyEszCgvOQnzlffNTYiDKiW0FGXahVq5-dlXX0Br3c9Ey0Wbtdedn2rd_y?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;愿欢笑永驻&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m8XXbSPHKM0-qNWKrqEwJLP4-z8anIjjxYCAvaSbCT135oz8uH2xguGGIGQxLFPJEgWqAk0F-qTfzFkll90ZziZxGCUa5SIqaWWR0vSnjTsO1Wa0uxUNKG6JWJM5nOwul-EWkiGiqXQWRTrFUlgXcvfpqP4L93GANqPabSpehAfeU2rOsFTp-40bbOs_pdRSb?width=1024&amp;amp;height=576&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;微爱支教队五周年&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4ml8BTLHiT7kD3STQ66LAhfJzG-iYkp8R1AJtBixjFVdoDBiJmV-N9nuFL0yXX0wSTp19EgiHBysmFigN4xVPQsMiD3BzeHxoDMudiEGakOhqcSQ4nTrsNv0rPBnQipyBA67n0EGLwD_62JVHx7iSqHy8v7L_sMd7UFm9L95lqGnxYMdsKH8jWpPE-zIbNFHqm?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;给大家发放胶囊垃圾袋&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在结束的前几天，我们趁着周末一起去了荆州市里吃喝游玩，一个学弟也赶了过来。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m-n3AZH59ocY6QTlDgE1f1M0W2T_8Cpavpz6cx5mUGeQ26mvbwxjhm3XImRU-XN4uIuXxJscWHoed7ZdGN_SwJRbb7s8AOY2cQCdglHPCbkm5zWP4ACeV0AQB2cS1Jv8J3La4yjNuuioNDDIrh4J33dhik62c5i6913vu6j2ZD84iYFFnqUD7YWaiDQm0CISn?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;荆州城内&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mHIynscCTWJBd9EFncFOMzt_pRg9ipIk0aGtsDmCHFeJJXKkIbPqVT8dN0dAqyRd8Qt8xmVAiFq-UU-zjP7uVM6i_wWegrs96M1AG_UzA4wo2A9BrRRZzQdtnhB5A1cYfaOIUdsCawxsNs2zo73G21dc8xSI4uWFo7exz8IofXSqyEY3lwr8MsgmIOfPhF-Y2?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;支教队 F4&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mWIZNhnlKNVLNDqR0siuwyGGPKIeludH2alFa5oYFCk-aOikoIHmPneEtr6eJqIoTEhDCH2UHBhAP5xP5PD4RrHmVc1sEjN_lplUsMoYexOJlzvZXJcfAUW-XfthQj2JLl2de3C1brOOMxBhwDhOx9eY9St677bmRdzUZX-0se71p0pqcFgBW045G-4As59zX?width=1024&amp;amp;height=768&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;支教队八成员+学弟&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m4co4o4_5YtbjbSgSLCDtAqVflqcxvnTTT0jccxz4XjjromzohZMpkM3_6tWGyo9KpE3JwM0hpX1GyyAGBuE-GL5785Att2ThX4fsPY8fxi-QTE3Cw-3wH7bZDvYNIQNPSEE2Sluku7qkvJOTbXIPUyVfRPrMD-JRxfz7nXxRc1BRo5noYf4cj9djD6-mYIdk?width=1024&amp;amp;height=576&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;夕阳西下，支教队八个兄弟姐妹（我在给大家拍照）&#34;&gt;&lt;/p&gt;
+&lt;p&gt;那是一段美好而宝贵的经历，时间愈久，愈觉得记忆之深刻。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E6%94%AF%E6%95%99/" term="支教" label="支教" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">朋友圈两类人</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/two-type-people-of-moment/" />
             <id>https://aaronnick.github.io/posts/two-type-people-of-moment/</id>
@@ -1405,7 +1653,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">请回答 2020</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/back-to-2020/" />
             <id>https://aaronnick.github.io/posts/back-to-2020/</id>
-            <updated>2021-01-22T19:29:35&#43;08:00</updated>
+            <updated>2021-01-23T12:31:30&#43;08:00</updated>
             <published>2020-12-31T20:20:21&#43;08:00</published>
             <author>
                     <name>叶星优酸乳</name>
@@ -1476,7 +1724,37 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;p&gt;这个时候我才知道，赚个钱实在是不容易，分分钟就能把你掏空了。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;都说 2020 太糟糕，人人期望赶紧跨过去，迎接新的一年。殊不知..时间是连续的..，年份只是人类自己的划分。糟糕并不会随着一个节点的流转而有所变化，没准 2020 才是开始呢？&lt;/p&gt;
-&lt;script async src=&#34;https://telegram.org/js/telegram-widget.js?14&#34; data-telegram-post=&#34;weiyexing/2373&#34; data-width=&#34;100%&#34;&gt;&lt;/script&gt;
+
+&lt;style&gt;
+.youtube-player {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    }
+      
+.youtube-player iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    }
+&lt;/style&gt;
+
+
+&lt;div align=center class=&#34;youtube-player&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/grF-mTrTwZQ&#34;
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34;&gt; 
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2020 年发生的那些印象深刻的事件。（来自网络）&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
             
             
