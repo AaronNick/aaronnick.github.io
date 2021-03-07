@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-03-06T10:43:01&#43;08:00</updated>
+    <updated>2021-03-07T23:27:20&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -20,16 +20,16 @@
             <title type="text">你要老婆不要</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-herdsman/" />
             <id>https://aaronnick.github.io/posts/the-herdsman/</id>
-            <updated>2021-03-06T10:14:38&#43;08:00</updated>
+            <updated>2021-03-07T23:20:32&#43;08:00</updated>
             <published>2021-03-06T02:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">偶然和 Scarlett 闲聊，被科普了一个 2019 年的老梗——老许，你要老婆不要。 我一查，这个梗来自一部 1982 年的老电影《牧马……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">偶然和朋友闲聊，被科普了一个 2019 年的老梗——老许，你要老婆不要。 我一查，这个梗来自一部 1982 年的老电影《牧……</summary>
             
-                <content type="html">&lt;p&gt;偶然和 Scarlett 闲聊，被科普了一个 2019 年的老梗——老许，你要老婆不要。&lt;/p&gt;
+                <content type="html">&lt;p&gt;偶然和朋友闲聊，被科普了一个 2019 年的老梗——老许，你要老婆不要。&lt;/p&gt;
 &lt;p&gt;我一查，这个梗来自一部 1982 年的老电影《牧马人》，导演是谢晋。&lt;/p&gt;
 &lt;style&gt;
 .aspect-ratio {
@@ -108,7 +108,7 @@
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
                             
                         
                     
@@ -337,7 +337,7 @@
             <title type="text">进击的巨人</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/attack-on-titan/" />
             <id>https://aaronnick.github.io/posts/attack-on-titan/</id>
-            <updated>2021-03-04T18:02:34&#43;08:00</updated>
+            <updated>2021-03-07T23:20:15&#43;08:00</updated>
             <published>2021-02-25T20:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -384,7 +384,7 @@
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
                             
                         
                             
@@ -1981,7 +1981,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">初识《读库》</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/duku1802/" />
             <id>https://aaronnick.github.io/posts/duku1802/</id>
-            <updated>2021-01-18T22:04:49&#43;08:00</updated>
+            <updated>2021-03-07T23:22:31&#43;08:00</updated>
             <published>2021-01-17T14:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2042,7 +2042,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%B9%A6%E7%B1%8D/" term="书籍" label="书籍" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
                             
                         
                     
@@ -2245,7 +2245,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">《一生自在》｜求新与严谨</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/innovation-and-rigor/" />
             <id>https://aaronnick.github.io/posts/innovation-and-rigor/</id>
-            <updated>2021-01-09T17:13:54&#43;08:00</updated>
+            <updated>2021-03-07T23:22:39&#43;08:00</updated>
             <published>2021-01-08T22:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2303,7 +2303,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%B9%A6%E7%B1%8D/" term="书籍" label="书籍" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
                             
                         
                     
@@ -2315,7 +2315,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">《教父》｜背叛</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/betrayal-in-the-godfather/" />
             <id>https://aaronnick.github.io/posts/betrayal-in-the-godfather/</id>
-            <updated>2021-01-05T00:03:33&#43;08:00</updated>
+            <updated>2021-03-07T23:22:17&#43;08:00</updated>
             <published>2021-01-04T22:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2361,7 +2361,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%B9%A6%E7%B1%8D/" term="书籍" label="书籍" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
                             
                         
                     
@@ -2615,7 +2615,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">2020 观影记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record-2020/" />
             <id>https://aaronnick.github.io/posts/film-record-2020/</id>
-            <updated>2021-01-22T09:27:58&#43;08:00</updated>
+            <updated>2021-03-07T23:20:20&#43;08:00</updated>
             <published>2020-12-31T19:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3023,7 +3023,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
                             
                         
                     
@@ -3035,7 +3035,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">2020 读书记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record-2020/" />
             <id>https://aaronnick.github.io/posts/reading-record-2020/</id>
-            <updated>2021-01-15T22:16:24&#43;08:00</updated>
+            <updated>2021-03-07T23:22:46&#43;08:00</updated>
             <published>2020-12-31T12:00:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3345,7 +3345,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%B9%A6%E7%B1%8D/" term="书籍" label="书籍" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
                             
                         
                     
@@ -4038,7 +4038,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《后翼弃兵》｜天才之路</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-queens-gambit/" />
             <id>https://aaronnick.github.io/posts/the-queens-gambit/</id>
-            <updated>2021-01-22T09:29:22&#43;08:00</updated>
+            <updated>2021-03-07T23:20:37&#43;08:00</updated>
             <published>2020-12-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -4077,7 +4077,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
                             
                         
                             
@@ -4495,7 +4495,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">三和大神</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-people-of-sanhe/" />
             <id>https://aaronnick.github.io/posts/the-people-of-sanhe/</id>
-            <updated>2021-01-22T09:30:40&#43;08:00</updated>
+            <updated>2021-03-07T23:22:07&#43;08:00</updated>
             <published>2020-10-16T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -4546,13 +4546,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%B9%A6%E7%B1%8D/" term="书籍" label="书籍" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
                             
                         
                             
@@ -4570,7 +4570,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-03-06T02:24:40&#43;08:00</updated>
+            <updated>2021-03-07T23:20:27&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5042,7 +5042,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
                             
                         
                     
@@ -5352,7 +5352,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-03-06T02:24:23&#43;08:00</updated>
+            <updated>2021-03-07T23:22:25&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5705,7 +5705,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%B9%A6%E7%B1%8D/" term="书籍" label="书籍" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
                             
                         
                     
@@ -5831,7 +5831,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《人间值得》｜九十老者谆谆教诲</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/worth-the-world/" />
             <id>https://aaronnick.github.io/posts/worth-the-world/</id>
-            <updated>2021-01-23T14:50:34&#43;08:00</updated>
+            <updated>2021-03-07T23:22:52&#43;08:00</updated>
             <published>2020-09-05T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5983,7 +5983,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%B9%A6%E7%B1%8D/" term="书籍" label="书籍" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
                             
                         
                     
@@ -5995,7 +5995,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《大明宫词》｜一部凄美的悲剧</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/palace-of-desire/" />
             <id>https://aaronnick.github.io/posts/palace-of-desire/</id>
-            <updated>2021-01-22T09:27:49&#43;08:00</updated>
+            <updated>2021-03-07T23:20:45&#43;08:00</updated>
             <published>2020-09-01T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -6088,7 +6088,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%BD%B1%E8%A7%86/" term="影视" label="影视" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
                             
                         
                             
@@ -6938,7 +6938,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">选择的权利</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/live-and-death/" />
             <id>https://aaronnick.github.io/posts/live-and-death/</id>
-            <updated>2020-12-20T01:27:31&#43;08:00</updated>
+            <updated>2021-03-07T23:16:44&#43;08:00</updated>
             <published>2020-08-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7016,7 +7016,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%80%89%E6%8B%A9/" term="选择" label="选择" />
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
                             
                         
                     
@@ -7424,7 +7424,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">翻译｜逐步升级的社交媒体</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-conflict-of-social-media/" />
             <id>https://aaronnick.github.io/posts/the-conflict-of-social-media/</id>
-            <updated>2021-01-10T10:40:28&#43;08:00</updated>
+            <updated>2021-03-07T23:16:19&#43;08:00</updated>
             <published>2020-07-19T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7586,7 +7586,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%A4%BE%E4%BA%A4/" term="社交" label="社交" />
+                                <category scheme="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/" term="产品" label="产品" />
                             
                         
                             
@@ -8840,7 +8840,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《了不起的盖茨比》｜再读感悟</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-great-gatsby/" />
             <id>https://aaronnick.github.io/posts/the-great-gatsby/</id>
-            <updated>2020-12-30T00:20:54&#43;08:00</updated>
+            <updated>2021-03-07T23:22:21&#43;08:00</updated>
             <published>2019-09-03T21:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8875,7 +8875,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%B9%A6%E7%B1%8D/" term="书籍" label="书籍" />
+                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
                             
                         
                     
