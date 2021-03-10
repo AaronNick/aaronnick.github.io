@@ -23,10 +23,89 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 07 Mar 2021 23:27:20 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 15:44:36 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>为什么软件正在吞噬世界</title>
+                <link>https://aaronnick.github.io/posts/why-software-is-eating-the-world/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/why-software-is-eating-the-world/</guid>
+                <pubDate>Wed, 10 Mar 2021 15:10:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;早在 10 年前，Andreessen-Horowitz 的联合创始人 Marc Andreessen 就曾预言世界将会被软件改变。如今，十年过去了，软件的影响的确深入了我们生活的方方面面——吃饭，我们可以在大众点评看评价，在美团下单然后外卖；出行，我们可以在滴滴打车；买东西，我们可以在淘宝、京东等软件直接选购……从饮食、出行到购物，只要有个手机，手机装有软件，这一切似乎来得轻而易举。这时，我不得不感叹 Marc Andreessen 的眼界和洞察力。&lt;/p&gt;
+&lt;p&gt;那么，10 年前他是如何预见这些变化的呢？&lt;/p&gt;
+&lt;p&gt;2011 年，他在《华尔街日报》发了一篇文章，阐述了自己的观点以及分析，包括当下的环境，是什么造就的环境，有哪些例子证实，还有哪些行业会发生变革，以及面临哪些挑战。（下文当中的「现在」，均指发文的 2011 年。）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;当下的环境&#34;&gt;当下的环境&lt;/h3&gt;
+&lt;p&gt;文章的开头提到，我们正处于技术和经济急剧的变化中，软件公司已准备好接管大范围的经济。越来越多重要的企业和行业正在以软件为基础，在线提供服务——从电影到农业再到国防。许多获奖者是硅谷式的创业技术公司，它们正在入侵和推翻既定的行业结构。在未来 10 年，我预计更多的行业将受到软件的干扰，新的全球领先的硅谷公司将在更多情况下进行行业颠覆。&lt;/p&gt;
+&lt;h3 id=&#34;什么造就这样的环境&#34;&gt;什么造就这样的环境&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;计算机革命已经过去了六十年，微处理器的发明距今已经四十年，现代互联网也发展了二十年，通过软件转变行业所需的所有技术终于奏效了，并且可以在全球范围内广泛推广。&lt;/li&gt;
+&lt;li&gt;现在有超过 20 亿人在使用宽带，而 10 年前，当我在 Netscape 时，这一数字已经达到了 5000 万。在未来的 10 年中，我希望全世界至少有 50 亿人拥有智能手机，使拥有这种手机的每个人都可以每时每刻即时访问 Internet 的全部功能。&lt;/li&gt;
+&lt;li&gt;在后端技术方面，软件编程工具和基于 Internet 的服务使您可以轻松地在许多行业中启动由全球软件驱动的新型初创企业，而无需投资于新的基础架构和培训新员工。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;凭借较低的启动成本和广泛的在线服务市场，其结果是全球经济首次实现了完全数字化连接。&lt;/p&gt;
+&lt;h3 id=&#34;有哪些例子可以证实&#34;&gt;有哪些例子可以证实&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;如今，世界上最大的书商是一家软件公司：亚马逊。&lt;/li&gt;
+&lt;li&gt;按照用户数量分，目前最大的视频服务是一家软件公司：Netflix。&lt;/li&gt;
+&lt;li&gt;当今占主导地位的音乐公司是软件公司：iTunes、Spotify 和潘多拉。&lt;/li&gt;
+&lt;li&gt;增长最快的娱乐公司是视频游戏制造商，同样是软件公司：Zynga。&lt;/li&gt;
+&lt;li&gt;数十年来最好的新电影制作公司是软件公司：皮克斯。&lt;/li&gt;
+&lt;li&gt;摄影很早之前就被软件吃掉了，如今购买任何一款手机几乎都带相机软件。&lt;/li&gt;
+&lt;li&gt;当今最大的直销平台是软件公司：Google。&lt;/li&gt;
+&lt;li&gt;增长最快的电信公司是 Skype，两大电信公司 AT&amp;amp;T 和 Verizon 通过与苹果和其他智能手机制造商合作，转型为软件公司而幸存下来。&lt;/li&gt;
+&lt;li&gt;增长最快的招聘公司是LinkedIn。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;除此之外，软件也吞噬了被广泛认为主要存在于物理世界中的许多产业价值链。在今天的汽车中，软件运行发动机，控制安全功能，娱乐乘客，引导司机前往目的地，并将每辆车连接到移动设备、卫星和 GPS 网络。&lt;/p&gt;
+&lt;p&gt;如今，世界领先的零售商沃尔玛（Wal-Mart）使用软件来增强其物流和分销能力。联邦快递（FedEx）也是如此，通过软件网络连接了卡车，飞机和配送中心。如今和将来，航空公司的成败取决于其使用软件为机票定价，正确优化航线和收益的能力。&lt;/p&gt;
+&lt;p&gt;石油和天然气公司是超级计算、数据可视化和分析的早期创新者，对当今的石油和天然气勘探工作至关重要。农业也越来越多地由软件提供支持，包括每英亩种子选择软件算法相关的卫星土壤分析。&lt;/p&gt;
+&lt;p&gt;在过去的 30 年中，金融服务业已经通过软件实现了明显的变革。实际上，从购买一杯咖啡到交易一万亿美元信用违约衍生品的任何金融交易都是在软件中完成的。金融服务领域的许多领先创新者都是软件公司，例如 Square（允许任何人都可以用手机接受信用卡付款的公司）和 PayPal（在今年第二季度创造了超过10亿美元的收入），比上一年增长 31％。&lt;/p&gt;
+&lt;h3 id=&#34;还有哪些行业会迎来变革&#34;&gt;还有哪些行业会迎来变革&lt;/h3&gt;
+&lt;p&gt;医疗保健和教育将是基于软件转型的行业。甚至，国防也会越来越以软件为基础。每个行业的公司都需要假设软件革命即将来临，这甚至包括当今基于软件的行业。&lt;/p&gt;
+&lt;p&gt;对于某些行业，尤其是那些拥有大量实业部分的行业，如石油和天然气行业，软件革命对于现有企业来说是一个机遇。&lt;/p&gt;
+&lt;h3 id=&#34;面临的挑战&#34;&gt;面临的挑战&lt;/h3&gt;
+&lt;p&gt;首先，当今的每家新公司都是在面对巨大的经济逆风的情况下建立的，这使挑战远远超过了相对温和的 90 年代。在这样的时期建立公司的好消息是，成功的公司将变得非常强大和富有弹性。当经济最终稳定下来时，请注意——最好的新公司将增长得更快。&lt;/p&gt;
+&lt;p&gt;其次，在美国和世界各地，许多人缺乏必要的教育和技能，无法参与从软件革命中诞生的伟大新公司。这是一个悲剧，因为我工作的每个公司都绝对渴望人才。在硅谷，合格的软件工程师、经理、市场营销人员和销售人员可以随时提供数十个高薪、高回报的工作机会，而全国的失业率和就业不足率却高得惊人。这个问题比看起来更糟糕，因为现有行业的许多工人将被困在基于软件的颠覆的错误一方，并且可能永远不能再在他们的领域工作。除了教育之外，没有其他办法解决这个问题，我们还有很长的路要走。&lt;/p&gt;
+&lt;p&gt;最后，新公司需要证明自己的价值。它们需要建立强大的文化，取悦客户，建立自己的竞争优势，当然，还要证明自己不断提高的估值是合理的。任何人都不应指望在一个成熟的行业中建立一家新的高增长、以软件为动力的公司会很容易。这非常困难。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;原文标题：Why Software Is Eating the World&lt;br&gt;
+地址：https://a16z.com/2011/08/20/why-software-is-eating-the-world/&lt;br&gt;
+作者：Marc Andreessen&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E6%8A%95%E8%B5%84/">投资</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>你要老婆不要</title>
