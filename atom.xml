@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-03-13T11:30:02&#43;08:00</updated>
+    <updated>2021-03-13T23:27:24&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Netflix 的诞生</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/that-will-never-work/" />
             <id>https://aaronnick.github.io/posts/that-will-never-work/</id>
-            <updated>2021-03-13T11:27:50&#43;08:00</updated>
+            <updated>2021-03-13T19:41:49&#43;08:00</updated>
             <published>2021-03-13T10:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -61,10 +61,45 @@
 &lt;p&gt;企业文化是一家企业的..基石..。我在本书的创业团队身上看到了如今 Netflix 企业文化的雏形。&lt;/p&gt;
 &lt;p&gt;首先是..自由与责任..。在 Netflix 工作没有考勤打卡，想什么时候来就什么时候来，只要你把工作完成即可，不在乎你是在哪、用什么方式完成的。例如他们的前台职责只有一句话：展现公司最好的一面。没有长长的必做清单、没有限制事项，只有一个目标，如何做是员工的事。最终他们得到了一个好的前台。&lt;/p&gt;
 &lt;p&gt;其次是..坦诚..。当公司正处于高速发展的阶段，马克的朋友、创业合伙人里德，给他提了一个坦诚的建议——放弃 CEO 位置，让里德来坐。对于一手孵化出来的公司，形同自己的孩子，怎能说放弃就放弃？&lt;/p&gt;
-&lt;p&gt;里德的建议不是「篡位」，他的目的是为了公司更长远的发展。他为这次坦诚做足了充足准备，阐述了马克作为 CEO 一年的成就和失败，结论是当下的环境他不是 CEO 的最佳人选。公司现在已经「冒烟」了，再这么下去公司会「着火」。&lt;/p&gt;
+&lt;p&gt;里德的这次坦诚不是「篡位」，他的目的是为了公司更长远的发展。他为这次坦诚做足了充足准备，阐述了马克作为 CEO 一年的成就和失败，结论是当下的环境他不是 CEO 的最佳人选。公司现在已经「冒烟」了，再这么下去公司会「着火」。&lt;/p&gt;
 &lt;p&gt;在经过两次的坦诚交流后，马克放弃了的 CEO 位置，转而作为公司的总裁去参与公司的事务。这一决定应该是 Netflix 最为重要的一次转折点，甚至可以说让 Netflix 不至于在二十年前的激烈竞争中落伍甚至淘汰。&lt;/p&gt;
 &lt;p&gt;里德更为理性，更具商业思维，执行能力足够迅速，他是更..适合..的 CEO 人选。&lt;/p&gt;
 &lt;p&gt;拥有自由与责任的企业文化，加上绝对的坦诚，伟大的点子，优秀的团队，这些都将 Netflix 带上一个新的高度。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;相关阅读：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://movie.douban.com/subject/30432304/&#34;&gt;《网飞对抗全世界 Netflix vs. the World》&lt;/a&gt;纪录片&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在这个纪录片里面，能够更加真实地体会到马克这个人是多么充满激情和感染力，以及 Netflix 和百视达的竞争多么激烈。&lt;/p&gt;
+&lt;p&gt;可以在哔哩哔哩&lt;a href=&#34;https://www.bilibili.com/video/BV1sv41167Gd&#34;&gt;观看该影片&lt;/a&gt;（&lt;a href=&#34;https://t.me/yzqzss&#34;&gt;@yzqzss&lt;/a&gt; 推荐）&lt;/p&gt;
+&lt;style&gt;
+.aspect-ratio {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 75%;
+    }
+      
+.aspect-ratio iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    }
+&lt;/style&gt;
+      
+
+&lt;div align=center class=&#34;aspect-ratio&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?aid=243475293&amp;&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34; 
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34;&gt; 
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -1500,7 +1535,7 @@
             <title type="text">博客支持 Audio、YouTube、bilibili 嵌入</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/add-audio-youtube-bilibili/" />
             <id>https://aaronnick.github.io/posts/add-audio-youtube-bilibili/</id>
-            <updated>2021-01-23T17:51:36&#43;08:00</updated>
+            <updated>2021-03-13T23:25:37&#43;08:00</updated>
             <published>2021-01-19T01:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1599,7 +1634,7 @@
 	
 &gt;
 	
-	&lt;source src=&#34;https://y.qq.com/n/yqq/song/001zMQr71F1Qo8&#34;
+	&lt;source src=&#34;https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaUdmYXR3cnNtb0lqb0VQMEp6UHRTWTVvMjZzUWc/ZT02THM3NW8=.mp3&#34;
 		&gt;
 	
 	Your browser does not support the audio element
@@ -4754,14 +4789,14 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-03-13T00:00:35&#43;08:00</updated>
+            <updated>2021-03-13T19:43:45&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人观看过的影视剧，持续更新…… 读书记录请移步 这里。 时间 影视剧名 标签 评分 备注 2021-03-12 《暗花》·（中……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人观看过的影视剧，持续更新…… 读书记录请移步 这里。 时间 影视剧名 标签 评分 备注 2021-03-13 《网飞对抗全世……</summary>
             
                 <content type="html">&lt;p&gt;本处记录个人观看过的影视剧，持续更新……&lt;/p&gt;
 &lt;p&gt;读书记录请移步 &lt;a href=&#34;https://aaronnick.github.io/posts/reading-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
@@ -4776,6 +4811,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-03-13&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《网飞对抗全世界》·（美）2019&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;纪录片&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;关于网飞的诞生到如今一系列的重要决策&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-03-12&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《暗花》·（中国香港）1998&lt;/td&gt;
