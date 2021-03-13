@@ -23,13 +23,104 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 10 Mar 2021 15:44:36 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 11:30:02 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
         
             <item>
-                <title>为什么软件正在吞噬世界</title>
+                <title>Netflix 的诞生</title>
+                <link>https://aaronnick.github.io/posts/that-will-never-work/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/that-will-never-work/</guid>
+                <pubDate>Sat, 13 Mar 2021 10:10:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;关于 Netflix 的书籍有很多，但大多谈论的是商业模式、企业文化。要知道，二十多年前 Netflix 诞生时，它只是做一个看似不起眼的 DVD 租赁生意。《复盘网飞》这本书的作者是 Netflix 的联合创始人，他在本书讲述了这个点子的产生，以及如何组建团队，如何优化商业模式，其中不少具体的例子很有参考意义。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m_BnH0iv4Ud2ya8561CmexKjHWJlFiOy6-yF5f9YVr5zulq8PfbuUpis2YAU2I66L2WZJyIbl0qYcls8BbeclJ3xEu7413oiFuSyGlkHgrDDaI3_DiDb8wqAvG5FKe1gWYole1VRS3LTvfjVRks9ldR4kkZvTZWwzd0pT6KHh_tT8DehczbWsksYj5EZe6w1G?width=768&amp;amp;height=1024&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;《复盘网飞》&#34;&gt;&lt;/p&gt;
+&lt;p&gt;本书的译名并不好，书中其实没有复盘太多，更多讲的是..创业故事..，然后到上市便戛然而止。英文书名《That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea》其实很恰当，要传达的是 Netflix 的诞生过程以及这个不起眼的点子是如何做到现在的千亿美金公司。&lt;/p&gt;
+&lt;p&gt;以下是我读完本书后的一些..思考..。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;一个好的点子&#34;&gt;一个好的点子&lt;/h3&gt;
+&lt;p&gt;一个好的点子，筛选于众多糟糕的点子。流传最广的 Netflix 创意故事是：里德&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/that-will-never-work/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;在百视达公司租了一部电影《阿波罗 13 号》，他在归还录像带的时候因为逾期而不得不支付 40 美元的滞纳金，然后他就萌生了创办 Netflix 的想法。&lt;/p&gt;
+&lt;p&gt;这个故事很有戏剧张力，媒体们很喜欢。但这..并不是真的..。&lt;/p&gt;
+&lt;p&gt;真实的故事是，他们在尝试租赁 DVD 这个点子前，思考和讨论了无数的创意。本书的作者马克有一本小册子，里面专门记录了自己零零星星的想法，然后他会和里德一起讨论，例如定制棒球棒、个性化冲浪板、宠物狗量身定制的狗粮……这些都被里德一一否认。里德的理由是，..定制的生意不好做..，做一打产品的努力是做一个产品所付出的努力的 12 倍，而且不会随着时间的推移变得容易，这种点子永远不会成功。&lt;/p&gt;
+&lt;p&gt;这时就会发现，里德是一个理性的人，更有商业思维。马克则像是一个充满激情的创业者，头脑里有无数的点子，以及满腔热血。这是本书的一个..伏笔..。&lt;/p&gt;
+&lt;p&gt;关于伟大点子的产生，他还传达一个观点：..顿悟是极其罕见的..。在创业故事中所谓的顿悟，往往是被过分简化，甚至伪造的。租赁 DVD 的点子，也是经过无数的讨论、假设、测试和验证而来的。&lt;/p&gt;
+&lt;h3 id=&#34;寻找合适的人&#34;&gt;寻找合适的人&lt;/h3&gt;
+&lt;p&gt;所谓创业，除了一个好的点子，另外重要的就是一群合适的人。好的点子是..方向..，合适的人是保证能够..到达..这个方向。&lt;/p&gt;
+&lt;p&gt;要做好 DVD 租赁生意，找到一个了解这个行业的人尤为重要。米奇就是这样的人。马克在遇到米奇的时候，就很清楚他的价值：他是一个狂热的电影爱好者，不断积累的电影知识和对人心的洞察，使得他得以精准预测顾客的情绪、兴趣和品味，并推荐给他们合适的电影。这就是活的..推荐算法..！&lt;/p&gt;
+&lt;p&gt;为了讨好米奇，马克经常请米奇去巴克餐厅&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/that-will-never-work/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;吃饭，以至于胖了不少，后来他把这称为「创始人的 15 磅」。这 15 磅的体重给他带来的回报是，米奇加入团队，为后面生意的运作提供了巨大的帮助。&lt;/p&gt;
+&lt;h3 id=&#34;专注&#34;&gt;专注&lt;/h3&gt;
+&lt;p&gt;人的精力是有限的，把有限的精力投入到无限的事情上，这是不理性的。同样，公司也是如此，时间和金钱都是有限的，有的时候必须舍弃什么，才能轻装前进，更加关注，走得更快更远。&lt;/p&gt;
+&lt;p&gt;Netflix 历史上有两次决策非常经典，体现了两位创始人的远见和果断。&lt;/p&gt;
+&lt;p&gt;一次是和亚马逊沟通并购失败后，马克和里德决定..取消 DVD 销售业务..，原因是亚马逊很快就会入场在线销售 DVD 生意，而刚做起来的 Netflix 根本不是亚马逊的对手。另外，如果 Netflix 同时运作销售和租赁 DVD，会让消费者晕头转向，也会让业务变得复杂。&lt;/p&gt;
+&lt;p&gt;这是将所有鸡蛋放在同一只篮子，也是唯一能保证不打破任何一枚鸡蛋的方法。&lt;/p&gt;
+&lt;p&gt;另外一次是..专注订阅模式..。在探索新的运作模式时，他们测试了三个点子。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;家庭租赁库：用户每月以 15.99 美元一次租 4 张 DVD，不限归还时间，当归还一张 DVD，用户就有机会再租一张。&lt;/li&gt;
+&lt;li&gt;序列化交付：用户可以创建一个 DVD 心愿清单，当他们归还了一张 DVD，自动把清单上的下一张寄给用户。&lt;/li&gt;
+&lt;li&gt;订阅模式：按月交一次服务费，不限制归还时间。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最终的测试结果是，用户非常喜欢没有滞纳金的订阅模式，但是还有小部分人选择按件计费。订阅模式在那个时候已经展现出了巨大潜力，按件计费是少部分人的需求，且需要把精力分散到一个过时的模式上。是两者并行，还是只保留订阅模式？最终 Netflix 的选择是在 2000 年 2 月彻底放弃按件计费的租赁模式，完全转向订阅服务。&lt;/p&gt;
+&lt;p&gt;极度的专注似乎有些冷酷无情，甚至有点残酷，但是它同时也是一种..勇气..，一个简单高效的办法。&lt;/p&gt;
+&lt;h3 id=&#34;企业文化&#34;&gt;企业文化&lt;/h3&gt;
+&lt;p&gt;企业文化是一家企业的..基石..。我在本书的创业团队身上看到了如今 Netflix 企业文化的雏形。&lt;/p&gt;
+&lt;p&gt;首先是..自由与责任..。在 Netflix 工作没有考勤打卡，想什么时候来就什么时候来，只要你把工作完成即可，不在乎你是在哪、用什么方式完成的。例如他们的前台职责只有一句话：展现公司最好的一面。没有长长的必做清单、没有限制事项，只有一个目标，如何做是员工的事。最终他们得到了一个好的前台。&lt;/p&gt;
+&lt;p&gt;其次是..坦诚..。当公司正处于高速发展的阶段，马克的朋友、创业合伙人里德，给他提了一个坦诚的建议——放弃 CEO 位置，让里德来坐。对于一手孵化出来的公司，形同自己的孩子，怎能说放弃就放弃？&lt;/p&gt;
+&lt;p&gt;里德的建议不是「篡位」，他的目的是为了公司更长远的发展。他为这次坦诚做足了充足准备，阐述了马克作为 CEO 一年的成就和失败，结论是当下的环境他不是 CEO 的最佳人选。公司现在已经「冒烟」了，再这么下去公司会「着火」。&lt;/p&gt;
+&lt;p&gt;在经过两次的坦诚交流后，马克放弃了的 CEO 位置，转而作为公司的总裁去参与公司的事务。这一决定应该是 Netflix 最为重要的一次转折点，甚至可以说让 Netflix 不至于在二十年前的激烈竞争中落伍甚至淘汰。&lt;/p&gt;
+&lt;p&gt;里德更为理性，更具商业思维，执行能力足够迅速，他是更..适合..的 CEO 人选。&lt;/p&gt;
+&lt;p&gt;拥有自由与责任的企业文化，加上绝对的坦诚，伟大的点子，优秀的团队，这些都将 Netflix 带上一个新的高度。&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;小威尔蒙特·里德·哈斯廷斯（Wilmot Reed Hastings, Jr.，1960年10月8日－），美国企业家，Netflix的创办人、总裁和董事会主席。 &lt;a href=&#34;https://aaronnick.github.io/posts/that-will-never-work/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;巴克餐厅：硅谷圣殿之一，无数的公司诞生于此。要么是在这里构思出来，要么是在这里获得资金支持或其他方式组建起来。 &lt;a href=&#34;https://aaronnick.github.io/posts/that-will-never-work/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/netflix/">Netflix</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E5%88%9B%E4%B8%9A/">创业</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>软件吞噬世界</title>
                 <link>https://aaronnick.github.io/posts/why-software-is-eating-the-world/</link>
                 <guid isPermaLink="true">https://aaronnick.github.io/posts/why-software-is-eating-the-world/</guid>
                 <pubDate>Wed, 10 Mar 2021 15:10:21 &#43;0800</pubDate>
@@ -38,7 +129,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;早在 10 年前，Andreessen-Horowitz 的联合创始人 Marc Andreessen 就曾预言世界将会被软件改变。如今，十年过去了，软件的影响的确深入了我们生活的方方面面——吃饭，我们可以在大众点评看评价，在美团下单然后外卖；出行，我们可以在滴滴打车；买东西，我们可以在淘宝、京东等软件直接选购……从饮食、出行到购物，只要有个手机，手机装有软件，这一切似乎来得轻而易举。这时，我不得不感叹 Marc Andreessen 的眼界和洞察力。&lt;/p&gt;
+                    <description>&lt;p&gt;早在 10 年前，Andreessen-Horowitz&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/why-software-is-eating-the-world/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 的联合创始人 Marc Andreessen 就曾预言世界将会被软件改变。如今，10 年过去了，软件的影响的确深入了我们生活的方方面面——吃饭，我们可以在大众点评看评价，在美团下单然后外卖；出行，我们可以在滴滴打车；买东西，我们可以在淘宝、京东等软件直接选购……从饮食、出行到购物，只要有个手机，手机装有软件，这一切似乎来得轻而易举。这时，我不得不感叹 Marc Andreessen 的眼界和洞察力。&lt;/p&gt;
 &lt;p&gt;那么，10 年前他是如何预见这些变化的呢？&lt;/p&gt;
 &lt;p&gt;2011 年，他在《华尔街日报》发了一篇文章，阐述了自己的观点以及分析，包括当下的环境，是什么造就的环境，有哪些例子证实，还有哪些行业会发生变革，以及面临哪些挑战。（下文当中的「现在」，均指发文的 2011 年。）&lt;/p&gt;
 &lt;hr&gt;
@@ -79,6 +170,14 @@
 地址：https://a16z.com/2011/08/20/why-software-is-eating-the-world/&lt;br&gt;
 作者：Marc Andreessen&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Andreessen Horowitz（又名a16z）是一家美国私人风险投资公司，由马克·安德里森和本·霍罗威茨于2009年创立。 &lt;a href=&#34;https://aaronnick.github.io/posts/why-software-is-eating-the-world/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
                 
                 
@@ -4564,6 +4663,20 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-03-12&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《暗花》·（中国香港）1998&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;犯罪 悬疑&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;悬疑差点意思，总体还行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-03-08&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《赌神》·（中国香港）1989&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;喜剧&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;王祖贤在里面实在是太美了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-03-06&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《牧马人》·（中国大陆）1982&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;剧情&lt;/td&gt;
@@ -5337,6 +5450,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-03-06&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《复盘网飞》·（美）·马克·伦道夫&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;创业&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;不算发盘，只能说是创业回顾&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-03-04&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《段永平投资问答录（商业逻辑篇）》· 段永平&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;投资&lt;/td&gt;
@@ -6042,12 +6162,6 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                     <category domain="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/">观影</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E5%A4%A7%E6%98%8E%E5%AE%AB%E8%AF%8D/">大明宫词</category>
                                 
                             
                         
