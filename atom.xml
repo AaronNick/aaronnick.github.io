@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-03-13T23:27:24&#43;08:00</updated>
+    <updated>2021-03-27T14:23:40&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,53 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">谈争论</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/talk-about-arguments/" />
+            <id>https://aaronnick.github.io/posts/talk-about-arguments/</id>
+            <updated>2021-03-27T14:22:32&#43;08:00</updated>
+            <published>2021-03-27T12:10:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">争论和抬杠很像，但又不是一回事。有价值的争论是有明确的目的，而抬杠大多只是发泄不满。 生活中存在许多会……</summary>
+            
+                <content type="html">&lt;p&gt;争论和抬杠很像，但又不是一回事。有价值的争论是有明确的目的，而抬杠大多只是发泄不满。&lt;/p&gt;
+&lt;p&gt;生活中存在许多会引发争论的场景，例如对事物的看法，对公众人物的评价，甚至小至该吃什么饭，都有可能引发争论。据我观察，最为激烈的场景在政见方面，他们往往有着自己的一套理论，或者附属在某一套理论里面，据理力争，不达成共识不罢休。&lt;/p&gt;
+&lt;p&gt;由于我并不喜欢谈论政治，也遵循着自己「不在公开场合表明政见」的原则，因此这类激烈的争论并没有发生在我身上。尽管如此，我在日常生活、工作中，也免不了争论，尤其是在工作当中。&lt;/p&gt;
+&lt;p&gt;我的工作本质上是解决问题，满足需求，因此就会牵扯到多个不同领域的人，比如来自需求源头的业务方、实现需求的设计团队及研发团队，以及我的 Leader 和同事们。当我提出一个方案时，这个方案需要满足业务方的需求，同时在实现上确保可行性，最好的结果是大家都认可它。然而现实是，要达成这样非常的难。每一方，每一个人的立场不同，经历不同，在事物上的认识也不尽相同，要想达成完美共识，这是一个不可能完成的任务。存在差别，就会产生争论。&lt;/p&gt;
+&lt;p&gt;既然争论无可避免，那么该如何与它相处？&lt;/p&gt;
+&lt;p&gt;我本质上是一个不外向的人，那种呼唤着大家，高声宣扬自己理论，尝试说服大家达成共识的方式我并不在行，特别是期望通过声调压制来完成这件事，我更是操作不来，也不愿意这么做。但我自认为是一个讲道理的人，我觉得讲道理在争论当中所处的位置很重要。它决定了解决争论的基调是平和的、友好的，同时也是在原则之上的。&lt;/p&gt;
+&lt;p&gt;经历过那么多的争论，我不禁在想，..争论的目的..到底是什么？&lt;/p&gt;
+&lt;p&gt;最明显的目的是争论双方达成共识。无论是你认可我，还是我认可你，一旦达成某方的认可，那么争论便可就此结束。但我逐渐发现，这并不是争论的最终目的，或者说达成彼此的共识并不是争论应该解决的问题，因为若真是如此，那么争论就变成了「说服」的手段。&lt;/p&gt;
+&lt;p&gt;正如前面所说，产生争论的原因大多是立场不同、背景信息不同。当每个人所知悉的信息不一致的时候，必然在事物的认识上有所欠缺。而争论，应该将看清事物全貌作为争论的最终目的。&lt;/p&gt;
+&lt;p&gt;以具体工作为例，业务方产生需求，我规划方案，设计研发团队实现方案。期间我可能因缺乏对业务的深入了解而与业务方产生争论，也可能因技术可行性与设计研发团队产生争论。那么在这两种场景下，我应该是去寻求各方的意见，完善方案，而不是努力去说服他们认可我的方案。因为如果秉着让他们认可我，或者他们说服我的目的去展开争论，最终的结果都不利于实现真实的需求。&lt;/p&gt;
+&lt;p&gt;但在实际当中，不少人因为顾及面子、绩效甚至是内心的虚荣，并不会为了接近事物的全貌而去争论，尤其是牵扯到利益、感情的时候，往往选择妥协。这简直是信息缺乏下对双方人性、感情的一次考验。另一部分人则是佛系对待，这种「无为」的形式同样不利于逼近事物的真相。当然，对于没有意义的争论，例如社交平台上的无脑抨击，那就不必去理会了。&lt;/p&gt;
+&lt;p&gt;以上是我对争论的理解，也是我在争论时践行的理论。不一定对，但我在继续努力深入理解它。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Netflix 的诞生</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/that-will-never-work/" />
