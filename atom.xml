@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-04-01T00:33:18&#43;08:00</updated>
+    <updated>2021-04-04T00:38:51&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,20 +17,77 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
         <entry>
+            <title type="text">弃 flomo</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/give-up-using-flomo/" />
+            <id>https://aaronnick.github.io/posts/give-up-using-flomo/</id>
+            <updated>2021-04-04T00:38:35&#43;08:00</updated>
+            <published>2021-04-04T00:30:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">flomo 在开启内测时，我就已经加入内测并深度使用了一段时间。当时加入的理由很简单，就是看到作者的介绍后，觉……</summary>
+            
+                <content type="html">&lt;p&gt;flomo 在开启内测时，我就已经加入内测并深度使用了一段时间。当时加入的理由很简单，就是看到作者的介绍后，觉得它是一个简洁、另类且带着点浪漫主义的小记工具。&lt;/p&gt;
+&lt;p&gt;在上面记录了两百多条 Memo 后，我便不再使用它了。&lt;/p&gt;
+&lt;p&gt;并不是说它不够好，而是从一开始我就没打算将它作为我的笔记应用，试用仅仅是因为对产品的好奇。体验下来后，它所提倡的便捷输入、随机漫步方式的确可圈可点，但似乎还做得不够好。&lt;/p&gt;
+&lt;p&gt;当我去选择一款笔记应用时，它的便捷输入固然是一个重要的参考选项，但其实我更在乎还是以下几点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数据安全且私密；&lt;/li&gt;
+&lt;li&gt;方便迁移，多类型导入导出；&lt;/li&gt;
+&lt;li&gt;支持跨平台。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我个人有一定的隐私洁癖，所以对于相对私密的用于记录的笔记应用来说，挑选则更为严苛。它是否能够做到严格加密，并且保证较长时期内不会关闭服务，同时还需确保数据的稳定性？在这一方面，对于将微信作为一个输入入口的 flomo 是很难做到及格的。&lt;/p&gt;
+&lt;p&gt;其实还有一个很简单的方式去做过滤，那就是在选择的时候，我会思考这个选择在未来十年、二十年甚至更长时间后我是否会后悔，当..把时间拉长去看待问题..时就会发现，许多干扰选项已不复存在，这时候做选择就不会太难，而且大概率也不会错。&lt;/p&gt;
+&lt;p&gt;就如前段时间很多人追捧的阿里云盘内测，我在频道的观点也是如此。&lt;/p&gt;
+&lt;script async src=&#34;https://telegram.org/js/telegram-widget.js?14&#34; data-telegram-post=&#34;weiyexing/2451&#34; data-width=&#34;100%&#34;&gt;&lt;/script&gt;
+&lt;p&gt;我写这篇的目的并不是为了批判 flomo，仅仅是表达了我对于笔记应用的诉求。相反，我从这款笔记应用身上看到了创业者的那种做产品的精神，这是难能可贵的地方；更难能可贵的是它的部分精神——开放了许多 API，让有能力的人去拓展有趣的使用方式，这倒是有点像开源世界的精神。&lt;/p&gt;
+&lt;p&gt;不过，近期它的推广着实太多，多到甚至令人厌烦的地步。不少人用「颠覆」「本质」等夸张且宏大的词语去形容它，更是让人觉得无聊且反感。&lt;/p&gt;
+&lt;p&gt;对于产品，但愿能少一些捧杀；对于产品人，但愿能多一些真诚。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/" term="产品" label="产品" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">日志｜2021/03</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202103/" />
             <id>https://aaronnick.github.io/posts/daily-202103/</id>
-            <updated>2021-04-01T00:31:26&#43;08:00</updated>
+            <updated>2021-04-02T16:53:47&#43;08:00</updated>
             <published>2021-04-01T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021-03-31 数据可以告诉你人们在做什么，但是无法告诉你为什么，还得结合具体场景。 2021-03-30 拼多多买了一箱水果，等了三四……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021-03-31 数据可以告诉你人们在做什么，但是无法告诉你为什么，因此还得结合具体场景来看。 2021-03-30 拼多多买了一箱水果，……</summary>
             
                 <content type="html">&lt;h3 id=&#34;2021-03-31&#34;&gt;2021-03-31&lt;/h3&gt;
-&lt;p&gt;数据可以告诉你人们在做什么，但是无法告诉你为什么，还得结合具体场景。&lt;/p&gt;
+&lt;p&gt;数据可以告诉你人们在做什么，但是无法告诉你为什么，因此还得结合具体场景来看。&lt;/p&gt;
 &lt;h3 id=&#34;2021-03-30&#34;&gt;2021-03-30&lt;/h3&gt;
 &lt;p&gt;拼多多买了一箱水果，等了三四天终于送到了，然而却大部分都坏了。找商家，商家很爽快地退款，但让我奇怪的是，他不断强调我一定要把这箱果扔垃圾桶的照片发给他，这是为何？&lt;/p&gt;
 &lt;h3 id=&#34;2021-03-29&#34;&gt;2021-03-29&lt;/h3&gt;
@@ -38,7 +95,7 @@
 &lt;h3 id=&#34;2021-03-28&#34;&gt;2021-03-28&lt;/h3&gt;
 &lt;p&gt;想起和同事聊天，才发现她的家并不是她的避风港，而是避之而不及的恐怖港湾。每次回家她都要下很大的决心，因为一回去就要陷入那一张社交网里，不断地侵入她的生活，这是她最讨厌的。似乎，有时候我也是这样。&lt;/p&gt;
 &lt;h3 id=&#34;2021-03-27&#34;&gt;2021-03-27&lt;/h3&gt;
-&lt;p&gt;冲马桶的时候想到一个问题，由于大按钮最显眼也最好按，导致我常常按的是它。然而，大按钮是整箱水，小按钮是半箱水，而一般小便完只需要半桶水就够了吧。&lt;/p&gt;
+&lt;p&gt;冲马桶的时候想到一个问题，由于大按钮最显眼也最好按，导致我常常按的是它。然而，大按钮是整箱水，小按钮是半箱水，而一般小便完只需要半箱水就够了吧。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;北京平安置地房产经纪公司是垃圾，谨记。&lt;/p&gt;
 &lt;h3 id=&#34;2021-03-26&#34;&gt;2021-03-26&lt;/h3&gt;
@@ -6108,14 +6165,14 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-03-27T23:10:26&#43;08:00</updated>
+            <updated>2021-04-02T16:53:16&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，持续更新…… 观影记录请移步 这里。 时间 书名 标签 评分 备注 2021-03-24 《不拘一格》· [美]……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，持续更新…… 观影记录请移步 这里。 时间 书名 标签 评分 备注 2021-04-01 《解密 Instagr……</summary>
             
                 <content type="html">&lt;p&gt;本处记录个人阅读过的书籍，持续更新……&lt;/p&gt;
 &lt;p&gt;观影记录请移步 &lt;a href=&#34;https://aaronnick.github.io/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
@@ -6130,6 +6187,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-04-01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《解密 Instagram》· [美] 莎拉·弗莱尔&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;创业&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;有格调的人做有格调的事&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-03-24&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《不拘一格》· [美] 里德·哈斯廷斯,艾琳·迈耶&lt;/td&gt;
@@ -7045,7 +7109,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">软件｜电脑操作手机</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/black-hole/" />
             <id>https://aaronnick.github.io/posts/black-hole/</id>
-            <updated>2020-12-27T00:10:14&#43;08:00</updated>
+            <updated>2021-04-03T18:50:25&#43;08:00</updated>
             <published>2020-08-30T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7097,12 +7161,6 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                                 <category scheme="https://aaronnick.github.io/tags/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E8%99%AB%E6%B4%9E/" term="虫洞" label="虫洞" />
                             
                         
                     
