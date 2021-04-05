@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-04-04T23:37:17&#43;08:00</updated>
+    <updated>2021-04-05T19:43:11&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,61 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">举报大可不必</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reported-comments/" />
+            <id>https://aaronnick.github.io/posts/reported-comments/</id>
+            <updated>2021-04-05T19:42:23&#43;08:00</updated>
+            <published>2021-04-05T19:35:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期豆瓣的一个书评引发的事件吸引了我的注意。简而言之，事情的经过是网友高晗给一本译作《休战》打了差评……</summary>
+            
+                <content type="html">&lt;p&gt;近期豆瓣的一个书评引发的事件吸引了我的注意。简而言之，事情的经过是网友高晗给一本译作《休战》打了差评，译者出来理论，后一名译者支持者 Anito Anage 向给差评的网友的学校写了一封「举报信」。&lt;/p&gt;
+&lt;p&gt;校方的介入使得这个事件..性质大变..。网友高晗公开道歉，但网络舆论却倒向她这一边，豆瓣用户纷纷集体抗议，通过给《休战》打一星评价泄愤，导致该书直接被豆瓣关闭了评论。&lt;/p&gt;
+&lt;p&gt;事情的经过以及具体细节可以看这篇文章：&lt;a href=&#34;https://mp.weixin.qq.com/s/6Cf8ErJU2fZ2cRQMtZL-QQ?scene=25#wechat_redirect&#34;&gt;一封举报信引发的豆瓣“一星运动”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可以说，本次事件..没有赢家只有输家..。书籍因本次事件被大量网友刷差评，必然会影响销量，出版社、译者都会因此损失；网友高晗因为一个差评，被批评教育，耗费大量精力，还有可能会影响到学业以及未来前途；举报者被网络暴力；校方同样因草率处理备受批评。最冤枉的莫过于本书的原作者了。&lt;/p&gt;
+&lt;p&gt;当我们回顾这件事的时候，令人脊背发凉的莫过于写了「举报信」的那位网友 Anito Anage。让我深切地感受到了「举报」这个行为的滥用后果是如此的恐怖，..因言获罪..不再是影视剧的情节，而是实实在在地发生在我们身边。&lt;/p&gt;
+&lt;p&gt;如果连一本书都不能批评，那我们还期望可以在什么话题上提出自己批评的意见？没有批评，没有不同的意见，只剩下赞美，太平盛世，给谁看呢？正如那句话所说，如果批评不自由，则赞美无意义。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果尖锐的批评完全消失，温和的批评将会变得刺耳。如果温和的批评也不被允许，沉默将被认为居心叵测。如果沉默也不再允许，赞扬不够卖力将是一种罪行。如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言。&lt;br&gt;
+——佚名&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这句话被广泛传为是柏拉图所说，但是我持怀疑态度，因为无从考证，且这段话与那个时代并不相符，所以就姑且当作是佚名所作。&lt;/p&gt;
+&lt;p&gt;这段话我很赞同。文学创作理应是自由的，文学的评论也应该鼓励用理性的态度去..探讨..，而不是让说话的人带着枷锁发言。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;高同学持续攻击译者的行为已经在网络上和译界造成了一定负面影响，本着维护贵系乃至外语学部和学校学术形象的考量，以及防止事态进步扩大，贵系应该主动介入，调查清楚，让当事人认识到其言行失当的基本事实，协助并敦请高同学向译者带本人和出版社在其豆瓣主页上公开致歉，陈述自己所犯的错误，为其造成的不良影切实负责。&lt;/p&gt;
+&lt;p&gt;这样既有利于树立贵系的学术形象，也挽救了一个失足学生，不失为教育之初心。&lt;br&gt;
+——Anito Anage 举报信局部&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网友 Anito Anage 举着维护学校形象的大旗，居高临下，借用公权力去为自己的争论加码。搬出挽救「失足学生」，维护「教育初心」来绑架学校行为，实在是..不敞亮..。&lt;/p&gt;
+&lt;p&gt;高晗的评论就算存在不妥之处，那也可以互相探讨。毕竟，观点不一致是人间常态，&lt;a href=&#34;https://aaronnick.github.io/posts/talk-about-arguments/&#34;&gt;争论必不可少&lt;/a&gt;，尤其是在文学界，每个人的见地不一样是司空见惯的事情。没必要因为他人的观点与自己不符，就利用权利拳脚相向。&lt;/p&gt;
+&lt;p&gt;倘若事事如此，人人伺机而动，表达者谨言慎行，那这和「文字狱」有什么区别？&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">颐和园踏青</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-day-of-the-summer-palace/" />
@@ -5432,16 +5487,17 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-03-28T22:54:52&#43;08:00</updated>
+            <updated>2021-04-05T18:03:16&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人观看过的影视剧，持续更新…… 读书记录请移步 这里。 时间 影视剧名 标签 评分 备注 2021-03-28 《弥留之国的爱……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人观看过的影视剧，持续更新…… 注：备注中的短评仅仅是个人感受，不构成观影建议。 读书记录请移……</summary>
             
-                <content type="html">&lt;p&gt;本处记录个人观看过的影视剧，持续更新……&lt;/p&gt;
+                <content type="html">&lt;p&gt;本处记录个人观看过的影视剧，持续更新……&lt;br&gt;
+注：备注中的短评仅仅是个人感受，不构成观影建议。&lt;/p&gt;
 &lt;p&gt;读书记录请移步 &lt;a href=&#34;https://aaronnick.github.io/posts/reading-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -5454,6 +5510,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-04-03&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《芙蓉镇》· [中国大陆] 1987&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;文革&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;小人物在时代洪流下的命运&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-03-28&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《弥留之国的爱丽丝》· [日] 2020&lt;/td&gt;
@@ -5485,7 +5548,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-03-06&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《牧马人》· [中国大陆] 1982&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;剧情&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;文革&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-herdsman/&#34;&gt;观后感&lt;/a&gt;｜平静而美好&lt;/td&gt;
 &lt;/tr&gt;
@@ -6242,16 +6305,17 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-04-02T16:53:16&#43;08:00</updated>
+            <updated>2021-04-05T17:55:57&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，持续更新…… 观影记录请移步 这里。 时间 书名 标签 评分 备注 2021-04-01 《解密 Instagr……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，持续更新…… 注：备注中的短评仅仅是个人感受，不构成阅读建议。 观影记录请移步……</summary>
             
-                <content type="html">&lt;p&gt;本处记录个人阅读过的书籍，持续更新……&lt;/p&gt;
+                <content type="html">&lt;p&gt;本处记录个人阅读过的书籍，持续更新……&lt;br&gt;
+注：备注中的短评仅仅是个人感受，不构成阅读建议。&lt;/p&gt;
 &lt;p&gt;观影记录请移步 &lt;a href=&#34;https://aaronnick.github.io/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -6264,6 +6328,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-04-05&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《认知与设计》· [美] Jeff Johnson&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;产品设计&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;从认知心理学去做设计，有收获&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-01&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《解密 Instagram》· [美] 莎拉·弗莱尔&lt;/td&gt;
