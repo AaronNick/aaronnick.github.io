@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-04-05T19:43:11&#43;08:00</updated>
+    <updated>2021-04-08T13:20:59&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,54 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">外卖</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/takeaway/" />
+            <id>https://aaronnick.github.io/posts/takeaway/</id>
+            <updated>2021-04-08T13:19:06&#43;08:00</updated>
+            <published>2021-04-08T13:13:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我们的时间在变得宝贵 我们放下了锅碗瓢盆 我们拿起了手机 我们点了外卖 滴答滴答 匆忙的流水线 逐渐变少的料理包……</summary>
+            
+                <content type="html">&lt;blockquote class=&#34;quote-center&#34;&gt;&lt;p&gt;我们的时间在变得宝贵&lt;br&gt;
+我们放下了锅碗瓢盆&lt;br&gt;
+我们拿起了手机&lt;br&gt;
+我们点了外卖&lt;/p&gt;
+&lt;p&gt;滴答滴答&lt;br&gt;
+匆忙的流水线&lt;br&gt;
+逐渐变少的料理包&lt;br&gt;
+飞驰的外卖小哥的身影&lt;/p&gt;
+&lt;p&gt;他们满足了我们的胃口&lt;br&gt;
+一个个料理包&lt;br&gt;
+我们装点了他们的笑脸&lt;br&gt;
+一袋袋钱&lt;/p&gt;
+&lt;/blockquote&gt; 
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="poetry" label="poetry" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">举报大可不必</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reported-comments/" />
@@ -1498,7 +1546,7 @@
             <title type="text">未知的恐惧</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-fear-of-the-unknown/" />
             <id>https://aaronnick.github.io/posts/the-fear-of-the-unknown/</id>
-            <updated>2021-02-09T21:27:52&#43;08:00</updated>
+            <updated>2021-04-08T13:18:03&#43;08:00</updated>
             <published>2021-02-08T22:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1539,7 +1587,7 @@
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%97%E6%AD%8C/" term="诗歌" label="诗歌" />
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="poetry" label="poetry" />
                             
                         
                     
@@ -2824,7 +2872,7 @@
             <title type="text">致忧愁的人</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/to-the-sad-one/" />
             <id>https://aaronnick.github.io/posts/to-the-sad-one/</id>
-            <updated>2021-01-19T01:34:01&#43;08:00</updated>
+            <updated>2021-04-08T13:18:15&#43;08:00</updated>
             <published>2021-01-17T19:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2880,7 +2928,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%97%E6%AD%8C/" term="诗歌" label="诗歌" />
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="poetry" label="poetry" />
                             
                         
                             
@@ -4581,7 +4629,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">添加诗歌引用</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/poetry-quote/" />
             <id>https://aaronnick.github.io/posts/poetry-quote/</id>
-            <updated>2021-01-18T23:11:46&#43;08:00</updated>
+            <updated>2021-04-08T13:18:08&#43;08:00</updated>
             <published>2020-12-27T15:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -4726,7 +4774,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%97%E6%AD%8C/" term="诗歌" label="诗歌" />
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="poetry" label="poetry" />
                             
                         
                     
