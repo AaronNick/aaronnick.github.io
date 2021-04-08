@@ -23,10 +23,109 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 08 Apr 2021 13:20:59 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 00:01:53 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>产品演讲观后感</title>
+                <link>https://aaronnick.github.io/posts/product-is-hard/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/product-is-hard/</guid>
+                <pubDate>Fri, 09 Apr 2021 00:00:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;本周看了 Marty Cagan 在台湾的一个演讲：ProductTank #19 Product Is Hard，很有收获，摘取部分记录一下。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Marty Cagan: A partner at Silicon Valley Product Group, former product leader at eBay, Netscape and HP.  Author of INSPIRED and just released EMPOWERED.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;交付和探索&#34;&gt;交付和探索&lt;/h3&gt;
+&lt;p&gt;「探索」和「交付」是非常不一样的目标与挑战。&lt;/p&gt;
+&lt;p&gt;我们在做产品的时候，亦或是设定某个阶段的目标时，常常会用「交付」这个词。交付，代表这个产品已经是完成并可以投入使用的状态。但是，在我们刚接触到需求的时候，我们应该先去「探索」，而不是一开始就在思考要「交付」什么样的产品。&lt;/p&gt;
+&lt;p&gt;在硅谷，各个公司的探索与交付分别是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google：fake it，make it&lt;/li&gt;
+&lt;li&gt;Facebook：move fast，don&#39;t break things&lt;/li&gt;
+&lt;li&gt;AirBnB：build things that don&#39;t scale，build things that do scale&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;因此，在做产品的时候，探索和交付，是一个先后顺序，在探索阶段知道应该打造什么产品，然后才去交付产品。也就意味着，在探索阶段，我们应该集齐所有人之力去寻找最合适的方案；在交付阶段，才逐步完善产品。他提到，MVP（Minimum Viable Product）中的 P，不应该是 Product，而应该是 Prototype（原型），因为真正的 Product 应该是在交付的时候才需要达成的状态。&lt;/p&gt;
+&lt;p&gt;产品探索也是我所喜爱的，它是一个有趣的过程，是为了「..创造价值..」，相对于单纯的执行来说，它有探索的乐趣，有自己的意志。&lt;/p&gt;
+&lt;h3 id=&#34;产品-4-大风险&#34;&gt;产品 4 大风险&lt;/h3&gt;
+&lt;p&gt;打造产品的 4 大风险：价值（Value）、易用性（Usability）、实行性（Feasibility）、商业可行性（Viability）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;价值（Value）：产品经理负责&lt;/li&gt;
+&lt;li&gt;易用性（Usability）：设计师负责&lt;/li&gt;
+&lt;li&gt;实行性（Feasibility）：工程师负责&lt;/li&gt;
+&lt;li&gt;商业可行性（Viability）：产品经理负责&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其实还有另外一个风险：道德风险（Ethical Risk）。也就是需要常常问自己：我应该打造这个产品吗？这个风险同样需要产品经理评估。例如，打造了一个手机产品，使得青少年每天花在上面的时间超过 4 小时，这是一个好事情吗？这需要我们留意，产品对于用户、对于公司、对于社会是否是一件好事。&lt;/p&gt;
+&lt;h3 id=&#34;做产品需要的能力&#34;&gt;做产品需要的能力&lt;/h3&gt;
+&lt;p&gt;做产品经理门槛不高，但是要做好并不是那么容易。他提到优秀的产品经理应该具备以下 4 个..核心能力..：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对用户和顾客的深入认识&lt;/li&gt;
+&lt;li&gt;对用户数据的深入认识&lt;/li&gt;
+&lt;li&gt;对事业的深入认识&lt;/li&gt;
+&lt;li&gt;对行业的深入认识&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这 4 个能力也是从低到高匹配低阶到高阶产品经理所必需的能力。初级产品经理在做功能、做优化的时候，需要从访谈、数据洞察用户的真实诉求。而高阶产品经理，则需要对行业有深入的认识，了解行业的过去和当下，同时对未来有一个准确的..预判..。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;做产品很大的挑战是要一直往未来思考，冰上曲棍球的俚语说注意冰球即将前往的地方，而不是它走过的地方，意思就是要看向未来的趋势，而不是今天的情况。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;建议去 YouTube 观看原视频：&lt;a href=&#34;https://www.youtube.com/watch?v=99go9sKp70I&#34;&gt;ProductTank #19 Product Is Hard - Marty Cagan&lt;/a&gt;&lt;br&gt;
+Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/marty-cagan-producttank-taipei-speech-933e7dfc13af&#34;&gt;做產品真是哭夭難！ — Marty Cagan 演講 70 分鐘中文逐字翻譯&lt;/a&gt;&lt;/p&gt;
+
+&lt;style&gt;
+.youtube-player {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    }
+      
+.youtube-player iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    }
+&lt;/style&gt;
+
+
+&lt;div align=center class=&#34;youtube-player&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/99go9sKp70I&#34;
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34;&gt; 
+    &lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/">产品</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>外卖</title>
@@ -65,7 +164,7 @@
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/poetry/">poetry</category>
+                                    <category domain="https://aaronnick.github.io/tags/poetry/">Poetry</category>
                                 
                             
                         
@@ -1548,7 +1647,7 @@
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/poetry/">poetry</category>
+                                    <category domain="https://aaronnick.github.io/tags/poetry/">Poetry</category>
                                 
                             
                         
@@ -2859,7 +2958,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/poetry/">poetry</category>
+                                    <category domain="https://aaronnick.github.io/tags/poetry/">Poetry</category>
                                 
                             
                                 
@@ -4666,7 +4765,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/poetry/">poetry</category>
+                                    <category domain="https://aaronnick.github.io/tags/poetry/">Poetry</category>
                                 
                             
                         
@@ -12055,6 +12154,47 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                     <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
                                 
                             
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>关于博客</title>
+                <link>https://aaronnick.github.io/posts/about-blog/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/about-blog/</guid>
+                <pubDate>Sat, 01 Jul 2017 21:30:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h3 id=&#34;博客名字由来&#34;&gt;博客名字由来&lt;/h3&gt;
+&lt;p&gt;自读书开始，我便有记录自己所思所想的习惯。上学期间记在笔记本，之后发在微博、微信朋友圈等社交平台上。随着阅历的增长，我逐渐意识到我的内容其实并不属于我，而是属于公司。加之无比鄙弃互建城墙的内容生态、不规范的内容审核，于是我开始逐渐将内容从公司转移至自己手中，之后便有了这个博客（主题是 &lt;a href=&#34;https://github.com/reuixiy/hugo-theme-meme&#34;&gt;MemE&lt;/a&gt;）。&lt;/p&gt;
+&lt;p&gt;博客的名字叫..叶星优酸乳..，这不是一个奶制品的名称，它源自两个小故事：一是叶星与我的名字谐音；二是小学的绘画老师曾布置了一个作业，让我们画一个物品，并写两句广告语。我喜欢喝酸酸乳，于是便画了一个，为其命名为「叶星优酸乳」，并写上了我的广告语——叶星优酸乳，好喝又大补！最后获得了 99 分。&lt;/p&gt;
+&lt;h3 id=&#34;仓库名&#34;&gt;仓库名&lt;/h3&gt;
+&lt;p&gt;博客的仓库名称为 Aaron Nick，源于两个人：一个是 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron&lt;/a&gt;，他被称为互联网之子，参与了 RSS、Markdown、Reddit 等项目的开发，可以&lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;阅读此文&lt;/a&gt;进一步了解他的一生。他不循规蹈矩，坚持捍卫互联网的自由开放精神，并为之惹上官司，最终自杀身亡，年仅 26 岁，令人扼腕；&lt;/p&gt;
+&lt;p&gt;一个是 Nick，&lt;a href=&#34;https://book.douban.com/subject/25708359/&#34;&gt;《了不起的盖茨比》&lt;/a&gt;里的角色。这本书是我非常喜欢的小说，除了主角盖茨比之外，叙述者 Nick 也是我很喜欢的角色。于是我将两者结合，Aaron 代表自由与开放，Nick 代表见证者，我希望能够见证互联网自由与开放到来的一天。&lt;/p&gt;
+&lt;h3 id=&#34;博客内容&#34;&gt;博客内容&lt;/h3&gt;
+&lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用了国内网络在访问引用了以上来源的内容，这也是我无奈的地方——&lt;a href=&#34;https://aaronnick.github.io/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;其中主要有几个板块：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
+&lt;li&gt;🎨 &lt;a href=&#34;https://aaronnick.github.io/tags/poetry/&#34;&gt;诗歌&lt;/a&gt;：人间日常切片；&lt;/li&gt;
+&lt;li&gt;📬 &lt;a href=&#34;https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
+&lt;li&gt;📝 &lt;a href=&#34;https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
+&lt;li&gt;📅 &lt;a href=&#34;https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;博客会坚持写下去，哪怕只是零星想法。不追求十万加，不接受广告，保持纯粹。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
                         
                     
                 
