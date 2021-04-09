@@ -23,10 +23,53 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 09 Apr 2021 00:06:23 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 23:37:48 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>橱窗中</title>
+                <link>https://aaronnick.github.io/posts/in-the-display-window/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/in-the-display-window/</guid>
+                <pubDate>Fri, 09 Apr 2021 23:00:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;blockquote class=&#34;quote-center&#34;&gt;&lt;p&gt;路边的咖啡馆&lt;br&gt;
+经常能看见一些网红模样的少女&lt;br&gt;
+刚坐下就对着手机不停地摆弄起头发&lt;br&gt;
+也不知道是在自拍还是在直播&lt;/p&gt;
+&lt;p&gt;不知从什么时候开始&lt;br&gt;
+人们学会了张贴自己&lt;br&gt;
+打扮成最光鲜的模样陈列在社会的橱窗&lt;br&gt;
+等待着路过的陌生人投来声声赞许&lt;br&gt;
+然后长时间地为了这种等待备受煎熬&lt;/p&gt;
+&lt;p&gt;——《读库 1803》｜与深渊同行｜李渊&lt;/p&gt;
+&lt;/blockquote&gt; 
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/poetry/">Poetry</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>产品演讲观后感</title>
@@ -119,7 +162,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/">产品</category>
+                                    <category domain="https://aaronnick.github.io/tags/product/">Product</category>
                                 
                             
                         
@@ -216,7 +259,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -284,13 +327,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -338,13 +381,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/">产品</category>
+                                    <category domain="https://aaronnick.github.io/tags/product/">Product</category>
                                 
                             
                         
@@ -521,7 +564,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/">日志</category>
+                                    <category domain="https://aaronnick.github.io/tags/daily/">Daily</category>
                                 
                             
                         
@@ -623,19 +666,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
+                                    <category domain="https://aaronnick.github.io/tags/translate/">Translate</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/">阅读</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -687,7 +724,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -787,13 +824,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%8A%95%E8%B5%84/">投资</category>
+                                    <category domain="https://aaronnick.github.io/tags/invest/">Invest</category>
                                 
                             
                         
@@ -837,7 +874,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -952,7 +989,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                                 
@@ -964,7 +1001,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%88%9B%E4%B8%9A/">创业</category>
+                                    <category domain="https://aaronnick.github.io/tags/startup/">Startup</category>
                                 
                             
                         
@@ -1045,13 +1082,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
+                                    <category domain="https://aaronnick.github.io/tags/translate/">Translate</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%8A%95%E8%B5%84/">投资</category>
+                                    <category domain="https://aaronnick.github.io/tags/invest/">Invest</category>
                                 
                             
                         
@@ -1148,7 +1185,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/">观影</category>
+                                    <category domain="https://aaronnick.github.io/tags/film/">Film</category>
                                 
                             
                         
@@ -1310,7 +1347,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/">日志</category>
+                                    <category domain="https://aaronnick.github.io/tags/daily/">Daily</category>
                                 
                             
                         
@@ -1353,13 +1390,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/">产品</category>
+                                    <category domain="https://aaronnick.github.io/tags/product/">Product</category>
                                 
                             
                         
@@ -1409,19 +1446,19 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/">观影</category>
+                                    <category domain="https://aaronnick.github.io/tags/film/">Film</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%8A%A8%E6%BC%AB/">动漫</category>
+                                    <category domain="https://aaronnick.github.io/tags/anime/">Anime</category>
                                 
                             
                         
@@ -1591,13 +1628,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%94%AF%E6%95%99/">支教</category>
+                                    <category domain="https://aaronnick.github.io/tags/education/">Education</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -1901,7 +1938,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/">日志</category>
+                                    <category domain="https://aaronnick.github.io/tags/daily/">Daily</category>
                                 
                             
                         
@@ -1963,19 +2000,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
-                                
-                            
-                                
-                                
-                                
                                     <category domain="https://aaronnick.github.io/tags/telegram/">Telegram</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89/">消费主义</category>
                                 
                             
                         
@@ -2016,13 +2041,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E6%95%88%E7%8E%87/">效率</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -2091,13 +2110,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/">隐私</category>
+                                    <category domain="https://aaronnick.github.io/tags/private/">Private</category>
                                 
                             
                         
@@ -2143,13 +2162,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/">隐私</category>
+                                    <category domain="https://aaronnick.github.io/tags/private/">Private</category>
                                 
                             
                         
@@ -2201,13 +2220,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -2302,7 +2321,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
@@ -2893,7 +2912,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/">日志</category>
+                                    <category domain="https://aaronnick.github.io/tags/daily/">Daily</category>
                                 
                             
                         
@@ -2959,12 +2978,6 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                     <category domain="https://aaronnick.github.io/tags/poetry/">Poetry</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E5%8D%9A%E5%B0%94%E8%B5%AB%E6%96%AF/">博尔赫斯</category>
                                 
                             
                         
@@ -3034,7 +3047,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -3096,7 +3109,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -3149,13 +3162,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E6%9C%8B%E5%8F%8B%E5%9C%88/">朋友圈</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -3204,19 +3211,19 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/">阅读</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%95%99%E8%82%B2/">教育</category>
+                                    <category domain="https://aaronnick.github.io/tags/education/">Education</category>
                                 
                             
                         
@@ -3277,13 +3284,13 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -3332,13 +3339,13 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -3392,7 +3399,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -3446,7 +3453,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -3571,7 +3578,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/">年终回顾</category>
+                                    <category domain="https://aaronnick.github.io/tags/review/">Review</category>
                                 
                             
                         
@@ -3988,7 +3995,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/">观影</category>
+                                    <category domain="https://aaronnick.github.io/tags/film/">Film</category>
                                 
                             
                         
@@ -4307,7 +4314,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -4611,7 +4618,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%86%99%E4%BD%9C/">写作</category>
+                                    <category domain="https://aaronnick.github.io/tags/write/">Write</category>
                                 
                             
                         
@@ -4897,13 +4904,13 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -5021,13 +5028,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/">观影</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BE%8E%E5%89%A7/">美剧</category>
+                                    <category domain="https://aaronnick.github.io/tags/film/">Film</category>
                                 
                             
                         
@@ -5080,19 +5081,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%9C%8B%E5%8F%8B%E5%9C%88/">朋友圈</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/">隐私</category>
+                                    <category domain="https://aaronnick.github.io/tags/private/">Private</category>
                                 
                             
                         
@@ -5167,13 +5162,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -5248,25 +5243,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/">隐私</category>
+                                    <category domain="https://aaronnick.github.io/tags/private/">Private</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B/">网络暴力</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -5317,7 +5306,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -5412,7 +5401,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -5472,19 +5461,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/">观影</category>
+                                    <category domain="https://aaronnick.github.io/tags/film/">Film</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/">纪录片</category>
+                                    <category domain="https://aaronnick.github.io/tags/documentary/">Documentary</category>
                                 
                             
                         
@@ -6001,7 +5990,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/">观影</category>
+                                    <category domain="https://aaronnick.github.io/tags/film/">Film</category>
                                 
                             
                         
@@ -6095,7 +6084,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -6287,13 +6276,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/">阅读</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -6691,7 +6680,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -6802,7 +6791,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -6963,7 +6952,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -7053,19 +7042,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/">阅读</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/">观影</category>
+                                    <category domain="https://aaronnick.github.io/tags/film/">Film</category>
                                 
                             
                         
@@ -7227,12 +7216,6 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                     <category domain="https://aaronnick.github.io/tags/vpn/">VPN</category>
                                 
                             
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E8%84%9A%E6%9C%AC/">脚本</category>
-                                
-                            
                         
                     
                 
@@ -7290,7 +7273,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+                                    <category domain="https://aaronnick.github.io/tags/tool/">Tool</category>
                                 
                             
                         
@@ -7411,7 +7394,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -7517,7 +7500,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -7632,7 +7615,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -7693,13 +7676,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E6%8F%90%E9%97%AE/">提问</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -7763,7 +7740,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C/">智能眼镜</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -7867,7 +7844,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -7948,13 +7925,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%AD%BB%E4%BA%A1/">死亡</category>
+                                    <category domain="https://aaronnick.github.io/tags/death/">Death</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -8048,7 +8025,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -8134,7 +8111,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
+                                    <category domain="https://aaronnick.github.io/tags/translate/">Translate</category>
                                 
                             
                         
@@ -8233,7 +8210,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -8326,13 +8303,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AE%B0%E8%B4%A6/">记账</category>
+                                    <category domain="https://aaronnick.github.io/tags/tool/">Tool</category>
                                 
                             
                                 
@@ -8503,13 +8480,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
+                                    <category domain="https://aaronnick.github.io/tags/translate/">Translate</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/">产品</category>
+                                    <category domain="https://aaronnick.github.io/tags/product/">Product</category>
                                 
                             
                                 
@@ -8594,7 +8571,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -8657,7 +8634,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -8730,7 +8707,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -8792,7 +8769,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -8900,13 +8877,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+                                    <category domain="https://aaronnick.github.io/tags/tool/">Tool</category>
                                 
                             
                                 
@@ -8992,7 +8963,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -9110,13 +9081,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
+                                    <category domain="https://aaronnick.github.io/tags/translate/">Translate</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%BB%91%E5%AE%A2/">黑客</category>
+                                    <category domain="https://aaronnick.github.io/tags/hacker/">Hacker</category>
                                 
                             
                         
@@ -9264,13 +9235,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
+                                    <category domain="https://aaronnick.github.io/tags/translate/">Translate</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%BB%91%E5%AE%A2/">黑客</category>
+                                    <category domain="https://aaronnick.github.io/tags/hacker/">Hacker</category>
                                 
                             
                         
@@ -9416,13 +9387,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/">翻译</category>
+                                    <category domain="https://aaronnick.github.io/tags/translate/">Translate</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%BB%91%E5%AE%A2/">黑客</category>
+                                    <category domain="https://aaronnick.github.io/tags/hacker/">Hacker</category>
                                 
                             
                         
@@ -9502,7 +9473,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -9561,13 +9532,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -9636,7 +9607,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -9712,7 +9683,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -9756,7 +9727,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
                                 
                             
                         
@@ -9828,7 +9799,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -9894,7 +9865,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -9959,7 +9930,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10049,7 +10020,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10120,7 +10091,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10168,19 +10139,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%94%AF%E6%95%99/">支教</category>
+                                    <category domain="https://aaronnick.github.io/tags/education/">Education</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -10275,7 +10246,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10345,7 +10316,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10414,7 +10385,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10499,7 +10470,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10574,7 +10545,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10676,7 +10647,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10757,7 +10728,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10834,7 +10805,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -10930,7 +10901,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -11037,7 +11008,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -11140,7 +11111,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -11218,7 +11189,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -11321,7 +11292,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -11413,7 +11384,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -11532,7 +11503,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -11581,19 +11552,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%95%99%E8%82%B2/">教育</category>
+                                    <category domain="https://aaronnick.github.io/tags/education/">Education</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -11686,7 +11657,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/">周记</category>
+                                    <category domain="https://aaronnick.github.io/tags/weekly/">Weekly</category>
                                 
                             
                         
@@ -11726,13 +11697,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%80%A7/">性</category>
+                                    <category domain="https://aaronnick.github.io/tags/sex/">Sex</category>
                                 
                             
                         
@@ -11773,13 +11744,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%95%99%E8%82%B2/">教育</category>
+                                    <category domain="https://aaronnick.github.io/tags/education/">Education</category>
                                 
                             
                         
@@ -11821,19 +11792,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9D%A2%E8%AF%95/">面试</category>
+                                    <category domain="https://aaronnick.github.io/tags/interview/">Interview</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -11872,13 +11843,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/">纪录片</category>
+                                    <category domain="https://aaronnick.github.io/tags/documentary/">Documentary</category>
                                 
                             
                         
@@ -11915,7 +11886,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -11954,7 +11925,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -11995,7 +11966,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                         
@@ -12033,7 +12004,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
@@ -12077,19 +12048,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%97%A5/">生日</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -12145,13 +12110,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E6%91%84%E5%BD%B1/">摄影</category>
+                                    <category domain="https://aaronnick.github.io/tags/photography/">Photography</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+                                    <category domain="https://aaronnick.github.io/tags/life/">Life</category>
                                 
                             
                         
@@ -12179,11 +12144,11 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用了国内网络在访问引用了以上来源的内容，这也是我无奈的地方——&lt;a href=&#34;https://aaronnick.github.io/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;其中主要有几个板块：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://aaronnick.github.io/tags/daily/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
 &lt;li&gt;🎨 &lt;a href=&#34;https://aaronnick.github.io/tags/poetry/&#34;&gt;诗歌&lt;/a&gt;：人间日常切片；&lt;/li&gt;
-&lt;li&gt;📬 &lt;a href=&#34;https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
-&lt;li&gt;📝 &lt;a href=&#34;https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
-&lt;li&gt;📅 &lt;a href=&#34;https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
+&lt;li&gt;📬 &lt;a href=&#34;https://aaronnick.github.io/tags/translate/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
+&lt;li&gt;📝 &lt;a href=&#34;https://aaronnick.github.io/tags/essay/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
+&lt;li&gt;📅 &lt;a href=&#34;https://aaronnick.github.io/tags/weekly/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;博客会坚持写下去，哪怕只是零星想法。不追求十万加，不接受广告，保持纯粹。&lt;/p&gt;
 </description>

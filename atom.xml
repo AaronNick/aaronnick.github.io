@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-04-09T00:06:23&#43;08:00</updated>
+    <updated>2021-04-09T23:37:48&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,10 +17,56 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
         <entry>
+            <title type="text">橱窗中</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/in-the-display-window/" />
+            <id>https://aaronnick.github.io/posts/in-the-display-window/</id>
+            <updated>2021-04-09T23:35:35&#43;08:00</updated>
+            <published>2021-04-09T23:00:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">路边的咖啡馆 经常能看见一些网红模样的少女 刚坐下就对着手机不停地摆弄起头发 也不知道是在自拍还是在直播 不……</summary>
+            
+                <content type="html">&lt;blockquote class=&#34;quote-center&#34;&gt;&lt;p&gt;路边的咖啡馆&lt;br&gt;
+经常能看见一些网红模样的少女&lt;br&gt;
+刚坐下就对着手机不停地摆弄起头发&lt;br&gt;
+也不知道是在自拍还是在直播&lt;/p&gt;
+&lt;p&gt;不知从什么时候开始&lt;br&gt;
+人们学会了张贴自己&lt;br&gt;
+打扮成最光鲜的模样陈列在社会的橱窗&lt;br&gt;
+等待着路过的陌生人投来声声赞许&lt;br&gt;
+然后长时间地为了这种等待备受煎熬&lt;/p&gt;
+&lt;p&gt;——《读库 1803》｜与深渊同行｜李渊&lt;/p&gt;
+&lt;/blockquote&gt; 
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="Poetry" label="Poetry" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">产品演讲观后感</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/product-is-hard/" />
             <id>https://aaronnick.github.io/posts/product-is-hard/</id>
-            <updated>2021-04-09T00:01:44&#43;08:00</updated>
+            <updated>2021-04-09T21:56:19&#43;08:00</updated>
             <published>2021-04-09T00:00:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -110,7 +156,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/" term="产品" label="产品" />
+                                <category scheme="https://aaronnick.github.io/tags/product/" term="Product" label="Product" />
                             
                         
                     
@@ -170,7 +216,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">举报大可不必</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reported-comments/" />
             <id>https://aaronnick.github.io/posts/reported-comments/</id>
-            <updated>2021-04-05T19:42:23&#43;08:00</updated>
+            <updated>2021-04-09T22:14:06&#43;08:00</updated>
             <published>2021-04-05T19:35:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -213,7 +259,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -225,7 +271,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">颐和园踏青</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-day-of-the-summer-palace/" />
             <id>https://aaronnick.github.io/posts/a-day-of-the-summer-palace/</id>
-            <updated>2021-04-04T23:36:48&#43;08:00</updated>
+            <updated>2021-04-09T22:14:03&#43;08:00</updated>
             <published>2021-04-04T23:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -284,13 +330,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -302,7 +348,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">弃 flomo</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/give-up-using-flomo/" />
             <id>https://aaronnick.github.io/posts/give-up-using-flomo/</id>
-            <updated>2021-04-04T00:38:35&#43;08:00</updated>
+            <updated>2021-04-09T22:13:45&#43;08:00</updated>
             <published>2021-04-04T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -341,13 +387,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/" term="产品" label="产品" />
+                                <category scheme="https://aaronnick.github.io/tags/product/" term="Product" label="Product" />
                             
                         
                     
@@ -359,7 +405,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">日志｜2021/03</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202103/" />
             <id>https://aaronnick.github.io/posts/daily-202103/</id>
-            <updated>2021-04-02T16:53:47&#43;08:00</updated>
+            <updated>2021-04-09T22:04:59&#43;08:00</updated>
             <published>2021-04-01T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -527,7 +573,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/" term="日志" label="日志" />
+                                <category scheme="https://aaronnick.github.io/tags/daily/" term="Daily" label="Daily" />
                             
                         
                     
@@ -539,7 +585,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">多读书</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-best-way-to-find-more-time-to-read/" />
             <id>https://aaronnick.github.io/posts/the-best-way-to-find-more-time-to-read/</id>
-            <updated>2021-03-31T01:08:12&#43;08:00</updated>
+            <updated>2021-04-09T22:19:34&#43;08:00</updated>
             <published>2021-03-31T00:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -632,19 +678,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
+                                <category scheme="https://aaronnick.github.io/tags/translate/" term="Translate" label="Translate" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/" term="阅读" label="阅读" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -656,7 +696,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">沙尘暴的一天</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-day-of-sandstorm-in-beijing/" />
             <id>https://aaronnick.github.io/posts/a-day-of-sandstorm-in-beijing/</id>
-            <updated>2021-03-29T18:42:41&#43;08:00</updated>
+            <updated>2021-04-09T22:14:25&#43;08:00</updated>
             <published>2021-03-28T22:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -699,7 +739,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -711,7 +751,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">读段永平</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/duan-yongping-volume-one/" />
             <id>https://aaronnick.github.io/posts/duan-yongping-volume-one/</id>
-            <updated>2021-03-27T22:48:16&#43;08:00</updated>
+            <updated>2021-04-09T22:31:36&#43;08:00</updated>
             <published>2021-03-27T22:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -802,13 +842,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%8A%95%E8%B5%84/" term="投资" label="投资" />
+                                <category scheme="https://aaronnick.github.io/tags/invest/" term="Invest" label="Invest" />
                             
                         
                     
@@ -820,7 +860,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">谈争论</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/talk-about-arguments/" />
             <id>https://aaronnick.github.io/posts/talk-about-arguments/</id>
-            <updated>2021-03-27T14:22:32&#43;08:00</updated>
+            <updated>2021-04-09T22:14:34&#43;08:00</updated>
             <published>2021-03-27T12:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -855,7 +895,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -867,7 +907,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">Netflix 的诞生</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/that-will-never-work/" />
             <id>https://aaronnick.github.io/posts/that-will-never-work/</id>
-            <updated>2021-03-29T21:59:48&#43;08:00</updated>
+            <updated>2021-04-09T22:25:19&#43;08:00</updated>
             <published>2021-03-13T10:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -973,7 +1013,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                             
@@ -985,7 +1025,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%88%9B%E4%B8%9A/" term="创业" label="创业" />
+                                <category scheme="https://aaronnick.github.io/tags/startup/" term="Startup" label="Startup" />
                             
                         
                     
@@ -997,7 +1037,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">软件吞噬世界</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/why-software-is-eating-the-world/" />
             <id>https://aaronnick.github.io/posts/why-software-is-eating-the-world/</id>
-            <updated>2021-03-29T18:46:09&#43;08:00</updated>
+            <updated>2021-04-09T22:31:32&#43;08:00</updated>
             <published>2021-03-10T15:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1069,13 +1109,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
+                                <category scheme="https://aaronnick.github.io/tags/translate/" term="Translate" label="Translate" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%8A%95%E8%B5%84/" term="投资" label="投资" />
+                                <category scheme="https://aaronnick.github.io/tags/invest/" term="Invest" label="Invest" />
                             
                         
                     
@@ -1087,7 +1127,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">你要老婆不要</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-herdsman/" />
             <id>https://aaronnick.github.io/posts/the-herdsman/</id>
-            <updated>2021-03-29T18:56:28&#43;08:00</updated>
+            <updated>2021-04-09T22:17:39&#43;08:00</updated>
             <published>2021-03-06T02:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1175,7 +1215,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
                             
                         
                     
@@ -1187,7 +1227,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">日志｜2021/02</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202102/" />
             <id>https://aaronnick.github.io/posts/daily-202102/</id>
-            <updated>2021-03-03T20:29:31&#43;08:00</updated>
+            <updated>2021-04-09T22:05:10&#43;08:00</updated>
             <published>2021-03-03T20:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1340,7 +1380,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/" term="日志" label="日志" />
+                                <category scheme="https://aaronnick.github.io/tags/daily/" term="Daily" label="Daily" />
                             
                         
                     
@@ -1352,7 +1392,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">X 之上的追求</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-pursuit-of-x/" />
             <id>https://aaronnick.github.io/posts/the-pursuit-of-x/</id>
-            <updated>2021-03-02T19:13:03&#43;08:00</updated>
+            <updated>2021-04-09T22:13:06&#43;08:00</updated>
             <published>2021-02-27T19:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1386,13 +1426,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/" term="产品" label="产品" />
+                                <category scheme="https://aaronnick.github.io/tags/product/" term="Product" label="Product" />
                             
                         
                     
@@ -1404,7 +1444,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">进击的巨人</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/attack-on-titan/" />
             <id>https://aaronnick.github.io/posts/attack-on-titan/</id>
-            <updated>2021-03-07T23:20:15&#43;08:00</updated>
+            <updated>2021-04-09T22:25:53&#43;08:00</updated>
             <published>2021-02-25T20:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1445,19 +1485,19 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%8A%A8%E6%BC%AB/" term="动漫" label="动漫" />
+                                <category scheme="https://aaronnick.github.io/tags/anime/" term="Anime" label="Anime" />
                             
                         
                     
@@ -1469,7 +1509,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">支教回顾</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-memory-of-volunteer-education/" />
             <id>https://aaronnick.github.io/posts/the-memory-of-volunteer-education/</id>
-            <updated>2021-03-02T19:13:45&#43;08:00</updated>
+            <updated>2021-04-09T22:34:12&#43;08:00</updated>
             <published>2021-02-09T20:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1630,13 +1670,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%94%AF%E6%95%99/" term="支教" label="支教" />
+                                <category scheme="https://aaronnick.github.io/tags/education/" term="Education" label="Education" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -1701,7 +1741,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">日志｜2021/01</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202101/" />
             <id>https://aaronnick.github.io/posts/daily-202101/</id>
-            <updated>2021-03-03T20:35:00&#43;08:00</updated>
+            <updated>2021-04-09T22:04:39&#43;08:00</updated>
             <published>2021-02-01T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1946,7 +1986,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/" term="日志" label="日志" />
+                                <category scheme="https://aaronnick.github.io/tags/daily/" term="Daily" label="Daily" />
                             
                         
                     
@@ -1958,7 +1998,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">少消费多创造</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/consume-less.-create-more/" />
             <id>https://aaronnick.github.io/posts/consume-less.-create-more/</id>
-            <updated>2021-02-25T23:58:22&#43;08:00</updated>
+            <updated>2021-04-09T22:45:06&#43;08:00</updated>
             <published>2021-01-29T22:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2011,19 +2051,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
-                            
-                        
-                            
-                            
-                            
                                 <category scheme="https://aaronnick.github.io/tags/telegram/" term="Telegram" label="Telegram" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89/" term="消费主义" label="消费主义" />
                             
                         
                     
@@ -2035,7 +2063,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">降低摩擦</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reduce-friction/" />
             <id>https://aaronnick.github.io/posts/reduce-friction/</id>
-            <updated>2021-01-28T22:40:04&#43;08:00</updated>
+            <updated>2021-04-09T22:35:05&#43;08:00</updated>
             <published>2021-01-28T22:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2067,13 +2095,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E6%95%88%E7%8E%87/" term="效率" label="效率" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -2085,7 +2107,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">我在用的境外卡</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/mylink/" />
             <id>https://aaronnick.github.io/posts/mylink/</id>
-            <updated>2021-02-05T17:57:16&#43;08:00</updated>
+            <updated>2021-04-09T22:20:59&#43;08:00</updated>
             <published>2021-01-23T13:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2145,13 +2167,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/" term="隐私" label="隐私" />
+                                <category scheme="https://aaronnick.github.io/tags/private/" term="Private" label="Private" />
                             
                         
                     
@@ -2163,7 +2185,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">吃瓜</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/onlooker/" />
             <id>https://aaronnick.github.io/posts/onlooker/</id>
-            <updated>2021-01-22T23:51:36&#43;08:00</updated>
+            <updated>2021-04-09T22:21:12&#43;08:00</updated>
             <published>2021-01-22T22:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2200,13 +2222,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/" term="隐私" label="隐私" />
+                                <category scheme="https://aaronnick.github.io/tags/private/" term="Private" label="Private" />
                             
                         
                     
@@ -2218,7 +2240,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">开启远程办公</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/work-from-home/" />
             <id>https://aaronnick.github.io/posts/work-from-home/</id>
-            <updated>2021-03-02T19:14:46&#43;08:00</updated>
+            <updated>2021-04-09T22:14:41&#43;08:00</updated>
             <published>2021-01-21T22:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2261,13 +2283,13 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -2279,7 +2301,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">理想中的互联网</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/ideal-internet/" />
             <id>https://aaronnick.github.io/posts/ideal-internet/</id>
-            <updated>2021-01-21T22:17:48&#43;08:00</updated>
+            <updated>2021-04-09T22:13:02&#43;08:00</updated>
             <published>2021-01-20T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2365,7 +2387,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
@@ -2726,7 +2748,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">日志｜2020/12</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202012/" />
             <id>https://aaronnick.github.io/posts/daily-202012/</id>
-            <updated>2021-03-03T20:36:33&#43;08:00</updated>
+            <updated>2021-04-09T22:05:04&#43;08:00</updated>
             <published>2021-01-18T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -2962,7 +2984,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/" term="日志" label="日志" />
+                                <category scheme="https://aaronnick.github.io/tags/daily/" term="Daily" label="Daily" />
                             
                         
                     
@@ -2974,7 +2996,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">致忧愁的人</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/to-the-sad-one/" />
             <id>https://aaronnick.github.io/posts/to-the-sad-one/</id>
-            <updated>2021-04-08T13:25:14&#43;08:00</updated>
+            <updated>2021-04-09T22:26:09&#43;08:00</updated>
             <published>2021-01-17T19:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3033,12 +3055,6 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                                 <category scheme="https://aaronnick.github.io/tags/poetry/" term="Poetry" label="Poetry" />
                             
                         
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E5%8D%9A%E5%B0%94%E8%B5%AB%E6%96%AF/" term="博尔赫斯" label="博尔赫斯" />
-                            
-                        
                     
                 
             
@@ -3048,7 +3064,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">初识《读库》</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/duku1802/" />
             <id>https://aaronnick.github.io/posts/duku1802/</id>
-            <updated>2021-03-07T23:22:31&#43;08:00</updated>
+            <updated>2021-04-09T22:19:07&#43;08:00</updated>
             <published>2021-01-17T14:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3109,7 +3125,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -3121,7 +3137,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">本分</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/pdd/" />
             <id>https://aaronnick.github.io/posts/pdd/</id>
-            <updated>2021-01-15T23:19:32&#43;08:00</updated>
+            <updated>2021-04-09T22:12:59&#43;08:00</updated>
             <published>2021-01-15T23:25:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3174,7 +3190,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -3186,7 +3202,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">朋友圈两类人</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/two-type-people-of-moment/" />
             <id>https://aaronnick.github.io/posts/two-type-people-of-moment/</id>
-            <updated>2021-01-16T09:45:02&#43;08:00</updated>
+            <updated>2021-04-09T22:21:56&#43;08:00</updated>
             <published>2021-01-10T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3230,13 +3246,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E6%9C%8B%E5%8F%8B%E5%9C%88/" term="朋友圈" label="朋友圈" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -3248,7 +3258,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">专业书阅读的教训</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/lessons-from-reading-professional-books/" />
             <id>https://aaronnick.github.io/posts/lessons-from-reading-professional-books/</id>
-            <updated>2021-01-09T08:57:28&#43;08:00</updated>
+            <updated>2021-04-09T22:35:32&#43;08:00</updated>
             <published>2021-01-09T08:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3288,19 +3298,19 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/" term="阅读" label="阅读" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%95%99%E8%82%B2/" term="教育" label="教育" />
+                                <category scheme="https://aaronnick.github.io/tags/education/" term="Education" label="Education" />
                             
                         
                     
@@ -3312,7 +3322,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">《一生自在》｜求新与严谨</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/innovation-and-rigor/" />
             <id>https://aaronnick.github.io/posts/innovation-and-rigor/</id>
-            <updated>2021-03-07T23:22:39&#43;08:00</updated>
+            <updated>2021-04-09T22:19:21&#43;08:00</updated>
             <published>2021-01-08T22:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3364,13 +3374,13 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -3382,7 +3392,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">《教父》｜背叛</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/betrayal-in-the-godfather/" />
             <id>https://aaronnick.github.io/posts/betrayal-in-the-godfather/</id>
-            <updated>2021-03-07T23:22:17&#43;08:00</updated>
+            <updated>2021-04-09T22:18:47&#43;08:00</updated>
             <published>2021-01-04T22:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3422,13 +3432,13 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -3440,7 +3450,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">苦难文化</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/culture-of-suffering/" />
             <id>https://aaronnick.github.io/posts/culture-of-suffering/</id>
-            <updated>2021-01-04T21:16:45&#43;08:00</updated>
+            <updated>2021-04-09T22:14:22&#43;08:00</updated>
             <published>2021-01-03T22:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3485,7 +3495,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -3497,7 +3507,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">元旦</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/new-years-day/" />
             <id>https://aaronnick.github.io/posts/new-years-day/</id>
-            <updated>2021-01-01T16:43:57&#43;08:00</updated>
+            <updated>2021-04-09T22:14:58&#43;08:00</updated>
             <published>2021-01-01T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3542,7 +3552,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -3554,7 +3564,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">请回答 2020</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/back-to-2020/" />
             <id>https://aaronnick.github.io/posts/back-to-2020/</id>
-            <updated>2021-01-23T12:31:30&#43;08:00</updated>
+            <updated>2021-04-09T22:30:38&#43;08:00</updated>
             <published>2020-12-31T20:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -3670,7 +3680,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%B9%B4%E7%BB%88%E5%9B%9E%E9%A1%BE/" term="年终回顾" label="年终回顾" />
+                                <category scheme="https://aaronnick.github.io/tags/review/" term="Review" label="Review" />
                             
                         
                     
@@ -3682,7 +3692,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">2020 观影记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record-2020/" />
             <id>https://aaronnick.github.io/posts/film-record-2020/</id>
-            <updated>2021-03-07T23:20:20&#43;08:00</updated>
+            <updated>2021-04-09T22:17:32&#43;08:00</updated>
             <published>2020-12-31T19:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -4090,7 +4100,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
                             
                         
                     
@@ -4102,7 +4112,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">2020 读书记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record-2020/" />
             <id>https://aaronnick.github.io/posts/reading-record-2020/</id>
-            <updated>2021-03-07T23:22:46&#43;08:00</updated>
+            <updated>2021-04-09T22:19:00&#43;08:00</updated>
             <published>2020-12-31T12:00:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -4412,7 +4422,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -4424,7 +4434,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">英式中文</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/westernised-chinese-language/" />
             <id>https://aaronnick.github.io/posts/westernised-chinese-language/</id>
-            <updated>2021-01-01T19:51:52&#43;08:00</updated>
+            <updated>2021-04-09T22:24:24&#43;08:00</updated>
             <published>2020-12-28T23:06:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -4719,7 +4729,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%86%99%E4%BD%9C/" term="写作" label="写作" />
+                                <category scheme="https://aaronnick.github.io/tags/write/" term="Write" label="Write" />
                             
                         
                     
@@ -4939,7 +4949,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">典型的一天</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-work/" />
             <id>https://aaronnick.github.io/posts/daily-work/</id>
-            <updated>2020-12-25T01:14:32&#43;08:00</updated>
+            <updated>2021-04-09T22:14:52&#43;08:00</updated>
             <published>2020-12-24T21:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5014,13 +5024,13 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -5105,7 +5115,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《后翼弃兵》｜天才之路</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-queens-gambit/" />
             <id>https://aaronnick.github.io/posts/the-queens-gambit/</id>
-            <updated>2021-03-07T23:20:37&#43;08:00</updated>
+            <updated>2021-04-09T22:40:03&#43;08:00</updated>
             <published>2020-12-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5144,13 +5154,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BE%8E%E5%89%A7/" term="美剧" label="美剧" />
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
                             
                         
                     
@@ -5162,7 +5166,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">朋友圈消失的个人生活</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/life-of-moment/" />
             <id>https://aaronnick.github.io/posts/life-of-moment/</id>
-            <updated>2021-01-03T23:24:31&#43;08:00</updated>
+            <updated>2021-04-09T22:21:52&#43;08:00</updated>
             <published>2020-12-15T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5206,19 +5210,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%9C%8B%E5%8F%8B%E5%9C%88/" term="朋友圈" label="朋友圈" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/" term="隐私" label="隐私" />
+                                <category scheme="https://aaronnick.github.io/tags/private/" term="Private" label="Private" />
                             
                         
                     
@@ -5230,7 +5228,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">北京网上预约洁牙</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/clean-teeth/" />
             <id>https://aaronnick.github.io/posts/clean-teeth/</id>
-            <updated>2021-03-02T19:16:33&#43;08:00</updated>
+            <updated>2021-04-09T22:14:28&#43;08:00</updated>
             <published>2020-12-13T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5296,13 +5294,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -5314,7 +5312,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">隐私泄露</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/privacy-leak/" />
             <id>https://aaronnick.github.io/posts/privacy-leak/</id>
-            <updated>2021-03-02T19:13:28&#43;08:00</updated>
+            <updated>2021-04-09T22:21:40&#43;08:00</updated>
             <published>2020-12-08T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5380,25 +5378,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%90%E7%A7%81/" term="隐私" label="隐私" />
+                                <category scheme="https://aaronnick.github.io/tags/private/" term="Private" label="Private" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B/" term="网络暴力" label="网络暴力" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -5410,7 +5402,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">带饭</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/bring-meal/" />
             <id>https://aaronnick.github.io/posts/bring-meal/</id>
-            <updated>2020-12-31T15:25:03&#43;08:00</updated>
+            <updated>2021-04-09T22:14:13&#43;08:00</updated>
             <published>2020-12-05T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5452,7 +5444,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -5464,7 +5456,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十八期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-38/" />
             <id>https://aaronnick.github.io/posts/weekly-38/</id>
-            <updated>2020-12-20T13:52:40&#43;08:00</updated>
+            <updated>2021-04-09T22:07:08&#43;08:00</updated>
             <published>2020-10-25T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5550,7 +5542,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -5562,7 +5554,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">三和大神</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-people-of-sanhe/" />
             <id>https://aaronnick.github.io/posts/the-people-of-sanhe/</id>
-            <updated>2021-03-07T23:22:07&#43;08:00</updated>
+            <updated>2021-04-09T22:38:52&#43;08:00</updated>
             <published>2020-10-16T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5613,19 +5605,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/" term="纪录片" label="纪录片" />
+                                <category scheme="https://aaronnick.github.io/tags/documentary/" term="Documentary" label="Documentary" />
                             
                         
                     
@@ -5637,7 +5629,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-04-05T18:03:16&#43;08:00</updated>
+            <updated>2021-04-09T22:17:35&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -6145,7 +6137,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
                             
                         
                     
@@ -6157,7 +6149,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十七期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-37/" />
             <id>https://aaronnick.github.io/posts/weekly-37/</id>
-            <updated>2020-12-20T13:50:32&#43;08:00</updated>
+            <updated>2021-04-09T22:06:49&#43;08:00</updated>
             <published>2020-09-19T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -6242,7 +6234,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -6254,7 +6246,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">近期的听说读写</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/listen-talk-read-write/" />
             <id>https://aaronnick.github.io/posts/listen-talk-read-write/</id>
-            <updated>2021-01-16T10:07:34&#43;08:00</updated>
+            <updated>2021-04-09T22:19:38&#43;08:00</updated>
             <published>2020-09-18T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -6437,13 +6429,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/" term="阅读" label="阅读" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -6455,7 +6447,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-04-05T17:55:57&#43;08:00</updated>
+            <updated>2021-04-09T22:18:57&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -6844,7 +6836,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -6856,7 +6848,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十六期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-36/" />
             <id>https://aaronnick.github.io/posts/weekly-36/</id>
-            <updated>2020-12-20T13:47:53&#43;08:00</updated>
+            <updated>2021-04-09T22:05:57&#43;08:00</updated>
             <published>2020-09-06T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -6958,7 +6950,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -6970,7 +6962,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《人间值得》｜九十老者谆谆教诲</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/worth-the-world/" />
             <id>https://aaronnick.github.io/posts/worth-the-world/</id>
-            <updated>2021-03-07T23:22:52&#43;08:00</updated>
+            <updated>2021-04-09T22:19:03&#43;08:00</updated>
             <published>2020-09-05T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7122,7 +7114,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -7134,7 +7126,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《大明宫词》｜一部凄美的悲剧</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/palace-of-desire/" />
             <id>https://aaronnick.github.io/posts/palace-of-desire/</id>
-            <updated>2021-03-10T16:21:00&#43;08:00</updated>
+            <updated>2021-04-09T22:19:49&#43;08:00</updated>
             <published>2020-09-01T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7215,19 +7207,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%98%85%E8%AF%BB/" term="阅读" label="阅读" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%A7%82%E5%BD%B1/" term="观影" label="观影" />
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
                             
                         
                     
@@ -7239,7 +7231,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">Mac｜VPN 自动重连脚本</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/vpn-reconnect/" />
             <id>https://aaronnick.github.io/posts/vpn-reconnect/</id>
-            <updated>2020-12-20T09:50:21&#43;08:00</updated>
+            <updated>2021-04-09T22:40:14&#43;08:00</updated>
             <published>2020-08-30T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7392,12 +7384,6 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                                 <category scheme="https://aaronnick.github.io/tags/vpn/" term="VPN" label="VPN" />
                             
                         
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E8%84%9A%E6%9C%AC/" term="脚本" label="脚本" />
-                            
-                        
                     
                 
             
@@ -7407,7 +7393,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">软件｜电脑操作手机</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/black-hole/" />
             <id>https://aaronnick.github.io/posts/black-hole/</id>
-            <updated>2021-04-03T18:50:25&#43;08:00</updated>
+            <updated>2021-04-09T22:23:21&#43;08:00</updated>
             <published>2020-08-30T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7458,7 +7444,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
+                                <category scheme="https://aaronnick.github.io/tags/tool/" term="Tool" label="Tool" />
                             
                         
                     
@@ -7470,7 +7456,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十五期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-35/" />
             <id>https://aaronnick.github.io/posts/weekly-35/</id>
-            <updated>2020-12-21T00:00:59&#43;08:00</updated>
+            <updated>2021-04-09T22:08:05&#43;08:00</updated>
             <published>2020-08-29T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7582,7 +7568,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -7594,7 +7580,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十四期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-34/" />
             <id>https://aaronnick.github.io/posts/weekly-34/</id>
-            <updated>2020-12-21T00:02:57&#43;08:00</updated>
+            <updated>2021-04-09T22:07:46&#43;08:00</updated>
             <published>2020-08-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7691,7 +7677,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -7703,7 +7689,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十三期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-33/" />
             <id>https://aaronnick.github.io/posts/weekly-33/</id>
-            <updated>2020-12-21T00:03:41&#43;08:00</updated>
+            <updated>2021-04-09T22:06:09&#43;08:00</updated>
             <published>2020-08-16T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7809,7 +7795,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -7821,7 +7807,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">提问的智慧</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/how-to-asking/" />
             <id>https://aaronnick.github.io/posts/how-to-asking/</id>
-            <updated>2020-12-23T20:35:20&#43;08:00</updated>
+            <updated>2021-04-09T22:31:51&#43;08:00</updated>
             <published>2020-08-10T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7873,13 +7859,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E6%8F%90%E9%97%AE/" term="提问" label="提问" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -7891,7 +7871,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">智能眼镜有未来吗？</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/smart-glasses/" />
             <id>https://aaronnick.github.io/posts/smart-glasses/</id>
-            <updated>2020-12-22T22:51:37&#43;08:00</updated>
+            <updated>2021-04-09T22:36:47&#43;08:00</updated>
             <published>2020-08-09T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7946,7 +7926,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C/" term="智能眼镜" label="智能眼镜" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -7958,7 +7938,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十二期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-32/" />
             <id>https://aaronnick.github.io/posts/weekly-32/</id>
-            <updated>2020-12-20T13:44:16&#43;08:00</updated>
+            <updated>2021-04-09T22:06:26&#43;08:00</updated>
             <published>2020-08-08T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8053,7 +8033,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -8065,7 +8045,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">选择的权利</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/live-and-death/" />
             <id>https://aaronnick.github.io/posts/live-and-death/</id>
-            <updated>2021-03-07T23:16:44&#43;08:00</updated>
+            <updated>2021-04-09T22:37:27&#43;08:00</updated>
             <published>2020-08-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8137,13 +8117,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%AD%BB%E4%BA%A1/" term="死亡" label="死亡" />
+                                <category scheme="https://aaronnick.github.io/tags/death/" term="Death" label="Death" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -8155,7 +8135,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十一期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-31/" />
             <id>https://aaronnick.github.io/posts/weekly-31/</id>
-            <updated>2020-12-20T13:40:17&#43;08:00</updated>
+            <updated>2021-04-09T22:08:17&#43;08:00</updated>
             <published>2020-08-02T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8240,7 +8220,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -8252,7 +8232,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">两行代码改两天</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/bug-fix-time/" />
             <id>https://aaronnick.github.io/posts/bug-fix-time/</id>
-            <updated>2021-01-10T10:39:34&#43;08:00</updated>
+            <updated>2021-04-09T22:09:29&#43;08:00</updated>
             <published>2020-07-28T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8329,7 +8309,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
+                                <category scheme="https://aaronnick.github.io/tags/translate/" term="Translate" label="Translate" />
                             
                         
                     
@@ -8341,7 +8321,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三十期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-30/" />
             <id>https://aaronnick.github.io/posts/weekly-30/</id>
-            <updated>2020-12-20T13:34:00&#43;08:00</updated>
+            <updated>2021-04-09T22:07:43&#43;08:00</updated>
             <published>2020-07-26T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8431,7 +8411,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -8443,7 +8423,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">记账｜Google sheets 做预算和记账</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/keep-accounts-with-google-sheets/" />
             <id>https://aaronnick.github.io/posts/keep-accounts-with-google-sheets/</id>
-            <updated>2020-12-28T15:27:25&#43;08:00</updated>
+            <updated>2021-04-09T22:40:36&#43;08:00</updated>
             <published>2020-07-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8527,13 +8507,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AE%B0%E8%B4%A6/" term="记账" label="记账" />
+                                <category scheme="https://aaronnick.github.io/tags/tool/" term="Tool" label="Tool" />
                             
                         
                             
@@ -8551,7 +8531,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">翻译｜逐步升级的社交媒体</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-conflict-of-social-media/" />
             <id>https://aaronnick.github.io/posts/the-conflict-of-social-media/</id>
-            <updated>2021-03-07T23:16:19&#43;08:00</updated>
+            <updated>2021-04-09T22:09:35&#43;08:00</updated>
             <published>2020-07-19T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8707,13 +8687,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
+                                <category scheme="https://aaronnick.github.io/tags/translate/" term="Translate" label="Translate" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E4%BA%A7%E5%93%81/" term="产品" label="产品" />
+                                <category scheme="https://aaronnick.github.io/tags/product/" term="Product" label="Product" />
                             
                         
                             
@@ -8731,7 +8711,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十九期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-29/" />
             <id>https://aaronnick.github.io/posts/weekly-29/</id>
-            <updated>2020-12-21T21:01:01&#43;08:00</updated>
+            <updated>2021-04-09T22:07:11&#43;08:00</updated>
             <published>2020-07-17T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8801,7 +8781,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -8813,7 +8793,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十八期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-28/" />
             <id>https://aaronnick.github.io/posts/weekly-28/</id>
-            <updated>2020-12-20T21:10:17&#43;08:00</updated>
+            <updated>2021-04-09T22:07:01&#43;08:00</updated>
             <published>2020-07-11T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8867,7 +8847,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -8879,7 +8859,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十七期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-27/" />
             <id>https://aaronnick.github.io/posts/weekly-27/</id>
-            <updated>2020-12-20T21:10:57&#43;08:00</updated>
+            <updated>2021-04-09T22:06:46&#43;08:00</updated>
             <published>2020-07-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8943,7 +8923,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -8955,7 +8935,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十六期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-26/" />
             <id>https://aaronnick.github.io/posts/weekly-26/</id>
-            <updated>2020-12-21T20:56:48&#43;08:00</updated>
+            <updated>2021-04-09T22:05:53&#43;08:00</updated>
             <published>2020-06-20T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9008,7 +8988,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -9020,7 +9000,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">软件｜一直在用的日记软件</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/ediary/" />
             <id>https://aaronnick.github.io/posts/ediary/</id>
-            <updated>2020-12-22T22:46:44&#43;08:00</updated>
+            <updated>2021-04-09T22:23:40&#43;08:00</updated>
             <published>2020-06-15T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9119,13 +9099,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="https://aaronnick.github.io/tags/tool/" term="Tool" label="Tool" />
                             
                         
                             
@@ -9143,7 +9117,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十五期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-25/" />
             <id>https://aaronnick.github.io/posts/weekly-25/</id>
-            <updated>2020-12-20T21:12:35&#43;08:00</updated>
+            <updated>2021-04-09T22:07:59&#43;08:00</updated>
             <published>2020-06-14T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9214,7 +9188,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -9226,7 +9200,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">翻译｜黑客哈钦斯（第三篇｜清算）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/marcus-hutchins-three/" />
             <id>https://aaronnick.github.io/posts/marcus-hutchins-three/</id>
-            <updated>2020-12-27T00:12:06&#43;08:00</updated>
+            <updated>2021-04-09T22:22:39&#43;08:00</updated>
             <published>2020-06-08T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9335,13 +9309,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
+                                <category scheme="https://aaronnick.github.io/tags/translate/" term="Translate" label="Translate" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%BB%91%E5%AE%A2/" term="黑客" label="黑客" />
+                                <category scheme="https://aaronnick.github.io/tags/hacker/" term="Hacker" label="Hacker" />
                             
                         
                     
@@ -9353,7 +9327,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">翻译｜黑客哈钦斯（第二篇｜重生）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/marcus-hutchins-two/" />
             <id>https://aaronnick.github.io/posts/marcus-hutchins-two/</id>
-            <updated>2020-12-27T00:12:15&#43;08:00</updated>
+            <updated>2021-04-09T22:22:43&#43;08:00</updated>
             <published>2020-06-07T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9492,13 +9466,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
+                                <category scheme="https://aaronnick.github.io/tags/translate/" term="Translate" label="Translate" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%BB%91%E5%AE%A2/" term="黑客" label="黑客" />
+                                <category scheme="https://aaronnick.github.io/tags/hacker/" term="Hacker" label="Hacker" />
                             
                         
                     
@@ -9510,7 +9484,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">翻译｜黑客哈钦斯（第一篇｜堕落）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/marcus-hutchins-one/" />
             <id>https://aaronnick.github.io/posts/marcus-hutchins-one/</id>
-            <updated>2020-12-27T00:11:58&#43;08:00</updated>
+            <updated>2021-04-09T22:22:49&#43;08:00</updated>
             <published>2020-06-06T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9647,13 +9621,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/" term="翻译" label="翻译" />
+                                <category scheme="https://aaronnick.github.io/tags/translate/" term="Translate" label="Translate" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%BB%91%E5%AE%A2/" term="黑客" label="黑客" />
+                                <category scheme="https://aaronnick.github.io/tags/hacker/" term="Hacker" label="Hacker" />
                             
                         
                     
@@ -9665,7 +9639,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十四期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-24/" />
             <id>https://aaronnick.github.io/posts/weekly-24/</id>
-            <updated>2020-12-20T21:12:59&#43;08:00</updated>
+            <updated>2021-04-09T22:07:51&#43;08:00</updated>
             <published>2020-05-31T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9736,7 +9710,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -9748,7 +9722,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">南宁遇到的骗子</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-liar-of-nanning/" />
             <id>https://aaronnick.github.io/posts/the-liar-of-nanning/</id>
-            <updated>2021-03-02T19:15:38&#43;08:00</updated>
+            <updated>2021-04-09T22:12:50&#43;08:00</updated>
             <published>2020-05-25T20:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9798,13 +9772,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -9816,7 +9790,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十三期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-23/" />
             <id>https://aaronnick.github.io/posts/weekly-23/</id>
-            <updated>2020-12-20T21:13:39&#43;08:00</updated>
+            <updated>2021-04-09T22:06:00&#43;08:00</updated>
             <published>2019-09-21T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9876,7 +9850,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -9888,7 +9862,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十二期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-22/" />
             <id>https://aaronnick.github.io/posts/weekly-22/</id>
-            <updated>2020-12-20T21:15:03&#43;08:00</updated>
+            <updated>2021-04-09T22:06:06&#43;08:00</updated>
             <published>2019-09-07T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9955,7 +9929,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -9967,7 +9941,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">《了不起的盖茨比》｜再读感悟</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-great-gatsby/" />
             <id>https://aaronnick.github.io/posts/the-great-gatsby/</id>
-            <updated>2021-03-07T23:22:21&#43;08:00</updated>
+            <updated>2021-04-09T22:18:50&#43;08:00</updated>
             <published>2019-09-03T21:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10002,7 +9976,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
@@ -10014,7 +9988,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十一期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-21/" />
             <id>https://aaronnick.github.io/posts/weekly-21/</id>
-            <updated>2020-12-21T20:53:47&#43;08:00</updated>
+            <updated>2021-04-09T22:08:09&#43;08:00</updated>
             <published>2019-08-17T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10077,7 +10051,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10089,7 +10063,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二十期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-20/" />
             <id>https://aaronnick.github.io/posts/weekly-20/</id>
-            <updated>2020-12-20T19:22:04&#43;08:00</updated>
+            <updated>2021-04-09T22:07:40&#43;08:00</updated>
             <published>2019-08-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10146,7 +10120,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10158,7 +10132,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十九期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-19/" />
             <id>https://aaronnick.github.io/posts/weekly-19/</id>
-            <updated>2020-12-20T19:21:28&#43;08:00</updated>
+            <updated>2021-04-09T22:07:15&#43;08:00</updated>
             <published>2019-07-21T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10214,7 +10188,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10226,7 +10200,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十八期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-18/" />
             <id>https://aaronnick.github.io/posts/weekly-18/</id>
-            <updated>2020-12-21T20:51:26&#43;08:00</updated>
+            <updated>2021-04-09T22:06:58&#43;08:00</updated>
             <published>2019-07-14T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10307,7 +10281,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10319,7 +10293,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十七期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-17/" />
             <id>https://aaronnick.github.io/posts/weekly-17/</id>
-            <updated>2020-12-21T20:50:59&#43;08:00</updated>
+            <updated>2021-04-09T22:06:03&#43;08:00</updated>
             <published>2019-06-03T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10381,7 +10355,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10393,7 +10367,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">可爱的支教孩子</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-volunteer-education/" />
             <id>https://aaronnick.github.io/posts/the-volunteer-education/</id>
-            <updated>2021-03-02T19:16:04&#43;08:00</updated>
+            <updated>2021-04-09T22:34:21&#43;08:00</updated>
             <published>2019-05-27T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10432,19 +10406,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%94%AF%E6%95%99/" term="支教" label="支教" />
+                                <category scheme="https://aaronnick.github.io/tags/education/" term="Education" label="Education" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -10456,7 +10430,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十六期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-16/" />
             <id>https://aaronnick.github.io/posts/weekly-16/</id>
-            <updated>2020-12-21T20:49:11&#43;08:00</updated>
+            <updated>2021-04-09T22:06:36&#43;08:00</updated>
             <published>2019-05-26T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10542,7 +10516,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10554,7 +10528,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十五期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-15/" />
             <id>https://aaronnick.github.io/posts/weekly-15/</id>
-            <updated>2020-12-20T19:18:30&#43;08:00</updated>
+            <updated>2021-04-09T22:08:12&#43;08:00</updated>
             <published>2019-05-20T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10615,7 +10589,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10627,7 +10601,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十四期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-14/" />
             <id>https://aaronnick.github.io/posts/weekly-14/</id>
-            <updated>2020-12-21T20:45:35&#43;08:00</updated>
+            <updated>2021-04-09T22:07:37&#43;08:00</updated>
             <published>2019-05-12T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10687,7 +10661,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10699,7 +10673,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十三期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-13/" />
             <id>https://aaronnick.github.io/posts/weekly-13/</id>
-            <updated>2020-12-21T20:44:06&#43;08:00</updated>
+            <updated>2021-04-09T22:06:42&#43;08:00</updated>
             <published>2019-05-05T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10775,7 +10749,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10787,7 +10761,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十二期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-12/" />
             <id>https://aaronnick.github.io/posts/weekly-12/</id>
-            <updated>2020-12-21T20:41:49&#43;08:00</updated>
+            <updated>2021-04-09T22:05:42&#43;08:00</updated>
             <published>2019-04-28T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10853,7 +10827,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10865,7 +10839,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十一期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-11/" />
             <id>https://aaronnick.github.io/posts/weekly-11/</id>
-            <updated>2020-12-20T19:11:57&#43;08:00</updated>
+            <updated>2021-04-09T22:08:02&#43;08:00</updated>
             <published>2019-04-21T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10958,7 +10932,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -10970,7 +10944,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第十期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-10/" />
             <id>https://aaronnick.github.io/posts/weekly-10/</id>
-            <updated>2020-12-21T21:07:53&#43;08:00</updated>
+            <updated>2021-04-09T22:07:56&#43;08:00</updated>
             <published>2019-04-14T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11042,7 +11016,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11054,7 +11028,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第九期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-9/" />
             <id>https://aaronnick.github.io/posts/weekly-9/</id>
-            <updated>2020-12-20T17:42:13&#43;08:00</updated>
+            <updated>2021-04-09T22:06:19&#43;08:00</updated>
             <published>2019-04-07T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11122,7 +11096,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11134,7 +11108,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第八期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-8/" />
             <id>https://aaronnick.github.io/posts/weekly-8/</id>
-            <updated>2020-12-20T17:41:37&#43;08:00</updated>
+            <updated>2021-04-09T22:06:32&#43;08:00</updated>
             <published>2019-03-31T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11221,7 +11195,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11233,7 +11207,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第七期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-7/" />
             <id>https://aaronnick.github.io/posts/weekly-7/</id>
-            <updated>2020-12-20T17:40:58&#43;08:00</updated>
+            <updated>2021-04-09T22:07:05&#43;08:00</updated>
             <published>2019-03-18T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11331,7 +11305,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11343,7 +11317,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第六期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-6/" />
             <id>https://aaronnick.github.io/posts/weekly-6/</id>
-            <updated>2020-12-20T17:40:27&#43;08:00</updated>
+            <updated>2021-04-09T22:07:25&#43;08:00</updated>
             <published>2019-03-10T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11437,7 +11411,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11449,7 +11423,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第五期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-5/" />
             <id>https://aaronnick.github.io/posts/weekly-5/</id>
-            <updated>2020-12-20T17:39:48&#43;08:00</updated>
+            <updated>2021-04-09T22:07:28&#43;08:00</updated>
             <published>2019-03-02T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11518,7 +11492,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11530,7 +11504,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第四期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-4/" />
             <id>https://aaronnick.github.io/posts/weekly-4/</id>
-            <updated>2020-12-20T17:39:05&#43;08:00</updated>
+            <updated>2021-04-09T22:07:34&#43;08:00</updated>
             <published>2019-02-24T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11624,7 +11598,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11636,7 +11610,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第三期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-3/" />
             <id>https://aaronnick.github.io/posts/weekly-3/</id>
-            <updated>2020-12-20T17:38:23&#43;08:00</updated>
+            <updated>2021-04-09T22:06:54&#43;08:00</updated>
             <published>2019-02-16T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11719,7 +11693,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11731,7 +11705,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第二期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-2/" />
             <id>https://aaronnick.github.io/posts/weekly-2/</id>
-            <updated>2020-12-20T17:37:45&#43;08:00</updated>
+            <updated>2021-04-09T22:07:21&#43;08:00</updated>
             <published>2019-02-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11841,7 +11815,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -11853,7 +11827,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">火车上的两类父母</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/two-types-of-parents/" />
             <id>https://aaronnick.github.io/posts/two-types-of-parents/</id>
-            <updated>2021-03-02T19:15:54&#43;08:00</updated>
+            <updated>2021-04-09T22:35:24&#43;08:00</updated>
             <published>2019-02-01T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11893,19 +11867,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%95%99%E8%82%B2/" term="教育" label="教育" />
+                                <category scheme="https://aaronnick.github.io/tags/education/" term="Education" label="Education" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -11917,7 +11891,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">周记｜第一期</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/weekly-1/" />
             <id>https://aaronnick.github.io/posts/weekly-1/</id>
-            <updated>2020-12-20T17:16:35&#43;08:00</updated>
+            <updated>2021-04-09T22:07:31&#43;08:00</updated>
             <published>2019-01-28T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12001,7 +11975,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/" term="周记" label="周记" />
+                                <category scheme="https://aaronnick.github.io/tags/weekly/" term="Weekly" label="Weekly" />
                             
                         
                     
@@ -12013,7 +11987,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">年轻人的性生活</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/sex-is-getting-less/" />
             <id>https://aaronnick.github.io/posts/sex-is-getting-less/</id>
-            <updated>2020-12-31T00:57:23&#43;08:00</updated>
+            <updated>2021-04-09T22:31:05&#43;08:00</updated>
             <published>2018-11-23T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12044,13 +12018,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%80%A7/" term="性" label="性" />
+                                <category scheme="https://aaronnick.github.io/tags/sex/" term="Sex" label="Sex" />
                             
                         
                     
@@ -12062,7 +12036,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">要不要往上读书</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/education/" />
             <id>https://aaronnick.github.io/posts/education/</id>
-            <updated>2020-12-31T00:14:19&#43;08:00</updated>
+            <updated>2021-04-09T22:35:27&#43;08:00</updated>
             <published>2018-11-10T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12094,13 +12068,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%95%99%E8%82%B2/" term="教育" label="教育" />
+                                <category scheme="https://aaronnick.github.io/tags/education/" term="Education" label="Education" />
                             
                         
                     
@@ -12112,7 +12086,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">别开生面的面试</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-interesting-interview/" />
             <id>https://aaronnick.github.io/posts/a-interesting-interview/</id>
-            <updated>2021-03-02T19:15:14&#43;08:00</updated>
+            <updated>2021-04-09T22:41:07&#43;08:00</updated>
             <published>2018-11-02T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12145,19 +12119,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9D%A2%E8%AF%95/" term="面试" label="面试" />
+                                <category scheme="https://aaronnick.github.io/tags/interview/" term="Interview" label="Interview" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -12169,7 +12143,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">高三</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/senior-three/" />
             <id>https://aaronnick.github.io/posts/senior-three/</id>
-            <updated>2021-01-30T22:09:51&#43;08:00</updated>
+            <updated>2021-04-09T22:38:59&#43;08:00</updated>
             <published>2018-03-29T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12199,13 +12173,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%BA%AA%E5%BD%95%E7%89%87/" term="纪录片" label="纪录片" />
+                                <category scheme="https://aaronnick.github.io/tags/documentary/" term="Documentary" label="Documentary" />
                             
                         
                     
@@ -12217,7 +12191,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">压力与轻生</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/stress-and-suicide/" />
             <id>https://aaronnick.github.io/posts/stress-and-suicide/</id>
-            <updated>2021-01-29T23:44:33&#43;08:00</updated>
+            <updated>2021-04-09T22:13:09&#43;08:00</updated>
             <published>2017-11-14T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12245,7 +12219,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -12257,7 +12231,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">有趣的思维区别</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/thinking-difference/" />
             <id>https://aaronnick.github.io/posts/thinking-difference/</id>
-            <updated>2021-01-29T23:34:21&#43;08:00</updated>
+            <updated>2021-04-09T22:12:45&#43;08:00</updated>
             <published>2017-10-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12287,7 +12261,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -12299,7 +12273,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">长大变得不快乐？</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/growing-pains/" />
             <id>https://aaronnick.github.io/posts/growing-pains/</id>
-            <updated>2020-12-31T00:43:58&#43;08:00</updated>
+            <updated>2021-04-09T22:13:22&#43;08:00</updated>
             <published>2017-10-13T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12331,7 +12305,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                     
@@ -12343,7 +12317,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">1900</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/1900/" />
             <id>https://aaronnick.github.io/posts/1900/</id>
-            <updated>2021-01-29T23:12:14&#43;08:00</updated>
+            <updated>2021-04-09T22:13:51&#43;08:00</updated>
             <published>2017-10-06T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12372,7 +12346,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
@@ -12390,7 +12364,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">一次特殊的生日</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-special-birthday/" />
             <id>https://aaronnick.github.io/posts/a-special-birthday/</id>
-            <updated>2021-03-02T19:14:22&#43;08:00</updated>
+            <updated>2021-04-09T22:38:00&#43;08:00</updated>
             <published>2017-09-26T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12419,19 +12393,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%97%A5/" term="生日" label="生日" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -12443,7 +12411,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">我与黑莓</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/i-love-blackberry/" />
             <id>https://aaronnick.github.io/posts/i-love-blackberry/</id>
-            <updated>2021-03-02T19:16:13&#43;08:00</updated>
+            <updated>2021-04-09T22:33:36&#43;08:00</updated>
             <published>2017-07-03T12:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12490,13 +12458,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E6%91%84%E5%BD%B1/" term="摄影" label="摄影" />
+                                <category scheme="https://aaronnick.github.io/tags/photography/" term="Photography" label="Photography" />
                             
                         
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
                             
                         
                     
@@ -12508,7 +12476,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">关于博客</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/about-blog/" />
             <id>https://aaronnick.github.io/posts/about-blog/</id>
-            <updated>2021-04-08T21:55:59&#43;08:00</updated>
+            <updated>2021-04-09T22:42:24&#43;08:00</updated>
             <published>2017-07-01T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12527,11 +12495,11 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用了国内网络在访问引用了以上来源的内容，这也是我无奈的地方——&lt;a href=&#34;https://aaronnick.github.io/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;其中主要有几个板块：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://aaronnick.github.io/tags/%E6%97%A5%E5%BF%97/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://aaronnick.github.io/tags/daily/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
 &lt;li&gt;🎨 &lt;a href=&#34;https://aaronnick.github.io/tags/poetry/&#34;&gt;诗歌&lt;/a&gt;：人间日常切片；&lt;/li&gt;
-&lt;li&gt;📬 &lt;a href=&#34;https://aaronnick.github.io/tags/%E7%BF%BB%E8%AF%91/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
-&lt;li&gt;📝 &lt;a href=&#34;https://aaronnick.github.io/tags/%E9%9A%8F%E7%AC%94/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
-&lt;li&gt;📅 &lt;a href=&#34;https://aaronnick.github.io/tags/%E5%91%A8%E8%AE%B0/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
+&lt;li&gt;📬 &lt;a href=&#34;https://aaronnick.github.io/tags/translate/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
+&lt;li&gt;📝 &lt;a href=&#34;https://aaronnick.github.io/tags/essay/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
+&lt;li&gt;📅 &lt;a href=&#34;https://aaronnick.github.io/tags/weekly/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;博客会坚持写下去，哪怕只是零星想法。不追求十万加，不接受广告，保持纯粹。&lt;/p&gt;
 </content>
