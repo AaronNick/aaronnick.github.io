@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-04-09T23:37:48&#43;08:00</updated>
+    <updated>2021-04-18T18:02:26&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,45 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">求问读者（临时）</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-weird-404/" />
+            <id>https://aaronnick.github.io/posts/a-weird-404/</id>
+            <updated>2021-04-18T18:01:51&#43;08:00</updated>
+            <published>2021-04-18T17:55:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期染病，无暇顾及博客，今日打开 Google Analytics 看到 「404 Page not found」页面访问数激增，进而看应该是来源于这……</summary>
+            
+                <content type="html">&lt;p&gt;近期染病，无暇顾及博客，今日打开 Google Analytics 看到 「404 Page not found」页面访问数激增，进而看应该是来源于这两个路径：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;/guu4/j445g&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/1&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;百思不得其解。到底是哪篇文章的哪个链接导致了跳转错误？&lt;/p&gt;
+&lt;p&gt;如您曾遇到，可在..下方评论指出..（匿名），亦可在关于页面找到我的联系方式。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;您在哪个页面，点击哪个链接出现 404？&lt;/li&gt;
+&lt;li&gt;其他信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感激不尽！&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">橱窗中</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/in-the-display-window/" />
@@ -5629,7 +5668,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-04-09T22:17:35&#43;08:00</updated>
+            <updated>2021-04-12T11:02:39&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -5652,6 +5691,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-04-11&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《我的姐姐》· [中国大陆] 2021&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;家庭&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;讲亲情和独立女性？但又不够深刻。&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-03&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《芙蓉镇》· [中国大陆] 1987&lt;/td&gt;
@@ -6447,7 +6493,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-04-09T22:18:57&#43;08:00</updated>
+            <updated>2021-04-12T11:00:48&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -6470,6 +6516,34 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-04-11&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《牛棚杂忆》· 季羡林&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;文革&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;了解文革运动的好材料，就是季老的文笔太难让人读下去了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-04-11&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《绝叫》· [日] 叶真中显&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;社会派推理&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;情节虽老套，但是贵在反映种种社会现象&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-04-09&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《读库 1803》· 张立宪主编&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;散文&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;诗歌插画篇、求学篇、丁文江篇符合口味&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-04-06&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《巴菲特致股东信》·[美] · 沃伦·巴菲特&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;投资&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;价值投资，长期主义&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-05&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《认知与设计》· [美] Jeff Johnson&lt;/td&gt;
@@ -9000,7 +9074,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">软件｜一直在用的日记软件</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/ediary/" />
             <id>https://aaronnick.github.io/posts/ediary/</id>
-            <updated>2021-04-09T22:23:40&#43;08:00</updated>
+            <updated>2021-04-09T23:44:33&#43;08:00</updated>
             <published>2020-06-15T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9100,12 +9174,6 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                             
                             
                                 <category scheme="https://aaronnick.github.io/tags/tool/" term="Tool" label="Tool" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://aaronnick.github.io/tags/ediary/" term="eDiary" label="eDiary" />
                             
                         
                     
@@ -12476,17 +12544,19 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">关于博客</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/about-blog/" />
             <id>https://aaronnick.github.io/posts/about-blog/</id>
-            <updated>2021-04-09T22:42:24&#43;08:00</updated>
+            <updated>2021-04-11T11:37:53&#43;08:00</updated>
             <published>2017-07-01T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
                     <uri>https://aaronnick.github.io/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">博客名字由来 自读书开始，我便有记录自己所思所想的习惯。上学期间记在笔记本，之后发在微博、微信朋友圈等……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">为何写博客 自读书开始，我便有记录自己所思所想的习惯。上学期间记在笔记本，之后发在微博、微信朋友圈等社……</summary>
             
-                <content type="html">&lt;h3 id=&#34;博客名字由来&#34;&gt;博客名字由来&lt;/h3&gt;
+                <content type="html">&lt;h3 id=&#34;为何写博客&#34;&gt;为何写博客&lt;/h3&gt;
 &lt;p&gt;自读书开始，我便有记录自己所思所想的习惯。上学期间记在笔记本，之后发在微博、微信朋友圈等社交平台上。随着阅历的增长，我逐渐意识到我的内容其实并不属于我，而是属于公司。加之无比鄙弃互建城墙的内容生态、不规范的内容审核，于是我开始逐渐将内容从公司转移至自己手中，之后便有了这个博客（主题是 &lt;a href=&#34;https://github.com/reuixiy/hugo-theme-meme&#34;&gt;MemE&lt;/a&gt;）。&lt;/p&gt;
+&lt;p&gt;博客的作者是我，读者主要也是我，当然我也不介意别人来看。&lt;/p&gt;
+&lt;h3 id=&#34;博客名字由来&#34;&gt;博客名字由来&lt;/h3&gt;
 &lt;p&gt;博客的名字叫..叶星优酸乳..，这不是一个奶制品的名称，它源自两个小故事：一是叶星与我的名字谐音；二是小学的绘画老师曾布置了一个作业，让我们画一个物品，并写两句广告语。我喜欢喝酸酸乳，于是便画了一个，为其命名为「叶星优酸乳」，并写上了我的广告语——叶星优酸乳，好喝又大补！最后获得了 99 分。&lt;/p&gt;
 &lt;h3 id=&#34;仓库名&#34;&gt;仓库名&lt;/h3&gt;
 &lt;p&gt;博客的仓库名称为 Aaron Nick，源于两个人：一个是 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron&lt;/a&gt;，他被称为互联网之子，参与了 RSS、Markdown、Reddit 等项目的开发，可以&lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;阅读此文&lt;/a&gt;进一步了解他的一生。他不循规蹈矩，坚持捍卫互联网的自由开放精神，并为之惹上官司，最终自杀身亡，年仅 26 岁，令人扼腕；&lt;/p&gt;
