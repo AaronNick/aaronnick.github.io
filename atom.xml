@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-04-25T21:03:20&#43;08:00</updated>
+    <updated>2021-04-26T07:46:47&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,57 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">数据主义</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/dataism/" />
+            <id>https://aaronnick.github.io/posts/dataism/</id>
+            <updated>2021-04-26T07:46:13&#43;08:00</updated>
+            <published>2021-04-26T07:40:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">9 位朋友读过 5 位朋友收藏 8 位朋友点赞 7 位朋友分享 你的朋友都在看 你收到了一条评论 你获得了十个点赞 你被三……</summary>
+            
+                <content type="html">&lt;blockquote class=&#34;quote-center&#34;&gt;&lt;p&gt;9 位朋友读过&lt;br&gt;
+5 位朋友收藏&lt;br&gt;
+8 位朋友点赞&lt;br&gt;
+7 位朋友分享&lt;br&gt;
+你的朋友都在看&lt;/p&gt;
+&lt;p&gt;你收到了一条评论&lt;br&gt;
+你获得了十个点赞&lt;br&gt;
+你被三个新朋友关注&lt;br&gt;
+你的消息被某某某转发&lt;br&gt;
+你的文章已突破十万加&lt;/p&gt;
+&lt;p&gt;你我的数据被公开，被展示&lt;br&gt;
+一切都可以用数字衡量&lt;br&gt;
+一切都可以量化&lt;br&gt;
+数据不再服务于内容&lt;br&gt;
+内容反而向数据屈服&lt;/p&gt;
+&lt;/blockquote&gt; 
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="Poetry" label="Poetry" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">去感受</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/good-will-hunting/" />
