@@ -3,28 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aaronnick.github.io/tags/daily/</loc>
+    <lastmod>2021-05-01T08:40:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronnick.github.io/posts/</loc>
+    <lastmod>2021-05-01T08:40:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronnick.github.io/tags/</loc>
+    <lastmod>2021-05-01T08:40:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2021-05-01T13:38:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aaronnick.github.io/posts/daily-202104/</loc>
+    <lastmod>2021-05-01T08:40:01+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aaronnick.github.io/tags/poetry/</loc>
     <lastmod>2021-04-29T11:18:54+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2021-04-29T13:43:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2021-04-29T13:43:49+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aaronnick.github.io/posts/predictability-and-unpredictability/</loc>
     <lastmod>2021-04-29T11:18:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronnick.github.io/</loc>
-    <lastmod>2021-04-29T13:43:49+08:00</lastmod>
   </url>
   
   <url>
@@ -110,11 +120,6 @@
   <url>
     <loc>https://aaronnick.github.io/posts/give-up-using-flomo/</loc>
     <lastmod>2021-04-09T22:13:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aaronnick.github.io/tags/daily/</loc>
-    <lastmod>2021-04-09T22:05:10+08:00</lastmod>
   </url>
   
   <url>
@@ -374,7 +379,7 @@
   
   <url>
     <loc>https://aaronnick.github.io/about/</loc>
-    <lastmod>2021-04-29T12:56:55+08:00</lastmod>
+    <lastmod>2021-05-01T13:38:31+08:00</lastmod>
   </url>
   
   <url>
