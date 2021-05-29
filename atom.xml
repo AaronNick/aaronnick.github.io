@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-05-28T11:26:08&#43;08:00</updated>
+    <updated>2021-05-29T12:04:30&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,46 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">朋友圈举报</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reports-from-moments/" />
+            <id>https://aaronnick.github.io/posts/reports-from-moments/</id>
+            <updated>2021-05-29T12:03:02&#43;08:00</updated>
+            <published>2021-05-29T10:30:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">朋友圈，朋友的圈子？ 举报，朋友圈的举报 是朋友，还会举报？ 举报的，会是朋友？</summary>
+            
+                <content type="html">&lt;blockquote class=&#34;quote-center&#34;&gt;
+        &lt;p&gt;朋友圈，朋友的圈子？&lt;br&gt;
+举报，朋友圈的举报&lt;br&gt;
+是朋友，还会举报？&lt;br&gt;
+举报的，会是朋友？&lt;/p&gt;&lt;/blockquote&gt; 
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="Poetry" label="Poetry" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">奸控</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-people-behind-the-monitor/" />
@@ -7588,7 +7628,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-05-23T12:55:40&#43;08:00</updated>
+            <updated>2021-05-28T22:01:53&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7611,6 +7651,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-05-28&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《复杂》· [英] 梅拉妮·米歇尔&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科普&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;综述类书籍还是没多大意思，不过书本身是没问题的。&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-05-20&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《照片的本质》· [美] 斯蒂芬·肖尔&lt;/td&gt;
