@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-05-29T12:04:30&#43;08:00</updated>
+    <updated>2021-05-30T12:29:03&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,74 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">凯文·凯利的建议</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/unsolicited-advice-from-kk/" />
+            <id>https://aaronnick.github.io/posts/unsolicited-advice-from-kk/</id>
+            <updated>2021-05-30T12:27:53&#43;08:00</updated>
+            <published>2021-05-30T12:10:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">著名科技人 Kevin Kelly 在他的博客贴出了今年的 Unsolicited Advice，一共 99 条，每一条都简洁有力，富含哲理，满满的对生……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mITXdqXTN_qDxdj1C0WmG9FRwc0AKTCsViBWU5fIvEXYwgHxST8v7g3cqhVHmrO76fOav0utHWXVsX64-DrrkJaojh8YuhyHNUt8wUtiqf5djTyTGr6SKoxRYHK-soT7mlUIMVE_R2p_KdpIZlqwmey0QS27MYgkmutXrj9ba7UZz5j1v32IGeBiESBn73B_k?width=766&amp;amp;height=280&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;Kevin Kelly&#34;&gt;&lt;/p&gt;
+&lt;p&gt;著名科技人 Kevin Kelly 在他的博客贴出了&lt;a href=&#34;https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/&#34;&gt;今年的 Unsolicited Advice&lt;/a&gt;，一共 99 条，每一条都简洁有力，富含哲理，满满的对生活的思考。另外，去年在他 68 岁生日的时候&lt;a href=&#34;https://kk.org/thetechnium/68-bits-of-unsolicited-advice/&#34;&gt;也写了一篇&lt;/a&gt;，共 68 条。那么，去年 68 岁生日是 68 条，今年 69 岁生日怎么变成 99 条了？加量不加价啊。&lt;/p&gt;
+&lt;p&gt;挑选几条感同身受的建议讲一下自己的理解。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Being wise means having more questions than answers.&lt;/p&gt;
+&lt;p&gt;睿智意味着有更多的问题而非答案。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这句话似曾相识，记得爱因斯坦也说过类似的话，提出一个问题比解决一个问题更重要。网络上流传着一篇雄文——《&lt;a href=&#34;https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way&#34;&gt;提问的智慧&lt;/a&gt;》，被众多的人，尤其是程序员奉为提问入门指南。我也曾写过&lt;a href=&#34;https://aaronnick.github.io/posts/how-to-asking/&#34;&gt;一篇文章&lt;/a&gt;，结合自己的经历去理解提问中的智慧。&lt;/p&gt;
+&lt;p&gt;生活中的很多问题，其实并没有一个确切答案。但是我们如果能够围绕问题去继续发问，反而更容易接触到事情的本质，所谓的「答案」也就呼之欲出了。例如之前在频道关于「&lt;a href=&#34;https://t.me/weiyexing/2560&#34;&gt;为什么在中国注册青霉素之前需要皮试&lt;/a&gt;」的讨论。&lt;/p&gt;
+&lt;script async src=&#34;https://telegram.org/js/telegram-widget.js?14&#34; data-telegram-post=&#34;weiyexing/2560&#34; data-width=&#34;100%&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Writing down one thing you are grateful for each day is the cheapest possible therapy ever.&lt;/p&gt;
+&lt;p&gt;每天写下一件你感激的事是最便宜的治疗方法。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这种通过回顾自己生活的美好事物的方式，对于促进自我认可、平衡焦虑心态等方面很有作用。我坚持写日记有一段时间了，期间曾按照这个方式记录每天值得感恩的小事，例如同事的一次友好提醒、饭间讨论得到的一个新奇观点。这种记录会形成正向反馈，让我觉得每天都在发生一些值得开心的事情。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bad things can happen fast, but almost all good things happen slowly.&lt;/p&gt;
+&lt;p&gt;坏事可能发生得很快，但几乎所有的好事都会慢慢发生。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;中国有句古话，好事多磨，意为好事情往往要经历许多波折，困难的同时意味着达成的时间也较长。例如应试时的读书，这是一个长期而痛苦的过程，一旦坚持过来了，期间培养的素养以及最终的结果都不会太差。但对于某些中途放弃的人来说，这种决定很容易，应试的痛苦消失得也会很快，但多数结果都不怎么样。初中的一些经历让我对此感触颇深。&lt;/p&gt;
+&lt;p&gt;另外，投机主义以及长期主义也是如此。投机见效快，不少人容易被短期诱惑吸引，加入投机的行列。其中有赚的人，但大多数人是「陪葬」的。例如 1986 年始于浙江温州乐清县的「合会」事件，就是典型的投机性质恶性事件。大量的村民并不清楚这种机构的运行机制，只知道交上去的钱利息来的很快也很高，总以为有钱赚，便疯狂入会成为会员，殊不知他们的高利息需要会长不断发展新会员才能维持。最终合会崩塌，入会的很多人血本无归。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If your goal does not have a schedule, it is a dream.&lt;/p&gt;
+&lt;p&gt;如果你的目标没有时间表，那它就是一个梦想。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这句太鸡汤了，但却很贴合实际。没有明确的实施计划，没有投入时间精力，那梦想的确就是幻想。另外，提到时间，给自己要做的事情预估一个时间，逼迫自己在规定的时间内完成，这也是一个好习惯。番茄工作法还是有一定依据的。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have never met a person I admired who did not read more books than I did.&lt;/p&gt;
+&lt;p&gt;我从来没有见过一个我敬佩的人比我读书少。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;类似的话查理·芒格也说过，读书是一件性价比很高的投入，它所带来的回报有实时的，但更多是长期的、潜移默化的。读好书，读更多的好书书，让自己更明智。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;最后，想要阅读更多老爷子的建议，可以访问他的博客，也可以在频道 &lt;a href=&#34;https://t.me/tms_ur_way/851&#34;&gt;Your TMS Channel&lt;/a&gt; 查看其翻译的 99 条建议。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">朋友圈举报</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reports-from-moments/" />
