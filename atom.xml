@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-06-01T12:38:22&#43;08:00</updated>
+    <updated>2021-06-01T19:09:47&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,54 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">追忆六一</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/memories-of-childrens-day/" />
+            <id>https://aaronnick.github.io/posts/memories-of-childrens-day/</id>
+            <updated>2021-06-01T19:08:41&#43;08:00</updated>
+            <published>2021-06-01T19:00:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://aaronnick.github.io/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">现在的儿童节，学校不知道有什么好玩的花样。想起自己小学的时候，这个节日是一个欢快的日子，非常令人期待……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4muxQdHG1f-zGsqELQtrmkQf9G_eVpuptQWZvFbq3sqqTYqtHoDJ1HjeClpPmwqqeWyuQEhDTsFIFfCtL_N2XImZWclrDYQXF7oWl_T5xRauZeTr_OUeTA5YoRWmJww9t6G_LM8SWAcAN3Q577vKiIl-gAK3N6hI3vq7PDKPa9oVea7rT2yzD3Jgi6KdFtRUff?width=1024&amp;amp;height=663&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;小时候的我&#34;&gt;&lt;/p&gt;
+&lt;p&gt;现在的儿童节，学校不知道有什么好玩的花样。想起自己小学的时候，这个节日是一个欢快的日子，非常令人期待。&lt;/p&gt;
+&lt;p&gt;早上正常去学校，但是不用上课，教室以及外面布置好了各种游戏。我印象最深刻的有几个。一个是钓纸片鱼，「鱼池」由几张桌子围起来，参与游戏的人在桌子外用自制的钩子去钩地上的鱼，在一定时间内钩上就算获得奖品，奖品就是糖果。另一个是蒙眼贴鼻子，旁边的蒙眼敲鼓也是同一种类型。这两个游戏简单有趣，大受欢迎。我一般先去玩其他的，等排队的人变少了才去玩。每当一个人蒙上眼睛贴错了位置后，就会引起哄堂大笑。在旁边看的人一般会给出简单的提示，老师也只是轻声呵住，但不会限制但是也有恶搞的，故意引导到别的地方去，场面很欢快。&lt;/p&gt;
+&lt;p&gt;游戏应该有很多，但大体都忘得差不多了，只记得这一天是满怀期待且充实的。小孩本身玩性就很高，昔日严格的老师也化身为陪玩的伙伴，拉近了不少彼此的距离。更别说玩游戏还有糖果了，这种好事可是一年也难以遇到一次。&lt;/p&gt;
+&lt;p&gt;游戏一般在上午十点左右就结束了，一来是大家玩得也累了，二来糖果也被瓜分得差不多了。我不记得是否有个结束仪式，反正还没到中午的点，大家就开始陆陆续续回家了，可以享受半天的假期。&lt;/p&gt;
+&lt;p&gt;由于是成群结队一起回家，在路上难免会互相攀比各自口袋里的糖果数量，讲述游戏中遇到的好玩事情。&lt;/p&gt;
+&lt;p&gt;满满的两裤兜，一甩一甩的，边吃边回家。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">日志｜2021/05</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202105/" />
