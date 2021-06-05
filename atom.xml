@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-06-05T20:14:20&#43;08:00</updated>
+    <updated>2021-06-06T00:26:28&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,6 +17,144 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
         <entry>
+            <title type="text">启用新域名</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/new-domain/" />
+            <id>https://aaronnick.github.io/posts/new-domain/</id>
+            <updated>2021-06-06T00:21:28&#43;08:00</updated>
+            <published>2021-06-06T00:00:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">博客自创建以来，既没有去研究优化加速，也没有去折腾一个炫酷的域名，尽可能保持着她最初的模样（其实是我……</summary>
+            
+                <content type="html">&lt;p&gt;博客自创建以来，既没有去研究优化加速，也没有去折腾一个炫酷的域名，尽可能保持着她最初的模样（其实是我太懒了……）。但是，逐渐有一些朋友反馈，这个域名太麻烦了，不直观也不好记。于是，我决定申请个域名便于大家访问，也就是现在的 &lt;code&gt;weiyexing.ml&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;在申请域名以及配置的过程中，踩了不少坑，记录下来方便回顾，同时也分享给大家。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mI3mpizBbQC81T9lG4sR87lS70GtAy-JtCQLDJPQdY2mrvO6_cFUoxbddHc0B36s0i3gjriRsHhXpCmjGJBpPzuU5kV9TEp8tuzKTs_232Q4gkypdHkuboN5dQG_8CzCot8ZoA4i3j7gc6JCatyEwiv1LOCmwem5qCcN7GXUgL6zt4bu7BOpPO8FKHHEjXhV5?width=1024&amp;amp;height=546&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;freenom&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;通过-freenom-申请永久免费域名&#34;&gt;通过 freenom 申请永久免费域名&lt;/h3&gt;
+&lt;p&gt;申请之前，有考虑去 GoDaddy 购买一个域名，发现有点小贵，但想到这个域名并无其他用处，就放弃了。转而选择去 freenom 申请一个免费域名，将就着用吧。&lt;/p&gt;
+&lt;p&gt;具体步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用美国节点打开 &lt;a href=&#34;http://www.freenom.com/&#34;&gt;freenom&lt;/a&gt; 网站&lt;/li&gt;
+&lt;li&gt;输入想要申请的域名，如 &lt;code&gt;weiyexing.ml&lt;/code&gt; ，检查可用性&lt;/li&gt;
+&lt;li&gt;确定可用并选中，点击完成进入确认表单，右侧的 &lt;code&gt;Period&lt;/code&gt; 下拉选择 12 个月，点击 &lt;code&gt;Continue&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;填写邮箱接收确认邮件，最好用 Gmail 邮箱（如果收不到确认邮件，尝试换个邮箱或者检查网络，都不行的话可能就需要等等了，有时候 freenom 会限制注册）&lt;/li&gt;
+&lt;li&gt;点击确认邮件后重新打开会跳转 freenom，需要填写地址等信息，最好使用真实信息，否则会被判定为机器人而导致申请不成功。可以通过&lt;a href=&#34;https://www.randomaddressgenerator.com/&#34;&gt;这个网站随机获取地址信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;填写完毕，点击继续就申请成功了&lt;/li&gt;
+&lt;li&gt;需要注意的是，刚才选择有效期为 12 个月，意味着 12 个月后需要登录 freenom 操作续期（免费再续 12 个月），否则域名将会被收回&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;设置域名解析&#34;&gt;设置域名解析&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;freenom 顶部菜单栏中点击  &lt;code&gt;Services - My Domains&lt;/code&gt;，点击  &lt;code&gt;Manage Domain&lt;/code&gt;，在  &lt;code&gt;Manage Freeenom DNS&lt;/code&gt; 下添加三条规则&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;TTL&lt;/th&gt;
+&lt;th&gt;Target&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;默认值&lt;/td&gt;
+&lt;td&gt;192.30.252.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;默认值&lt;/td&gt;
+&lt;td&gt;192.30.252.154&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;www&lt;/td&gt;
+&lt;td&gt;CNAME&lt;/td&gt;
+&lt;td&gt;默认值&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;your_name.github.io&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在博客文件夹目录 &lt;code&gt;myblog/static&lt;/code&gt; 下添加一个名为 &lt;code&gt;CNAME&lt;/code&gt; 的文件，文件内只需放刚才申请的域名，即 &lt;code&gt;weiyexing.ml&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;运行 Hugo，该 &lt;code&gt;CNAME&lt;/code&gt; 文件将自动复制到 &lt;code&gt;/public&lt;/code&gt; 目录中，稍等片刻，就能用刚才申请的域名访问博客了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;配置-cloudflare-以使用-https&#34;&gt;配置 CloudFlare 以使用 HTTPs&lt;/h3&gt;
+&lt;p&gt;刚才已经可以使用 &lt;code&gt;weiyexing.ml&lt;/code&gt; 跳转博客主页了，但是由于 &lt;code&gt;Github Pages&lt;/code&gt; 不支持在自定义域名中使用 &lt;code&gt;HTTPs&lt;/code&gt; 协议，所以浏览器访问 &lt;code&gt;weiyexing.ml&lt;/code&gt; 时使用的是 &lt;code&gt;HTTP&lt;/code&gt; 协议。以至于每次访问博客，都会提示该网页不受信任。另外，考虑到 &lt;code&gt;HTTPs&lt;/code&gt; 协议比 &lt;code&gt;HTTP&lt;/code&gt; 更安全，因此需要想个办法解决。&lt;/p&gt;
+&lt;p&gt;经过检索，发现 CloudFlare 有现成的一整套解决方案，并且是免费的，具体操作如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;前往 &lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;CloudFlare&lt;/a&gt; 网站，注册一个账号&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输入申请好的域名 &lt;code&gt;weiyexing.ml&lt;/code&gt;，选择免费套餐&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CloudFlare 将扫描现有的 &lt;code&gt;DNS&lt;/code&gt; 记录。等待直到扫描结束，然后单击 &lt;code&gt;Continue&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CloudFlare 会提供两个 Nameserver：&lt;code&gt;xxx1.ns.cloudflare.com&lt;/code&gt;；&lt;code&gt;xxx2.ns.cloudflare.com&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;回到 freenom ，点击  &lt;code&gt;Services - My Domains&lt;/code&gt;，点击  &lt;code&gt;Manage Domain&lt;/code&gt;，选择 &lt;code&gt;Management Tools&lt;/code&gt;，勾选 &lt;code&gt;Use custom nameservers (enter below)&lt;/code&gt;，填写刚才的两个 Nameserver，点击 &lt;code&gt;Change Nameserver&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;回到 CloudFlare，配置下 &lt;code&gt;Rules&lt;/code&gt; 选项，填写如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mq2xbhlYJ9ROw5r4J3w6ZYlK0APxUNuyb1LXxZP25XRdS7zx3P_QQjEJzewrWRVSPs3OKWBanzRM0bdRw4ZvhSIEaH_8bR1PSv3jQrzvKaDcCv293Kfr6dc0ER2z13PCoL-nod-tE7aPs7dK2XdQPjU0PbVG51vqcEYXhC6P4oT9WEEVxAUVhzGLWDU3hGNBE?width=1024&amp;amp;height=285&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;配置 Rules&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;稍等几分钟，然后访问刚才的域名，检查是否已经在 &lt;code&gt;HTTPs&lt;/code&gt; 下加载&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;参考&#34;&gt;参考&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site&#34;&gt;Managing a custom domain for your GitHub Pages site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/44081863/how-i-can-using-a-dot-tk-domain-with-github-pages&#34;&gt;how i can Using a dot.tk domain with GitHub Pages?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/hieplpvip/get-a-free-domain-with-freenom-and-cloudflare-k1j&#34;&gt;Get a free domain with Freenom and Cloudflare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/37752930&#34;&gt;如何使用Hugo在GitHub Pages上搭建免费个人网站&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/hugo/" term="Hugo" label="Hugo" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/tech/" term="Tech" label="Tech" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">建筑与文化</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/architecture-and-culture/" />
             <id>https://aaronnick.github.io/posts/architecture-and-culture/</id>
@@ -24,7 +162,7 @@
             <published>2021-06-05T17:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">饭间和 Lilianne 聊天，聊到了建筑风格的话题。我俩都感叹中国虽然有风格各样的建筑，但是却没有真正和文化相结合，……</summary>
@@ -74,7 +212,7 @@
             <published>2021-06-04T12:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我上学那会儿，身边还没有补习班之说，我们班也没有人去上补习。但是现在，遍地都是补习班广告，身边的孩子……</summary>
@@ -137,7 +275,7 @@
             <published>2021-06-01T19:00:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">现在的儿童节，学校不知道有什么好玩的花样。想起自己小学的时候，这个节日是一个欢快的日子，非常令人期待……</summary>
@@ -185,7 +323,7 @@
             <published>2021-06-01T12:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021-05-31 开放三胎并没有什么问题，想要多生的就多生，不想生的就不生，这就是一个选择。另外，看到一个讽刺的评论……</summary>
@@ -367,11 +505,11 @@
             <title type="text">凯文·凯利的建议</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/unsolicited-advice-from-kk/" />
             <id>https://aaronnick.github.io/posts/unsolicited-advice-from-kk/</id>
-            <updated>2021-05-30T12:42:39&#43;08:00</updated>
+            <updated>2021-06-06T00:07:00&#43;08:00</updated>
             <published>2021-05-30T12:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">著名科技人 Kevin Kelly 在他的博客贴出了今年的 Unsolicited Advice，一共 99 条，每一条都简洁有力，富含哲理，满满的对生……</summary>
@@ -383,7 +521,7 @@
 &lt;p&gt;Being wise means having more questions than answers.&lt;/p&gt;
 &lt;p&gt;睿智意味着有更多的问题而非答案。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;这句话似曾相识，记得爱因斯坦也说过类似的话，提出一个问题比解决一个问题更重要。网络上流传着一篇雄文——《&lt;a href=&#34;https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way&#34;&gt;提问的智慧&lt;/a&gt;》，被众多的人，尤其是程序员奉为提问入门指南。我也曾写过&lt;a href=&#34;https://aaronnick.github.io/posts/how-to-asking/&#34;&gt;一篇文章&lt;/a&gt;，结合自己的经历去理解提问中的智慧。&lt;/p&gt;
+&lt;p&gt;这句话似曾相识，记得爱因斯坦也说过类似的话，提出一个问题比解决一个问题更重要。网络上流传着一篇雄文——《&lt;a href=&#34;https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way&#34;&gt;提问的智慧&lt;/a&gt;》，被众多的人，尤其是程序员奉为提问入门指南。我也曾写过&lt;a href=&#34;https://weiyexing.ml/posts/how-to-asking/&#34;&gt;一篇文章&lt;/a&gt;，结合自己的经历去理解提问中的智慧。&lt;/p&gt;
 &lt;p&gt;生活中的很多问题，其实并没有一个确切答案。但是我们如果能够围绕问题去继续发问，反而更容易接触到事情的本质，所谓的「答案」也就呼之欲出了。例如之前在频道关于「&lt;a href=&#34;https://t.me/weiyexing/2560&#34;&gt;为什么在中国注射青霉素之前需要皮试&lt;/a&gt;」的讨论。&lt;/p&gt;
 &lt;script async src=&#34;https://telegram.org/js/telegram-widget.js?14&#34; data-telegram-post=&#34;weiyexing/2560&#34; data-width=&#34;100%&#34;&gt;&lt;/script&gt;
 &lt;blockquote&gt;
@@ -439,7 +577,7 @@
             <published>2021-05-29T10:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">朋友圈，朋友的圈子？ 举报，朋友圈的举报 是朋友，还会举报？ 举报的，会是朋友？</summary>
@@ -479,7 +617,7 @@
             <published>2021-05-28T09:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一个大学，一段监控录像，一场公共场合发生的性行为。一个视频的泄露，两个年轻人的困境，一群人的狂欢。 近……</summary>
@@ -541,7 +679,7 @@
             <published>2021-05-27T12:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我发现，生活中总会遇到一些人，喜欢打断别人的发言，然后岔开话题。这是不好的习惯，而更严重的是，他们似……</summary>
@@ -594,7 +732,7 @@
             <published>2021-05-23T12:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期翻完了《照片的本质》这本摄影界经典书籍，全书共 131 页，像我这样边看边做笔记，还带着思考地阅读，一个……</summary>
@@ -667,11 +805,11 @@
             <title type="text">建立关联</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/make-connection/" />
             <id>https://aaronnick.github.io/posts/make-connection/</id>
-            <updated>2021-05-15T20:41:46&#43;08:00</updated>
+            <updated>2021-06-06T00:09:53&#43;08:00</updated>
             <published>2021-05-15T20:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">前几天和几个同事下班，七点多的北京还没完全黑下来，在灯光的衬托下，天空的颜色蓝中透着黄。 大厦外很安静……</summary>
@@ -686,7 +824,7 @@
 &lt;p&gt;说到这，我想起了高中我们班的一个习惯，每当到谁值日时，就需要在一个本子上记录一些东西，类似于「班级日记」。你可以记录一下今日所发生的趣事，或者学到的新知识，又或者你创作的内容，形式不限。我记得我在上面记录的东西很多也很杂，有纪事的，有思考的，有抄写诗歌的，甚至还有绘画的，千奇百怪。&lt;/p&gt;
 &lt;p&gt;当时班主任提倡这个班级日记时，给我们讲了一大通为什么，我几乎都忘了。但他描述的一个场景我记忆深刻：当我退休后，坐在阳台的摇椅上，夕阳晒在身上，手上翻阅着大家的班级日记，看着一篇篇大家写下的文字，回想起你们青春的身影，那将是多么美好的事情……&lt;/p&gt;
 &lt;p&gt;一段段文字，将我们单调但充满活力的青春串联起来。或坦诚、或谦虚、或愤青、或闷骚……一个个本子沉淀着我们高中生活的一部分。回想起来，我不得不赞扬班主任的这种做法，为我们乏味的刷题生活增添了一丝趣味。心想着，什么时候我也要去翻阅下那些年写下的文字，重新认识过去的那个我。&lt;/p&gt;
-&lt;p&gt;那么，建立这种关联是必要的吗，其实我不清楚。但它的确是一种美好的体验，不管是当下，还是未来。而要建立越来越多的关联，则需要我们多去体验，用心&lt;a href=&#34;https://aaronnick.github.io/posts/good-will-hunting/&#34;&gt;去感受&lt;/a&gt;。最直接便是关掉电脑，放下手机，出去走走。&lt;/p&gt;
+&lt;p&gt;那么，建立这种关联是必要的吗，其实我不清楚。但它的确是一种美好的体验，不管是当下，还是未来。而要建立越来越多的关联，则需要我们多去体验，用心&lt;a href=&#34;https://weiyexing.ml/posts/good-will-hunting/&#34;&gt;去感受&lt;/a&gt;。最直接便是关掉电脑，放下手机，出去走走。&lt;/p&gt;
 &lt;p&gt;现在，我要出门散步去了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mCvRySplXzyBd7yOdkv7t2X0DCyvPfNm0dTqGn_LCVt4NHXx48p87qEtNE60kAcsGs-Nzg7UaiihLeo2QbXf_mg0J33yJ4tfJhwtqsKfSh9Ho_yy7lgvTqT9jt6JlaVm-j51b91VxzEtA9Zu-9PStPTkwxAJkVyiHOAyjL2k3yI96eGJkn7_nWB65wIyZfjL3?width=994&amp;amp;height=1524&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;图源@日常人间观察&#34;&gt;&lt;/p&gt;
 </content>
@@ -725,7 +863,7 @@
             <published>2021-05-14T12:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">清晨做了一个梦，梦里我是个神。 我有一个魔盒，盒子是透明的，里面是会动的四叶草，世间罕见。它有着神奇的……</summary>
@@ -787,7 +925,7 @@
             <published>2021-05-13T12:45:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">《武士时代：为统一日本而战》是 Netflix 新出的一部爽片，讲述的是日本战国时期（十六世纪）由割裂到统一的历史。……</summary>
@@ -845,7 +983,7 @@
             <published>2021-05-12T12:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2007 年，中国民谣歌手周云蓬1发表了他的第二张专辑《中国孩子》，共九首歌，其中的同名歌曲《中国孩子》，是……</summary>
@@ -981,7 +1119,7 @@
             <published>2021-05-10T10:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">《杀死一只知更鸟》这本书的名字，我记得在某个年级的语文课本上看到过，当时出现的位置应该是在课本最后的……</summary>
@@ -1040,7 +1178,7 @@
             <published>2021-05-01T08:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021-04-30 当一个乘务员大声叫醒一个乘客后，乘客仿佛获得了某种认可，开始与另一名乘客大声讨论事情，并以此声调持……</summary>
@@ -1254,7 +1392,7 @@
             <published>2021-04-29T08:13:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我会在早上醒来 但我不知道会在几点 我知道刷牙可以保持口腔卫生 但我不知道蛀牙何时会找上我 我知道车会送我到……</summary>
@@ -1302,7 +1440,7 @@
             <published>2021-04-28T09:00:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Cancel Culture，剑桥词典的解释是：一种因为某人说或者做了某些让你感觉冒犯的东西，而完全抵制他的群体……</summary>
@@ -1361,7 +1499,7 @@
             <published>2021-04-27T21:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期在公司断断续续翻完了《你当像鸟飞往你的山》，总的来说，这是一本不错的书，值得花三四个小时去读一读……</summary>
@@ -1428,7 +1566,7 @@
             <published>2021-04-26T07:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">9 位朋友读过 5 位朋友收藏 8 位朋友点赞 7 位朋友分享 你的朋友都在看 你收到了六条评论 你获得了两个点赞 你被四……</summary>
@@ -1479,7 +1617,7 @@
             <published>2021-04-25T20:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">看完《心灵捕手》这部老电影，我的脑海里只有尚恩对威尔说的那段话： 你只是个孩子，你根本不晓得你在说什麽……</summary>
@@ -1537,7 +1675,7 @@
             <published>2021-04-24T09:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近听到一个新词：简历花了，意为换公司过于频繁，每家公司都待不长，就会被大厂 HR 判定为简历花了，而被判……</summary>
@@ -1580,7 +1718,7 @@
             <published>2021-04-09T23:00:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">路边的咖啡馆 经常能看见一些网红模样的少女 刚坐下就对着手机不停地摆弄起头发 也不知道是在自拍还是在直播 不……</summary>
@@ -1626,7 +1764,7 @@
             <published>2021-04-09T00:00:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本周看了 Marty Cagan 在台湾的一个演讲：ProductTank #19 Product Is Hard，很有收获，摘取部分记录一下。 Marty Cagan:……</summary>
@@ -1728,7 +1866,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-04-08T13:13:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我们的时间在变得宝贵 我们放下了锅碗瓢盆 我们拿起了手机 我们点了外卖 滴答滴答 匆忙的流水线 逐渐变少的料理包……</summary>
@@ -1772,11 +1910,11 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">举报大可不必</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reported-comments/" />
             <id>https://aaronnick.github.io/posts/reported-comments/</id>
-            <updated>2021-04-29T13:43:49&#43;08:00</updated>
+            <updated>2021-06-06T00:10:35&#43;08:00</updated>
             <published>2021-04-05T19:35:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期豆瓣的一个书评引发了一个举报事件，这个事情的发展很耐人寻味。大致介绍下事件的来龙去脉，网友高晗给……</summary>
@@ -1799,7 +1937,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
 ——Anito Anage 举报信局部&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;网友 Anito Anage 举着维护学校形象的大旗，居高临下，借用公权力去为自己的争论加码。搬出挽救「失足学生」，维护「教育初心」来绑架学校行为，实在是..不敞亮..。&lt;/p&gt;
-&lt;p&gt;高晗的评论就算存在不妥之处，那也可以互相探讨。毕竟，观点不一致是人间常态，&lt;a href=&#34;https://aaronnick.github.io/posts/talk-about-arguments/&#34;&gt;争论必不可少&lt;/a&gt;，尤其是在文学界，每个人的见地不一样是司空见惯的事情。没必要因为他人的观点与自己不符，就利用权利拳脚相向。&lt;/p&gt;
+&lt;p&gt;高晗的评论就算存在不妥之处，那也可以互相探讨。毕竟，观点不一致是人间常态，&lt;a href=&#34;https://weiyexing.ml/posts/talk-about-arguments/&#34;&gt;争论必不可少&lt;/a&gt;，尤其是在文学界，每个人的见地不一样是司空见惯的事情。没必要因为他人的观点与自己不符，就利用权利拳脚相向。&lt;/p&gt;
 &lt;p&gt;倘若事事如此，人人伺机而动，表达者谨言慎行，那这和「文字狱」有什么区别？&lt;/p&gt;
 </content>
             
@@ -1831,7 +1969,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-04-04T23:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天是清明节，本应扫墓，但是因为没有回老家，于是决定出门踏青。 踏青最合适去有山有水的地方，香山已爬过……</summary>
@@ -1908,7 +2046,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-04-04T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">flomo 在开启内测时，我就已经加入内测并深度使用了一段时间。当时加入的理由很简单，就是看到作者的介绍后，觉……</summary>
@@ -1965,7 +2103,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-04-01T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021-03-31 数据可以告诉你人们在做什么，但是无法告诉你为什么，因此还得结合具体场景来看。 2021-03-30 拼多多买了一箱水果，……</summary>
@@ -2146,7 +2284,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-03-31T00:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">读书是一种选择，可以选择不读书，也可以选择多读书，这只是一个决定而已。 当决定要读书时，你会发现以前那……</summary>
@@ -2257,7 +2395,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-03-28T22:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今日北京狂风大作，黄土飞扬。 和 3 月 15 日那天的情景差不多： 早上七点多醒来，拉开窗帘，刺眼的光线使我睁不……</summary>
@@ -2312,7 +2450,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-03-27T22:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">读段永平，投资才算入了门。 这里的投资，不仅仅是口中常说的股市投资，也包括对人生的投资。 可以说，他带给……</summary>
@@ -2421,7 +2559,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-03-27T12:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">争论和抬杠很像，但又不是一回事。有价值的争论是有明确的目的，而抬杠大多只是发泄不满。 生活中存在许多会……</summary>
@@ -2468,7 +2606,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-03-13T10:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">关于 Netflix 的书籍有很多，但大多谈论的是商业模式、企业文化，还没有一本书细致地讲述 Netflix 是如何从一个看似不起眼……</summary>
@@ -2598,7 +2736,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-03-10T15:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">早在 10 年前，Andreessen-Horowitz1 的联合创始人 Marc Andreessen 就曾预言世界将会被软件改变。如今……</summary>
@@ -2688,7 +2826,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-03-06T02:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">偶然和朋友闲聊，被科普了一个 2019 年的老梗——老许，你要老婆不要。 我一查，这个梗来自一部 1982 年上映的老电影……</summary>
@@ -2788,7 +2926,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-03-03T20:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021-02-28 企业文化不是说出来的，是做出来的。 很多人都在哀悼，他们是在哀悼达叔，还是自己的青春？ 2021-02-27 现代人尚且没……</summary>
@@ -2954,7 +3092,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-02-27T19:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">在看待事物以及为人处世方面，我的高中副校长对我影响深远。 他让我们称他为「小芳校长」，初听以为是个女校……</summary>
@@ -3006,7 +3144,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-02-25T20:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近在追《进击的巨人》，近两天终于赶上了更新的进度，按照 Netflix 上的介绍，动漫会在四月份更新完毕，漫画也将……</summary>
@@ -3067,16 +3205,16 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">支教回顾</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-memory-of-volunteer-education/" />
             <id>https://aaronnick.github.io/posts/the-memory-of-volunteer-education/</id>
-            <updated>2021-04-09T22:34:12&#43;08:00</updated>
+            <updated>2021-06-06T00:12:33&#43;08:00</updated>
             <published>2021-02-09T20:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">前段时间和同事聊起支教的话题，想起我在大学的时候曾参加过支教，于是和他们分享了那段经历，以及那些纯真……</summary>
             
-                <content type="html">&lt;p&gt;前段时间和同事聊起支教的话题，想起我在大学的时候曾参加过支教，于是和他们分享了那段经历，以及那些纯真的孩子带给我的美好记忆。其中一个小女孩，在我离开的时候给了我一个本子，记录了 &lt;a href=&#34;https://aaronnick.github.io/posts/the-volunteer-education/&#34;&gt;她想对我们说的话&lt;/a&gt;，句句都令人感动。&lt;/p&gt;
+                <content type="html">&lt;p&gt;前段时间和同事聊起支教的话题，想起我在大学的时候曾参加过支教，于是和他们分享了那段经历，以及那些纯真的孩子带给我的美好记忆。其中一个小女孩，在我离开的时候给了我一个本子，记录了 &lt;a href=&#34;https://weiyexing.ml/posts/the-volunteer-education/&#34;&gt;她想对我们说的话&lt;/a&gt;，句句都令人感动。&lt;/p&gt;
 &lt;p&gt;我抽时间整理了当初拍的一些照片，回顾这段..美好的记忆..。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;时间拉回 2017 年，我有幸跟随「微爱支教队」赴湖北荆州大垸镇..黄金湾村..开展支教。支教为期一个多月，和几十个大大小小的孩子一同学习玩耍，有苦有乐。下面是我在这段支教经历中拍摄的照片。&lt;/p&gt;
@@ -3250,7 +3388,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-02-08T22:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">轰~ 一声巨响 传遍四周 又一个倒下 他做错了什么？ 他什么 都没有做 所以倒下了 我微微探头 看到上面有把尺子 挤了挤……</summary>
@@ -3303,7 +3441,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-02-01T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021-01-31 读霍炬博客。才知道以前百度文库为了推广，干过一种缺德事。你要下载文库里的文档，需要积分，哪里来的积……</summary>
@@ -3561,7 +3699,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-29T22:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">保罗·杜洛夫是我很敬佩的一个人，他是 Telegram 的创始人，在他的身上或者 Telegram 这款软件里，你可以感受到满满的理想主……</summary>
@@ -3626,7 +3764,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-28T22:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每个人都有惰性，而我对抗惰性的一个办法就是降低摩擦。 所谓降低摩擦，就是将步骤繁琐的事情简单化。举个简……</summary>
@@ -3670,7 +3808,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-23T13:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">除了国内必须的软件外，我大部分的工作、生活类工具，都使用的国外服务，例如 Google、YouTube……</summary>
@@ -3748,7 +3886,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-22T22:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期娱乐圈很热闹，先是郑爽弃子，再到华晨宇意外得子，然后牵扯出一大堆的艺人八卦。 我无意讨论这些娱乐新……</summary>
@@ -3803,7 +3941,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-21T22:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">1 月 19 日，随着下午的一阵喧闹，大厦出现一位新冠密切接触者的消息不胫而走。 此时的我正带着耳机写需求，内……</summary>
@@ -3864,7 +4002,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-20T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我所理解的互联网，它应该是自由的、开放的，而不是相互孤立的岛屿。 以博客举例，我期望上面的内容，可以自……</summary>
@@ -3968,7 +4106,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-19T01:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">博客承载的内容不应只有文字，还可以通过添加音频、视频，以丰富博客的内容。 于是研究了一下，给博客增加了……</summary>
@@ -4311,7 +4449,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-18T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2020-12-31 相遇本来就是误会，取关的时候悄悄溜了就行，没必要像撤资一样，以为我会损失很大一般。说的就是一些社交……</summary>
@@ -4560,7 +4698,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <published>2021-01-17T19:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">彼处是过往之物：撒克森人 坚忍的剑和他黑铁的格律。 放逐拉厄耳忒斯之子的 海域和岛屿，波斯天空中 镀金的月亮……</summary>
@@ -4624,11 +4762,11 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">初识《读库》</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/duku1802/" />
             <id>https://aaronnick.github.io/posts/duku1802/</id>
-            <updated>2021-04-09T22:19:07&#43;08:00</updated>
+            <updated>2021-06-06T00:16:19&#43;08:00</updated>
             <published>2021-01-17T14:40:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">之前在读书圈不时听到《读库》这个字眼，但是平常去书店却一直没有见到过这类书，身边也没什么人读，于是这……</summary>
@@ -4665,7 +4803,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;郁达夫与王映霞的这段撕扯，最终成了文人墨客的饭桌谈资。巧合的是，他和徐志摩是中学同班同学。一个班出了两个绝代诗人，也是罕见，且两人在感情方面的经历也颇为相似。&lt;/p&gt;
 &lt;h3 id=&#34;忘年交&#34;&gt;忘年交&lt;/h3&gt;
-&lt;p&gt;本篇让我认识到了一个..低调有温度..的作家孟伟哉，就如我之前无意中认识的&lt;a href=&#34;https://aaronnick.github.io/posts/weekly-38/&#34;&gt;张晓辉&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;本篇让我认识到了一个..低调有温度..的作家孟伟哉，就如我之前无意中认识的&lt;a href=&#34;https://weiyexing.ml/posts/weekly-38/&#34;&gt;张晓辉&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;讲述者和孟伟哉同住一个胡同，从小便结识。两人虽然年龄相距很大，但由于同样都喜欢画画，也有许多共同话题，竟成了忘年交。&lt;/p&gt;
 &lt;p&gt;作者记了几件小事，我印象深刻。一个是他们偷偷给孟伟哉过生日，整了十几个菜，还买了红酒。当他进门时，一下子愣住了，最后忍不住哭了。另一件事是他搬家到别处之后，作者时常去找他，但由于新住处楼房大多相似，容易迷路，于是孟伟哉便到楼下来等作者，生怕她又找不到家门。一个雪天的下午，等了好长时间，衣服都积雪了。&lt;/p&gt;
 &lt;p&gt;作者笔下的孟伟哉，极像我过世的爷爷。同样是言语不多，同样是默默付出……合上书之后，我又想起了我的爷爷。&lt;/p&gt;
@@ -4697,11 +4835,11 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">本分</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/pdd/" />
             <id>https://aaronnick.github.io/posts/pdd/</id>
-            <updated>2021-04-09T22:12:59&#43;08:00</updated>
+            <updated>2021-06-06T00:18:33&#43;08:00</updated>
             <published>2021-01-15T23:25:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近，拼多多负面消息占满了各大互联网资讯的头条，猝死、跳楼、恶意解雇……这样的一个公司，内部到底是怎……</summary>
@@ -4724,7 +4862,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;拼多多是没有灵魂的，本分二字早已变味了，成为奴役员工的工具，私下调侃，例如「今天早上你本分了吗」指「今天 11:00 你打卡了吗」，「中午要去本分吗」指「中午在办公室吃还是去外面吃」，「今天晚上我不本分了」指「今天晚上我不加班，要早点跑了」，「你这个人不本分」指「你在发表反动言论了」，「这周日我不来本分了」指「这周日老子不来加班了」,「我以后永远都不本分了」指「我要离职了」。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;这让我想起之前读过的一本书叫做《岂不怀归》，里面描述了..三和大神..&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/pdd/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;对待生活的自嘲，形成了一个独特的名词，..挂逼..。挂逼这个词的含义非常广泛，可以应用到很多地方。例如，一个人没钱了，称作这个人要挂逼了；一个三和大神去世了，称作挂逼了；便宜的东西，也有独特的名称，如挂逼面、挂逼水……想了解更多，可以看这本书或者阅读我的&lt;a href=&#34;https://aaronnick.github.io/posts/the-people-of-sanhe/&#34;&gt;读书笔记&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;这让我想起之前读过的一本书叫做《岂不怀归》，里面描述了..三和大神..&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/pdd/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;对待生活的自嘲，形成了一个独特的名词，..挂逼..。挂逼这个词的含义非常广泛，可以应用到很多地方。例如，一个人没钱了，称作这个人要挂逼了；一个三和大神去世了，称作挂逼了；便宜的东西，也有独特的名称，如挂逼面、挂逼水……想了解更多，可以看这本书或者阅读我的&lt;a href=&#34;https://weiyexing.ml/posts/the-people-of-sanhe/&#34;&gt;读书笔记&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;这么一对比，是不是发现本分和挂逼，有异曲同工之妙。&lt;/p&gt;
 &lt;p&gt;为了让员工「本分」，公司竟然可以做出屏蔽站点、限制网络、暴力解散私人群聊、喂猪一般的卡点进食等等不可思议的行为，能做出这种决策，我认为是..行政的彻底失败..。&lt;/p&gt;
 &lt;p&gt;对于此类不尊重员工、不信任员工的公司，我觉得一刻也呆不下去。&lt;/p&gt;
@@ -4766,7 +4904,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2021-01-10T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">关闭朋友圈，这个想法已经存在脑海里很长一段时间了。 现在唯一让我开着的理由就是和几个好友互动，因为他们……</summary>
@@ -4822,7 +4960,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2021-01-09T08:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">关于书籍的阅读，我常常陷入一种误区，那就是一定要阅读完毕，哪怕是序言和脚注。 这种追求打卡式的阅读是不……</summary>
@@ -4886,7 +5024,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2021-01-08T22:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近读完了季羡林的《一生自在》，一本散文书，收集了季羡林对各种话题的探讨，以及他的种种经历。 话题部分……</summary>
@@ -4956,7 +5094,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2021-01-04T22:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期把《教父》原著读了一遍，对于叛徒的处决这部分，有一点小收获。 柯里昂家族共经历了四次背叛，一次是教……</summary>
@@ -5014,7 +5152,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2021-01-03T22:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我发现，各个地方均有苦难文化，东亚各国尤其尊崇。所谓苦难文化，就是倡导先苦后甜，或者说要想成大事，必……</summary>
@@ -5071,7 +5209,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2021-01-01T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">元旦，意为一年之开始。这个节日，古时便有，只不过和现在的意思是有差异的。 在一百多年前，元旦这个名称的……</summary>
@@ -5124,11 +5262,11 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">请回答 2020</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/back-to-2020/" />
             <id>https://aaronnick.github.io/posts/back-to-2020/</id>
-            <updated>2021-04-09T22:30:38&#43;08:00</updated>
+            <updated>2021-06-06T00:13:27&#43;08:00</updated>
             <published>2020-12-31T20:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2020 年可谓是跌宕起伏的一年。 整个世界如此，自己也是如此。 回顾下我的 2020，看看有哪些东西值得记录。 疫……</summary>
@@ -5140,7 +5278,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;h3 id=&#34;疫情&#34;&gt;疫情&lt;/h3&gt;
 &lt;p&gt;2019 年底突如其来的新冠疫情，打破了世界的平衡，也搅乱了我的计划。&lt;/p&gt;
 &lt;p&gt;在 2020 到来前一个月，我顶着焦虑通过了转正答辩。一个月后，拿了年终奖开心地回家，没想到却..遇上了疫情..，而我，途中经过武汉，更是变成了重点关注对象。&lt;/p&gt;
-&lt;p&gt;整个过年期间，自己被限制外出，后又出现自己&lt;a href=&#34;https://aaronnick.github.io/posts/privacy-leak/&#34;&gt;隐私泄露事件&lt;/a&gt;，给我上了一节实实在在的社会课。&lt;/p&gt;
+&lt;p&gt;整个过年期间，自己被限制外出，后又出现自己&lt;a href=&#34;https://weiyexing.ml/posts/privacy-leak/&#34;&gt;隐私泄露事件&lt;/a&gt;，给我上了一节实实在在的社会课。&lt;/p&gt;
 &lt;p&gt;疫情开始的前一个月，每天关注各个地方的新增病例，同时从各个渠道了解不同的信息。微博虽然也有一些真相，但是负面信息基本看不到。国内的平台，只要涉及疫情的负面信息，一般存活不到一天。于是，那段时间我时刻关注 Telegram、Twitter 的关于疫情的报道，一些小人物的真实经历。可以说是不寒而栗。&lt;/p&gt;
 &lt;p&gt;期间出现了..李文亮..事件，可悲。&lt;/p&gt;
 &lt;p&gt;然后更让我悲愤的是，当国内抗疫有了一点起色，国外开始爆发的时候，不少国人对国外疫情隔岸观火，嘲讽连连，甚至诞生了「抄作业」这种恶心的词，并赋予它正面的含义。&lt;/p&gt;
@@ -5175,7 +5313,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;p&gt;数据属于自己的感觉真好。&lt;/p&gt;
 &lt;p&gt;未来，这个博客将是自己写作输出的主要平台。其他的如公众号、微博、Telegram、Twitter 等平台虽然也会继续放，但是长内容还是会选择..沉淀到博客..里面。&lt;/p&gt;
 &lt;h3 id=&#34;做饭&#34;&gt;做饭&lt;/h3&gt;
-&lt;p&gt;今年是&lt;a href=&#34;https://aaronnick.github.io/posts/bring-meal/&#34;&gt;开启做饭&lt;/a&gt;的一年。在此之前，自己连炒个白菜都不知道该放多少油盐。下定决心做饭的原因有很多，主要是想掌握一项..技能..，然后尽可能控制自己的饮食，毕竟长期吃外卖很不健康。&lt;/p&gt;
+&lt;p&gt;今年是&lt;a href=&#34;https://weiyexing.ml/posts/bring-meal/&#34;&gt;开启做饭&lt;/a&gt;的一年。在此之前，自己连炒个白菜都不知道该放多少油盐。下定决心做饭的原因有很多，主要是想掌握一项..技能..，然后尽可能控制自己的饮食，毕竟长期吃外卖很不健康。&lt;/p&gt;
 &lt;p&gt;一开始在「下厨房」这个小程序上学习，后面朋友推荐「懒饭」这个 App，便持续用了下来。「懒饭」相对于「下厨房」更丰富，也更现代，图文+视频，直观明白。&lt;/p&gt;
 &lt;p&gt;带饭这件小事，虽然会稍微占用闲暇时间，但是同样的时间，我也许用来刷剧刷手机，浪费在了屏幕上面，不如用来提升自己的厨艺。带饭也让我和同事更亲近，约着一起吃饭，然后谈论不同领域的话题，收获不少。&lt;/p&gt;
 &lt;p&gt;另外，做饭很容易让人平静下来，心无旁骛，可以在持续的工作之间找到某种..平衡..。&lt;/p&gt;
@@ -5252,11 +5390,11 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">2020 观影记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record-2020/" />
             <id>https://aaronnick.github.io/posts/film-record-2020/</id>
-            <updated>2021-04-09T22:17:32&#43;08:00</updated>
+            <updated>2021-06-06T00:17:32&#43;08:00</updated>
             <published>2020-12-31T19:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2020 年观影记录，完整的观影记录请移步这里。 时间 影视剧名 标签 评分 备注 2020-12-12 《香水》·（德）2006 理想主义 4.5……</summary>
@@ -5292,7 +5430,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《后翼弃兵》·（美）2020&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;国际象棋 天才&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-queens-gambit/&#34;&gt;观后感&lt;/a&gt;｜节奏、剧情都不错&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-queens-gambit/&#34;&gt;观后感&lt;/a&gt;｜节奏、剧情都不错&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-11-07&lt;/td&gt;
@@ -5369,7 +5507,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《大明宫词》·（中国大陆）2000&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;古装&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/palace-of-desire/&#34;&gt;观后感&lt;/a&gt;｜美，词美，剧情凄美&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/palace-of-desire/&#34;&gt;观后感&lt;/a&gt;｜美，词美，剧情凄美&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-08-22&lt;/td&gt;
@@ -5672,11 +5810,11 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <title type="text">2020 读书记录</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record-2020/" />
             <id>https://aaronnick.github.io/posts/reading-record-2020/</id>
-            <updated>2021-04-09T22:19:00&#43;08:00</updated>
+            <updated>2021-06-06T00:16:59&#43;08:00</updated>
             <published>2020-12-31T12:00:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2020 年阅读记录，完整的阅读记录请移步这里。 时间 书名 标签 评分 备注 2020-12-12 《浮生六记》·（清）沈复 随笔 中国文学 4.0……</summary>
@@ -5740,7 +5878,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《岂不怀归》· 田丰、林凯玄&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;三和青年 报告&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-people-of-sanhe/&#34;&gt;读后感&lt;/a&gt;｜描述详细，但联想过渡&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-people-of-sanhe/&#34;&gt;读后感&lt;/a&gt;｜描述详细，但联想过渡&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-09-28&lt;/td&gt;
@@ -5761,7 +5899,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《人间值得》·（日）中村恒子&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;方法论 哲理&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/worth-the-world/&#34;&gt;读后感&lt;/a&gt;｜作者九十高龄&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/worth-the-world/&#34;&gt;读后感&lt;/a&gt;｜作者九十高龄&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-07-31&lt;/td&gt;
@@ -5998,7 +6136,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2020-12-28T23:06:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">翻看自己以前的文字，总感觉怎么读都不是很顺畅，时而啰里八嗦，时而弄巧成拙，甚至冒出来不少语病。 后来知……</summary>
@@ -6305,7 +6443,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2020-12-27T15:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">错误 ——郑愁予 我打江南走过 那等在季节里的容颜如莲花的开落 东风不来，三月的柳絮不飞 你的心如小小的寂寞的……</summary>
@@ -6464,7 +6602,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2020-12-25T20:49:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">翻看我之前在 Typora 写的笔记，发现有些照片已经不能查看了，很是苦恼。 这时候才发现，拥有一个稳定的图床尤为重……</summary>
@@ -6515,7 +6653,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2020-12-24T21:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">以前生活不是很规律，早上睡懒觉到即将上班的点，然后急冲冲赶去公司；晚上加班写需求，熬夜刷剧。自从开始……</summary>
@@ -6608,7 +6746,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
             <published>2020-12-24T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Telegram 创始人保罗昨日在自己的频道宣布，明年将开始通过给商业用户提供高级功能、频道广告平台、付费贴纸等方式……</summary>
@@ -6681,7 +6819,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-12-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">《后翼弃兵》这部剧，可以说是 2020 的迷你剧黑马，横空出世后，横扫各大排行榜。 看完这部剧后，才知道它不仅讲……</summary>
@@ -6732,7 +6870,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-12-15T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">大概从两年前开始，我逐渐放弃了在朋友圈发太多的个人生活。 这样做的原因主要有两个，其一是..保护隐私.……</summary>
@@ -6794,7 +6932,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-12-13T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一、网上预约洁牙 前段时间开始，牙龈总是出血，刷牙出血，吃东西后抿一下嘴也能感觉到出血。一开始很是惶恐……</summary>
@@ -6878,7 +7016,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-12-08T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一、背景 前有李彦宏说的「中国人愿意用隐私换便利」，后有疫情期间不断发生的疑似患者个人敏感信息传播事件……</summary>
@@ -6968,7 +7106,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-12-05T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">为什么带饭？ 从上个月开始，我决定尝试带饭。 此前在公司大多都是吃外卖，晚餐有时点外卖有时回家做。点外卖……</summary>
@@ -7022,7 +7160,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-10-25T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">张晓辉｜数据驱动｜新闻实验室｜Twitter｜单词收录｜网易云第三方｜数据监视 许久不见。周刊久日不更……</summary>
@@ -7120,7 +7258,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-10-16T00:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期在看关于「三和大神」的主题，所谓三和大神，就是深圳龙华三和市场一群青年的称号。 虽然这一群体默默无……</summary>
@@ -7191,18 +7329,18 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-05-21T11:07:07&#43;08:00</updated>
+            <updated>2021-06-06T00:09:24&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人观看过的影视剧，持续更新…… 注：备注中的短评仅仅是个人感受，不构成观影建议。 读书记录请移……</summary>
             
                 <content type="html">&lt;p&gt;本处记录个人观看过的影视剧，持续更新……&lt;br&gt;
 注：备注中的短评仅仅是个人感受，不构成观影建议。&lt;/p&gt;
-&lt;p&gt;读书记录请移步 &lt;a href=&#34;https://aaronnick.github.io/posts/reading-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;读书记录请移步 &lt;a href=&#34;https://weiyexing.ml/posts/reading-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -7240,14 +7378,14 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《武士时代：为统一日本而战》· [美] 2021&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;历史&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/age-of-samurai-battle-for-japan/&#34;&gt;观后感&lt;/a&gt;｜了解日本战国时代很好的片子，节奏很美剧，大部分情节符合史实&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/age-of-samurai-battle-for-japan/&#34;&gt;观后感&lt;/a&gt;｜了解日本战国时代很好的片子，节奏很美剧，大部分情节符合史实&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-23&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《心灵捕手》· [美] 1997&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;天才&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/good-will-hunting/&#34;&gt;观后感&lt;/a&gt;｜尚恩的那段话真的是对自以为是的年轻人一顿暴击&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/good-will-hunting/&#34;&gt;观后感&lt;/a&gt;｜尚恩的那段话真的是对自以为是的年轻人一顿暴击&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-11&lt;/td&gt;
@@ -7296,7 +7434,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《牧马人》· [中国大陆] 1982&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;文革&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-herdsman/&#34;&gt;观后感&lt;/a&gt;｜平静而美好&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-herdsman/&#34;&gt;观后感&lt;/a&gt;｜平静而美好&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-02-18&lt;/td&gt;
@@ -7373,7 +7511,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《后翼弃兵》· [美] 2020&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;国际象棋 天才&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-queens-gambit/&#34;&gt;观后感&lt;/a&gt;｜节奏、剧情都不错&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-queens-gambit/&#34;&gt;观后感&lt;/a&gt;｜节奏、剧情都不错&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-11-07&lt;/td&gt;
@@ -7450,7 +7588,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《大明宫词》· [中国大陆] 2000&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;古装&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/palace-of-desire/&#34;&gt;观后感&lt;/a&gt;｜美，词美，剧情凄美&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/palace-of-desire/&#34;&gt;观后感&lt;/a&gt;｜美，词美，剧情凄美&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-08-22&lt;/td&gt;
@@ -7757,7 +7895,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-09-19T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">突破奖｜宜家博物馆｜百度网盘｜Web 教程｜双向链笔记开源工具｜有用的写作｜如何防止分心｜提问的智慧 资……</summary>
@@ -7854,7 +7992,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-09-18T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">上一个周末没有发周刊，也没有发任何文章，原因是周末很忙碌，且没有看到太多值得分享的东西，于是就不滥竽……</summary>
@@ -8051,18 +8189,18 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-05-28T22:01:53&#43;08:00</updated>
+            <updated>2021-06-06T00:08:19&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本处记录个人阅读过的书籍，持续更新…… 注：备注中的短评仅仅是个人感受，不构成阅读建议。 观影记录请移步……</summary>
             
                 <content type="html">&lt;p&gt;本处记录个人阅读过的书籍，持续更新……&lt;br&gt;
 注：备注中的短评仅仅是个人感受，不构成阅读建议。&lt;/p&gt;
-&lt;p&gt;观影记录请移步 &lt;a href=&#34;https://aaronnick.github.io/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;观影记录请移步 &lt;a href=&#34;https://weiyexing.ml/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -8093,21 +8231,21 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《仿制药的真相》· [美] 凯瑟琳·埃班&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;纪实&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;非常精彩，很适合拍成美剧。文笔很像《连线》杂志&lt;a href=&#34;https://aaronnick.github.io/posts/marcus-hutchins-one/&#34;&gt;报道黑客哈钦斯&lt;/a&gt;这篇文章&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非常精彩，很适合拍成美剧。文笔很像《连线》杂志&lt;a href=&#34;https://weiyexing.ml/posts/marcus-hutchins-one/&#34;&gt;报道黑客哈钦斯&lt;/a&gt;这篇文章&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-05-08&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《杀死一只知更鸟》· [美] 哈珀·李&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;成长 教育&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/to-kill-a-mocking-bird/&#34;&gt;读后感&lt;/a&gt;｜读晚了，这是一本很好的教育书籍，不管是对孩子还是对有孩子的人来说&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/to-kill-a-mocking-bird/&#34;&gt;读后感&lt;/a&gt;｜读晚了，这是一本很好的教育书籍，不管是对孩子还是对有孩子的人来说&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-05-03&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《菊与刀》· [美] 鲁思·本尼迪克特&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;日本 文化&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/age-of-samurai-battle-for-japan/&#34;&gt;读后感&lt;/a&gt;｜重刷，对日本人的一些社会行为有了重新的认知&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/age-of-samurai-battle-for-japan/&#34;&gt;读后感&lt;/a&gt;｜重刷，对日本人的一些社会行为有了重新的认知&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-28&lt;/td&gt;
@@ -8219,14 +8357,14 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《读库1802》· 张立宪主编&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;散文&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/duku1802/&#34;&gt;读后感&lt;/a&gt;｜吴小兔、郁达夫、孟伟哉这几篇写得好&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/duku1802/&#34;&gt;读后感&lt;/a&gt;｜吴小兔、郁达夫、孟伟哉这几篇写得好&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-01-08&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《一生自在》· 季羡林&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;散文&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/innovation-and-rigor/&#34;&gt;读后感&lt;/a&gt;｜话题散而不深，留学部分有启发&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/innovation-and-rigor/&#34;&gt;读后感&lt;/a&gt;｜话题散而不深，留学部分有启发&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-01-02&lt;/td&gt;
@@ -8282,7 +8420,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《岂不怀归》· 田丰、林凯玄&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;三和青年 报告&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-people-of-sanhe/&#34;&gt;读后感&lt;/a&gt;｜描述详细，但联想过渡&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-people-of-sanhe/&#34;&gt;读后感&lt;/a&gt;｜描述详细，但联想过渡&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-09-28&lt;/td&gt;
@@ -8303,7 +8441,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《人间值得》· [日] 中村恒子&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;方法论 哲理&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/worth-the-world/&#34;&gt;读后感&lt;/a&gt;｜作者九十高龄&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/worth-the-world/&#34;&gt;读后感&lt;/a&gt;｜作者九十高龄&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-07-31&lt;/td&gt;
@@ -8540,7 +8678,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-09-06T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">消失的人｜载人飞行｜归因理论｜VSCode｜建站工具｜Pandas｜Hacker News｜不确定下理……</summary>
@@ -8654,7 +8792,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-09-05T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期读了一本小书，中村恒子/奥田弘美写的 《人间值得》，说它小是因为整本书通读下来不过俩小时，非常适合……</summary>
@@ -8818,7 +8956,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-09-01T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">半个月前，我在微博看到一个话题#剧中摘下面具的惊艳瞬间#，很多人都在刷肖战，但我的第一反应想到的却是……</summary>
@@ -8923,7 +9061,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-30T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">VPN 在实际使用当中，由于系统的机制常常导致使用不愉快——切换网络/息屏/睡眠等情况下自动断开。 我虽然只……</summary>
@@ -9085,7 +9223,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-30T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一直在寻找一个好用的可电脑控制手机的软件，现在终于找到一个合适的了。 为什么需要电脑控制手机？ 主要还是……</summary>
@@ -9148,7 +9286,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-29T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Microsoft 宣传片｜伴侣关系｜设计指南｜Python 算法/数据结构｜百年前北京街景｜Surge 指引｜社狗｜Le……</summary>
@@ -9272,7 +9410,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">资讯 Do something .new Less clicking, more creating. 通过在浏览器输入 xxx.new 回车后发现新世界吧。 黑莓将在 2021 年推出支持 5G 的物理键盘手机 今年年初……</summary>
@@ -9381,7 +9519,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-16T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">资讯 研究者证实大气层中存在大气波围绕地球旋转 首次提出这个预测的人是 18 世纪的法国科学家拉普拉斯，他虽然……</summary>
@@ -9499,7 +9637,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-10T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期我在 Telegram 上又看到了那篇关于提问的雄文——《提问的智慧》。 可以说，我很庆幸自己在多年前就在 Telegram 上阅读过……</summary>
@@ -9559,17 +9697,17 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">智能眼镜有未来吗？</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/smart-glasses/" />
             <id>https://aaronnick.github.io/posts/smart-glasses/</id>
-            <updated>2021-04-09T22:36:47&#43;08:00</updated>
+            <updated>2021-06-06T00:12:06&#43;08:00</updated>
             <published>2020-08-09T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近在 Medium 看到一篇文章——I Tried The $600 Smart Glasses… Are They Worth It?，介绍了作者试戴了一周智能眼镜「Foc……</summary>
             
                 <content type="html">&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1ghkupdjtsxj31di0u0e81.jpg&#34; alt=&#34;◎ The Focals by North smart glasses&#34; title=&#34;The Focals by North smart glasses&#34;&gt;&lt;/p&gt;
-&lt;p&gt;最近在 Medium 看到一篇文章——&lt;strong&gt;&lt;a href=&#34;https://onezero.medium.com/i-tried-the-600-smart-glasses-are-they-worth-it-60db642d1aa9&#34;&gt;I Tried The $600 Smart Glasses… Are They Worth It?&lt;/a&gt;&lt;/strong&gt;，介绍了作者试戴了一周智能眼镜「&lt;strong&gt;Focals By North Smart Glasses&lt;/strong&gt;」的感受。阅读过我以往文章的读者一定记得之前我提到过 &lt;strong&gt;North&lt;/strong&gt; 这家公司：&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F/&#34;&gt;周记｜第二十八期&lt;/a&gt;&lt;/strong&gt;：Google 收购智能眼镜先驱 North。&lt;/p&gt;
+&lt;p&gt;最近在 Medium 看到一篇文章——&lt;strong&gt;&lt;a href=&#34;https://onezero.medium.com/i-tried-the-600-smart-glasses-are-they-worth-it-60db642d1aa9&#34;&gt;I Tried The $600 Smart Glasses… Are They Worth It?&lt;/a&gt;&lt;/strong&gt;，介绍了作者试戴了一周智能眼镜「&lt;strong&gt;Focals By North Smart Glasses&lt;/strong&gt;」的感受。阅读过我以往文章的读者一定记得之前我提到过 &lt;strong&gt;North&lt;/strong&gt; 这家公司：&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F/&#34;&gt;周记｜第二十八期&lt;/a&gt;&lt;/strong&gt;：Google 收购智能眼镜先驱 North。&lt;/p&gt;
 &lt;p&gt;通过这个眼镜，你&lt;strong&gt;可以浏览短信、电子邮件、天气和日程等&lt;/strong&gt;，听起来是不是很《黑镜》。而且这个很酷的产品，价格也才 &lt;strong&gt;600 美元&lt;/strong&gt;，相比 Microsoft 的 HoloLens 2 高达数万元的价格，这个已经算是白菜价了。&lt;/p&gt;
 &lt;p&gt;文章作者通过四个方面介绍了自己的使用感受：&lt;/p&gt;
 &lt;ul&gt;
@@ -9630,7 +9768,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-08T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">资讯 Google Career Certificates Google 即将推出「谷歌职业证书」，可在 Coursera 学习，完全由 Google 开发，不需要经验、学习时长约六个月，Goo……</summary>
@@ -9737,7 +9875,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">「准备断气」 凌晨，一条微信吵醒我。 发送者是一个亲戚，他的爷爷前段时间刚被下了病危通知，医院已经不收了……</summary>
@@ -9827,7 +9965,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-08-02T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">资讯 Tech leaders and health authorities from around the globe collaborate to combat COVID-19 【来自世界各地的技术领导者和卫生当局合作打击新型冠状病毒肺炎】Linu……</summary>
@@ -9924,7 +10062,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-07-28T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本文简短的介绍了为什么一个小小的 Bug，可能会修复好几天。你看到的可能只是一个小问题，解决问题的人可……</summary>
@@ -10013,7 +10151,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-07-26T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">资讯 电影院迎来复工 在关闭了近 180 天后，7 月 20 日，低风险地区电影院陆续开放营业。不过，之前冰封的大制作，……</summary>
@@ -10115,7 +10253,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-07-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">说起记账，很多人第一反应就是钱花都花了，那么麻烦记下来干什么。实不相瞒，很长一段时间我也是这种想法。……</summary>
@@ -10223,7 +10361,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-07-19T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">社交媒体，在网络时代无疑充当了人与人之间的冲突的催化剂，使得冲突更容易发生且更剧烈。 在经历了带节奏、……</summary>
@@ -10403,7 +10541,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-07-17T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">GitHub｜自动驾驶｜互联网报告｜书籍｜设计参考｜经济学人｜放松的窗口｜kindle｜网页设计｜产……</summary>
@@ -10485,7 +10623,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-07-11T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">AR｜印度的抵制｜摸鱼｜预言｜直播带货｜Web 在线课程｜太平洋光缆｜东南亚｜英国的反思和规划｜孩子与……</summary>
@@ -10551,7 +10689,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-07-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">游戏入教材｜解锁网易云灰色歌曲｜酷安 UWP｜树莓派｜数字安全｜Kindle｜YouTube｜给年轻人……</summary>
@@ -10627,7 +10765,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-06-20T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">人脸识别｜AI 人才的流向｜Python｜临时视频聊天｜电话攻击｜LeetCode｜Facebook 为……</summary>
@@ -10692,7 +10830,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-06-15T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">六月份换了一家公司，由于全员使用 MacBook Pro 办公，促使我重新考虑将 Windows 转移到 Mac OS。思考了两天后，终于决定下单……</summary>
@@ -10803,7 +10941,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-06-14T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Facebook｜面部识别｜电动车｜气候问题｜写作托盘助手｜疫情影响下的世界｜思考框架｜IMAP 邮件……</summary>
@@ -10882,11 +11020,11 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">翻译｜黑客哈钦斯（第三篇｜清算）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/marcus-hutchins-three/" />
             <id>https://aaronnick.github.io/posts/marcus-hutchins-three/</id>
-            <updated>2021-04-09T22:22:39&#43;08:00</updated>
+            <updated>2021-06-06T00:15:05&#43;08:00</updated>
             <published>2020-06-08T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">文章来源：WIRED | 作者：Andy Greenberg | 题图：RAMONA ROSALES/WIRED https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/ 前言：原文很长，分为三个阶段，全文翻译……</summary>
@@ -10896,9 +11034,9 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&#34;&gt;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;：原文很长，分为三个阶段，全文翻译过来有 24000+字。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;为了便于阅读，将对全文拆解为三篇，对应每一个阶段，并划分了关键节点（本文为第三篇）：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一篇 | PART 1-DESCENT：堕落&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.1 被捕经过&lt;/p&gt;
@@ -11009,11 +11147,11 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">翻译｜黑客哈钦斯（第二篇｜重生）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/marcus-hutchins-two/" />
             <id>https://aaronnick.github.io/posts/marcus-hutchins-two/</id>
-            <updated>2021-04-09T22:22:43&#43;08:00</updated>
+            <updated>2021-06-06T00:14:53&#43;08:00</updated>
             <published>2020-06-07T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">文章来源：WIRED | 作者：Andy Greenberg | 题图：RAMONA ROSALES/WIRED https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/ 前言：原文很长，分为三个阶段，全文翻译……</summary>
@@ -11023,9 +11161,9 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&#34;&gt;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;：原文很长，分为三个阶段，全文翻译过来有 24000+字。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;为了便于阅读，将对全文拆解为三篇，对应每一个阶段，并划分了关键节点（本文为第二篇）：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一篇 | PART 1-DESCENT：堕落&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.1 被捕经过&lt;/p&gt;
@@ -11166,11 +11304,11 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">翻译｜黑客哈钦斯（第一篇｜堕落）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/marcus-hutchins-one/" />
             <id>https://aaronnick.github.io/posts/marcus-hutchins-one/</id>
-            <updated>2021-04-09T22:22:49&#43;08:00</updated>
+            <updated>2021-06-06T00:14:45&#43;08:00</updated>
             <published>2020-06-06T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">题图：WIRED 文章来源：WIRED | 作者：Andy Greenberg | 题图：RAMONA ROSALES/WIRED https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/ 前言：原文很长，分为三……</summary>
@@ -11182,9 +11320,9 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&#34;&gt;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;：原文很长，分为三个阶段，全文翻译过来有 24000+字。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;为了便于阅读，将对全文拆解为三篇，对应每一个阶段，并划分了关键节点（本文为第一篇）：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一篇 | PART 1-DESCENT：堕落&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1.1 被捕经过&lt;/strong&gt;&lt;/p&gt;
@@ -11325,7 +11463,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-05-31T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Facebook Shop | Pokémon | 新闻的未来 | 视频播放器 | 技术资源 | Edge 内置游戏 | Python | 微信读书导出笔记 | 云音乐 | 临……</summary>
@@ -11408,7 +11546,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2020-05-25T20:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天在南宁坐飞机，于机场大巴上车点差点上当受骗。 时间：2020/5/25 早 地点：火车站 &amp;lt;=&amp;gt; 吴圩机场 机场……</summary>
@@ -11476,7 +11614,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-09-21T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、MIT 工程师制造出最黑的黑色材料 MIT 工程师报告他们制造出了至今最黑的黑色材料。研究报告发表……</summary>
@@ -11548,7 +11686,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-09-07T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、60 万 GPS 跟踪器使用的密码是 123456 大约 60 万被用于定位儿童或宠物的 GPS 跟踪器被发现使用简单密码如 1……</summary>
@@ -11627,7 +11765,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-09-03T21:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">上周和同事吃饭，他聊到了读书，问我们是否读过《了不起的盖茨比》，我说我曾读过。然后他分享了他的阅读体……</summary>
@@ -11674,7 +11812,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-08-17T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、加州大学伯克利分校宣布发现更高效率的光伏电池 加州大学伯克利分校的研究人员宣布，他们研发出……</summary>
@@ -11749,7 +11887,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-08-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、There Is No Such Thing as a Sugar Rush 一项新的研究表明，吃甜食并不会让人们感到精力充沛和兴奋，而是会……</summary>
@@ -11818,7 +11956,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-07-21T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、This Japanese Company Charges Its Staff $100 an Hour to Use Conference Rooms 【这家日本公司向员工收取每小时100美元的会议室使用费】……</summary>
@@ -11886,7 +12024,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-07-14T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、How to set your Google account to delete itself after you die 谷歌有控制功能，可以在你死后管理你自己的账户，当然，你也可以……</summary>
@@ -11979,7 +12117,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-06-03T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、Chrome 的广告屏蔽功能将主要提供给企业级客户 对 Google 而言，如果你没有付费，那么你本质上是……</summary>
@@ -12053,7 +12191,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-05-27T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">整理抽屉，翻出一本笔记。打开看是 2017 年暑期支教时那边的孩子留给我的，里面夹着一张 A4 纸，写着她对我说的话……</summary>
@@ -12116,7 +12254,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-05-26T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、Google AI 在肺癌筛查上胜过人类放射科医生 肺癌是对人类健康和生命威胁最大的癌症之一。专……</summary>
@@ -12214,7 +12352,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-05-20T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、大数据：农村人口已成为全球肥胖的主力军 近日，《自然》杂志发表了来自NCD-RisC组织（……</summary>
@@ -12287,7 +12425,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-05-12T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、高密度的新型电池正在被研发 瑞士公司Innolith在德国的实验室宣布，他们正在研发世界第……</summary>
@@ -12359,7 +12497,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-05-05T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、研究发现不吃早餐和死亡风险增加相关 由美国 7 所大学的医生和研究员组成的一个研究小组，分析了……</summary>
@@ -12447,7 +12585,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-04-28T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、肥胖和胰岛素抵抗如何影响认知 科学家在《The Journal of Neuroscience》期刊上发表研究……</summary>
@@ -12525,7 +12663,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-04-21T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、俄罗斯通过新法规：必要时可切断国际互联网，目前新法规还有待俄罗斯总统普京签字 据美国财经网……</summary>
@@ -12630,7 +12768,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-04-14T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、韩国向公众开放5G，月资费最低325元人民币 继去年年底推出面向企业的5G商用网络后，韩国……</summary>
@@ -12714,7 +12852,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-04-07T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、多家国产浏览器限制访问 996.ICU 根据网友的测试，最近引发广泛关注的 996.ICU 项目遭到多家国产浏览器限制访……</summary>
@@ -12794,7 +12932,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-03-31T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、Facebook 承认以明文方式存储数亿用户账号密码 Facebook 周四在 博客 中证实，过去多年，该公司一……</summary>
@@ -12893,7 +13031,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-03-18T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、World Wide Web 诞生三十周年 1989 年 3 月 12 日，欧洲粒子物理研究所（CERN）的计算机科学家 Tim Berners-Lee……</summary>
@@ -13003,7 +13141,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-03-10T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、中国社交媒体监视数据库外泄 在人脸识别数据库之后，安全研究人员 Victor Gevers 报告了 一个外泄的社交媒体……</summary>
@@ -13109,7 +13247,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-03-02T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、全球十大突破性技术 《麻省理工科技评论》昨日公布了 2019 年「全球十大突破性技术」（10 Breakthrough Tec……</summary>
@@ -13190,7 +13328,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-02-24T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、苹果重组领导层，逐步脱离对 iPhone 的销售依赖 《华尔街日报》撰文指出，从近期苹果领导层变动看来，……</summary>
@@ -13296,7 +13434,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-02-16T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、不作恶是大公司所要遵守的基本原则 纽约时报发表文章，指出揭露可口可乐和其他跨国食品公司通过……</summary>
@@ -13391,7 +13529,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-02-04T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、微信明确禁止外部测试链接、诱导行为 2、The Conversation》：「科技排毒」站不……</summary>
@@ -13513,7 +13651,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-02-01T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这两天，坐了两趟火车，看到了两类父母。 两趟车都遇到了孩子，第一趟，很安静；第二趟，整个车厢都很吵闹，……</summary>
@@ -13577,7 +13715,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2019-01-28T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">每周资讯 1、任正非警告华为可能裁员 华为创始人任正非公开警告可能会裁员。“未来几年，整个大形势应该没有……</summary>
@@ -13673,7 +13811,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2018-11-23T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天看到一个报告，提到了一个很有趣的现象——如今的年轻人性生活越来越少，似乎对于性越来越不感兴趣。 这……</summary>
@@ -13722,7 +13860,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2018-11-10T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">说一下自己近来的一个想法。源于前段时间与同租房的一个朋友聊天所感。 他是一个装修公司的小头头，会带一些……</summary>
@@ -13772,7 +13910,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2018-11-02T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">有个..别开生面..的面试经历，一直没有时间记录，今天突然收到那个公司的 offer，然后把我拉回到了……</summary>
@@ -13829,7 +13967,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2018-03-29T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天晚上和鸡哥出去散步了差不多一个小时，期间我们聊了很多，主要是围绕我们看的那些纪录片，着重聊了周浩……</summary>
@@ -13877,7 +14015,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2017-11-14T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">早上听说南湖出事了，学校封锁消息很快。各种群都没有人知道具体的事情。 刚才在支教群里，大家也在说这个事……</summary>
@@ -13917,7 +14055,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2017-10-22T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今晚培训出来，送丁莎回去的时候，她和我聊到一个事情，说他们院某些部门比较水。然后我第一反应就是，有没……</summary>
@@ -13959,7 +14097,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2017-10-13T22:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">宣策老成员最后一次例会，大家畅所欲言。 豆豆说到，她感到很奇怪，为什么勤工这边的人，当上部长之后感觉都……</summary>
@@ -14003,7 +14141,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2017-10-06T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今晚打算好好看物理化学的，然而 BBM 里面的一个好友却发来消息，聊着聊着就没了看书的兴致，于是趁着无聊便写……</summary>
@@ -14050,7 +14188,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2017-09-26T12:29:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天生日，收到了很多祝福，非常开心。先是凌晨他们打来的电话轰炸，然后是 QQ 里面红包雨……早上醒来还看到……</summary>
@@ -14097,7 +14235,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <published>2017-07-03T12:50:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">不知不觉，2017 已悄然过去一半。自己接触黑莓也到了五个年头，回过头来，感慨不少，那些曾经还在玩的黑……</summary>
@@ -14158,11 +14296,11 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">关于博客</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/about-blog/" />
             <id>https://aaronnick.github.io/posts/about-blog/</id>
-            <updated>2021-04-11T11:37:53&#43;08:00</updated>
+            <updated>2021-06-06T00:05:27&#43;08:00</updated>
             <published>2017-07-01T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
-                    <uri>https://aaronnick.github.io/</uri>
+                    <uri>https://weiyexing.ml/</uri>
                     <email>weiyexing1@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">为何写博客 自读书开始，我便有记录自己所思所想的习惯。上学期间记在笔记本，之后发在微博、微信朋友圈等社……</summary>
@@ -14172,18 +14310,18 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;博客的作者是我，读者主要也是我，当然我也不介意别人来看。&lt;/p&gt;
 &lt;h3 id=&#34;博客名字由来&#34;&gt;博客名字由来&lt;/h3&gt;
 &lt;p&gt;博客的名字叫..叶星优酸乳..，这不是一个奶制品的名称，它源自两个小故事：一是叶星与我的名字谐音；二是小学的绘画老师曾布置了一个作业，让我们画一个物品，并写两句广告语。我喜欢喝酸酸乳，于是便画了一个，为其命名为「叶星优酸乳」，并写上了我的广告语——叶星优酸乳，好喝又大补！最后获得了 99 分。&lt;/p&gt;
-&lt;h3 id=&#34;仓库名&#34;&gt;仓库名&lt;/h3&gt;
-&lt;p&gt;博客的仓库名称为 Aaron Nick，源于两个人：一个是 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron&lt;/a&gt;，他被称为互联网之子，参与了 RSS、Markdown、Reddit 等项目的开发，可以&lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;阅读此文&lt;/a&gt;进一步了解他的一生。他不循规蹈矩，坚持捍卫互联网的自由开放精神，并为之惹上官司，最终自杀身亡，年仅 26 岁，令人扼腕；&lt;/p&gt;
+&lt;h3 id=&#34;最初域名由来&#34;&gt;最初域名由来&lt;/h3&gt;
+&lt;p&gt;最初名为 Aaron Nick，源于两个人：一个是 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron&lt;/a&gt;，他被称为互联网之子，参与了 RSS、Markdown、Reddit 等项目的开发，可以&lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;阅读此文&lt;/a&gt;进一步了解他的一生。他不循规蹈矩，坚持捍卫互联网的自由开放精神，并为之惹上官司，最终自杀身亡，年仅 26 岁，令人扼腕；&lt;/p&gt;
 &lt;p&gt;一个是 Nick，&lt;a href=&#34;https://book.douban.com/subject/25708359/&#34;&gt;《了不起的盖茨比》&lt;/a&gt;里的角色。这本书是我非常喜欢的小说，除了主角盖茨比之外，叙述者 Nick 也是我很喜欢的角色。于是我将两者结合，Aaron 代表自由与开放，Nick 代表见证者，我希望能够见证互联网自由与开放到来的一天。&lt;/p&gt;
 &lt;h3 id=&#34;博客内容&#34;&gt;博客内容&lt;/h3&gt;
-&lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用了国内网络在访问引用了以上来源的内容，这也是我无奈的地方——&lt;a href=&#34;https://aaronnick.github.io/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用了国内网络在访问引用了以上来源的内容，这也是我无奈的地方——&lt;a href=&#34;https://weiyexing.ml/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;其中主要有几个板块：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://aaronnick.github.io/tags/daily/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
-&lt;li&gt;🎨 &lt;a href=&#34;https://aaronnick.github.io/tags/poetry/&#34;&gt;诗歌&lt;/a&gt;：人间日常切片；&lt;/li&gt;
-&lt;li&gt;📬 &lt;a href=&#34;https://aaronnick.github.io/tags/translate/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
-&lt;li&gt;📝 &lt;a href=&#34;https://aaronnick.github.io/tags/essay/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
-&lt;li&gt;📅 &lt;a href=&#34;https://aaronnick.github.io/tags/weekly/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://weiyexing.ml/tags/daily/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
+&lt;li&gt;🎨 &lt;a href=&#34;https://weiyexing.ml/tags/poetry/&#34;&gt;诗歌&lt;/a&gt;：人间日常切片；&lt;/li&gt;
+&lt;li&gt;📬 &lt;a href=&#34;https://weiyexing.ml/tags/translate/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
+&lt;li&gt;📝 &lt;a href=&#34;https://weiyexing.ml/tags/essay/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
+&lt;li&gt;📅 &lt;a href=&#34;https://weiyexing.ml/tags/weekly/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;博客会坚持写下去，哪怕只是零星想法。不追求十万加，不接受广告，保持纯粹。&lt;/p&gt;
 </content>

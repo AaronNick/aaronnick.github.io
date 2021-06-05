@@ -23,10 +23,145 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 05 Jun 2021 20:14:20 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jun 2021 00:26:29 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>启用新域名</title>
+                <link>https://aaronnick.github.io/posts/new-domain/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/new-domain/</guid>
+                <pubDate>Sun, 06 Jun 2021 00:00:21 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;博客自创建以来，既没有去研究优化加速，也没有去折腾一个炫酷的域名，尽可能保持着她最初的模样（其实是我太懒了……）。但是，逐渐有一些朋友反馈，这个域名太麻烦了，不直观也不好记。于是，我决定申请个域名便于大家访问，也就是现在的 &lt;code&gt;weiyexing.ml&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;在申请域名以及配置的过程中，踩了不少坑，记录下来方便回顾，同时也分享给大家。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mI3mpizBbQC81T9lG4sR87lS70GtAy-JtCQLDJPQdY2mrvO6_cFUoxbddHc0B36s0i3gjriRsHhXpCmjGJBpPzuU5kV9TEp8tuzKTs_232Q4gkypdHkuboN5dQG_8CzCot8ZoA4i3j7gc6JCatyEwiv1LOCmwem5qCcN7GXUgL6zt4bu7BOpPO8FKHHEjXhV5?width=1024&amp;amp;height=546&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;freenom&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;通过-freenom-申请永久免费域名&#34;&gt;通过 freenom 申请永久免费域名&lt;/h3&gt;
+&lt;p&gt;申请之前，有考虑去 GoDaddy 购买一个域名，发现有点小贵，但想到这个域名并无其他用处，就放弃了。转而选择去 freenom 申请一个免费域名，将就着用吧。&lt;/p&gt;
+&lt;p&gt;具体步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用美国节点打开 &lt;a href=&#34;http://www.freenom.com/&#34;&gt;freenom&lt;/a&gt; 网站&lt;/li&gt;
+&lt;li&gt;输入想要申请的域名，如 &lt;code&gt;weiyexing.ml&lt;/code&gt; ，检查可用性&lt;/li&gt;
+&lt;li&gt;确定可用并选中，点击完成进入确认表单，右侧的 &lt;code&gt;Period&lt;/code&gt; 下拉选择 12 个月，点击 &lt;code&gt;Continue&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;填写邮箱接收确认邮件，最好用 Gmail 邮箱（如果收不到确认邮件，尝试换个邮箱或者检查网络，都不行的话可能就需要等等了，有时候 freenom 会限制注册）&lt;/li&gt;
+&lt;li&gt;点击确认邮件后重新打开会跳转 freenom，需要填写地址等信息，最好使用真实信息，否则会被判定为机器人而导致申请不成功。可以通过&lt;a href=&#34;https://www.randomaddressgenerator.com/&#34;&gt;这个网站随机获取地址信息&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;填写完毕，点击继续就申请成功了&lt;/li&gt;
+&lt;li&gt;需要注意的是，刚才选择有效期为 12 个月，意味着 12 个月后需要登录 freenom 操作续期（免费再续 12 个月），否则域名将会被收回&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;设置域名解析&#34;&gt;设置域名解析&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;freenom 顶部菜单栏中点击  &lt;code&gt;Services - My Domains&lt;/code&gt;，点击  &lt;code&gt;Manage Domain&lt;/code&gt;，在  &lt;code&gt;Manage Freeenom DNS&lt;/code&gt; 下添加三条规则&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;TTL&lt;/th&gt;
+&lt;th&gt;Target&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;默认值&lt;/td&gt;
+&lt;td&gt;192.30.252.153&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;默认值&lt;/td&gt;
+&lt;td&gt;192.30.252.154&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;www&lt;/td&gt;
+&lt;td&gt;CNAME&lt;/td&gt;
+&lt;td&gt;默认值&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;your_name.github.io&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在博客文件夹目录 &lt;code&gt;myblog/static&lt;/code&gt; 下添加一个名为 &lt;code&gt;CNAME&lt;/code&gt; 的文件，文件内只需放刚才申请的域名，即 &lt;code&gt;weiyexing.ml&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;运行 Hugo，该 &lt;code&gt;CNAME&lt;/code&gt; 文件将自动复制到 &lt;code&gt;/public&lt;/code&gt; 目录中，稍等片刻，就能用刚才申请的域名访问博客了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;配置-cloudflare-以使用-https&#34;&gt;配置 CloudFlare 以使用 HTTPs&lt;/h3&gt;
+&lt;p&gt;刚才已经可以使用 &lt;code&gt;weiyexing.ml&lt;/code&gt; 跳转博客主页了，但是由于 &lt;code&gt;Github Pages&lt;/code&gt; 不支持在自定义域名中使用 &lt;code&gt;HTTPs&lt;/code&gt; 协议，所以浏览器访问 &lt;code&gt;weiyexing.ml&lt;/code&gt; 时使用的是 &lt;code&gt;HTTP&lt;/code&gt; 协议。以至于每次访问博客，都会提示该网页不受信任。另外，考虑到 &lt;code&gt;HTTPs&lt;/code&gt; 协议比 &lt;code&gt;HTTP&lt;/code&gt; 更安全，因此需要想个办法解决。&lt;/p&gt;
+&lt;p&gt;经过检索，发现 CloudFlare 有现成的一整套解决方案，并且是免费的，具体操作如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;前往 &lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;CloudFlare&lt;/a&gt; 网站，注册一个账号&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输入申请好的域名 &lt;code&gt;weiyexing.ml&lt;/code&gt;，选择免费套餐&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CloudFlare 将扫描现有的 &lt;code&gt;DNS&lt;/code&gt; 记录。等待直到扫描结束，然后单击 &lt;code&gt;Continue&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CloudFlare 会提供两个 Nameserver：&lt;code&gt;xxx1.ns.cloudflare.com&lt;/code&gt;；&lt;code&gt;xxx2.ns.cloudflare.com&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;回到 freenom ，点击  &lt;code&gt;Services - My Domains&lt;/code&gt;，点击  &lt;code&gt;Manage Domain&lt;/code&gt;，选择 &lt;code&gt;Management Tools&lt;/code&gt;，勾选 &lt;code&gt;Use custom nameservers (enter below)&lt;/code&gt;，填写刚才的两个 Nameserver，点击 &lt;code&gt;Change Nameserver&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;回到 CloudFlare，配置下 &lt;code&gt;Rules&lt;/code&gt; 选项，填写如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mq2xbhlYJ9ROw5r4J3w6ZYlK0APxUNuyb1LXxZP25XRdS7zx3P_QQjEJzewrWRVSPs3OKWBanzRM0bdRw4ZvhSIEaH_8bR1PSv3jQrzvKaDcCv293Kfr6dc0ER2z13PCoL-nod-tE7aPs7dK2XdQPjU0PbVG51vqcEYXhC6P4oT9WEEVxAUVhzGLWDU3hGNBE?width=1024&amp;amp;height=285&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;配置 Rules&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;稍等几分钟，然后访问刚才的域名，检查是否已经在 &lt;code&gt;HTTPs&lt;/code&gt; 下加载&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;参考&#34;&gt;参考&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site&#34;&gt;Managing a custom domain for your GitHub Pages site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/44081863/how-i-can-using-a-dot-tk-domain-with-github-pages&#34;&gt;how i can Using a dot.tk domain with GitHub Pages?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/hieplpvip/get-a-free-domain-with-freenom-and-cloudflare-k1j&#34;&gt;Get a free domain with Freenom and Cloudflare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/37752930&#34;&gt;如何使用Hugo在GitHub Pages上搭建免费个人网站&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/hugo/">Hugo</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/tech/">Tech</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>建筑与文化</title>
@@ -380,7 +515,7 @@
 &lt;p&gt;Being wise means having more questions than answers.&lt;/p&gt;
 &lt;p&gt;睿智意味着有更多的问题而非答案。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;这句话似曾相识，记得爱因斯坦也说过类似的话，提出一个问题比解决一个问题更重要。网络上流传着一篇雄文——《&lt;a href=&#34;https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way&#34;&gt;提问的智慧&lt;/a&gt;》，被众多的人，尤其是程序员奉为提问入门指南。我也曾写过&lt;a href=&#34;https://aaronnick.github.io/posts/how-to-asking/&#34;&gt;一篇文章&lt;/a&gt;，结合自己的经历去理解提问中的智慧。&lt;/p&gt;
+&lt;p&gt;这句话似曾相识，记得爱因斯坦也说过类似的话，提出一个问题比解决一个问题更重要。网络上流传着一篇雄文——《&lt;a href=&#34;https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way&#34;&gt;提问的智慧&lt;/a&gt;》，被众多的人，尤其是程序员奉为提问入门指南。我也曾写过&lt;a href=&#34;https://weiyexing.ml/posts/how-to-asking/&#34;&gt;一篇文章&lt;/a&gt;，结合自己的经历去理解提问中的智慧。&lt;/p&gt;
 &lt;p&gt;生活中的很多问题，其实并没有一个确切答案。但是我们如果能够围绕问题去继续发问，反而更容易接触到事情的本质，所谓的「答案」也就呼之欲出了。例如之前在频道关于「&lt;a href=&#34;https://t.me/weiyexing/2560&#34;&gt;为什么在中国注射青霉素之前需要皮试&lt;/a&gt;」的讨论。&lt;/p&gt;
 &lt;script async src=&#34;https://telegram.org/js/telegram-widget.js?14&#34; data-telegram-post=&#34;weiyexing/2560&#34; data-width=&#34;100%&#34;&gt;&lt;/script&gt;
 &lt;blockquote&gt;
@@ -668,7 +803,7 @@
 &lt;p&gt;说到这，我想起了高中我们班的一个习惯，每当到谁值日时，就需要在一个本子上记录一些东西，类似于「班级日记」。你可以记录一下今日所发生的趣事，或者学到的新知识，又或者你创作的内容，形式不限。我记得我在上面记录的东西很多也很杂，有纪事的，有思考的，有抄写诗歌的，甚至还有绘画的，千奇百怪。&lt;/p&gt;
 &lt;p&gt;当时班主任提倡这个班级日记时，给我们讲了一大通为什么，我几乎都忘了。但他描述的一个场景我记忆深刻：当我退休后，坐在阳台的摇椅上，夕阳晒在身上，手上翻阅着大家的班级日记，看着一篇篇大家写下的文字，回想起你们青春的身影，那将是多么美好的事情……&lt;/p&gt;
 &lt;p&gt;一段段文字，将我们单调但充满活力的青春串联起来。或坦诚、或谦虚、或愤青、或闷骚……一个个本子沉淀着我们高中生活的一部分。回想起来，我不得不赞扬班主任的这种做法，为我们乏味的刷题生活增添了一丝趣味。心想着，什么时候我也要去翻阅下那些年写下的文字，重新认识过去的那个我。&lt;/p&gt;
-&lt;p&gt;那么，建立这种关联是必要的吗，其实我不清楚。但它的确是一种美好的体验，不管是当下，还是未来。而要建立越来越多的关联，则需要我们多去体验，用心&lt;a href=&#34;https://aaronnick.github.io/posts/good-will-hunting/&#34;&gt;去感受&lt;/a&gt;。最直接便是关掉电脑，放下手机，出去走走。&lt;/p&gt;
+&lt;p&gt;那么，建立这种关联是必要的吗，其实我不清楚。但它的确是一种美好的体验，不管是当下，还是未来。而要建立越来越多的关联，则需要我们多去体验，用心&lt;a href=&#34;https://weiyexing.ml/posts/good-will-hunting/&#34;&gt;去感受&lt;/a&gt;。最直接便是关掉电脑，放下手机，出去走走。&lt;/p&gt;
 &lt;p&gt;现在，我要出门散步去了。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mCvRySplXzyBd7yOdkv7t2X0DCyvPfNm0dTqGn_LCVt4NHXx48p87qEtNE60kAcsGs-Nzg7UaiihLeo2QbXf_mg0J33yJ4tfJhwtqsKfSh9Ho_yy7lgvTqT9jt6JlaVm-j51b91VxzEtA9Zu-9PStPTkwxAJkVyiHOAyjL2k3yI96eGJkn7_nWB65wIyZfjL3?width=994&amp;amp;height=1524&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;图源@日常人间观察&#34;&gt;&lt;/p&gt;
 </description>
@@ -1736,7 +1871,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
 ——Anito Anage 举报信局部&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;网友 Anito Anage 举着维护学校形象的大旗，居高临下，借用公权力去为自己的争论加码。搬出挽救「失足学生」，维护「教育初心」来绑架学校行为，实在是..不敞亮..。&lt;/p&gt;
-&lt;p&gt;高晗的评论就算存在不妥之处，那也可以互相探讨。毕竟，观点不一致是人间常态，&lt;a href=&#34;https://aaronnick.github.io/posts/talk-about-arguments/&#34;&gt;争论必不可少&lt;/a&gt;，尤其是在文学界，每个人的见地不一样是司空见惯的事情。没必要因为他人的观点与自己不符，就利用权利拳脚相向。&lt;/p&gt;
+&lt;p&gt;高晗的评论就算存在不妥之处，那也可以互相探讨。毕竟，观点不一致是人间常态，&lt;a href=&#34;https://weiyexing.ml/posts/talk-about-arguments/&#34;&gt;争论必不可少&lt;/a&gt;，尤其是在文学界，每个人的见地不一样是司空见惯的事情。没必要因为他人的观点与自己不符，就利用权利拳脚相向。&lt;/p&gt;
 &lt;p&gt;倘若事事如此，人人伺机而动，表达者谨言慎行，那这和「文字狱」有什么区别？&lt;/p&gt;
 </description>
                 
@@ -2971,7 +3106,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;前段时间和同事聊起支教的话题，想起我在大学的时候曾参加过支教，于是和他们分享了那段经历，以及那些纯真的孩子带给我的美好记忆。其中一个小女孩，在我离开的时候给了我一个本子，记录了 &lt;a href=&#34;https://aaronnick.github.io/posts/the-volunteer-education/&#34;&gt;她想对我们说的话&lt;/a&gt;，句句都令人感动。&lt;/p&gt;
+                    <description>&lt;p&gt;前段时间和同事聊起支教的话题，想起我在大学的时候曾参加过支教，于是和他们分享了那段经历，以及那些纯真的孩子带给我的美好记忆。其中一个小女孩，在我离开的时候给了我一个本子，记录了 &lt;a href=&#34;https://weiyexing.ml/posts/the-volunteer-education/&#34;&gt;她想对我们说的话&lt;/a&gt;，句句都令人感动。&lt;/p&gt;
 &lt;p&gt;我抽时间整理了当初拍的一些照片，回顾这段..美好的记忆..。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;时间拉回 2017 年，我有幸跟随「微爱支教队」赴湖北荆州大垸镇..黄金湾村..开展支教。支教为期一个多月，和几十个大大小小的孩子一同学习玩耍，有苦有乐。下面是我在这段支教经历中拍摄的照片。&lt;/p&gt;
@@ -4524,7 +4659,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;郁达夫与王映霞的这段撕扯，最终成了文人墨客的饭桌谈资。巧合的是，他和徐志摩是中学同班同学。一个班出了两个绝代诗人，也是罕见，且两人在感情方面的经历也颇为相似。&lt;/p&gt;
 &lt;h3 id=&#34;忘年交&#34;&gt;忘年交&lt;/h3&gt;
-&lt;p&gt;本篇让我认识到了一个..低调有温度..的作家孟伟哉，就如我之前无意中认识的&lt;a href=&#34;https://aaronnick.github.io/posts/weekly-38/&#34;&gt;张晓辉&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;本篇让我认识到了一个..低调有温度..的作家孟伟哉，就如我之前无意中认识的&lt;a href=&#34;https://weiyexing.ml/posts/weekly-38/&#34;&gt;张晓辉&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;讲述者和孟伟哉同住一个胡同，从小便结识。两人虽然年龄相距很大，但由于同样都喜欢画画，也有许多共同话题，竟成了忘年交。&lt;/p&gt;
 &lt;p&gt;作者记了几件小事，我印象深刻。一个是他们偷偷给孟伟哉过生日，整了十几个菜，还买了红酒。当他进门时，一下子愣住了，最后忍不住哭了。另一件事是他搬家到别处之后，作者时常去找他，但由于新住处楼房大多相似，容易迷路，于是孟伟哉便到楼下来等作者，生怕她又找不到家门。一个雪天的下午，等了好长时间，衣服都积雪了。&lt;/p&gt;
 &lt;p&gt;作者笔下的孟伟哉，极像我过世的爷爷。同样是言语不多，同样是默默付出……合上书之后，我又想起了我的爷爷。&lt;/p&gt;
@@ -4580,7 +4715,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;拼多多是没有灵魂的，本分二字早已变味了，成为奴役员工的工具，私下调侃，例如「今天早上你本分了吗」指「今天 11:00 你打卡了吗」，「中午要去本分吗」指「中午在办公室吃还是去外面吃」，「今天晚上我不本分了」指「今天晚上我不加班，要早点跑了」，「你这个人不本分」指「你在发表反动言论了」，「这周日我不来本分了」指「这周日老子不来加班了」,「我以后永远都不本分了」指「我要离职了」。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;这让我想起之前读过的一本书叫做《岂不怀归》，里面描述了..三和大神..&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/pdd/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;对待生活的自嘲，形成了一个独特的名词，..挂逼..。挂逼这个词的含义非常广泛，可以应用到很多地方。例如，一个人没钱了，称作这个人要挂逼了；一个三和大神去世了，称作挂逼了；便宜的东西，也有独特的名称，如挂逼面、挂逼水……想了解更多，可以看这本书或者阅读我的&lt;a href=&#34;https://aaronnick.github.io/posts/the-people-of-sanhe/&#34;&gt;读书笔记&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;这让我想起之前读过的一本书叫做《岂不怀归》，里面描述了..三和大神..&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/pdd/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;对待生活的自嘲，形成了一个独特的名词，..挂逼..。挂逼这个词的含义非常广泛，可以应用到很多地方。例如，一个人没钱了，称作这个人要挂逼了；一个三和大神去世了，称作挂逼了；便宜的东西，也有独特的名称，如挂逼面、挂逼水……想了解更多，可以看这本书或者阅读我的&lt;a href=&#34;https://weiyexing.ml/posts/the-people-of-sanhe/&#34;&gt;读书笔记&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;这么一对比，是不是发现本分和挂逼，有异曲同工之妙。&lt;/p&gt;
 &lt;p&gt;为了让员工「本分」，公司竟然可以做出屏蔽站点、限制网络、暴力解散私人群聊、喂猪一般的卡点进食等等不可思议的行为，能做出这种决策，我认为是..行政的彻底失败..。&lt;/p&gt;
 &lt;p&gt;对于此类不尊重员工、不信任员工的公司，我觉得一刻也呆不下去。&lt;/p&gt;
@@ -4975,7 +5110,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;h3 id=&#34;疫情&#34;&gt;疫情&lt;/h3&gt;
 &lt;p&gt;2019 年底突如其来的新冠疫情，打破了世界的平衡，也搅乱了我的计划。&lt;/p&gt;
 &lt;p&gt;在 2020 到来前一个月，我顶着焦虑通过了转正答辩。一个月后，拿了年终奖开心地回家，没想到却..遇上了疫情..，而我，途中经过武汉，更是变成了重点关注对象。&lt;/p&gt;
-&lt;p&gt;整个过年期间，自己被限制外出，后又出现自己&lt;a href=&#34;https://aaronnick.github.io/posts/privacy-leak/&#34;&gt;隐私泄露事件&lt;/a&gt;，给我上了一节实实在在的社会课。&lt;/p&gt;
+&lt;p&gt;整个过年期间，自己被限制外出，后又出现自己&lt;a href=&#34;https://weiyexing.ml/posts/privacy-leak/&#34;&gt;隐私泄露事件&lt;/a&gt;，给我上了一节实实在在的社会课。&lt;/p&gt;
 &lt;p&gt;疫情开始的前一个月，每天关注各个地方的新增病例，同时从各个渠道了解不同的信息。微博虽然也有一些真相，但是负面信息基本看不到。国内的平台，只要涉及疫情的负面信息，一般存活不到一天。于是，那段时间我时刻关注 Telegram、Twitter 的关于疫情的报道，一些小人物的真实经历。可以说是不寒而栗。&lt;/p&gt;
 &lt;p&gt;期间出现了..李文亮..事件，可悲。&lt;/p&gt;
 &lt;p&gt;然后更让我悲愤的是，当国内抗疫有了一点起色，国外开始爆发的时候，不少国人对国外疫情隔岸观火，嘲讽连连，甚至诞生了「抄作业」这种恶心的词，并赋予它正面的含义。&lt;/p&gt;
@@ -5010,7 +5145,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;p&gt;数据属于自己的感觉真好。&lt;/p&gt;
 &lt;p&gt;未来，这个博客将是自己写作输出的主要平台。其他的如公众号、微博、Telegram、Twitter 等平台虽然也会继续放，但是长内容还是会选择..沉淀到博客..里面。&lt;/p&gt;
 &lt;h3 id=&#34;做饭&#34;&gt;做饭&lt;/h3&gt;
-&lt;p&gt;今年是&lt;a href=&#34;https://aaronnick.github.io/posts/bring-meal/&#34;&gt;开启做饭&lt;/a&gt;的一年。在此之前，自己连炒个白菜都不知道该放多少油盐。下定决心做饭的原因有很多，主要是想掌握一项..技能..，然后尽可能控制自己的饮食，毕竟长期吃外卖很不健康。&lt;/p&gt;
+&lt;p&gt;今年是&lt;a href=&#34;https://weiyexing.ml/posts/bring-meal/&#34;&gt;开启做饭&lt;/a&gt;的一年。在此之前，自己连炒个白菜都不知道该放多少油盐。下定决心做饭的原因有很多，主要是想掌握一项..技能..，然后尽可能控制自己的饮食，毕竟长期吃外卖很不健康。&lt;/p&gt;
 &lt;p&gt;一开始在「下厨房」这个小程序上学习，后面朋友推荐「懒饭」这个 App，便持续用了下来。「懒饭」相对于「下厨房」更丰富，也更现代，图文+视频，直观明白。&lt;/p&gt;
 &lt;p&gt;带饭这件小事，虽然会稍微占用闲暇时间，但是同样的时间，我也许用来刷剧刷手机，浪费在了屏幕上面，不如用来提升自己的厨艺。带饭也让我和同事更亲近，约着一起吃饭，然后谈论不同领域的话题，收获不少。&lt;/p&gt;
 &lt;p&gt;另外，做饭很容易让人平静下来，心无旁骛，可以在持续的工作之间找到某种..平衡..。&lt;/p&gt;
@@ -5124,7 +5259,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《后翼弃兵》·（美）2020&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;国际象棋 天才&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-queens-gambit/&#34;&gt;观后感&lt;/a&gt;｜节奏、剧情都不错&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-queens-gambit/&#34;&gt;观后感&lt;/a&gt;｜节奏、剧情都不错&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-11-07&lt;/td&gt;
@@ -5201,7 +5336,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《大明宫词》·（中国大陆）2000&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;古装&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/palace-of-desire/&#34;&gt;观后感&lt;/a&gt;｜美，词美，剧情凄美&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/palace-of-desire/&#34;&gt;观后感&lt;/a&gt;｜美，词美，剧情凄美&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-08-22&lt;/td&gt;
@@ -5569,7 +5704,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《岂不怀归》· 田丰、林凯玄&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;三和青年 报告&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-people-of-sanhe/&#34;&gt;读后感&lt;/a&gt;｜描述详细，但联想过渡&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-people-of-sanhe/&#34;&gt;读后感&lt;/a&gt;｜描述详细，但联想过渡&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-09-28&lt;/td&gt;
@@ -5590,7 +5725,7 @@ she&#39;s just like the others, but she is herself.&lt;/p&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《人间值得》·（日）中村恒子&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;方法论 哲理&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/worth-the-world/&#34;&gt;读后感&lt;/a&gt;｜作者九十高龄&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/worth-the-world/&#34;&gt;读后感&lt;/a&gt;｜作者九十高龄&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-07-31&lt;/td&gt;
@@ -6992,7 +7127,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                 
                     <description>&lt;p&gt;本处记录个人观看过的影视剧，持续更新……&lt;br&gt;
 注：备注中的短评仅仅是个人感受，不构成观影建议。&lt;/p&gt;
-&lt;p&gt;读书记录请移步 &lt;a href=&#34;https://aaronnick.github.io/posts/reading-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;读书记录请移步 &lt;a href=&#34;https://weiyexing.ml/posts/reading-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -7030,14 +7165,14 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《武士时代：为统一日本而战》· [美] 2021&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;历史&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/age-of-samurai-battle-for-japan/&#34;&gt;观后感&lt;/a&gt;｜了解日本战国时代很好的片子，节奏很美剧，大部分情节符合史实&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/age-of-samurai-battle-for-japan/&#34;&gt;观后感&lt;/a&gt;｜了解日本战国时代很好的片子，节奏很美剧，大部分情节符合史实&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-23&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《心灵捕手》· [美] 1997&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;天才&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/good-will-hunting/&#34;&gt;观后感&lt;/a&gt;｜尚恩的那段话真的是对自以为是的年轻人一顿暴击&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/good-will-hunting/&#34;&gt;观后感&lt;/a&gt;｜尚恩的那段话真的是对自以为是的年轻人一顿暴击&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-11&lt;/td&gt;
@@ -7086,7 +7221,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《牧马人》· [中国大陆] 1982&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;文革&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-herdsman/&#34;&gt;观后感&lt;/a&gt;｜平静而美好&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-herdsman/&#34;&gt;观后感&lt;/a&gt;｜平静而美好&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-02-18&lt;/td&gt;
@@ -7163,7 +7298,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《后翼弃兵》· [美] 2020&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;国际象棋 天才&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-queens-gambit/&#34;&gt;观后感&lt;/a&gt;｜节奏、剧情都不错&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-queens-gambit/&#34;&gt;观后感&lt;/a&gt;｜节奏、剧情都不错&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-11-07&lt;/td&gt;
@@ -7240,7 +7375,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《大明宫词》· [中国大陆] 2000&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;古装&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/palace-of-desire/&#34;&gt;观后感&lt;/a&gt;｜美，词美，剧情凄美&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/palace-of-desire/&#34;&gt;观后感&lt;/a&gt;｜美，词美，剧情凄美&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-08-22&lt;/td&gt;
@@ -7843,7 +7978,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                 
                     <description>&lt;p&gt;本处记录个人阅读过的书籍，持续更新……&lt;br&gt;
 注：备注中的短评仅仅是个人感受，不构成阅读建议。&lt;/p&gt;
-&lt;p&gt;观影记录请移步 &lt;a href=&#34;https://aaronnick.github.io/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;观影记录请移步 &lt;a href=&#34;https://weiyexing.ml/posts/film-record/&#34;&gt;这里&lt;/a&gt;。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -7874,21 +8009,21 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《仿制药的真相》· [美] 凯瑟琳·埃班&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;纪实&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;非常精彩，很适合拍成美剧。文笔很像《连线》杂志&lt;a href=&#34;https://aaronnick.github.io/posts/marcus-hutchins-one/&#34;&gt;报道黑客哈钦斯&lt;/a&gt;这篇文章&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;非常精彩，很适合拍成美剧。文笔很像《连线》杂志&lt;a href=&#34;https://weiyexing.ml/posts/marcus-hutchins-one/&#34;&gt;报道黑客哈钦斯&lt;/a&gt;这篇文章&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-05-08&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《杀死一只知更鸟》· [美] 哈珀·李&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;成长 教育&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/to-kill-a-mocking-bird/&#34;&gt;读后感&lt;/a&gt;｜读晚了，这是一本很好的教育书籍，不管是对孩子还是对有孩子的人来说&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/to-kill-a-mocking-bird/&#34;&gt;读后感&lt;/a&gt;｜读晚了，这是一本很好的教育书籍，不管是对孩子还是对有孩子的人来说&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-05-03&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《菊与刀》· [美] 鲁思·本尼迪克特&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;日本 文化&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/age-of-samurai-battle-for-japan/&#34;&gt;读后感&lt;/a&gt;｜重刷，对日本人的一些社会行为有了重新的认知&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/age-of-samurai-battle-for-japan/&#34;&gt;读后感&lt;/a&gt;｜重刷，对日本人的一些社会行为有了重新的认知&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-04-28&lt;/td&gt;
@@ -8000,14 +8135,14 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《读库1802》· 张立宪主编&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;散文&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/duku1802/&#34;&gt;读后感&lt;/a&gt;｜吴小兔、郁达夫、孟伟哉这几篇写得好&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/duku1802/&#34;&gt;读后感&lt;/a&gt;｜吴小兔、郁达夫、孟伟哉这几篇写得好&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-01-08&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《一生自在》· 季羡林&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;散文&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/innovation-and-rigor/&#34;&gt;读后感&lt;/a&gt;｜话题散而不深，留学部分有启发&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/innovation-and-rigor/&#34;&gt;读后感&lt;/a&gt;｜话题散而不深，留学部分有启发&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-01-02&lt;/td&gt;
@@ -8063,7 +8198,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《岂不怀归》· 田丰、林凯玄&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;三和青年 报告&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/the-people-of-sanhe/&#34;&gt;读后感&lt;/a&gt;｜描述详细，但联想过渡&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/the-people-of-sanhe/&#34;&gt;读后感&lt;/a&gt;｜描述详细，但联想过渡&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-09-28&lt;/td&gt;
@@ -8084,7 +8219,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《人间值得》· [日] 中村恒子&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;方法论 哲理&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/worth-the-world/&#34;&gt;读后感&lt;/a&gt;｜作者九十高龄&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/worth-the-world/&#34;&gt;读后感&lt;/a&gt;｜作者九十高龄&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2020-07-31&lt;/td&gt;
@@ -9320,7 +9455,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;p&gt;&lt;img src=&#34;https://tva1.sinaimg.cn/large/007S8ZIlly1ghkupdjtsxj31di0u0e81.jpg&#34; alt=&#34;◎ The Focals by North smart glasses&#34; title=&#34;The Focals by North smart glasses&#34;&gt;&lt;/p&gt;
-&lt;p&gt;最近在 Medium 看到一篇文章——&lt;strong&gt;&lt;a href=&#34;https://onezero.medium.com/i-tried-the-600-smart-glasses-are-they-worth-it-60db642d1aa9&#34;&gt;I Tried The $600 Smart Glasses… Are They Worth It?&lt;/a&gt;&lt;/strong&gt;，介绍了作者试戴了一周智能眼镜「&lt;strong&gt;Focals By North Smart Glasses&lt;/strong&gt;」的感受。阅读过我以往文章的读者一定记得之前我提到过 &lt;strong&gt;North&lt;/strong&gt; 这家公司：&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F/&#34;&gt;周记｜第二十八期&lt;/a&gt;&lt;/strong&gt;：Google 收购智能眼镜先驱 North。&lt;/p&gt;
+&lt;p&gt;最近在 Medium 看到一篇文章——&lt;strong&gt;&lt;a href=&#34;https://onezero.medium.com/i-tried-the-600-smart-glasses-are-they-worth-it-60db642d1aa9&#34;&gt;I Tried The $600 Smart Glasses… Are They Worth It?&lt;/a&gt;&lt;/strong&gt;，介绍了作者试戴了一周智能眼镜「&lt;strong&gt;Focals By North Smart Glasses&lt;/strong&gt;」的感受。阅读过我以往文章的读者一定记得之前我提到过 &lt;strong&gt;North&lt;/strong&gt; 这家公司：&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E5%91%A8%E8%AE%B0%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F/&#34;&gt;周记｜第二十八期&lt;/a&gt;&lt;/strong&gt;：Google 收购智能眼镜先驱 North。&lt;/p&gt;
 &lt;p&gt;通过这个眼镜，你&lt;strong&gt;可以浏览短信、电子邮件、天气和日程等&lt;/strong&gt;，听起来是不是很《黑镜》。而且这个很酷的产品，价格也才 &lt;strong&gt;600 美元&lt;/strong&gt;，相比 Microsoft 的 HoloLens 2 高达数万元的价格，这个已经算是白菜价了。&lt;/p&gt;
 &lt;p&gt;文章作者通过四个方面介绍了自己的使用感受：&lt;/p&gt;
 &lt;ul&gt;
@@ -10605,9 +10740,9 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&#34;&gt;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;：原文很长，分为三个阶段，全文翻译过来有 24000+字。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;为了便于阅读，将对全文拆解为三篇，对应每一个阶段，并划分了关键节点（本文为第三篇）：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一篇 | PART 1-DESCENT：堕落&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.1 被捕经过&lt;/p&gt;
@@ -10729,9 +10864,9 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&#34;&gt;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;：原文很长，分为三个阶段，全文翻译过来有 24000+字。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;为了便于阅读，将对全文拆解为三篇，对应每一个阶段，并划分了关键节点（本文为第二篇）：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一篇 | PART 1-DESCENT：堕落&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.1 被捕经过&lt;/p&gt;
@@ -10885,9 +11020,9 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;&lt;a href=&#34;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&#34;&gt;https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;：原文很长，分为三个阶段，全文翻译过来有 24000+字。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%80%E7%AF%87-%E5%A0%95%E8%90%BD/&#34;&gt;PART 1-DESCENT：堕落&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%BA%8C%E7%AF%87-%E9%87%8D%E7%94%9F/&#34;&gt;PART 2-RECOVERY：重生&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://weiyexing.ml/posts/%E7%BF%BB%E8%AF%91-%E6%8B%AF%E6%95%91%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E9%BB%91%E5%AE%A2%E9%A9%AC%E5%BA%93%E6%96%AF-%E5%93%88%E9%92%A6%E6%96%AF%E7%9A%84%E8%87%AA%E7%99%BD%E7%AC%AC%E4%B8%89%E7%AF%87-%E6%B8%85%E7%AE%97/&#34;&gt;PART 3-RECHONING：清算&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;为了便于阅读，将对全文拆解为三篇，对应每一个阶段，并划分了关键节点（本文为第一篇）：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一篇 | PART 1-DESCENT：堕落&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1.1 被捕经过&lt;/strong&gt;&lt;/p&gt;
@@ -13758,18 +13893,18 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;博客的作者是我，读者主要也是我，当然我也不介意别人来看。&lt;/p&gt;
 &lt;h3 id=&#34;博客名字由来&#34;&gt;博客名字由来&lt;/h3&gt;
 &lt;p&gt;博客的名字叫..叶星优酸乳..，这不是一个奶制品的名称，它源自两个小故事：一是叶星与我的名字谐音；二是小学的绘画老师曾布置了一个作业，让我们画一个物品，并写两句广告语。我喜欢喝酸酸乳，于是便画了一个，为其命名为「叶星优酸乳」，并写上了我的广告语——叶星优酸乳，好喝又大补！最后获得了 99 分。&lt;/p&gt;
-&lt;h3 id=&#34;仓库名&#34;&gt;仓库名&lt;/h3&gt;
-&lt;p&gt;博客的仓库名称为 Aaron Nick，源于两个人：一个是 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron&lt;/a&gt;，他被称为互联网之子，参与了 RSS、Markdown、Reddit 等项目的开发，可以&lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;阅读此文&lt;/a&gt;进一步了解他的一生。他不循规蹈矩，坚持捍卫互联网的自由开放精神，并为之惹上官司，最终自杀身亡，年仅 26 岁，令人扼腕；&lt;/p&gt;
+&lt;h3 id=&#34;最初域名由来&#34;&gt;最初域名由来&lt;/h3&gt;
+&lt;p&gt;最初名为 Aaron Nick，源于两个人：一个是 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron&lt;/a&gt;，他被称为互联网之子，参与了 RSS、Markdown、Reddit 等项目的开发，可以&lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;阅读此文&lt;/a&gt;进一步了解他的一生。他不循规蹈矩，坚持捍卫互联网的自由开放精神，并为之惹上官司，最终自杀身亡，年仅 26 岁，令人扼腕；&lt;/p&gt;
 &lt;p&gt;一个是 Nick，&lt;a href=&#34;https://book.douban.com/subject/25708359/&#34;&gt;《了不起的盖茨比》&lt;/a&gt;里的角色。这本书是我非常喜欢的小说，除了主角盖茨比之外，叙述者 Nick 也是我很喜欢的角色。于是我将两者结合，Aaron 代表自由与开放，Nick 代表见证者，我希望能够见证互联网自由与开放到来的一天。&lt;/p&gt;
 &lt;h3 id=&#34;博客内容&#34;&gt;博客内容&lt;/h3&gt;
-&lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用了国内网络在访问引用了以上来源的内容，这也是我无奈的地方——&lt;a href=&#34;https://aaronnick.github.io/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用了国内网络在访问引用了以上来源的内容，这也是我无奈的地方——&lt;a href=&#34;https://weiyexing.ml/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;其中主要有几个板块：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://aaronnick.github.io/tags/daily/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
-&lt;li&gt;🎨 &lt;a href=&#34;https://aaronnick.github.io/tags/poetry/&#34;&gt;诗歌&lt;/a&gt;：人间日常切片；&lt;/li&gt;
-&lt;li&gt;📬 &lt;a href=&#34;https://aaronnick.github.io/tags/translate/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
-&lt;li&gt;📝 &lt;a href=&#34;https://aaronnick.github.io/tags/essay/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
-&lt;li&gt;📅 &lt;a href=&#34;https://aaronnick.github.io/tags/weekly/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://weiyexing.ml/tags/daily/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
+&lt;li&gt;🎨 &lt;a href=&#34;https://weiyexing.ml/tags/poetry/&#34;&gt;诗歌&lt;/a&gt;：人间日常切片；&lt;/li&gt;
+&lt;li&gt;📬 &lt;a href=&#34;https://weiyexing.ml/tags/translate/&#34;&gt;翻译&lt;/a&gt;：精选外文蹩脚翻译；&lt;/li&gt;
+&lt;li&gt;📝 &lt;a href=&#34;https://weiyexing.ml/tags/essay/&#34;&gt;随笔&lt;/a&gt;：日常生活的随机漫谈；&lt;/li&gt;
+&lt;li&gt;📅 &lt;a href=&#34;https://weiyexing.ml/tags/weekly/&#34;&gt;周记&lt;/a&gt;：整理有意思的所见所闻；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;博客会坚持写下去，哪怕只是零星想法。不追求十万加，不接受广告，保持纯粹。&lt;/p&gt;
 </description>
