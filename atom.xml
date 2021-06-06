@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-06-06T00:26:28&#43;08:00</updated>
+    <updated>2021-06-06T09:15:18&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,65 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">智能家居、直播与意识漫想</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/smart-homelive-and-consciousness/" />
+            <id>https://aaronnick.github.io/posts/smart-homelive-and-consciousness/</id>
+            <updated>2021-06-06T09:05:17&#43;08:00</updated>
+            <published>2021-06-06T07:30:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近华为鸿蒙系统的发布，掀起了一阵万物互联的讨论。说到万物互联，绕不开物联网，而智能家居则是物联网最……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mgGWzGaUx9mRDzyz77DJ-dHUupbszMbW0vM58dKq3ssXVCZ3aOwyuBjH8NybUhOEW3WLjK9dOytRrSobaCpISn92xPJ-R2g8whHYpBnua1Jhaa1ZLwP0bGi8IHu2cDEyAbgVOSNeuOCsPHjXX-9VMUwuicsDX4xYPeKSw5OEmK5Cu5Up4pBFkb2HSvgcmzZ5_?width=1024&amp;amp;height=683&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;Wooden Hand | Unsplash @Trollinho&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最近华为鸿蒙系统的发布，掀起了一阵万物互联的讨论。说到万物互联，绕不开物联网，而智能家居则是物联网最常见的一种应用场景。&lt;/p&gt;
+&lt;p&gt;现在的智能家居，说实话还不够智能，还停留在计算机+传感器的基础组合。就好比人人口中宣称的人工智能，和实际的 Artificial Intelligence 的差距一般。&lt;/p&gt;
+&lt;p&gt;我觉得未来真正的智能家居是什么样的呢，至少需要达成两个点。一是当人处于家中的时候，能够全然替代人去处理所有的事物，并结合不同的人给出合适的建议；二是当人不在家时，依然可以完全操控整个家。&lt;/p&gt;
+&lt;p&gt;第一点很好理解，就是解放用户的双手，同时通过算力给出最优的处理方案。现在的智能家居已经可以完成部分，但距离真正解放双手还有较远距离。第二点则最难实现，难在「可以完全操控整个家」，能够做到这一点，几乎接近了 Artificial Intelligence 最困扰的难题之一——让机器有..意识..。&lt;/p&gt;
+&lt;p&gt;举个简单的场景：假设我在千里之外，想要给家里生病的老人准备热水以及饭菜，我需要烧开水并确保在适宜的温度，煮好的饭菜在一定的咸淡范围之内，我甚至可以根据表情判断老人的心情，以决定是否要开电视娱乐一下……只要家中有个可爱的机器人，身上遍布精密的传感器，基础的判断如温度、咸淡等可以通过各式各样的传感器得出。但是喜怒哀乐却是最难的部分，这就好比让机器人判断老人对它说的「你玩个锤子！」，到底是让它玩锤子还是不让它玩锤子。&lt;/p&gt;
+&lt;p&gt;要是……我的意识可以瞬间复制到机器人脑中，那不就解决问题了？机器人在家中「代」我完成各种行为，触觉、视觉、听觉、嗅觉等传感器将感觉传入脑中，脑中我的意识副本通过信号传输至千里之外的我，我能实际感受到家中的具体湿度、温度，能够看到老人的喜怒哀乐，能够听到他的呼唤……然后我的本体做出指令，再传回机器人，由它做出反应。&lt;/p&gt;
+&lt;p&gt;似乎，现在已经踏出了第一步。我们可以在 App 上远程查看家中情况，可以操控家中的窗帘是开是合。但现在还是过于简单，而且过于单一。最重要的是，它们是单向的，即拉开窗帘后，如果我觉得刺眼，我就稍微关闭一些。注意，我用的是「刺眼」而非光线强这个词，因为光线强并不等于刺眼，前者是一种客观描述，后者是一个..主观感受..。&lt;/p&gt;
+&lt;p&gt;不过好在，我看到一种形式正在蓬勃发展，那就是..直播..。不要一下想到直播卖货，当然，卖货是直播一种重要的应用场景。我所说的直播，是指万事万物、各式各样的人在用他们的镜头记录他们当下的事情。其他人通过平台看到他们的直播，看到他们在做的事情，「经历」他们的行为，吃喝、唱歌、奔跑、爬山……当然，现在也是单向的，不过至少也走出了第一步，没准后续可以切身感受到直播那头的感觉呢？&lt;/p&gt;
+&lt;p&gt;我们通过平台观看他人的生活，和我们通过机器人观看家中的事物，只是中间介质不一样罢了。再往远了想，智能家居只是局限于我们的家，假设这个家无限扩大呢？假设全世界都是一个「家」，我们可以操控这个家中的各种事物。这个大家庭里，存在若干个「我」，它们通过我的本体在世界各地游走，在日本泡温泉、在撒哈拉徒步、在喜马拉雅登山……那么问题来了，他人该如何区分我的本体和复制的我，他人的副本又该如何区分我的本体和复制的我？副本与副本之间有可能成为朋友吗？我不敢想下去了……&lt;/p&gt;
+&lt;p&gt;以上这些，基于我小学时候的天真想法。那个时候喜欢争辩怎么去学校最快，我跑得快，没有你骑车快，骑车比不上路上跑的汽车，汽车比不上天上飞的飞机。&lt;/p&gt;
+&lt;p&gt;最终，我得出了最快的方式——我想得最快。我只要一想到学校，我就可以身处学校了，一秒钟都不到。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/tech/" term="Tech" label="Tech" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">启用新域名</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/new-domain/" />
