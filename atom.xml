@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-06-27T10:11:13&#43;08:00</updated>
+    <updated>2021-06-28T23:04:54&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,50 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.79.0">Hugo</generator>
+        <entry>
+            <title type="text">莫要羞于谈书</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/dont-be-ashamed-to-talk-about-books/" />
+            <id>https://aaronnick.github.io/posts/dont-be-ashamed-to-talk-about-books/</id>
+            <updated>2021-06-28T23:03:05&#43;08:00</updated>
+            <published>2021-06-28T23:00:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">回想起我小时候，经常会受到一些语言上的「暴力」，其中一个类型就是「读书人」。 直到现在，身边还会有不少……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mbgEs0eSWqc7w7x9i0hWkishvIvd9i9FBx9t860NFwRzVexnLo3n_6-CYtCuBISOL76VMRd7l63qLI_XGXuxaiqKmnb9ZKlTjTLjlubow4XNG0BJnC34MF4iZeW4-fGghpIDxgWRbQFOEbMT0-VG-VQyJz7qG-mFS94DsSBXQMXpw2pNghviIwdw5PdqtaoWN?width=1024&amp;amp;height=604&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;床头书&#34;&gt;&lt;/p&gt;
+&lt;p&gt;回想起我小时候，经常会受到一些语言上的「暴力」，其中一个类型就是「读书人」。&lt;/p&gt;
+&lt;p&gt;直到现在，身边还会有不少亲戚会以这个开玩笑（我姑且认为他们是真的在开玩笑）。每当我回家，尤其是在读大学的时候，路上但凡遇到一个邻居，就会被其笑称道：大学生回来了啊。&lt;/p&gt;
+&lt;p&gt;我不知道别人是否会有这种遭遇，没有的话很难体会到这种感觉。这里的「大学生」「读书人」，并非中性词，而是一种委婉的嘲讽，听起来很不是滋味，仿佛你不再和他们处于同一个位置。&lt;/p&gt;
+&lt;p&gt;到底为何会有这种行为，我至今是百思不得其解。&lt;/p&gt;
+&lt;p&gt;如果说上一代人对读书这件事的看法令人费解，那么同龄人对读书也普遍持一种嘲讽的态度更是让我难以接受。就拿自己来说吧，因为爱好读书，所以身边时常放着一两本书，平常的交流也会偶尔谈一下在看的书，目的是分享看到的有趣知识。就是因为如此，有时候会被误解为「装」、「清高」……读书在我看来是一种放松方式，就和散步一样。而且，我对待读书的感觉，就像吃饭睡觉一样平常，怎么到了别人那里，就变成了一种「装逼」的行为呢？&lt;/p&gt;
+&lt;p&gt;同样，一些公众人物因为晒书单，被网友谩骂乱建读书人设。我就很纳闷了，读书这么好的一件事情，分享书籍也是一个沟通交流的好契机，怎么就惹到一些人了呢？戾气未免也太重了一些。&lt;/p&gt;
+&lt;p&gt;以至于在某些社交平台上，读书的人不太敢「建人设」分享书籍，偶尔分享的书籍鲜有人交流讨论，读书这个行为被束之高阁。我时常在想，什么时候谈论书籍可以像谈论吃饭一样稀松平常，这个社会的读书氛围才会上一个台阶吧。&lt;/p&gt;
+&lt;p&gt;或许还需要些时间，毕竟，奥运会上运动员因失败被观众咒骂，到得到掌声鼓励还走了十多年的路呢，慢慢来吧。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">最后的日记</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/tolstoys-last-diary/" />
@@ -7530,7 +7574,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-06-26T11:24:31&#43;08:00</updated>
+            <updated>2021-06-28T21:29:39&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7553,6 +7597,20 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-06-27&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《门徒》· [中国香港] 2007&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;犯罪&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;吃火锅下饭电影，重刷，老港片还是比较有味道&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-06-27&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《风骚律师 第二季》· [美] 2015&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;美剧&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;剧情开始层层推进了，对人物的刻画真的流畅且合理，炸鸡叔要登场了&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-06-22&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《风骚律师 第一季》· [美] 2015&lt;/td&gt;
@@ -8404,7 +8462,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-06-26T11:23:13&#43;08:00</updated>
+            <updated>2021-06-27T10:17:52&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -8439,7 +8497,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;《托尔斯泰最后的日记》· [俄] 列夫·托尔斯泰&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;日记&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;直到生命的最后几天，还在坚持思考的写作，真的让人敬佩&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://weiyexing.ml/posts/tolstoys-last-diary/&#34;&gt;读后感&lt;/a&gt;｜直到生命的最后几天，还在坚持思考的写作，真的让人敬佩&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-06-19&lt;/td&gt;
