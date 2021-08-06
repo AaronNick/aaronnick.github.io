@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-08-01T10:00:12&#43;08:00</updated>
+    <updated>2021-08-06T12:28:20&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,56 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">在线教育裁员有感</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-talk-about-online-education/" />
+            <id>https://aaronnick.github.io/posts/a-talk-about-online-education/</id>
+            <updated>2021-08-06T12:27:06&#43;08:00</updated>
+            <published>2021-08-05T21:10:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">两年前在知乎的时候，有一次饭后和 Leader（前端负责人）在 768 创意园散步，期间聊起了关于在线教育的话……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4ma7flN_9VYLsn2ZXjjPxArEEPQF7or2870pUu_KLT_fe1rqE-c2TR1E_AU1AcA7ZuTlZuJgV2PWdrIkjEJk95NKSGjPMXyvFSNkefkMUX-QeF3EJrUH-ox425Sce7-e0BjFUDGTI7-sCKzDHiZFxB2Y-Tt_SvD_epcXoqFd6xnJDKLrQWA_Mt8UUR984lWrNf?width=2712&amp;amp;height=1272&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;知乎的伙食还是挺给力的&#34;&gt;&lt;/p&gt;
+&lt;p&gt;两年前在知乎的时候，有一次饭后和 Leader（前端负责人）在 768 创意园散步，期间聊起了关于在线教育的话题。&lt;/p&gt;
+&lt;p&gt;其实并非是在线教育话题谈话，而是散步时的随便聊聊。期间，他问我之后打算去哪发展。我说去旅游行业，具体来说是民宿行业。&lt;/p&gt;
+&lt;p&gt;我的观点是这个行业正在快速发展，当时的确也是在高速发展，每年以百分之一两百的增速在扩张。另外，随着生活水平的提高，人们的旅游意愿也在高涨。同时，这类线上线下结合的模式，不会因为一些政策原因导致 App 下架后就完全开展不了业务，抗风险能力比较高。（当时决定不留知乎，很大的原因就是知乎纯线上模式，不确定因素太多，且一直找不到合适的商业化模式，所以打算去试试别的行业）&lt;/p&gt;
+&lt;p&gt;Leader 的观点则是为什么不去试一下在线教育，现在（当时）这么火。而且教育是基础，这个需求始终都在，而且需求巨大。&lt;/p&gt;
+&lt;p&gt;教育和旅游在某些方面很像，属于一个人高层次的精神追求。教育覆盖面更广一些，儿童、青年、中年，义务教育、高等教育等是必须要投入的部分；学前以及进补虽说非必须，但是需求也很大。一个家庭愿意给孩子投入资源去争取好的教育，中年后也有继续向上的需求，或者失业时也会偏向于选择进修。而旅游，在整体经济不行的时候，就变成了一个可有可无的需求。你破产了还会选择去旅游吗？但你也许会选择学习提升自己，让自己更有竞争力。因此，在线教育（包括职业教育）受众更广。&lt;/p&gt;
+&lt;p&gt;我俩都有各自的观点，不过我基本赞成他的说法。&lt;/p&gt;
+&lt;p&gt;这段谈话有意思的地方在于：不久之后我离开知乎，加入了国内民宿的独角兽公司，然而，旅游行业在次年备受疫情摧残，一蹶不振；此后，我想起这段经历，于是计划加入在线教育行业，接着，在线教育公司近期因政策监管等原因大批裁员。&lt;/p&gt;
+&lt;p&gt;这真是一段有意思的谈话，以及有意思的经历。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">日志｜2021/07</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202107/" />
