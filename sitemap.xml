@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aaronnick.github.io/posts/</loc>
+    <lastmod>2021-08-07T10:57:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/read/</loc>
+    <lastmod>2021-08-07T10:57:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/</loc>
+    <lastmod>2021-08-07T10:57:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2021-08-07T10:57:17+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/feynman/</loc>
+    <lastmod>2021-08-07T10:57:17+08:00</lastmod>
+  </url><url>
     <loc>https://aaronnick.github.io/tags/essay/</loc>
     <lastmod>2021-08-06T12:27:06+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/life/</loc>
-    <lastmod>2021-08-06T12:27:06+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2021-08-06T12:27:06+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2021-08-06T12:27:06+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/</loc>
     <lastmod>2021-08-06T12:27:06+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/a-talk-about-online-education/</loc>
@@ -67,9 +73,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/dont-be-ashamed-to-talk-about-books/</loc>
     <lastmod>2021-06-28T23:03:05+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/read/</loc>
-    <lastmod>2021-07-31T12:08:44+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/tolstoys-last-diary/</loc>
     <lastmod>2021-06-27T10:07:43+08:00</lastmod>
@@ -372,7 +375,7 @@
     <lastmod>2021-04-09T22:19:38+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/reading-record/</loc>
-    <lastmod>2021-07-31T12:08:44+08:00</lastmod>
+    <lastmod>2021-08-07T10:55:12+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/weekly-36/</loc>
     <lastmod>2021-04-09T22:05:57+08:00</lastmod>

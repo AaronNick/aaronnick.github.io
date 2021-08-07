@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-08-06T12:28:20&#43;08:00</updated>
+    <updated>2021-08-07T10:59:07&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,68 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">读费曼</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/feynman/" />
+            <id>https://aaronnick.github.io/posts/feynman/</id>
+            <updated>2021-08-07T10:57:17&#43;08:00</updated>
+            <published>2021-08-07T09:30:21&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我对费曼的印象，应该是来自以他名字命名的「费曼学习法」，即了解事物的本质，然后用自己的话表述，甚至是……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mbk0cRfZSX8MXdSPSWZwSF4vQUQjwLJKKkvemRzctVwm8k67gI2UGga88AN9aXYXFgKirZ_uJvyuhLikI4Q0gSv_sJQbQpoPkLyXuQkm0yjKTC2pRyy54jvHdUCfscSYHNE0bxyUNMVaeiRHtzLSOIx3DaZ-NodcSGzruamwI8BLIIp78LFxeT4Xg75tRLPCn?width=1080&amp;amp;height=726&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;理查德·菲利普斯·费曼&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我对费曼的印象，应该是来自以他名字命名的「费曼学习法」，即了解事物的本质，然后用自己的话表述，甚至是教会别人，那就说明对知识真的掌握了。&lt;/p&gt;
+&lt;p&gt;我在平时也会践行费曼学习法，发现它很有效，它教会我不再流于知识的表面，不再止步于了解概念名称，而是进一步去探索概念背后的原理。&lt;/p&gt;
+&lt;p&gt;我愈发对费曼这个人感到好奇。于是在半个月前，开始尝试了解费曼。读了他的相关书籍，包括自传、传记、访谈等一系列有关的材料。其中包括《别闹了，费曼先生》、《你干吗在乎别人怎么想？》、《发现的乐趣》、《费曼讲演录》、《理查德·费曼传》。如果对费曼也感兴趣，推荐阅读顺序如上。其中，《别闹了，费曼先生》最为有趣，它记录了费曼从年轻到成长为物理学家的众多趣事。推荐读三联版的这本，另一版本《别逗了，费曼先生》翻译不是很顺畅。而《理查德·费曼传》则不太推荐，因为如果你没有受过物理高等教育，或者你对物理没有极度的热爱，那么你会读得很痛苦。书中层层堆叠的物理专业名词让人喘不过气。简而言之，前者是逗趣中偶尔穿插物理知识；后者是物理知识中偶尔穿插费曼的趣事。&lt;/p&gt;
+&lt;p&gt;接下来我打算从几个方面介绍我读完费曼之后的想法。&lt;/p&gt;
+&lt;h3 id=&#34;费曼的启蒙教育&#34;&gt;费曼的启蒙教育&lt;/h3&gt;
+&lt;p&gt;如果要我推荐家庭教育相关的书籍电影，那么电影我会推荐《杀死一只知更鸟》，阿迪克斯教会孩子正直和善良；书籍则会推荐和费曼相关的，尤其是记录了和他父亲交谈的书籍，《你干吗在乎别人怎么想？》就是其中一本，费曼父亲教会他追求事物本质，教会他敢于质疑权威，最重要的是，父亲能够寓教于乐，循循善诱。&lt;/p&gt;
+&lt;p&gt;面对充满好奇心的小费曼提出的问题，父亲总能将抽象的知识变成现实中容易理解的东西。回答了问题的同时，也培养了孩子将知识运用于实际的能力。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我家有一套《大英百科全书》，父亲常让我坐在他的膝上，给我念里边的章节。比如有一次念到恐龙，书里说，“恐龙的身高有25英尺，头有6英尺宽。”父亲停顿了念书，对我说，“唔，让我们想一下这是什么意思。这也就是说，要是恐龙站在门前的院子里，那么它的身高足以使它的脑袋凑着咱们这两层楼的窗户，可它的脑袋却伸不进窗户，因为它比窗户还宽呢！”就是这样，他总是把所教的概念变成可触可摸，有实际意义的东西。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;复杂世界充满了各种现象，而为了解释这些现象，我们抽象出了许多概念。当孩子提出为什么时，他是对现象好奇，而非想要得到一个模糊的概念。因此，理解现象背后的原理，远比得到一个概念要重要得多。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你可以知道所有的语言是怎么叫这种鸟的，可是终了还是一点也不懂得它。你仅仅是知道了世界不同地区的人怎么称呼这只鸟罢了。我们还是来仔细瞧瞧它在做什么吧——那才是真正重要的。” (我于是很早就学会了“知道一个东西的名字”和“真正懂得一个东西”的区别。)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;费曼的趣事&#34;&gt;费曼的趣事&lt;/h3&gt;
+&lt;p&gt;费曼的趣事，要说起来真的是三天都说不完。&lt;/p&gt;
+&lt;p&gt;也许是因为父亲的启蒙关系，他小时候就喜欢拆开各种机器来研究，在自己的家里还有一个小实验室。他最擅长的就是修收音机，有人找他去修收音机，但是他到了之后既不动手也不说话，就站在别人家中对着收音机思考，别人还以为他没本事修好。没想到想了一会儿，他动手调整了两个地方就把收音机修好了，可真是把这个原本不报希望的成年人惊喜到了，从此费曼修收音机的能力便传开了——他靠想就能把收音机修好！&lt;/p&gt;
+&lt;p&gt;从麻省理工大学毕业后，他前往普林斯顿大学读研究生。刚开始去就被拉去他未曾参与过的茶会，别人给他倒茶时问他，加牛奶还是柠檬？费曼漫不经心地答道：两样都加吧。然后被笑了：别闹了，费曼先生。原来书名便是来源于此。别人给他 A B 选项，而他的思路却是两样都要。果然是和常人不一样。&lt;/p&gt;
+&lt;p&gt;攻读博士期间，年仅二十四岁的费曼加入了制造原子弹的曼哈顿计划。在这段期间，费曼也留下了不少轶事。例如与爱人阿琳的书信往来，因为受到审查，于是他与审查人员玩起了捉猫猫的游戏。热爱解谜的他，知道物理学家喜欢用物理常数做密码，于是破解了身边各个同事的密码锁，甚至把将军的保险柜都给打开了，吓得将军赶紧通知其他人打开密码箱的时候要留意费曼。逗趣的费曼给严肃沉闷的原子弹研究增添了不少趣味。&lt;/p&gt;
+&lt;h3 id=&#34;费曼的精神&#34;&gt;费曼的精神&lt;/h3&gt;
+&lt;p&gt;始终保持好奇心。我觉得这是他的家庭环境造就的，而他的父亲则对他影响最大。面对抛出的各个疑问，既没有敷衍了事，也没有高高在上的呵斥「小孩子懂什么」，相反，父亲会耐心引导小费曼去探索。&lt;/p&gt;
+&lt;p&gt;追求本质。体现在他对事物的看法，懂得概念并不是真正理解，例如他在巴西访问的时候，就痛斥巴西教育只是灌输给学生各种各样的概念，而学生也只是会用已有的概念去解释现象，换一个说法就答不上来了。这一作风也影响了他的研究，他所提出的方法往往简洁、直击要害。&lt;/p&gt;
+&lt;p&gt;敢于质疑。他在曼哈顿计划时就备受一些物理大牛的青睐，原因便是他敢于提出反对的意见，而这正是大牛们喜欢的，因为有争论才会有思维的碰撞。&lt;/p&gt;
+&lt;p&gt;特立独行。一旦看到他人在研究相同的领域，他便放弃转而研究其他领域。他的这个习惯，导致了他与很多几乎唾手可得的研究成果失之交臂，例如宇称不守恒等。不过，他并不追求所谓的各种名誉，从他对诺贝尔奖的态度，以及辞去院士等行为可以看得出来。晚年的时候，参与调查「挑战者号」失事原因，一贯特立独行的他撇开官员的帮助，自己开展调查，最终通过一个简单的实验找出了原因。&lt;/p&gt;
+&lt;p&gt;当我读完这些材料之后，深深为之着迷，和朋友分享时，才发现费曼是物理学生心目中的物理男神，看来是我孤陋寡闻了。&lt;/p&gt;
+&lt;p&gt;读费曼，去了解一个有趣而充实的灵魂。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">在线教育裁员有感</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-talk-about-online-education/" />
@@ -9348,7 +9410,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-07-31T12:08:44&#43;08:00</updated>
+            <updated>2021-08-07T10:55:12&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9371,6 +9433,48 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-08-07&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《一九八四》· [英] 乔治·奥威尔&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;小说&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;极权主义下的生活，反抗，最后被洗刷干净&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-08-06&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《理查德·费曼传》· [美] 劳伦斯·M.克劳斯&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;传记&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;没有受过物理高等教育不建议阅读，书中充满大量专业名词&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-08-05&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《发现的乐趣》· [美] 理查德·费曼&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;演讲&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;内容和《别闹了，费曼先生》互补，略有重合&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-08-03&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《费曼讲演录》· [美] 理查德·费曼&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;演讲&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;第一个主题很棒，后两个主题还没怎么读懂&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-08-02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《你干吗在乎别人怎么想？》· [美] 理查德·费曼&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;传记&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;费曼的父亲对他的影响很深远&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-07-31&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《情人》· [法] 玛格丽特·杜拉斯&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;小说&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;的确很难读，一度以为是自己理解能力太差。后来才发现作者写作的手法是回忆+心理描写+叙事几部分组成，理清之后就容易理解了&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-07-31&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《别闹了，费曼先生》· [美] 理查德·费曼&lt;/td&gt;
