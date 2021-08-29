@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-08-28T08:13:09&#43;08:00</updated>
+    <updated>2021-08-29T21:27:09&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,10 +17,96 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
         <entry>
+            <title type="text">2021 体检</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/2021-medical-examination/" />
+            <id>https://aaronnick.github.io/posts/2021-medical-examination/</id>
+            <updated>2021-08-29T21:25:44&#43;08:00</updated>
+            <published>2021-08-29T21:00:00&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">拖了两个月，上周把本年的体检给做了，今天收到短信，告诉我体检报告已出来，于是我带着忐忑的心情打开了体……</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mii20clOAPkggr2VTGT1GHIHXKgls2YqAb-d696xGlKWKEwOv9X6UBMEfTvu0hrdgnsSFj6qkAIQzLv568UbDMnw2DZIFA7G5FDwzLQN9_J87haO6RDUOOLbtUwIsnCH1ISV_mNC2yyPNcySkiiEaT1-NLw6ApnrLNupyf7lsAxfE0FS7Zg6ufO-jvFLH1dMw?width=1024&amp;amp;height=707&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;爱康国宾&#34;&gt;&lt;/p&gt;
+&lt;p&gt;拖了两个月，上周把本年的体检给做了，今天收到短信，告诉我体检报告已出来，于是我带着忐忑的心情打开了体检报告。&lt;/p&gt;
+&lt;p&gt;今年的体检是在爱康国宾，我第一次在他们家做体检，简单记录下这次检查的经过。&lt;/p&gt;
+&lt;p&gt;预约的是公司选定的套餐，基本都是一些基础检查，因为身体上没有出现什么特别异常，我就没有额外加其他的检查。时间选在周四早上，想着体检完毕还可以去公司，不耽误正常的工作，也不占用休息的时间。&lt;/p&gt;
+&lt;p&gt;为了防止人太多导致体检时间过长，我早早就起来了，洗漱完毕后打车到望京这边的爱康国宾（北京丽都分院），到达体检中心的时候 8:20，登记完成后就开始按照流程逐项体检。&lt;/p&gt;
+&lt;p&gt;令我惊讶的是爱康国宾的效率以及服务比我想象中要好上不少。在来之前，我就做好了心理建设，不期望流程能多顺利，只要不影响我当天的心情就好——来自医院经历的阴影。爱康国宾在流程上有两处让我觉得很好，一处体现在体检清单上，详细列举了本次体检的清单，然后有一列会写上接下来要检查的项目，由医师手动填写在待检查项目左侧，比如在心电图左侧填上 B07，意味着加下来要去 B07 室检查心电图。这个小细节很人性化，对于一个陌生人来说，内心建立起了一种确认感和安全感，不会迷失在众多的检查项目里，也不会因为不熟悉地方而胡乱走动。另一处则是热心且足够的导检，几乎每一个项目科室外都安排了一到两个导检，耐心解答体检人员的问题。结合科室外的显示屏，我能够清晰知道自己排在第几位，大概等待多少时间。&lt;/p&gt;
+&lt;p&gt;整个体检花费两个小时时间，体检的时间并不长，长的是等待的时间。检查顺序为：血常规--&amp;gt;外科--&amp;gt;内科--&amp;gt;心电图--&amp;gt;彩超--&amp;gt;耳鼻喉--&amp;gt;CT--&amp;gt;身高体重血压等一般检查--&amp;gt;视力--&amp;gt;眼科--&amp;gt;尿常规--&amp;gt;体检结束取早餐。尿常规放在最后很正确，因为若不是检查了两个小时，我压根尿不出来。&lt;/p&gt;
+&lt;p&gt;看了体检报告，发现有几处需要注意，例如体重指数偏低、肝内钙化灶、某位置囊肿、窦性⼼动过缓……后续得抽时间重新重点检查这几项。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;项目&lt;/th&gt;
+&lt;th&gt;结果&lt;/th&gt;
+&lt;th&gt;参考区间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;身高&lt;/td&gt;
+&lt;td&gt;17X cm&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;体重&lt;/td&gt;
+&lt;td&gt;4X kg&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;体重指数&lt;/td&gt;
+&lt;td&gt;16.1&lt;/td&gt;
+&lt;td&gt;18.5-23.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;收缩压&lt;/td&gt;
+&lt;td&gt;109 mmHg&lt;/td&gt;
+&lt;td&gt;90.0—139.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;舒张压&lt;/td&gt;
+&lt;td&gt;69 mmHg&lt;/td&gt;
+&lt;td&gt;60.0—89.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;体重首次跌到了 100 斤以下，我感到很意外，怪不得每次回家都被家里人说又瘦了，虽然争辩自己吃得很好，但是他们总不相信，这下连我也服气了。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">弃微博</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/abandon-weibo/" />
             <id>https://aaronnick.github.io/posts/abandon-weibo/</id>
-            <updated>2021-08-28T08:11:54&#43;08:00</updated>
+            <updated>2021-08-28T08:43:24&#43;08:00</updated>
             <published>2021-08-28T08:00:00&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -31,7 +117,7 @@
             
                 <content type="html">&lt;p&gt;我应该是十多年前开始用的微博，如今我决定要放弃使用它了。&lt;/p&gt;
 &lt;p&gt;遥想当年，微博在我心中占据着重要的地位。那个标志性的红色眼睛图标，始终位于我塞班手机上的主页。无数个窝在杯子里的夜晚，来回按压着数字键盘，悉数发着波澜不惊的生活片段，满怀期待能收到哪怕一个人的评论或者关注。那是一种奇妙的期待。&lt;/p&gt;
-&lt;p&gt;我用微博，多是记录心情和经历，极少转发他人的动态。因为我觉得这是我表达的一个出口，我也不希望关注我的人看到的不是我的动态，而转发就是一种侵入的动态。虽然这些转发的动态在一定程度上反映了转发者的喜好，但终究和本人的动态有着天壤之别。关注我的人，我相信他们是因为我身上的某些因素，而非来关注我的喜好，我尊重他们。因此，我的上千条微博百分之九十以上都是原创。不管是生活也好，观点也罢，他都是我敲出来的，我对它们负责，它们也是我的一个侧面。&lt;/p&gt;
+&lt;p&gt;我用微博，多是记录心情和经历，极少转发他人的动态。因为我觉得这是我表达的一个出口，我也不希望关注我的人看到的不是我的动态，而转发就是一种侵入的动态。虽然这些转发的动态在一定程度上反映了转发者的喜好，但终究和本人的动态有着天壤之别。关注我的人，我相信他们是因为我身上的某些因素，而非来关注我的喜好，我尊重他们。因此，我的上千条微博百分之九十以上都是原创。不管是生活也好，观点也罢，它们都是我敲出来的，我对它们负责，它们也是我的一个侧面。&lt;/p&gt;
 &lt;p&gt;可能不少人会惊讶，现在发展成粪坑一样的微博，竟然还有正经人在用？微博已经成为粪坑没错，我也是个正经人，但我的确在用。正如前面所言，我用微博主要是为了记录，以及关注朋友动态，其他方面发展成什么样子，杠精如何盛行，与我何干？我偏安一隅，自有一番自在。&lt;/p&gt;
 &lt;p&gt;而我现在决定弃用它，缘由也是和我最在意的两个方面有关。一方面是它日益变得封闭，另一方面则是有意义的东西正在被无数重复而粗制滥造的东西混杂。前者影响我的输出，后者让我觉得无味。举个简单的例子，我分享一些东西，有时候需要输入其他网站链接，然后竟然告诉我因违规无法发出，这种封闭的环境让人错愕。另外一个让我持续坚持使用数年的原因最近也崩塌了：关注朋友里的动态夹杂着大量的明星动态以及乱七八糟的话题。这些微博我一丝也没有兴趣，我只关心我的朋友，但是他们的转发极大稀释了他们的动态。我本想屏蔽某些关键词，让我的时间线减少这类无聊的微博，然而微博平台却告诉我使用屏蔽功能必须开会员——相当于，我喂你吃屎，你可以选择不吃，但是得交钱，不交钱继续吃吧。继而让我更为愤怒的是，即使作为我的资产（我自认为）——我发出的动态，想要隐藏设置半年可见，竟然也要开会员。此刻，我对这个平台彻底绝望。&lt;/p&gt;
 &lt;p&gt;既无表达的自由，又无留恋的理由，我还继续留下来干嘛呢？封存吧。&lt;/p&gt;
@@ -9698,7 +9784,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-08-21T19:27:42&#43;08:00</updated>
+            <updated>2021-08-28T19:04:10&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -9721,6 +9807,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-08-24&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《神雕侠侣》· 金庸&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;武侠&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;情大于侠，我偏偏喜欢这一对的坎坷不完美&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-08-21&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《追风筝的人》· [美] 卡勒德·胡赛尼&lt;/td&gt;
