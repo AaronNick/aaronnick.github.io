@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-09-01T12:31:03&#43;08:00</updated>
+    <updated>2021-09-01T12:36:50&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,48 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">五口之家</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/family-of-five/" />
+            <id>https://aaronnick.github.io/posts/family-of-five/</id>
+            <updated>2021-09-01T12:29:17&#43;08:00</updated>
+            <published>2021-08-31T09:00:00&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">妈妈，把你身份证给我游戏认证下 宝贝，妈妈的身份证年龄不够 那爸爸的呢 你爸爸去接你弟弟妹妹了 不是没到放学……</summary>
+            
+                <content type="html">&lt;blockquote class=&#34;quote-center&#34;&gt;
+        &lt;p&gt;妈妈，把你身份证给我游戏认证下&lt;br&gt;
+宝贝，妈妈的身份证年龄不够&lt;br&gt;
+那爸爸的呢&lt;br&gt;
+你爸爸去接你弟弟妹妹了&lt;br&gt;
+不是没到放学时间吗&lt;br&gt;
+培训班倒闭了&lt;/p&gt;&lt;/blockquote&gt; 
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="Poetry" label="Poetry" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">在首都差点被撞之后</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/written-after-being-almost-hit-in-beijing-/" />
