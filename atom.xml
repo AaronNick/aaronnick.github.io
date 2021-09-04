@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-09-04T18:19:58&#43;08:00</updated>
+    <updated>2021-09-04T18:21:57&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,57 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">梦境</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/dreamland/" />
+            <id>https://aaronnick.github.io/posts/dreamland/</id>
+            <updated>2021-09-04T18:18:16&#43;08:00</updated>
+            <published>2021-09-04T09:00:00&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">哗哗哗，被嘈杂的声音惊醒 迷迷糊糊地爬向窗台 拉开窗帘，窗户半开，外面下着大雨 关上窗户，打开空调，又沉沉……</summary>
+            
+                <content type="html">&lt;blockquote class=&#34;quote-center&#34;&gt;&lt;p&gt;哗哗哗，被嘈杂的声音惊醒&lt;br&gt;
+迷迷糊糊地爬向窗台&lt;br&gt;
+拉开窗帘，窗户半开，外面下着大雨&lt;br&gt;
+关上窗户，打开空调，又沉沉睡去&lt;br&gt;
+闭上眼，暂时与真实世界隔离&lt;/p&gt;
+&lt;p&gt;那里&lt;br&gt;
+有陌生的自己，有熟悉的道路&lt;br&gt;
+肆意奔跑，肆意创造&lt;br&gt;
+创造一个人的出现，创造两个人的相遇&lt;br&gt;
+那里的生活，仅仅属于自己&lt;/p&gt;
+&lt;p&gt;梦醒了&lt;br&gt;
+记忆逐渐消散，只剩一团模糊&lt;br&gt;
+一个地方&lt;br&gt;
+一些事情&lt;br&gt;
+把它当成，即将发生的现实&lt;/p&gt;
+&lt;/blockquote&gt; 
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/poetry/" term="Poetry" label="Poetry" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">富士康印象</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/my-impression-of-foxconn/" />
