@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-10-07T22:10:08&#43;08:00</updated>
+    <updated>2021-10-07T22:23:28&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -10203,7 +10203,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-09-19T12:39:55&#43;08:00</updated>
+            <updated>2021-10-07T22:21:20&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10226,6 +10226,27 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-06&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《大决战之辽沈战役》· [中国大陆] 1991&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;战争&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;气势恢宏，难得的大制作&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《鱿鱼游戏》· [韩] 2021&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;大逃杀&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;爽片，但过于流水化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《性爱自修室 第三季》· [英] 2021&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;性教育&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;如何爱自己，以及爱他人&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-09-16&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《白色巨塔》· [日] 2003&lt;/td&gt;
@@ -11140,7 +11161,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-10-01T11:06:41&#43;08:00</updated>
+            <updated>2021-10-07T22:22:47&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11163,6 +11184,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《程序员的思维修炼》· [美] Andy Hunt&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;思维&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;技能学习的德雷福斯模型有意思&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-09-30&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《失落的卫星》· 刘子超&lt;/td&gt;
