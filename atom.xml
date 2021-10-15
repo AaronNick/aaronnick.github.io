@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-10-07T22:23:28&#43;08:00</updated>
+    <updated>2021-10-15T10:34:13&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,170 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">华为手机安装谷歌服务教程</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/install-google-services-on-huawei/" />
+            <id>https://aaronnick.github.io/posts/install-google-services-on-huawei/</id>
+            <updated>2021-10-15T10:33:18&#43;08:00</updated>
+            <published>2021-10-14T20:45:26&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天中午，我的华为 P40 Pro 在打开谷歌相册的时候，突然不能访问了，并提示“此设备未获得 Play 保护机制认证”，如……</summary>
+            
+                <content type="html">&lt;p&gt;今天中午，我的华为 P40 Pro 在打开谷歌相册的时候，突然不能访问了，并提示“此设备未获得 Play 保护机制认证”，如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mwfWmlwY0LqKxM3qoY6yBVMGmnRuAHGmxE2KaqCBfHvyqCW-Hr4tAi30hybAMPpSv8jyARffHNCyVeZdrrcLMC3y4haFWXWsJ4ghCpu1XPPs7w42-rsZyITAY1OaVIEDUHjiJb6bkiFTsuNJJlRHo4iawYNV2IsiCNy8hKztJPz1hQAez9iz87rCADjtddu_g?width=1200&amp;amp;height=2509&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;设备未获得认证提示&#34;&gt;&lt;/p&gt;
+&lt;p&gt;说实话，这一下把我搞慌了，想着是不是升级鸿蒙的缘故。但转念一想，鸿蒙系统我已经升级好些日子了，最近也没做什么操作啊……&lt;/p&gt;
+&lt;p&gt;抱着试一试的态度，晚上按照之前的教程重新安装了一遍谷歌服务，没想到直接就恢复成功了，在这里记录下。&lt;/p&gt;
+&lt;p&gt;废话不多说，直接开始吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本教程来源于 YouTube 博主“工具大师i”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;👉 观看 &lt;a href=&#34;https://www.youtube.com/watch?v=Ms6isTmlWY0&#34;&gt;YouTube 视频教程&lt;/a&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;教程所需文件：&lt;a href=&#34;https://wwi.lanzoui.com/ihCUbudfoyb&#34;&gt;点击下载&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;style&gt;
+.youtube-player {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    }
+      
+.youtube-player iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    }
+&lt;/style&gt;
+
+
+&lt;div align=center class=&#34;youtube-player&#34;&gt;
+    &lt;iframe src=&#34;https://www.youtube.com/embed/Ms6isTmlWY0&#34;
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34;&gt; 
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;👉 对照以下文字步骤操作&lt;/p&gt;
+&lt;h3 id=&#34;一卸载谷歌残留三部曲&#34;&gt;一、卸载谷歌残留（三部曲）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;设置—应用-应用管理—右上角三个点（显示系统设置）搜索 Google 的英文，卸载 Google Play 商店，Google Play 服务，Google 服务框架&lt;/li&gt;
+&lt;li&gt;设置-安全- 更多安全设置—设备管理器—和谷歌相关的全部（解除激活）然后 卸载掉&lt;/li&gt;
+&lt;li&gt;应用市场-我的-安装管理-找到残留卸载掉&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;二下载安装需要文件并解压&#34;&gt;二、下载安装需要文件并解压&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;下载软件并解压（压缩文件留蓝奏云）&lt;br&gt;
+主文件解压到我的手机&lt;br&gt;
+Huawei.zip 解压到默认&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;三恢复备份谷歌服务助手&#34;&gt;三、恢复备份谷歌服务助手&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;设置 -系统和更新-日期和时间-自动设备(关闭)-时间更改为2020年5月份—确定&lt;/li&gt;
+&lt;li&gt;后退-备份和恢复-右上角三个点-从内部存储恢复（没有的后退一下）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;选2019年12月7日的记录 --全选--恢复--完成&lt;/p&gt;
+&lt;p&gt;若还是没有显示（从内部存储恢复）这一选项，请检查下前边的解压文件步骤是否正确&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;打开谷歌服务助手-激活-始终允许-不需要点开始下载（自动下载）&lt;/li&gt;
+&lt;li&gt;设置-系统和更新-日期和时间-自动设置打开&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;接下来的步骤全程挂梯子&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;四谷歌安装&#34;&gt;四、谷歌安装&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;文件管理-我的手机—安装0.apk&lt;br&gt;
+打开-点 Account-点 Sign in-登录谷歌账号（登录）
+（可登录多个，因为这一步骤登录完毕就不能再增加账号了）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文件管理—安装程序APK  1，3，4&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;卸载 Micro G&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文件管理—安装 2.apk&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;装完后通知栏等待错误通知&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;桌面—打开 Google Play 商店，查看可以运行—然后后台关闭 Google Play 商店&lt;/li&gt;
+&lt;li&gt;回到桌面 -应用-应用管理-显示系统程序-搜索谷歌英文&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Google Play 商店-强行停止&lt;/p&gt;
+&lt;p&gt;谷歌账户管理程序—强行停止—存储—删除数据&lt;/p&gt;
+&lt;p&gt;谷歌服务框架—强行停止—存储—清空缓存—删除数据（再次删除数据）—重启手机&lt;/p&gt;
+&lt;h3 id=&#34;五第一次重启手机完成-挂梯子&#34;&gt;五、第一次重启手机完成 （挂梯子）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;文件管理—安装2.apk—安装完成—再次重启手机&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;六第二次重启手机完成-挂梯子&#34;&gt;六、第二次重启手机完成 （挂梯子）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;第二次重启完成-挂梯子-打开Google  Play 商店打开-重试重试-关闭后台&lt;/li&gt;
+&lt;li&gt;桌面-设置-应用-应用管理-搜索 Google&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Google Play 服务点进去-存储-管理空间-清除所有数据-确定-后退一下-强行停止（两次）-卸载&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;文件管理—安装5.apk，安装完成，重启手机&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;七第三次重启后--测试是否成功-挂梯子&#34;&gt;七、第三次重启后  测试是否成功 （挂梯子）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;挂梯子测试：下载 Google play 游戏-打开看看能否正常下载运行&lt;/li&gt;
+&lt;li&gt;谷歌地图试试&lt;/li&gt;
+&lt;li&gt;安装 Youtube 测试&lt;/li&gt;
+&lt;li&gt;卸载无关程序
+&lt;ul&gt;
+&lt;li&gt;桌面卸载谷歌账户管理程序&lt;/li&gt;
+&lt;li&gt;设置—应用—卸载谷歌服务助手&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;全过程完毕&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/google/" term="Google" label="Google" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/huawei/" term="Huawei" label="Huawei" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">三周年</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/third-anniversary/" />
