@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-10-15T10:34:13&#43;08:00</updated>
+    <updated>2021-10-30T21:45:41&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,260 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">读《程序员的思维修炼》</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/pragmatic-thinking-and-learning-refactor-your-wetware/" />
+            <id>https://aaronnick.github.io/posts/pragmatic-thinking-and-learning-refactor-your-wetware/</id>
+            <updated>2021-10-30T21:40:59&#43;08:00</updated>
+            <published>2021-10-30T21:22:44&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">翻完本书，最大的收获是评估技能学习阶段的德雷福斯模型： 新手：需要指令清单。规则让你启程，不会让你走得……</summary>
+            
+                <content type="html">&lt;p&gt;翻完本书，最大的收获是评估技能学习阶段的德雷福斯模型：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;新手&lt;/strong&gt;：需要指令清单。规则让你启程，不会让你走得更远。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高级新手&lt;/strong&gt;：摆脱一定的规则，独自尝试任务，但是仍需指导。不具备全局思维。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;胜任者&lt;/strong&gt;：能够建立问题领域的概念模型，并有效使用它们。独立解决问题，并着手解决新出现的问题。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;精通者&lt;/strong&gt;：需要全局思维，寻找并想要了解更大的概念框架。拥有自我纠正的技能。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专家&lt;/strong&gt;：各个领域知识和信息的主要来源。不断寻找更好的方法和方式做事，善于利用丰富的经验解决问题。专家凭直觉工作，而不需要理由。理解情境是成为专家的关键。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这一模型其实也可以对应到某个岗位的阶段，比如产品经理。初级产品经理只是对功能的修修补补，无法看到业务的整体面貌；往上走则是开始建立产品认知，熟悉业务流程，可以针对出现的问题提出单独的甚至系统性的解决方案； 继续往上走则是深知业务所在的行业发展情况，对行业前景有所预判，深知能够影响行业的某些发展趋势。&lt;/p&gt;
+&lt;p&gt;书中提出警示：成为专家后，最致命的地方就是固化思维。一旦相信自己的专家水平，则对其他意见视而不见，从而停止了好奇心。可能会抵制所属领域带来的改变，担心失去权威。此时，自己的判断和看法不再支持你，而是囚禁你。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自由的代价是永远提高警惕。 &lt;br&gt;
+——约翰·菲尔波特·柯伦， 1790 年&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;《白色巨塔》的财前五郎，无论其视野还是技能，都能当任教授。但当成教授之后，他便是被这个位置所禁锢了，眼里容不得一点他人的挑战。其最后的悲剧也有一部分源于他的自以为是。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4myxY_Mgo_F5JFvhG1XtSj_29R5Jub4grQ3OewfbSU4ceusOCYoeGqqepVKjmYkOO2YoSTCv6GisVWse2aUgPE3zH3zkFqO4xMAYUQngS4NzLCi4w_4bFk5FBsR2hv03lsKQCmMa63d2iziRbUImhvS85btGaaSF2t4ZeWPgyALQIrY3f9-iCkhqVSssO6PYLd?width=1080&amp;amp;height=1535&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;《程序员的思维修炼》&#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">神策 2021 数据驱动大会</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/sensors-data-driven-conference-2021/" />
+            <id>https://aaronnick.github.io/posts/sensors-data-driven-conference-2021/</id>
+            <updated>2021-10-30T21:39:50&#43;08:00</updated>
+            <published>2021-10-28T19:34:02&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这两天是神策一年一度的数据驱动大会，作为他们的客户，我们也受邀参加。 说是参加，其实是去学习。据说这个……</summary>
+            
+                <content type="html">&lt;p&gt;这两天是神策一年一度的数据驱动大会，作为他们的客户，我们也受邀参加。&lt;/p&gt;
+&lt;p&gt;说是参加，其实是去学习。据说这个大会的门票还挺贵，连直播的票价也上千。&lt;/p&gt;
+&lt;p&gt;昨天没有去现场，在公司看的直播。由于观看直播是需要权限的，而我们只有几个名额，因此，为了让大伙儿也能学习学习，我就组织了会议室投屏给大家一起看。但尴尬的是，当天直播并不顺利，直播一上午都是卡成 PPT，甚至一直在转小菊花。评论区一片骂声，纷纷怒喊“退票”。&lt;/p&gt;
+&lt;p&gt;稍微做了下检索工作，发现他们使用的服务商似乎和我们公司的是同一家，看到这里，我就理解了他们……骂归骂，直播还是得继续。神策这边处理得还算得体，不仅让小助手快速入场稳定大家的情绪，还立刻发了短信告知说会有回放，且赠送了一个训练营的观看权限。&lt;/p&gt;
+&lt;p&gt;今天我们四个人去现场听的演讲，体验还算不错，至少没有直播那么拉。&lt;/p&gt;
+&lt;p&gt;说来搞笑，之前我们想着下午才去的，因为大家说上午的演讲似乎没啥看头，可以吃完午饭再一起过去。然而没过多久，Yilia 说上午有个场她想去听，而且据说安排了午餐，这个时候大家动摇了，动摇的不是上午场的内容，而是解决了午饭的这个“重大问题”……于是，最后我们改成了上午去参加大会。果然，大家都离不开“食色性也”。&lt;/p&gt;
+&lt;p&gt;大会内容就不具体展开了，我只想说的确不错，值得跑一趟。对于讲座，我自己的评判标准是，只要收获到一句话，或者启发一个思路，那就值了，况且今天不止启发了我一点，况且午餐还挺好吃。&lt;/p&gt;
+&lt;p&gt;离开的时候，神策的小伙伴拦住我，问我领了证书没。我心想，参加个大会要领啥证书啊，经他解释才知道是一个毕业证书——听完讲座就可以拿到，这算啥证书啊。看他这么热情我也不好拒人千里之外，于是告诉他编号，接着工作人员在证书写上我的名字。在写之前，我还特意强调不要把我名字写错了，因为他们给我的参会牌子就写反了我的名字！这也不能怪他们，因为我的名字反过来读就是一家大名鼎鼎的银行，这小半生，已经有无数人读反我的名字了，我早就释然了。&lt;/p&gt;
+&lt;p&gt;我猜测他们这么迫切想要参会人员拿这个证书，一来是已经打印好了，不取走就浪费了；二来是这么好看的证书，兴许有人发朋友圈呢，这样就无形中扩大了神策大会的影响力。不过，我是不会发朋友圈的，可能他们要失算了；但是我发了博客，我也失算了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m8HGatVXqGq461aiKmh_tJQsuHccWx8aq8UtqtpLSpDqJFupmZGZM8k3BqH_o_pckpbu2HDOLIlXqq3Tfbr1NVR0Ii7paaGdhbRuvfWGcOIXzIetkg2pxPuAJ93uiqdcp5okhgjq_xJTJ4RqfsGodPVEankSnf_yfjNGdZJIl9Ef2O2QwFAT_H67DJhGY4gu_?width=3840&amp;amp;height=2592&amp;amp;cropmode=none&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">近期看了几部金庸小说</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-a-few-martial-arts-novels/" />
+            <id>https://aaronnick.github.io/posts/read-a-few-martial-arts-novels/</id>
+            <updated>2021-10-30T21:40:07&#43;08:00</updated>
+            <published>2021-10-26T12:43:44&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近几个月，我花了大量的时间在看金庸小说。从《天龙八部》到“射雕三部曲”，再到《笑傲江湖》，基本把以……</summary>
+            
+                <content type="html">&lt;p&gt;最近几个月，我花了大量的时间在看金庸小说。从《天龙八部》到“射雕三部曲”，再到《笑傲江湖》，基本把以前听说没看过都看了一遍。&lt;/p&gt;
+&lt;p&gt;射雕三部曲中的《射雕英雄传》我这次没看，因为在大学的时候已经完整看过一遍了，电视剧也看过无数遍了，因此再看原著对我的吸引没那么大。与之相反，其他小说我或多或少都看过一些电视剧，但小说一直没有看，为了早点填补上这个遗憾，趁着凉爽的秋天就一起看了。&lt;/p&gt;
+&lt;h3 id=&#34;天龙八部&#34;&gt;《天龙八部》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mgFwILJdg6roI0X2fw50gomLiygtxO_dE5TuaqSDR364RidgMpVQDeisKiSuToB1gRnvMbfphEChcmUwR7KdvyUJWGF_sRHYdRCujkT0NtZMb8FBM2nEGGQTCBe0B_JTiI5Yzu-QoDbydpWk0hwyQxomVqZ8as0GcMo5j1tzedW8rsTwIzvhx_T4-4enwuP8L?width=1080&amp;amp;height=981&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;萧峰与阿朱&#34;&gt;&lt;/p&gt;
+&lt;p&gt;《天龙八部》，大气磅礴，掩卷叹息。三条主线齐发，最后三个主角回合，写作手法较金庸之前的套路不同，还挺新鲜的。萧峰可以称得上是侠之大者，为国为民。他不同于其他武侠里的主角，仅仅是沉迷于武功高低，他有宽大的胸怀和志向，时时将国家兴衰放在心头，这一点就高出了很多所谓的“大侠”。但可惜的是，不同的立场造就了人物命运的悲哀，萧峰和阿朱的爱情更是让人叹息不止。&lt;/p&gt;
+&lt;h3 id=&#34;神雕侠侣&#34;&gt;《神雕侠侣》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mx-e-diTi2E07ZLWv1b7_EvbTkCDqreT6CUhYJ7VwMSP9GoVNiIiffNypqgzQr_z0-usOsBBPxfccSS1jnMsJG0yWgHBSF9PwrfAuCjChFrrz4i-h4SbOWNC5wf9r2wFpvhexNs-oEDyu2WKVwZA3E0UFkSSFL3RfdmlzsZPFDIy3JGD_VwvOeTyEoFvPOtB9?width=1080&amp;amp;height=1080&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;刘亦菲饰演的小龙女&#34;&gt;&lt;/p&gt;
+&lt;p&gt;《神雕侠侣》是我之前最喜欢的武侠电视剧之一，很大的原因是刘亦菲所扮演的小龙女实在是太深入人心了。那会儿《仙剑奇侠传》灵儿的“仙女”形象已经根植于心，很容易就把这种印象过渡到小龙女身上。其他版本的电视剧我也都看了不少，李若彤的形象在“仙气”上还是比不过刘亦菲。当然这也是自己的一家之言。这次看完了原著，我更加坚定刘亦菲的形象和演绎很符合心目中的小龙女。&lt;/p&gt;
+&lt;p&gt;杨过同样是我很喜欢的一个角色，身世悲惨，从小备受欺凌，但是却绝顶聪明，聪明中又带着一丝邪气。这类人我身边也有，脑瓜聪明得不像话。十个单词你背十分钟，他一分钟可以背二十个。偏偏这么好的天赋，最后拿去打架斗殴。至于最后是否能够像杨过一样遇到姑姑练就一身本领，遇到郭靖等人学得一身侠气，最后幡然醒悟成就一代大侠，那就不得而知了。&lt;/p&gt;
+&lt;h3 id=&#34;倚天屠龙记&#34;&gt;《倚天屠龙记》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4m2XoiZIKNlkbz1_3vwXQC-oXe0m0xu3R9icItX8wZXJfZG_hEv2aSzAFIYlyoxK5G5cJxSJ0Z7E073kRDMMZxaqxxcB6PxbJu0SQEd7oktybKWkUyf-qks_kNXLyNf2LDDOjCjxPxpgHL1FjT6Gxg7uzo9z2br8CFDmvEgrizsEa7TsI9dx6Arqm1vRPZTHEw?width=1080&amp;amp;height=603&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;张敏饰演的赵敏&#34;&gt;&lt;/p&gt;
+&lt;p&gt;《倚天屠龙记》，电视剧我也是看过不下三四次了，剧情基本都能背出来。看完了原著，我才发现电视剧删减了不少剧情，例如张翠山和殷素素的相见、相识、相爱的过程，被电视剧里一集带过。但这也不影响苏有朋这一版电视剧在我心目中的地位。&lt;/p&gt;
+&lt;p&gt;张无忌在电视剧中是一个大好人的存在，小说中则是一个多情种子，前脚刚和周芷若眉来眼去，后脚就和赵敏打情骂俏，而且在几个女子之间徘徊不定，大事上也忧柔寡断，怪不得被众多人成为“渣男”。另外，他的老爸张翠山其实比他还“渣男”，即使夫妻十年，回到武当山开口第一句就是告诉张三丰“弟子不孝，娶了魔教妖女……”可以说迂腐至极，真是可惜了殷素素这么一个杀伐果断的女子代表。&lt;/p&gt;
+&lt;h3 id=&#34;笑傲江湖&#34;&gt;《笑傲江湖》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mOLh3HZLtC1OEit4Y46N8ScdmK-dERlu1rXDiChAVNpdJ9a2iOkVAvEj-1PFLgmKfAKjrLK1_DDE7OOO_jgbPKMQdoYjRyrW2KNNUCuz9IdY1RciJemBHcVAKk8DfMGQxkkbDlFXV70TMb3NL7OEcpxP1M62m404h1LIjnF-P8EpjtniAmbH2eFvHIFT07Lc9?width=725&amp;amp;height=544&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;风清扬与令狐冲&#34;&gt;&lt;/p&gt;
+&lt;p&gt;《笑傲江湖》，一本《辟邪剑谱》就把整个江湖搅得天翻地覆，相反，那一曲“笑傲江湖”却没什么人问津。口口声声说“五岳剑派，同气连枝”，背地里却各种阴谋厮杀。电视剧里出场甚多的东方不败，小说中只出现了五分钟便领了盒饭，实属搞笑。小说中的人各有各的执念，而那些执念太深的人往往没有好结果。岳不群深陷权势之中而盗《辟邪剑谱》，最后为成为五岳剑派掌门而自宫；林平之，可怜之人，背负血海深仇，最后也自宫练功。&lt;/p&gt;
+&lt;h3 id=&#34;小结&#34;&gt;小结&lt;/h3&gt;
+&lt;p&gt;按照时间顺序看的话，《天龙八部》、《射雕英雄传》、《神雕侠侣》、《倚天屠龙记》、《笑傲江湖》，有种亦真亦假的感觉，非常的爽。&lt;/p&gt;
+&lt;p&gt;不过，我在看的时候，发现有不少重复的设定，以至于感觉有点剧情疲劳了。比如《笑傲江湖》中半个江湖给令狐冲治病与《神雕侠侣》中西山一窟鬼等给郭襄庆生；又如《笑傲江湖》中让我及其讨厌的桃谷六仙与《天龙八部》的包不同。&lt;/p&gt;
+&lt;p&gt;整个序列看下来，发现一个有意思的地方——随着武侠朝代背景不断接近现代，主角们的武功也在不断降低。从《天龙八部》时期的降龙二十八掌、北冥神功、六脉神剑等绝世武功，到《射雕英雄传》《神雕侠侣》《倚天屠龙记》的九阴真经、九阳真经等高深内功，此时开始出现厉害的兵刃，似乎高深武功抵不上一柄强大的武器。一把屠龙刀就能忽悠整个武林为之疯狂。再到《笑傲江湖》时期更为离谱，一本《辟邪剑谱》弄得林家几遭灭门，可见此时武林人士重器而不重功了。华山派令狐冲位列一等高手，如果手中没有一把剑，竟几乎手无缚鸡之力，夸张至极。&lt;/p&gt;
+&lt;p&gt;也许金庸老爷子也知道，越靠近近代，越不能写得太离谱，毕竟“科技是第一生产力”。内功（气功）再好，一把枪，甚至一把利刃就能破了你的功。&lt;/p&gt;
+&lt;p&gt;最后，晒一下近两个月的阅读统计，每周十几个小时的阅读时间。要是看的是出版类书籍，我想都不敢想。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4my9hsDMJoQuvo3woCYr5qwsAml4oWRuTmGbS3Yr6oaJD1Eg0ZWvvScmc1NhLxKWS5MUworc-9j_KMC_vHGd0r9F9ikZ0vRDO8OfhE1IBPmMvxLrMu_LP6gwAdMRxp8KxnF7oD_vA2QC3rVjB6GFFEOdAFVPircoiF3-xYGc0CbiSUXRJBhIuETj7Der--Mg4k?width=2002&amp;amp;height=1004&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;8 月阅读统计&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mUE5QUwRaGae8UGPXzoXkPC8aPrdMzHjvn6yYXhlIKalnleMbQQnhzvJmmZxpz9CIjwM1gqY09XQkNF2sHj8r9IMZ8kNw4G1TFCxDr0bT8rYAzmWX4lwqMPC4YhXZApRiyMtc6P8DIL8f1vwIemw_xtLTpW_PCAhbd44VnUCw0HXIC_o9NdnZCw80edM_QGVJ?width=2002&amp;amp;height=1004&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;9 月阅读统计&#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">观“柳永哲”事件的两部片</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/two-films-about-liu-yongzhe/" />
+            <id>https://aaronnick.github.io/posts/two-films-about-liu-yongzhe/</id>
+            <updated>2021-10-30T21:40:43&#43;08:00</updated>
+            <published>2021-10-24T18:43:52&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近刷 Netflix 的时候，平台基于我的观看习惯推荐了一部纪录片《韩国雨衣杀手：全面追击柳永哲》，好奇搜了下，发……</summary>
+            
+                <content type="html">&lt;p&gt;最近刷 Netflix 的时候，平台基于我的观看习惯推荐了一部纪录片《韩国雨衣杀手：全面追击柳永哲》，好奇搜了下，发现这个事件当年还挺轰动的，后来还改编成了一部电影《追击者》。&lt;/p&gt;
+&lt;p&gt;好奇心大起，决定看一下这片子，了解这个事件。&lt;/p&gt;
+&lt;p&gt;本着不被剧透的心态，决定先看电影，再看纪录片。&lt;/p&gt;
+&lt;p&gt;电影讲述了一个退休警察经营的应召女郎服务店连续失踪几个应召女，后被他追踪到这些应召女都被一个神秘男子杀害，自此解开了一个连续杀人案的真相。&lt;/p&gt;
+&lt;p&gt;剧情不合理之处不少，而且强行把非主角的其他角色弄成智障设定，这让我感觉很浪费情绪。不过到真正看纪录片的时候，我竟然有点理解导演和编剧了……因为那个时候的韩国警察确实够智障的。&lt;/p&gt;
+&lt;p&gt;韩国人拍是真的敢拍，把柳永哲的残忍发挥得淋漓尽致。肢解，断头，血淋淋地给你呈现出来……视觉张力很强。但这也让我感觉导演叙事的不成熟，用视觉冲击替代不完整的故事演绎。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4maU0DpXzpNjmAPu3sLZ5akPffD4c3gW5StHZ5QbFO0DTCLwyhZ8yoBUm56cOGgrZItrOqTVo5IFjB_KcYs9Y3YD-8qo6pXZvxWM4zb-x13qomfuFxD9eGca0S1o24Mc_Mv4D02u3NnMRixjilYFQvTrj02nNbusqA--D76NxP9eOcIGf-kZd5pwDZg4ykLlpt?width=893&amp;amp;height=1280&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;《追击者》海报&#34;&gt;&lt;/p&gt;
+&lt;p&gt;纪录片属于一般水平，从国家、社会、执法机构等层面分析了这一事件发生的背后原因。不过没有仔细分析柳永哲的个人成长经历，这是一大遗憾。一个连续杀害数十人的杀人犯，其背后肯定是有着深刻的原因，但纪录片在这块挖掘得还是太浅了。&lt;/p&gt;
+&lt;p&gt;纪录片中很多人都是当年的警察。警察队长讲述过去这段往事的时候，嘴角还不时上扬——似乎还颇为得意。我心想：连续杀害这么多人都查不出，最后还得依靠应召女老板提供线索才能抓到，抓到了中途还被逃跑了一次，你丫洋洋得意啥？当时看得我想上前抽他两巴掌。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mcHEgO11Ub_-9_L6wN1p0S0TOBFvjZAO1PP6DAfdgOvRlQ4GfQ2XwB86pDck4lvaNhLcb0Um2Y8L12nFYUiP9Nx3JbM2DakFTICDWQcWvMYEnRoCMuA2c_xW6CO_EuD_1jpoG6It3CqPSAbWXkaR2bwGIDhp5IWVXWAmUj5y8z1qnT8gVtzbfnuI3uFW2CxgP?width=883&amp;amp;height=1280&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;《全面追击柳永哲》海报&#34;&gt;&lt;/p&gt;
+&lt;p&gt;看完后让我想起了我们国内发生在 1996 年的南京大学刁爱青碎尸案，凶手虽没有像柳永哲一样杀害多人，但是其碎尸两千余块的手法也是让人感到不寒而已，更难以置信的是，这个案件至今未破，凶手依旧逍遥法外。&lt;/p&gt;
+&lt;p&gt;韩国警察虽然欠抽，但是经过这次事件后，韩国警方也加速了内部改革的进度，这一点不得不服。就像之前的《熔炉》所引发的社会关注，进而产生了《熔炉法》。&lt;/p&gt;
+&lt;p&gt;不得不说，韩国有这样开放的环境，能让导演敢拍，演绎工作者能拍，出了事情后当局也能够反思改正，这一点很让人佩服。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">再观《金福南杀人事件始末》</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-whole-story-of-the-kim-bok-nam-murder-case/" />
+            <id>https://aaronnick.github.io/posts/the-whole-story-of-the-kim-bok-nam-murder-case/</id>
+            <updated>2021-10-30T21:40:28&#43;08:00</updated>
+            <published>2021-10-18T18:14:07&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">近期重新看了这部电影，依旧被这部电影的张力所震撼。 电影讲述了一场复仇大屠杀。一个荒芜的小岛，善良的金……</summary>
+            
+                <content type="html">&lt;p&gt;近期重新看了这部电影，依旧被这部电影的张力所震撼。&lt;/p&gt;
+&lt;p&gt;电影讲述了一场复仇大屠杀。一个荒芜的小岛，善良的金福南被当地人当做畜生一样使唤。她的女儿被杀，心中的希望破灭后，她拿起镰刀挥向岛上曾经欺辱过她的每个人。&lt;/p&gt;
+&lt;p&gt;全程看下来，我竟没有觉得她残忍，反而想大呼畅快。一个曾经善良无比的人，最后变成复仇狂魔，其中经历了亲人死亡的噩梦，求助执法机关的无助，朋友背叛的失望，梦想破灭的心灰意冷……这个世界对她而言，已经没有任何期待，也没有任何帮助，于是她决定自己救赎自己……&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mjMEr8ENrTMHADyJhS0VPHvRfLcz3kV9qYacLqKbVCk82CGsQLq7lOdE8o5uDEPluIFz5uqT4Bzp2uS1kvONtzq23pvoM5hVkNamPwouPhjrmzKpRkNxvNmTDzan559oq8S7WSS4KhQKoWxXskEBbWMOSMxhW5DkEyNWeSLKyGkVczOxD8PFSL6e2l4xMGAVh?width=1080&amp;amp;height=1620&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;《金福南杀人事件始末》剧照&#34;&gt;&lt;/p&gt;
+&lt;p&gt;金福南有罪，她挥刀相向的人都有罪，后者没有得到法律的审判，她也不接受法律的审判。&lt;/p&gt;
+&lt;p&gt;据说电影来自真实事件改编，但我没有搜索到具体的真实事件。不过没有多大关系，因为它讲述的事情，也许在现实中每天都在发生，只是或大或小而已。&lt;/p&gt;
+&lt;p&gt;欧金中事件就是一个例子。&lt;/p&gt;
+&lt;p&gt;从媒体披露来看，他曾经也是一个善良的人，救过人，救过动物，但最终救不了自己和家人。五年的铁硼生活，也许他也经历过金福南的彻底失望和无助，谁知道呢？&lt;/p&gt;
+&lt;p&gt;欧金中和金福南很像，结局也很像，但金福南用一场屠杀唤醒了冷漠的海媛，欧金中唤起了什么呢？&lt;/p&gt;
+&lt;script async src=&#34;https://telegram.org/js/telegram-widget.js?14&#34; data-telegram-post=&#34;weiyexing/2676&#34; data-width=&#34;100%&#34;&gt;&lt;/script&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/film/" term="Film" label="Film" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">华为手机安装谷歌服务教程</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/install-google-services-on-huawei/" />
@@ -6237,7 +6491,7 @@ Medium 上有逐字翻译文章：&lt;a href=&#34;https://medium.com/3pm-lab/mar
             <title type="text">支教回顾</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-memory-of-volunteer-education/" />
             <id>https://aaronnick.github.io/posts/the-memory-of-volunteer-education/</id>
-            <updated>2021-06-06T00:12:33&#43;08:00</updated>
+            <updated>2021-10-20T22:19:26&#43;08:00</updated>
             <published>2021-02-09T20:10:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10367,7 +10621,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-10-07T22:21:20&#43;08:00</updated>
+            <updated>2021-10-22T19:58:22&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -10390,6 +10644,34 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-18&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《金福南杀人事件始末》· [韩] 2010&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;人性&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;压迫越厉害，反抗越血腥&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-17&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《东城梦魇》· [美] 2021&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;犯罪&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;支线过多，没有收得很好。好演员拯救了这部剧&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-16&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《洛城机密》· [美] 1997&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;犯罪&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;案情错综复杂，配上好演技，片子绝了&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-10&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《大逃杀》· [日] 2000&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;大逃杀 人性&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;有点中二和矫情&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-10-06&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《大决战之辽沈战役》· [中国大陆] 1991&lt;/td&gt;
@@ -11325,7 +11607,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-10-07T22:22:47&#43;08:00</updated>
+            <updated>2021-10-30T12:43:18&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -11349,6 +11631,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-10-23&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《笑傲江湖》· 金庸&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;武侠&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.4&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;东方不败铺垫这么多，出场五分钟就挂了，的确让我意外&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-10-02&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《程序员的思维修炼》· [美] Andy Hunt&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;思维&lt;/td&gt;
@@ -11361,6 +11650,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;td style=&#34;text-align:left&#34;&gt;游记&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;4.5&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;旅游不是到达了一个地方，而是触摸到了这个地方的历史、文化、灵魂&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-09-26&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《天龙八部》· 金庸&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;武侠&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;荡气回肠，乔峰不愧是大丈夫、大英雄&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-09-11&lt;/td&gt;

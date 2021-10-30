@@ -2,8 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aaronnick.github.io/posts/</loc>
+    <lastmod>2021-10-30T21:40:59+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/read/</loc>
+    <lastmod>2021-10-30T21:40:59+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/</loc>
+    <lastmod>2021-10-30T21:40:59+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2021-10-30T21:40:59+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/pragmatic-thinking-and-learning-refactor-your-wetware/</loc>
+    <lastmod>2021-10-30T21:40:59+08:00</lastmod>
+  </url><url>
     <loc>https://aaronnick.github.io/tags/essay/</loc>
-    <lastmod>2021-10-15T10:33:18+08:00</lastmod>
+    <lastmod>2021-10-30T21:39:50+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/life/</loc>
+    <lastmod>2021-10-30T21:39:50+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/sensors-data-driven-conference-2021/</loc>
+    <lastmod>2021-10-30T21:39:50+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/read-a-few-martial-arts-novels/</loc>
+    <lastmod>2021-10-30T21:40:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/film/</loc>
+    <lastmod>2021-10-30T21:40:43+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/two-films-about-liu-yongzhe/</loc>
+    <lastmod>2021-10-30T21:40:43+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/the-whole-story-of-the-kim-bok-nam-murder-case/</loc>
+    <lastmod>2021-10-30T21:40:28+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/google/</loc>
     <lastmod>2021-10-15T10:33:18+08:00</lastmod>
@@ -11,20 +44,8 @@
     <loc>https://aaronnick.github.io/tags/huawei/</loc>
     <lastmod>2021-10-15T10:33:18+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2021-10-15T10:33:18+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2021-10-15T10:33:18+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/install-google-services-on-huawei/</loc>
     <lastmod>2021-10-15T10:33:18+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/</loc>
-    <lastmod>2021-10-15T10:33:18+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/life/</loc>
-    <lastmod>2021-10-07T22:09:34+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/third-anniversary/</loc>
     <lastmod>2021-10-07T22:09:34+08:00</lastmod>
@@ -34,9 +55,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/wedding-in-pinggu/</loc>
     <lastmod>2021-10-07T21:13:24+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/film/</loc>
-    <lastmod>2021-10-07T22:21:20+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/squid-game/</loc>
     <lastmod>2021-10-07T21:51:27+08:00</lastmod>
@@ -119,9 +137,6 @@
     <loc>https://aaronnick.github.io/posts/seventh-day-of-july/</loc>
     <lastmod>2021-08-14T14:52:08+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/tags/read/</loc>
-    <lastmod>2021-10-07T22:22:47+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/feynman/</loc>
     <lastmod>2021-08-07T10:57:17+08:00</lastmod>
   </url><url>
@@ -195,7 +210,7 @@
     <lastmod>2021-06-05T17:47:20+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/education/</loc>
-    <lastmod>2021-06-09T23:32:15+08:00</lastmod>
+    <lastmod>2021-10-20T22:19:26+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/no-tutorials/</loc>
     <lastmod>2021-06-09T23:32:15+08:00</lastmod>
@@ -333,7 +348,7 @@
     <lastmod>2021-04-09T22:25:53+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/the-memory-of-volunteer-education/</loc>
-    <lastmod>2021-06-06T00:12:33+08:00</lastmod>
+    <lastmod>2021-10-20T22:19:26+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/the-fear-of-the-unknown/</loc>
     <lastmod>2021-04-08T13:24:54+08:00</lastmod>
@@ -459,7 +474,7 @@
     <lastmod>2021-04-09T22:38:52+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/film-record/</loc>
-    <lastmod>2021-10-07T22:21:20+08:00</lastmod>
+    <lastmod>2021-10-22T19:58:22+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/weekly-37/</loc>
     <lastmod>2021-04-09T22:06:49+08:00</lastmod>
@@ -468,7 +483,7 @@
     <lastmod>2021-04-09T22:19:38+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/reading-record/</loc>
-    <lastmod>2021-10-07T22:22:47+08:00</lastmod>
+    <lastmod>2021-10-30T12:43:18+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/weekly-36/</loc>
     <lastmod>2021-04-09T22:05:57+08:00</lastmod>
