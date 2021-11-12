@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 13 Nov 2021 01:20:18 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 01:49:01 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
@@ -69,6 +69,12 @@
                                 
                                 
                                     <category domain="https://aaronnick.github.io/tags/life/">Life</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/people/">People</category>
                                 
                             
                         
@@ -1889,6 +1895,12 @@ Huawei.zip 解压到默认&lt;/li&gt;
                                 
                                 
                                     <category domain="https://aaronnick.github.io/tags/poetry/">Poetry</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/people/">People</category>
                                 
                             
                         
