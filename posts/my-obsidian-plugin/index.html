@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+    <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+    <meta charset="UTF-8" />
+
+    <meta name="generator" content="Hugo 0.86.0" /><meta name="theme-color" content="#16171d" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
+    
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+
+    <title>Obsidian 插件（持续更新） | 叶星优酸乳</title>
+
+    <link rel="stylesheet" href="/css/meme.min.267f7fd57f210cea6776810af84bb2686af67296b6d682042fcd4a31dc1a1a10.css"/>
+
+    
+    
+        <script src="/js/meme.min.cbd18581a1e4016f24f4287bcd1654402029fcc0b866ee08b3e45b47f07bdeaa.js"></script>
+
+    
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB&#43;Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Noto&#43;Serif&#43;SC:wght@400;500;700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" media="print" onload="this.media='all'" />
+        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB&#43;Garamond:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Noto&#43;Serif&#43;SC:wght@400;500;700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" /></noscript>
+
+    <meta name="author" content="Wesson" /><meta name="description" content="Obsidian 的插件列表及体验记录。" />
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#2a6df4" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="叶星优酸乳" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="application-name" content="叶星优酸乳" />
+    <meta name="msapplication-starturl" content="../../" />
+    <meta name="msapplication-TileColor" content="#fff" />
+    <meta name="msapplication-TileImage" content="../../icons/mstile-150x150.png" />
+    <link rel="manifest" href="/manifest.json" />
+
+    
+    
+
+    
+    <link rel="canonical" href="https://aaronnick.github.io/posts/my-obsidian-plugin/" />
+    
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "datePublished": "2021-12-03T17:34:30+08:00",
+        "dateModified": "2021-12-03T19:19:56+08:00",
+        "url": "https://aaronnick.github.io/posts/my-obsidian-plugin/",
+        "headline": "Obsidian 插件（持续更新）",
+        "description": "Obsidian 的插件列表及体验记录。",
+        "inLanguage" : "zh-CN",
+        "articleSection": "posts",
+        "wordCount":  910 ,
+        "image": ["https://bn02pap001files.storage.live.com/y4mhuBBpK316zBx7a_DNlahXh-41QVMVslz-GyY8upv2FlEyf37OwUPQ0ow03TzV4RgBCTnsAYKHQ9GEulb7OuKXZo-oSgQGLTSprC3Nu9_1um2Bd8PyA1b6zsrpk6lav7UBKLn9MhdbZlW9uzPMrETD9rkr4jB-wDtEm9abCs7wEO66jyUTY-7boCgytPci8IU?width=1080\u0026amp;height=360\u0026amp;cropmode=none"],
+        "author": {
+            "@type": "Person",
+            "description": "Do the right thing, make things right",
+            "email": "weiyexing1@gmail.com",
+            "image": "https://aaronnick.github.io/icons/apple-touch-icon.png",
+            "url": "https://weiyexing.ml/",
+            "name": "Wesson"
+        },
+        "license": "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)",
+        "publisher": {
+            "@type": "Organization",
+            "name": "叶星优酸乳",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://aaronnick.github.io/icons/apple-touch-icon.png"
+            },
+            "url": "https://aaronnick.github.io/"
+        },
+        "mainEntityOfPage": {
+            "@type": "WebSite",
+            "@id": "https://aaronnick.github.io/"
+        }
+    }
+</script>
+
+    
+
+<meta name="twitter:card" content="summary_large_image" />
+
+
+<meta name="twitter:site" content="@Richard_Nick_" />
+<meta name="twitter:creator" content="@Richard_Nick_" />
+
+    
+
+
+
+<meta property="og:title" content="Obsidian 插件（持续更新）" />
+<meta property="og:description" content="Obsidian 的插件列表及体验记录。" />
+<meta property="og:url" content="https://aaronnick.github.io/posts/my-obsidian-plugin/" />
+<meta property="og:site_name" content="叶星优酸乳" />
+<meta property="og:locale" content="zh" /><meta property="og:image" content="https://bn02pap001files.storage.live.com/y4mhuBBpK316zBx7a_DNlahXh-41QVMVslz-GyY8upv2FlEyf37OwUPQ0ow03TzV4RgBCTnsAYKHQ9GEulb7OuKXZo-oSgQGLTSprC3Nu9_1um2Bd8PyA1b6zsrpk6lav7UBKLn9MhdbZlW9uzPMrETD9rkr4jB-wDtEm9abCs7wEO66jyUTY-7boCgytPci8IU?width=1080&amp;amp;height=360&amp;amp;cropmode=none" />
+<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2021-12-03T17:34:30&#43;08:00" />
+    <meta property="article:modified_time" content="2021-12-03T19:19:56&#43;08:00" />
+    
+    <meta property="article:section" content="posts" />
+
+
+        <meta name="google-site-verification" content="GBa5uRB3Xd5u84bJHCRVBST6blY4xNGoWQk4yZZPB5g" />
+        <link rel="preconnect" href="https://www.google-analytics.com" crossorigin />
+
+        
+
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-193141963-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-193141963-1');
+    </script>
+
+
+
+
+    
+    
+</head>
+
+    <body>
+        <div class="container">
+            
+    <header class="header">
+        
+            <div class="header-wrapper">
+                <div class="header-inner single">
+                    
+    <div class="site-brand">
+        
+            <a href="/" class="brand">叶星优酸乳</a>
+        
+    </div>
+
+                    <nav class="nav">
+    <ul class="menu" id="menu">
+        
+            
+        
+        
+        
+        
+            
+                <li class="menu-item"><a href="/posts/"><span class="menu-item-name">Achieves</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/tags/"><span class="menu-item-name">Tags</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/about/"><span class="menu-item-name">About</span></a>
+                </li>
+            
+        
+            
+                
+                    
+                    
+                        <li class="menu-item">
+                            <a id="theme-switcher" href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon theme-icon-light"><path d="M193.2 104.5l48.8-97.5a18 18 0 0128 0l48.8 97.5 103.4 -34.5a18 18 0 0119.8 19.8l-34.5 103.4l97.5 48.8a18 18 0 010 28l-97.5 48.8 34.5 103.4a18 18 0 01-19.8 19.8l-103.4-34.5-48.8 97.5a18 18 0 01-28 0l-48.8-97.5l-103.4 34.5a18 18 0 01-19.8-19.8l34.5-103.4-97.5-48.8a18 18 0 010-28l97.5-48.8-34.5-103.4a18 18 0 0119.8-19.8zM256 128a128 128 0 10.01 0M256 160a96 96 0 10.01 0"/></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon theme-icon-dark"><path d="M27 412a256 256 0 10154-407a11.5 11.5 0 00-5 20a201.5 201.5 0 01-134 374a11.5 11.5 0 00-15 13"/></svg></a>
+                        </li>
+                    
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+    </ul>
+</nav>
+
+                    
+                </div>
+            </div>
+            
+    <input type="checkbox" id="nav-toggle" aria-hidden="true" />
+    <label for="nav-toggle" class="nav-toggle"></label>
+    <label for="nav-toggle" class="nav-curtain"></label>
+
+
+        
+    </header>
+
+
+
+
+
+            
+            
+    <main class="main single" id="main">
+    <div class="main-inner">
+
+        
+
+        <article class="content post h-entry" data-align="justify" data-type="posts">
+
+            <h1 class="post-title p-name">Obsidian 插件（持续更新）</h1>
+
+            
+
+            
+
+            
+                
+
+<div class="post-meta">
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+            
+
+            <div class="post-body e-content">
+              <p><img src="https://bn02pap001files.storage.live.com/y4mhuBBpK316zBx7a_DNlahXh-41QVMVslz-GyY8upv2FlEyf37OwUPQ0ow03TzV4RgBCTnsAYKHQ9GEulb7OuKXZo-oSgQGLTSprC3Nu9_1um2Bd8PyA1b6zsrpk6lav7UBKLn9MhdbZlW9uzPMrETD9rkr4jB-wDtEm9abCs7wEO66jyUTY-7boCgytPci8IU?width=1080&amp;height=360&amp;cropmode=none" alt=""></p>
+<p>一个普通用户日常使用 Obsidian 的插件选择，主要是辅助输入，提升操作体验。对比较破坏 Markdown 语法的插件保持谨慎使用。该文档不定期更新，随着使用的深入进行增删调整。</p>
+<h3 id="obsidian-插件"><a href="#obsidian-插件" class="anchor-link">#</a>Obsidian 插件</h3>
+<h4 id="activity-history"><a href="#activity-history" class="anchor-link">#</a>Activity History</h4>
+<ul>
+<li>地址： <a href="https://github.com/tgrosinger/advanced-tables-obsidian" target="_blank" rel="noopener">https://github.com/tgrosinger/advanced-tables-obsidian</a></li>
+<li>功能： 展示类似 GitHub 的提交历史矩阵图，但只展示安装插件之后的活动记录。</li>
+</ul>
+<h4 id="advanced-tables"><a href="#advanced-tables" class="anchor-link">#</a>Advanced Tables</h4>
+<ul>
+<li>地址： <a href="https://github.com/tgrosinger/advanced-tables-obsidian" target="_blank" rel="noopener">https://github.com/tgrosinger/advanced-tables-obsidian</a></li>
+<li>功能： 表格编辑增强，提升操作体验。</li>
+</ul>
+<h4 id="auto-pair-chinese-symbol"><a href="#auto-pair-chinese-symbol" class="anchor-link">#</a>Auto pair chinese symbol</h4>
+<ul>
+<li>地址： <a href="https://github.com/renmu123/obsidian-auto-pair-chinese-symbol" target="_blank" rel="noopener">https://github.com/renmu123/obsidian-auto-pair-chinese-symbol</a></li>
+<li>功能： 自动补齐中文的一些符号，例如 <code>《》</code> <code>「」</code> <code>【】</code> 等。</li>
+</ul>
+<h4 id="better-footnote"><a href="#better-footnote" class="anchor-link">#</a>Better Footnote</h4>
+<ul>
+<li>地址： <a href="https://github.com/aidenlx/better-fn" target="_blank" rel="noopener">https://github.com/aidenlx/better-fn</a></li>
+<li>功能：悬停脚注的时候自动展示脚注内容，无需跳转问文末。</li>
+</ul>
+<h4 id="better-word-count"><a href="#better-word-count" class="anchor-link">#</a>Better Word Count</h4>
+<ul>
+<li>地址： <a href="https://github.com/lukeleppan/better-word-count" target="_blank" rel="noopener">https://github.com/lukeleppan/better-word-count</a></li>
+<li>功能： 更好的字数计数插件。</li>
+</ul>
+<h4 id="calendar"><a href="#calendar" class="anchor-link">#</a>Calendar</h4>
+<ul>
+<li>地址： <a href="https://github.com/liamcain/obsidian-calendar-plugin" target="_blank" rel="noopener">https://github.com/liamcain/obsidian-calendar-plugin</a></li>
+<li>功能： 展示日历视图，快速切换不同日期创建的日记。</li>
+</ul>
+<h4 id="codemirror-options"><a href="#codemirror-options" class="anchor-link">#</a>CodeMirror Options</h4>
+<ul>
+<li>地址： <a href="https://github.com/nothingislost/obsidian-codemirror-options" target="_blank" rel="noopener">https://github.com/nothingislost/obsidian-codemirror-options</a></li>
+<li>功能： 所见即所得插件。</li>
+</ul>
+<h4 id="customizable-sidebar"><a href="#customizable-sidebar" class="anchor-link">#</a>Customizable Sidebar</h4>
+<ul>
+<li>地址： <a href="https://github.com/phibr0/obsidian-customizable-sidebar" target="_blank" rel="noopener">https://github.com/phibr0/obsidian-customizable-sidebar</a></li>
+<li>功能： 添加命令到侧边栏，或者隐藏侧边栏的按钮。</li>
+</ul>
+<h4 id="dataview"><a href="#dataview" class="anchor-link">#</a>Dataview</h4>
+<ul>
+<li>地址： <a href="https://github.com/blacksmithgu/obsidian-dataview" target="_blank" rel="noopener">https://github.com/blacksmithgu/obsidian-dataview</a></li>
+<li>功能： 查询、过滤、排序和提取笔记库里的笔记，比如获取某些标签的笔记等。</li>
+</ul>
+<h4 id="dialogue"><a href="#dialogue" class="anchor-link">#</a>Dialogue</h4>
+<ul>
+<li>地址： <a href="https://github.com/holubj/obsidian-dialogue-plugin" target="_blank" rel="noopener">https://github.com/holubj/obsidian-dialogue-plugin</a></li>
+<li>功能： 创建对话式的 Markdown 笔记，比如拿来记录一些话题的讨论，比较美观。</li>
+</ul>
+<h4 id="easy-typing"><a href="#easy-typing" class="anchor-link">#</a>Easy Typing</h4>
+<ul>
+<li>地址： <a href="https://github.com/Yaozhuwa/easy-typing-obsidian" target="_blank" rel="noopener">https://github.com/Yaozhuwa/easy-typing-obsidian</a></li>
+<li>功能： 编辑增强插件，自动格式化书写，例如自动在中英文之间添加空格。</li>
+</ul>
+<h4 id="editor-syntax-highlight"><a href="#editor-syntax-highlight" class="anchor-link">#</a>Editor Syntax Highlight</h4>
+<ul>
+<li>地址： <a href="https://github.com/deathau/cm-editor-syntax-highlight-obsidian" target="_blank" rel="noopener">https://github.com/deathau/cm-editor-syntax-highlight-obsidian</a></li>
+<li>功能： 编辑模式下代码高亮。</li>
+</ul>
+<h4 id="excalidraw"><a href="#excalidraw" class="anchor-link">#</a>Excalidraw</h4>
+<ul>
+<li>地址： <a href="https://github.com/zsviczian/obsidian-excalidraw-plugin" target="_blank" rel="noopener">https://github.com/zsviczian/obsidian-excalidraw-plugin</a></li>
+<li>功能： 在 Obsidian 绘制美观的 Excalidraw（草图），且支持其他笔记引用。</li>
+</ul>
+<h4 id="footnotes-shortcut"><a href="#footnotes-shortcut" class="anchor-link">#</a>Footnotes Shortcut</h4>
+<ul>
+<li>地址： <a href="https://github.com/akaalias/obsidian-footnotes" target="_blank" rel="noopener">https://github.com/akaalias/obsidian-footnotes</a></li>
+<li>功能： 使用快捷键快速添加角标。</li>
+</ul>
+<h4 id="force-note-view-mode-by-front-matter"><a href="#force-note-view-mode-by-front-matter" class="anchor-link">#</a>Force note view mode by front matter</h4>
+<ul>
+<li>地址： <a href="https://github.com/bwydoogh/obsidian-force-view-mode-of-note" target="_blank" rel="noopener">https://github.com/bwydoogh/obsidian-force-view-mode-of-note</a></li>
+<li>功能： 通过 yaml 配置单篇文档打开时是编辑或者预览状态，一般应用于主页，默认打开为预览状态。</li>
+</ul>
+<h4 id="kanban"><a href="#kanban" class="anchor-link">#</a>Kanban</h4>
+<ul>
+<li>地址： <a href="https://github.com/mgmeyers/obsidian-kanban" target="_blank" rel="noopener">https://github.com/mgmeyers/obsidian-kanban</a></li>
+<li>功能： 创建一个看板视图。</li>
+</ul>
+<h4 id="media-extended"><a href="#media-extended" class="anchor-link">#</a>Media Extended</h4>
+<ul>
+<li>地址： <a href="https://github.com/aidenlx/media-extended" target="_blank" rel="noopener">https://github.com/aidenlx/media-extended</a></li>
+<li>功能： 支持在 Obsidian 打开 YouTube 视频，并支持打点做笔记。</li>
+</ul>
+<h4 id="media-extended-bilibili-plugin"><a href="#media-extended-bilibili-plugin" class="anchor-link">#</a>Media Extended BiliBili Plugin</h4>
+<ul>
+<li>地址： <a href="https://github.com/aidenlx/mx-bili-plugin" target="_blank" rel="noopener">https://github.com/aidenlx/mx-bili-plugin</a></li>
+<li>功能： 支持在 Obsidian 打开哔哩哔哩视频，并支持打点做笔记。</li>
+</ul>
+<h4 id="outliner"><a href="#outliner" class="anchor-link">#</a>Outliner</h4>
+<ul>
+<li>地址： <a href="https://github.com/vslinko/obsidian-outliner" target="_blank" rel="noopener">https://github.com/vslinko/obsidian-outliner</a></li>
+<li>功能： 列表编辑增强，并且使其像 Workflowy 或者 RoamResearch 一样美观。</li>
+</ul>
+<h4 id="recent-files"><a href="#recent-files" class="anchor-link">#</a>Recent Files</h4>
+<ul>
+<li>地址： <a href="https://github.com/tgrosinger/recent-files-obsidian" target="_blank" rel="noopener">https://github.com/tgrosinger/recent-files-obsidian</a></li>
+<li>功能： 展示最近打开的文件列表。</li>
+</ul>
+<h4 id="remember-cursor-position"><a href="#remember-cursor-position" class="anchor-link">#</a>Remember cursor position</h4>
+<ul>
+<li>地址： <a href="https://github.com/derwish-pro/obsidian-remember-cursor-position" target="_blank" rel="noopener">https://github.com/derwish-pro/obsidian-remember-cursor-position</a></li>
+<li>功能： 记住光标在文档中的最后位置，在浏览长文档或者来回切换文档时很有用。</li>
+</ul>
+<h4 id="reminder"><a href="#reminder" class="anchor-link">#</a>Reminder</h4>
+<ul>
+<li>地址： <a href="https://github.com/uphy/obsidian-reminder" target="_blank" rel="noopener">https://github.com/uphy/obsidian-reminder</a></li>
+<li>功能： 管理待办事项，以及设置提醒。</li>
+</ul>
+<h4 id="search-on-internet"><a href="#search-on-internet" class="anchor-link">#</a>Search on Internet</h4>
+<ul>
+<li>地址： <a href="https://github.com/HEmile/obsidian-search-on-internet" target="_blank" rel="noopener">https://github.com/HEmile/obsidian-search-on-internet</a></li>
+<li>功能： 在 Obsidian 内通过 Google/Wikipedia 查询选定的文本。</li>
+</ul>
+<h4 id="tasks"><a href="#tasks" class="anchor-link">#</a>Tasks</h4>
+<ul>
+<li>地址： <a href="https://github.com/schemar/obsidian-tasks" target="_blank" rel="noopener">https://github.com/schemar/obsidian-tasks</a></li>
+<li>功能： 任务管理插件。</li>
+</ul>
+<h4 id="tidy-footnotes"><a href="#tidy-footnotes" class="anchor-link">#</a>Tidy Footnotes</h4>
+<ul>
+<li>地址： <a href="https://github.com/charliecm/obsidian-tidy-footnotes" target="_blank" rel="noopener">https://github.com/charliecm/obsidian-tidy-footnotes</a></li>
+<li>功能： 自动整理笔记中的角标顺序，隐藏插件，需要使用命令面板调出使用。</li>
+</ul>
+<h4 id="various-complements"><a href="#various-complements" class="anchor-link">#</a>Various Complements</h4>
+<ul>
+<li>地址： <a href="https://github.com/tadashi-aikawa/obsidian-various-complements-plugin" target="_blank" rel="noopener">https://github.com/tadashi-aikawa/obsidian-various-complements-plugin</a></li>
+<li>功能：基于当前文档的字符，在书写时自动补充提醒（英/日语），也可以添加字典文件映射以达到辅助输入的效果。</li>
+</ul>
+<h4 id="workspaces-plus"><a href="#workspaces-plus" class="anchor-link">#</a>Workspaces Plus</h4>
+<ul>
+<li>地址： <a href="https://github.com/nothingislost/obsidian-workspaces-plus" target="_blank" rel="noopener">https://github.com/nothingislost/obsidian-workspaces-plus</a></li>
+<li>功能： 工作区增强（需打开核心插件里的工作区插件）</li>
+</ul>
+
+            </div>
+
+            
+
+
+        </article>
+
+        
+
+        
+
+
+        
+
+
+        
+
+
+        
+    
+    
+        <div class="related-posts">
+            <h2 class="related-title">相关文章：<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon related-icon"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm144 276c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92h-92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z"/></svg></h2>
+            <ul class="related-list">
+                
+                    <li class="related-item">
+                        <a href="/posts/my-obsidian-css-snippets/" class="related-link">Obsidian CSS 片段（持续更新）</a>
+                    </li>
+                
+                    <li class="related-item">
+                        <a href="/posts/black-hole/" class="related-link">软件｜电脑操作手机</a>
+                    </li>
+                
+                    <li class="related-item">
+                        <a href="/posts/keep-accounts-with-google-sheets/" class="related-link">记账｜Google sheets 做预算和记账</a>
+                    </li>
+                
+                    <li class="related-item">
+                        <a href="/posts/ediary/" class="related-link">软件｜一直在用的日记软件</a>
+                    </li>
+                
+            </ul>
+        </div>
+    
+
+
+
+        
+    
+        <div class="post-tags">
+            
+                
+                
+                
+                
+                    
+                    <a href="/tags/obsidian/" rel="tag" class="post-tags-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon tag-icon"><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>Obsidian</a>
+                
+            
+                
+                
+                
+                
+                    
+                    <a href="/tags/tool/" rel="tag" class="post-tags-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon tag-icon"><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>Tool</a>
+                
+            
+        </div>
+    
+
+
+
+        
+
+
+        
+
+
+        
+    
+        
+        
+    
+    
+    
+    
+        <ul class="post-nav">
+            
+                <li class="post-nav-prev">
+                    <a href="/posts/my-obsidian-css-snippets/" rel="prev">&lt; Obsidian CSS 片段（持续更新）</a>
+                </li>
+            
+            
+                <li class="post-nav-next">
+                    <a href="/posts/daily-202111/" rel="next">日志｜二〇二一·十一 &gt;</a>
+                </li>
+            
+        </ul>
+    
+
+
+
+        
+
+
+    </div>
+</main>
+
+
+            
+    <div id="back-to-top" class="back-to-top">
+        <a href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon arrow-up"><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"/></svg></a>
+    </div>
+
+
+            
+    <footer id="footer" class="footer">
+        <div class="footer-inner">
+            <div class="site-info">©&nbsp;2017–2021&nbsp;<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon footer-icon"><path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/></svg>&nbsp;Wesson</div><div class="custom-footer">Do the right thing, make things right</div>
+
+            
+    
+        <ul class="socials"><li class="socials-item">
+                    <a href="/rss.xml" target="_blank" rel="external noopener" title="RSS"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon social-icon"><path d="M19.199 24C19.199 13.467 10.533 4.8 0 4.8V0c13.165 0 24 10.835 24 24h-4.801zM3.291 17.415c1.814 0 3.293 1.479 3.293 3.295 0 1.813-1.485 3.29-3.301 3.29C1.47 24 0 22.526 0 20.71s1.475-3.294 3.291-3.295zM15.909 24h-4.665c0-6.169-5.075-11.245-11.244-11.245V8.09c8.727 0 15.909 7.184 15.909 15.91z"/></svg></a>
+                </li><li class="socials-item">
+                    <a href="mailto:weiyexing1@gmail.com" target="_blank" rel="external noopener" title="Email"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon social-icon"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"/></svg></a>
+                </li><li class="socials-item">
+                    <a href="https://twitter.com/Richard_Nick_" target="_blank" rel="external noopener" title="Twitter"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon social-icon"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg></a>
+                </li><li class="socials-item">
+                    <a href="https://t.me/weiyexing" target="_blank" rel="external noopener" title="Telegram"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="icon social-icon"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"/></svg></a>
+                </li></ul>
+    
+
+
+
+            
+        </div>
+    </footer>
+
+
+        </div>
+        
+
+        
+
+
+
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/medium-zoom@latest/dist/medium-zoom.min.js"></script>
+
+<script>
+    mediumZoom(document.querySelectorAll('div.post-body img'), {
+        background: 'hsla(var(--color-bg-h), var(--color-bg-s), var(--color-bg-l), 0.95)'
+    })
+</script>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js" type="module" defer></script>
+
+
+
+
+
+
+
+    </body>
+</html>
+
