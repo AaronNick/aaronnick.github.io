@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-12-03T19:22:06&#43;08:00</updated>
+    <updated>2021-12-03T21:57:04&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -756,7 +756,7 @@
             <title type="text">Obsidian 插件（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/my-obsidian-plugin/" />
             <id>https://aaronnick.github.io/posts/my-obsidian-plugin/</id>
-            <updated>2021-12-03T19:19:56&#43;08:00</updated>
+            <updated>2021-12-03T20:30:46&#43;08:00</updated>
             <published>2021-12-03T17:34:30&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -786,7 +786,7 @@
 &lt;h4 id=&#34;better-footnote&#34;&gt;Better Footnote&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;地址： &lt;a href=&#34;https://github.com/aidenlx/better-fn&#34;&gt;https://github.com/aidenlx/better-fn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;功能：悬停脚注的时候自动展示脚注内容，无需跳转问文末。&lt;/li&gt;
+&lt;li&gt;功能：悬停脚注的时候自动展示脚注内容，无需跳转文末。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;better-word-count&#34;&gt;Better Word Count&lt;/h4&gt;
 &lt;ul&gt;
@@ -19905,7 +19905,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">关于博客</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/about-blog/" />
             <id>https://aaronnick.github.io/posts/about-blog/</id>
-            <updated>2021-06-06T00:05:27&#43;08:00</updated>
+            <updated>2021-12-03T20:49:38&#43;08:00</updated>
             <published>2017-07-01T21:30:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -19918,13 +19918,13 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;p&gt;自读书开始，我便有记录自己所思所想的习惯。上学期间记在笔记本，之后发在微博、微信朋友圈等社交平台上。随着阅历的增长，我逐渐意识到我的内容其实并不属于我，而是属于公司。加之无比鄙弃互建城墙的内容生态、不规范的内容审核，于是我开始逐渐将内容从公司转移至自己手中，之后便有了这个博客（主题是 &lt;a href=&#34;https://github.com/reuixiy/hugo-theme-meme&#34;&gt;MemE&lt;/a&gt;）。&lt;/p&gt;
 &lt;p&gt;博客的作者是我，读者主要也是我，当然我也不介意别人来看。&lt;/p&gt;
 &lt;h3 id=&#34;博客名字由来&#34;&gt;博客名字由来&lt;/h3&gt;
-&lt;p&gt;博客的名字叫..叶星优酸乳..，这不是一个奶制品的名称，它源自两个小故事：一是叶星与我的名字谐音；二是小学的绘画老师曾布置了一个作业，让我们画一个物品，并写两句广告语。我喜欢喝酸酸乳，于是便画了一个，为其命名为「叶星优酸乳」，并写上了我的广告语——叶星优酸乳，好喝又大补！最后获得了 99 分。&lt;/p&gt;
-&lt;h3 id=&#34;最初域名由来&#34;&gt;最初域名由来&lt;/h3&gt;
-&lt;p&gt;最初名为 Aaron Nick，源于两个人：一个是 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron&lt;/a&gt;，他被称为互联网之子，参与了 RSS、Markdown、Reddit 等项目的开发，可以&lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;阅读此文&lt;/a&gt;进一步了解他的一生。他不循规蹈矩，坚持捍卫互联网的自由开放精神，并为之惹上官司，最终自杀身亡，年仅 26 岁，令人扼腕；&lt;/p&gt;
-&lt;p&gt;一个是 Nick，&lt;a href=&#34;https://book.douban.com/subject/25708359/&#34;&gt;《了不起的盖茨比》&lt;/a&gt;里的角色。这本书是我非常喜欢的小说，除了主角盖茨比之外，叙述者 Nick 也是我很喜欢的角色。于是我将两者结合，Aaron 代表自由与开放，Nick 代表见证者，我希望能够见证互联网自由与开放到来的一天。&lt;/p&gt;
+&lt;p&gt;博客的名字叫叶星优酸乳，这不是一个奶制品的名称，它源自两个小故事：一是叶星与我的名字谐音；二是小学的绘画老师曾布置了一个作业，让我们画一个物品，并写两句广告语。我喜欢喝酸酸乳，于是便画了一个，为其命名为「叶星优酸乳」，并写上了我的广告语——叶星优酸乳，好喝又大补！最后获得了 99 分。&lt;/p&gt;
+&lt;h3 id=&#34;渊源&#34;&gt;渊源&lt;/h3&gt;
+&lt;p&gt;最初名为 Aaron Nick，源于两个人：一个是 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BA%9A%E4%BC%A6%C2%B7%E6%96%AF%E6%B2%83%E8%8C%A8&#34;&gt;Aaron&lt;/a&gt;，他被称为互联网之子，曾参与 RSS、Markdown、Reddit 等项目的开发，可以&lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;阅读此文&lt;/a&gt;进一步了解他的一生。他不循规蹈矩，坚持捍卫互联网的自由开放精神，让我深深着迷。然而，他所追求的自由精神却给他带来了官司，最后更是不堪重负自杀身亡，年仅 26 岁，令人扼腕；&lt;/p&gt;
+&lt;p&gt;一个是 Nick，&lt;a href=&#34;https://book.douban.com/subject/25708359/&#34;&gt;《了不起的盖茨比》&lt;/a&gt;里的角色。这是我非常喜欢的小说，除了主角盖茨比之外，叙述者 Nick 也是我很喜欢的角色。于是我将两者结合，Aaron 代表自由与开放，Nick 代表见证者，我希望能够见证互联网自由与开放到来的一天。&lt;/p&gt;
 &lt;h3 id=&#34;博客内容&#34;&gt;博客内容&lt;/h3&gt;
-&lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用了国内网络在访问引用了以上来源的内容，这也是我无奈的地方——&lt;a href=&#34;https://weiyexing.ml/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;其中主要有几个板块：&lt;/p&gt;
+&lt;p&gt;在这个博客里，主要记录我的所见所闻，所思所想，包含：科技、创业、产品、设计、人文、创意、生活、读书、电影……其中的内容会引用 Twitter、Instagram、Telegram、YouTube 等平台的内容，如果遇到某篇文章的局部内容打不开，那说明你使用的网络“不建议”你打开此内容，这也是我无奈的地方——&lt;a href=&#34;https://weiyexing.ml/posts/ideal-internet/&#34;&gt;非理想中的互联网&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;其中，主要有几个板块：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;💡 &lt;a href=&#34;https://weiyexing.ml/tags/daily/&#34;&gt;日志&lt;/a&gt;：我思故我在；&lt;/li&gt;
 &lt;li&gt;🎨 &lt;a href=&#34;https://weiyexing.ml/tags/poetry/&#34;&gt;诗歌&lt;/a&gt;：人间日常切片；&lt;/li&gt;
