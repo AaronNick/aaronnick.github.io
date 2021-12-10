@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 05 Dec 2021 14:50:14 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 17:53:41 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
@@ -930,6 +930,7 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
                 
                     <description>&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mhuBBpK316zBx7a_DNlahXh-41QVMVslz-GyY8upv2FlEyf37OwUPQ0ow03TzV4RgBCTnsAYKHQ9GEulb7OuKXZo-oSgQGLTSprC3Nu9_1um2Bd8PyA1b6zsrpk6lav7UBKLn9MhdbZlW9uzPMrETD9rkr4jB-wDtEm9abCs7wEO66jyUTY-7boCgytPci8IU?width=1080&amp;amp;height=360&amp;amp;cropmode=none&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;一个普通用户日常使用 Obsidian 的插件选择，主要是辅助输入，提升操作体验。对比较破坏 Markdown 语法的插件保持谨慎使用。该文档不定期更新，随着使用的深入进行增删调整。&lt;/p&gt;
+&lt;p&gt;最后更新：2021-12-10&lt;/p&gt;
 &lt;h3 id=&#34;obsidian-插件&#34;&gt;Obsidian 插件&lt;/h3&gt;
 &lt;h4 id=&#34;activity-history&#34;&gt;Activity History&lt;/h4&gt;
 &lt;ul&gt;
@@ -971,6 +972,11 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;li&gt;地址： &lt;a href=&#34;https://github.com/phibr0/obsidian-customizable-sidebar&#34;&gt;https://github.com/phibr0/obsidian-customizable-sidebar&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;功能： 添加命令到侧边栏，或者隐藏侧边栏的按钮。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&#34;dangling-links&#34;&gt;Dangling links&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;地址： &lt;a href=&#34;https://github.com/graydon/obsidian-dangling-links&#34;&gt;https://github.com/graydon/obsidian-dangling-links&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;功能： 通过侧边栏展示所有未创建的被引用的双链文件，以便快速创建。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id=&#34;dataview&#34;&gt;Dataview&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;地址： &lt;a href=&#34;https://github.com/blacksmithgu/obsidian-dataview&#34;&gt;https://github.com/blacksmithgu/obsidian-dataview&lt;/a&gt;&lt;/li&gt;
@@ -996,6 +1002,11 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;li&gt;地址： &lt;a href=&#34;https://github.com/zsviczian/obsidian-excalidraw-plugin&#34;&gt;https://github.com/zsviczian/obsidian-excalidraw-plugin&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;功能： 在 Obsidian 绘制美观的 Excalidraw（草图），且支持其他笔记引用。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&#34;folder-note&#34;&gt;Folder note&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;地址： &lt;a href=&#34;https://github.com/xpgo/obsidian-folder-note-plugin&#34;&gt;https://github.com/xpgo/obsidian-folder-note-plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;功能： 给文件夹创建同名文件并隐藏，在点击文件夹的时候展示该文件。结合 Dataview，可以加工展示该文件夹的分类内容，比如读书文件夹，通过 Dataview 在同名文件里创建在读、想读、读完等表单。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4 id=&#34;footnotes-shortcut&#34;&gt;Footnotes Shortcut&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;地址： &lt;a href=&#34;https://github.com/akaalias/obsidian-footnotes&#34;&gt;https://github.com/akaalias/obsidian-footnotes&lt;/a&gt;&lt;/li&gt;
@@ -1005,6 +1016,17 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;ul&gt;
 &lt;li&gt;地址： &lt;a href=&#34;https://github.com/bwydoogh/obsidian-force-view-mode-of-note&#34;&gt;https://github.com/bwydoogh/obsidian-force-view-mode-of-note&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;功能： 通过 yaml 配置单篇文档打开时是编辑或者预览状态，一般应用于主页，默认打开为预览状态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;graph-analysis&#34;&gt;Graph Analysis&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;地址： &lt;a href=&#34;https://github.com/SkepticMystic/graph-analysis&#34;&gt;https://github.com/SkepticMystic/graph-analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;功能： 提供几种算法，计算并展示与当前文档相关系数高的文档，类似论文引用。&lt;/li&gt;
+&lt;li&gt;状态： 目前已停用。因为个人笔记的引用链接做不到论文如此规范，不具备参考性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;hotkeys-for-specific-files&#34;&gt;Hotkeys for specific files&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;地址： &lt;a href=&#34;https://github.com/Vinzent03/obsidian-hotkeys-for-specific-files&#34;&gt;https://github.com/Vinzent03/obsidian-hotkeys-for-specific-files&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;功能： 给常用的文件设置一个快捷键，便于快速跳转。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;kanban&#34;&gt;Kanban&lt;/h4&gt;
 &lt;ul&gt;
@@ -1060,6 +1082,11 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;ul&gt;
 &lt;li&gt;地址： &lt;a href=&#34;https://github.com/tadashi-aikawa/obsidian-various-complements-plugin&#34;&gt;https://github.com/tadashi-aikawa/obsidian-various-complements-plugin&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;功能：基于当前文档的字符，在书写时自动补充提醒（英/日语），也可以添加字典文件映射以达到辅助输入的效果。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;word-splitting-for-simplified-chinese-in-edit-mode&#34;&gt;Word Splitting for Simplified Chinese in Edit Mode&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;地址 ： &lt;a href=&#34;https://github.com/aidenlx/cm-chs-patch&#34;&gt;https://github.com/aidenlx/cm-chs-patch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;功能： 增强 Obsidian 编辑模式下中文分词能力，使得双击选词更为精确。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;workspaces-plus&#34;&gt;Workspaces Plus&lt;/h4&gt;
 &lt;ul&gt;
