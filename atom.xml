@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-12-10T17:53:41&#43;08:00</updated>
+    <updated>2021-12-17T17:04:36&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -180,10 +180,10 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
         </entry>
     
         <entry>
-            <title type="text">Obsidian CSS 片段（持续更新）</title>
+            <title type="text">Obsidian CSS 片段</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/my-obsidian-css-snippets/" />
             <id>https://aaronnick.github.io/posts/my-obsidian-css-snippets/</id>
-            <updated>2021-12-03T19:19:43&#43;08:00</updated>
+            <updated>2021-12-17T17:00:25&#43;08:00</updated>
             <published>2021-12-03T17:39:51&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -194,10 +194,12 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
             
                 <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mhuBBpK316zBx7a_DNlahXh-41QVMVslz-GyY8upv2FlEyf37OwUPQ0ow03TzV4RgBCTnsAYKHQ9GEulb7OuKXZo-oSgQGLTSprC3Nu9_1um2Bd8PyA1b6zsrpk6lav7UBKLn9MhdbZlW9uzPMrETD9rkr4jB-wDtEm9abCs7wEO66jyUTY-7boCgytPci8IU?width=1080&amp;amp;height=360&amp;amp;cropmode=none&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;收集可以提升体验以及使 Obsidian 更美观的 Obsidian CSS 片段，由于基本都来源于不同渠道的网友，来源未能都标注上，如果侵权请邮件联系删除或补充来源。该文档持续更新。&lt;/p&gt;
+&lt;p&gt;最后更新：2021-12-11&lt;/p&gt;
 &lt;h3 id=&#34;obsidian-css-片段&#34;&gt;Obsidian CSS 片段&lt;/h3&gt;
 &lt;h4 id=&#34;较小的滚动条&#34;&gt;较小的滚动条&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;来源： &lt;a href=&#34;https://forum.obsidian.md/t/optimize-obsidian-ui-for-a-more-seamless-experience/155/5&#34;&gt;https://forum.obsidian.md/t/optimize-obsidian-ui-for-a-more-seamless-experience/155/5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;作用： 使得 Obsidian 的滚动条不那么粗。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -226,6 +228,10 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;大纲连接线&#34;&gt;大纲连接线&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;来源： 暂无。&lt;/li&gt;
+&lt;li&gt;作用： 使大纲笔记更美观。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -259,6 +265,10 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;一级标题居中&#34;&gt;一级标题居中&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;来源： 暂无。&lt;/li&gt;
+&lt;li&gt;作用： 一级标题居中，更美观。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -284,6 +294,10 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;侧边栏连接线&#34;&gt;侧边栏连接线&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;来源： 暂无。&lt;/li&gt;
+&lt;li&gt;作用： 同样是给侧边栏增加连接线，使得更美观。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -323,6 +337,7 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/div&gt;&lt;h4 id=&#34;两端对齐&#34;&gt;两端对齐&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;来源： &lt;a href=&#34;https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/25&#34;&gt;https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/25&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;作用： 大段文字看起来更舒服。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -349,6 +364,10 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;编辑模式给引用添加边框&#34;&gt;编辑模式给引用添加边框&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;来源： 暂无。&lt;/li&gt;
+&lt;li&gt;作用： 仿造预览模式下的样式，使得编辑模式下的引用不是显示略丑的“&amp;gt;”。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -390,6 +409,7 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/div&gt;&lt;h4 id=&#34;无序列表层级符号变化&#34;&gt;无序列表层级符号变化&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;来源： &lt;a href=&#34;https://gist.github.com/GitMurf/9f448ca1b19ab8026a00bfd3d71221cf&#34;&gt;https://gist.github.com/GitMurf/9f448ca1b19ab8026a00bfd3d71221cf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;作用： 改变多层大纲笔记前的符号。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -554,6 +574,7 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/div&gt;&lt;h4 id=&#34;无序列表彩虹锁进&#34;&gt;无序列表彩虹锁进&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;来源： &lt;a href=&#34;https://gist.github.com/GitMurf/5122c0c8405ffa36a03049d9f4434bf4&#34;&gt;https://gist.github.com/GitMurf/5122c0c8405ffa36a03049d9f4434bf4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;作用： 让大纲笔记之间的连线多彩起来吧。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -740,6 +761,7 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/div&gt;&lt;h4 id=&#34;更大的预览弹出框&#34;&gt;更大的预览弹出框&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;来源： &lt;a href=&#34;https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/82&#34;&gt;https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/82&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;作用： 让预览框更大，就不必来回跳转笔记了。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -778,6 +800,7 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/div&gt;&lt;h4 id=&#34;鼠标悬停展示放大图片&#34;&gt;鼠标悬停展示放大图片&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;来源： &lt;a href=&#34;https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/29&#34;&gt;https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/29&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;作用： 查看大图不必费事，在逛社区插件时也能以更大的图片显示。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -824,6 +847,7 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;/div&gt;&lt;h4 id=&#34;更美观的待办样式&#34;&gt;更美观的待办样式&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;来源： &lt;a href=&#34;https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/33&#34;&gt;https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/33&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;作用： 由方形转变为圆形，是否美观见仁见智。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -887,6 +911,33 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;去除链接下划线&#34;&gt;去除链接下划线&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;来源： 暂无。&lt;/li&gt;
+&lt;li&gt;作用： 预览模式下去除链接的下划线，使得笔记更清爽。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;markdown-preview-view&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;internal-link&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+  &lt;span class=&#34;k&#34;&gt;text-decoration&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;none&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+
+&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;markdown-preview-view&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;external-link&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+  &lt;span class=&#34;k&#34;&gt;background&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;none&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+  &lt;span class=&#34;k&#34;&gt;padding-right&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
 &lt;/div&gt;</content>
             
             
@@ -916,10 +967,10 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
         </entry>
     
         <entry>
-            <title type="text">Obsidian 插件（持续更新）</title>
+            <title type="text">Obsidian 插件</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/my-obsidian-plugin/" />
             <id>https://aaronnick.github.io/posts/my-obsidian-plugin/</id>
-            <updated>2021-12-10T17:52:51&#43;08:00</updated>
+            <updated>2021-12-17T17:00:20&#43;08:00</updated>
             <published>2021-12-03T17:34:30&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -934,7 +985,7 @@ date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss+08:00}}
 &lt;h3 id=&#34;obsidian-插件&#34;&gt;Obsidian 插件&lt;/h3&gt;
 &lt;h4 id=&#34;activity-history&#34;&gt;Activity History&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;地址： &lt;a href=&#34;https://github.com/tgrosinger/advanced-tables-obsidian&#34;&gt;https://github.com/tgrosinger/advanced-tables-obsidian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;地址： &lt;a href=&#34;https://github.com/Darakah/obsidian-activity-history&#34;&gt;https://github.com/Darakah/obsidian-activity-history&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;功能： 展示类似 GitHub 的提交历史矩阵图，但只展示安装插件之后的活动记录。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;advanced-tables&#34;&gt;Advanced Tables&lt;/h4&gt;
@@ -12723,7 +12774,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">观影记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/film-record/" />
             <id>https://aaronnick.github.io/posts/film-record/</id>
-            <updated>2021-12-02T13:16:48&#43;08:00</updated>
+            <updated>2021-12-17T16:29:42&#43;08:00</updated>
             <published>2020-10-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -12746,6 +12797,34 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-12-12&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《星际穿越》· [美] 2014&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科幻&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.8&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;诺兰想要表达：爱可以穿越时空，甚至拯救人类&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-12-11&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《2001 太空漫游》· [美] 1968&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科幻&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科幻经典之作，即使放在五十多年之后的现在，某些设定都让人叹为观止&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-12-09&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《成瘾剂量》· [美] 2021&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;医疗&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;奥施康定滥用下政府和大企业之间的权钱交易&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-12-05&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《城市之光》· [美] 1931&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;戏剧 默片&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;人性的光，才是这座城市的光&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-11-21&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《紫罗兰永恒花园》· [日] 2018&lt;/td&gt;
@@ -13744,7 +13823,7 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
             <title type="text">读书记录（持续更新）</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-record/" />
             <id>https://aaronnick.github.io/posts/reading-record/</id>
-            <updated>2021-12-02T13:11:42&#43;08:00</updated>
+            <updated>2021-12-17T16:53:50&#43;08:00</updated>
             <published>2020-09-07T12:20:21&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -13767,6 +13846,27 @@ Telegram 创始人保罗昨日在自己的频道&lt;a href=&#34;https://t.me/dur
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-12-13&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《2001 太空漫游》· [英] 阿瑟·克拉克&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;科幻&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;不得不看的经典科幻小说，人类的过去，人类的未来&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-12-08&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《新的一天》· 许立志&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;诗歌&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;通过他的诗，观察打工人的日常生活&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2021-12-04&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;《亚马逊编年史》· 宁向东&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;亚马逊&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;按照时间线整理了亚马逊的历年大事件。最后的股东信解读值得一读&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;2021-11-27&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;《白马啸西风》· 金庸&lt;/td&gt;
