@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2021-12-21T21:46:41&#43;08:00</updated>
+    <updated>2021-12-21T21:49:21&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -170,7 +170,7 @@
             <title type="text">文学两面性</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-two-sides-of-literature/" />
             <id>https://aaronnick.github.io/posts/the-two-sides-of-literature/</id>
-            <updated>2021-12-21T21:44:44&#43;08:00</updated>
+            <updated>2021-12-21T21:47:59&#43;08:00</updated>
             <published>2021-12-08T22:23:25&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -217,7 +217,7 @@
                             
                             
                             
-                                <category scheme="https://aaronnick.github.io/tags/book/" term="Book" label="Book" />
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
                             
                         
                     
