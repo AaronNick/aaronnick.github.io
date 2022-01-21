@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-01-15T13:36:07&#43;08:00</updated>
+    <updated>2022-01-21T15:51:41&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,221 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">好内容在变多还是变少</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/good-content-is-more-or-less/" />
+            <id>https://aaronnick.github.io/posts/good-content-is-more-or-less/</id>
+            <updated>2022-01-21T15:47:00&#43;08:00</updated>
+            <published>2022-01-20T00:22:54&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">好坏无法定义，争论毫无意义。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mscINUBYygssI54M5qDuL-2QbpkaTNLPNwJzr5HpcoSxZvYsc2lMt0YdxZFwfuyiKzjhF_Kjgo_gbpbohC4cO6Id7zpE-9LY4HUW6pIjt6T2CKKZBqy0JuZOmjraAknvrYsZDgNr__3PJbiF1FEMbFCgmjYC26gQMqRUAEjpju9g2rKJDzTU6DYFqxFIsPpn8?width=1200&amp;amp;height=875&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;图源网络&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;近期一个帖子激发了热烈的讨论，帖子的观点是：中文互联网内容的枯萎有目共睹。&lt;/p&gt;
+&lt;p&gt;翻译成人话就是中文互联网的好内容在变得越来越少。&lt;/p&gt;
+&lt;p&gt;主要有两方观点，一方赞成好内容在枯竭；另一方则站在对立面，表示好内容在变多——理由是参与创作内容的人在变多，按照客观规律，好的内容也在变多。&lt;/p&gt;
+&lt;p&gt;我的观点是两方都不站，但这并不意味着我深谙中庸之道，毫无观点。我觉得好内容变多变少这个讨论，最终是没有结果的，因为它就&lt;strong&gt;没有一个明确的衡量标准&lt;/strong&gt;——所谓好内容的标准是什么？&lt;/p&gt;
+&lt;p&gt;在游戏玩家看来，那些能够耐得住性子，不辞辛苦地的人整理的攻略是好内容。但对于孩子的父母来看，这些都是误导孩子走上歧途的罪魁祸首。父母喜欢看的那些养生文章，在青年人看来就是不符合科学的垃圾内容。&lt;/p&gt;
+&lt;p&gt;我举的这两个例子虽然有点极端，但是它们表明了我的观点：&lt;strong&gt;好坏无法定义，那争论就毫无意义&lt;/strong&gt;，因为到最后也无法得出结论，逐渐演变成互不服气的僵持状态。&lt;/p&gt;
+&lt;p&gt;既然好坏无法定义，那么是不是没有继续讨论的必要？我觉得还可以再多说几句。&lt;/p&gt;
+&lt;p&gt;好坏的定义，就像人性一样，它可以很简单，也可以很复杂。它容易受到人群、场景、时间、甚至空间的影响。因此，同样的一个事物，在不同的情况下，得出的结论可能不一样。&lt;/p&gt;
+&lt;p&gt;然而，不少人就喜欢简单划分，非好即坏，非对即错，我认为这是一种&lt;strong&gt;思维的懒惰&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;好内容在枯萎&#34;&gt;好内容在枯萎？&lt;/h3&gt;
+&lt;p&gt;好内容在减少，这是最容易产生的感觉。我也偶尔会冒出这样的想法，但是我不会由此推导出「中文互联网内容在枯萎」的结论，因为我知道之所以会产生这样的想法主要源自两方面。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一是好内容被大量稀释产生的错觉&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;由于近几年内容生产者增长迅猛，几乎可以称为无门槛创作，伴随而来的便是内容量的指数级增长。以前只有十个人种橘树，我只要尝尝十个人的橘子，就能认准哪几个人的橘子好吃，以后来找他买就好；但是现在几万人都在种橘树，质量参差不齐，寻找到好吃的橘子就变难了，于是我们难免会感慨──好吃的橘子变少了。&lt;/p&gt;
+&lt;p&gt;内容被稀释了──那些所谓的好内容，我们不再能轻而易取获取，于是产生了好内容越来越少的错觉。即使好内容可能也在随着内容总量增长而增长，但因为好内容创作需要时间，生产速度显然追不上内容总量的增长。还有一种可能，好内容被束缚在各个孤岛，普通人不能轻易获取到；最悲观的可能，好内容并非在增长，相反，因为一些不可抗因素，创作者不再创作，或者创作内容「被消失」了，历史的内容也未能幸免──以至于好内容的数量甚至在下滑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二是在浏览垂直领域内容时容易掉进「个体推断整体」的陷阱&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;和北京同事吃饭，发现他很喜欢喝豆汁儿&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/good-content-is-more-or-less/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，然后你得出北京人都喜欢喝豆汁儿的结论──那你估计会被打死，北京人可没几个喜欢喝那玩意儿。同理，我是一个博客爱好者，这是我输入的重要来源，但这几年博客的更新量是肉眼可见的减少，以至于我会感叹没什么人会写博客了。那些曾经写博客的人，或许转到诸如 Twitter、微博等短内容社交平台，或者去拍短视频了，或者去写书了，又或者真正沉寂了，但他们依旧在创作内容，只不过不限于博客这个领域──在博客这个领域，内容的确变少了，但是我不会认为整体的内容都在减少，它们只是换了个形式继续存在。&lt;/p&gt;
+&lt;h3 id=&#34;好内容在变多&#34;&gt;好内容在变多？&lt;/h3&gt;
+&lt;p&gt;我赞同内容总量在变多，但是&lt;strong&gt;我不认为好内容会与内容总量呈正相关，更不认可其能被看作一种客观规律&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;举个简单例子，我们都知道一个道理：橘生淮南则为橘，生于淮北则为枳。随着种植者增多，橘树也越来越多，但假设因为一些外在因素，例如国家政策强制种植者必须去淮北才能种，又如种植者发现淮北种出的枳受到市场欢迎，能够赚更多的钱……等等各种因素，导致大家都去淮北种植，总体数量上去了，但只不过得到一大批不能吃的枳罢了，对于想吃甘甜橘子的老百姓，他会认为好吃的橘子变多了吗？&lt;/p&gt;
+&lt;p&gt;当然，我这里做了一个「好」的定义——甘甜的橘子。有没有一种可能，苦涩的枳才是某些人心中的「好」呢？这是有可能的。&lt;/p&gt;
+&lt;p&gt;再举一个我日常的例子，公司要看投放的 ROI，常常会研究一个指标：LTV&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://aaronnick.github.io/posts/good-content-is-more-or-less/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;（用户生命周期价值）。理论上，同样一批用户，会随着时间的推移，他们付费越来越多，在用户基数不变的情况下，LTV 会呈现持续增长的趋势。但实际上并不完全会持续增长，比如用户不付费，那曲线就是平的，甚至没有曲线。&lt;/p&gt;
+&lt;p&gt;又如，评估一个渠道的价值高低，按理说看 LTV，越大则代表渠道质量越高。但实际上，LTV 高的渠道质量不一定高，比如渠道甲带来了 10 个用户，期间每个用户付费 100，渠道甲 LTV 为 100；渠道乙带来了 1000 个用户，期间共 900 个用户人均付费 100，渠道乙 LTV 为 90。渠道甲的 LTV 高于渠道乙，但是渠道乙的价值却比渠道甲高得多。&lt;/p&gt;
+&lt;p&gt;加之，&lt;strong&gt;内容是会消失的&lt;/strong&gt;。淮南的种植者违抗命令，统统被关了起来，甘甜的橘子不就变少了？LTV 曲线不增长，尚可停滞成为平缓的水平线。内容一旦惨遭删除，内容总量的曲线甚至会回落。&lt;/p&gt;
+&lt;p&gt;我说这么一大堆，无非是要说明一个道理：&lt;strong&gt;那些看起来理所当然的推论，很多经不起仔细推敲&lt;/strong&gt;。所以，我们在读到这样的推论时，需要慎重对待。&lt;/p&gt;
+&lt;h3 id=&#34;对未来的展望&#34;&gt;对未来的展望&lt;/h3&gt;
+&lt;p&gt;内容可以说是人的&lt;strong&gt;精神食粮&lt;/strong&gt;，吃大米和吃糟粕是完全不一样的体验，所塑造的人也会不一样。对于这类与自身息息相关的事情，我觉得有必要在意。因此，姑且提出我的展望。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更开明开放的氛围&lt;/strong&gt;。这个往大了说是整个环境，往小了说是个体与个体之间的氛围。政策上避免一刀切，避免模糊不定，避免朝令夕改，提供良好的环境，创作者可以在主题上挖掘足够的深度和拓展足够的广度。读者和作者，两两之间能够友好沟通，而不是充满各种戾气，作者能够从中获得可观的收入，读者能够从内容中汲取营养，并养成愿意为高价值内容付费的习惯，最终形成良性循环。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更优的商业模式&lt;/strong&gt;。现在比较普遍的商业模式是「广告」和「网红经济」，也就是在内容中间插入广告以及通过「大V」推广。在内容这一领域，我觉得写软文较直接插广告更招人恨，因为前者不仅浪费了读者的心情，还创造了无数的垃圾内容。在流量至上的当下，衡量一篇好文章的标准被认为是有没有达到「十万加」，这就导致创作者首要目标是吸引用户点击而非吸引用户阅读内容并感受价值。在这两种模式之外，我觉得目前 Medium 的模式是较合理的：作者的文章即产品，作者的收益来自于读者的每月会员费，具体的分层方式则是以用户阅读时长为衡量，将会员费按比例均摊给作者，这就很好地避免了滥竽充数的内容和标题党──读者察觉内容不好，也就不会花时间阅读，作者就拿不到多少收益。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;更好的过滤工具&lt;/strong&gt;。以上两项主要是从内容创作者的角度出发，接下来说说从读者角度考量。如果在内容越来越多的情况下，没有一个好的工具来帮助读者快速获取想要的内容，那堆积如山的内容也会让读者望而却步。没有读者，作者的积极性也会备受打击，进而减少内容的创作，最终形成恶性循环。所以，在信息过载的情况下，出现了一种较为合理的方式——基于算法的信息推荐。如果算法足够优秀，是能够很好地解决作者和读者的问题，达到一个相对平衡的状态。那么下一步呢？我觉得算法推荐并没有完全发挥出它的威力，更理想的效果是给到我们的不止是最优的信息，还有最优的解决方案，实现「场景 -- 知识 -- 方案」的打通。当然，要完成这一点，必须是在信息过载的场景下交付足够的个人信息。&lt;/p&gt;
+&lt;p&gt;这就是我的几点展望，或者说是期望。我们想做的不少，但能做的其实不多；真正能做的，或许不想做。至于这个环境什么时候可以到来，这一点我保持长期的悲观。&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;豆汁儿：老北京的标志之一，其实就是绿豆的下脚料，经过发酵熬制而成，味酸。刚来北京时被忽悠喝过一次，从此再也不碰。&amp;#160;&lt;a href=&#34;https://aaronnick.github.io/posts/good-content-is-more-or-less/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;LTV：用户生命周期价值，指初始用户在一定时间内的人均付费。例如初始用户是 10 人，在未来 30 天内这些人共付费 1000 元，则 LTV30=100。不同公司也有不同的口径，但大致如此，用以评价用户在生命周期内贡献的价值。&amp;#160;&lt;a href=&#34;https://aaronnick.github.io/posts/good-content-is-more-or-less/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/think/" term="Think" label="Think" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">读《一个陌生女人的来信》</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/brief-einer-unbekannten/" />
+            <id>https://aaronnick.github.io/posts/brief-einer-unbekannten/</id>
+            <updated>2022-01-21T15:49:00&#43;08:00</updated>
+            <published>2022-01-18T15:21:44&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">茨威格的小说最大的两个特点：细腻、感同身受。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://bn02pap001files.storage.live.com/y4mpFUwe2L707P_D0aKsxR2ETijs1F0m10ZdG6DRwTg4N4z37w7CGj4JHNfIw0cGMYx2frcu3P8YJXPGMgGi0ttfpvexlTaH9PIUXrYa10a30L-oSnDDhA9eqFnD8Z7wWazHkP6n3UJvkpL96WJjWetVPESzZQ5aCy5BaYXlp1iWfRZzywoqfw7yh_WmoVW2pAu?width=1382&amp;amp;height=516&amp;amp;cropmode=none&#34; alt=&#34;&#34; title=&#34;《一个陌生女人的来信》&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/11444363/&#34;&gt;一个陌生女人的来信 : 茨威格中短篇小说选&lt;/a&gt;。本书收录了《一个陌生女人的来信》、《象棋故事》、《马来狂人》、《女人和大地》、《夜色朦胧》。其中，我感觉前两篇是最出彩的。&lt;/p&gt;
+&lt;h3 id=&#34;-收获&#34;&gt;📝 收获&lt;/h3&gt;
+&lt;p&gt;茨威格的小说，谈不上喜欢，但是看完之后，他笔下细腻的心理描写，你又不得不佩服。了解到他&lt;strong&gt;受到弗洛伊德的影响&lt;/strong&gt;，小说中出现这么多的心理描写和解析，就不感觉到奇怪了。&lt;/p&gt;
+&lt;p&gt;不少句子恨不得抄下来，欣喜的同时逐渐感到绝望，因为预感到这辈子怎么写都写不出这样的句子。&lt;/p&gt;
+&lt;p&gt;2022-01-16&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10:31 读《一个陌生女人的来信》之一个陌生女人的来信。一个对作家倾慕的女孩，成长为少女、女人，为他倾注所有思念，换来的却只有作家的遗忘。未成年时的爱恋，没有夹杂着肉欲的部分，多么单纯和纯洁。&lt;/li&gt;
+&lt;li&gt;11:35 读《一个陌生女人的来信》之象棋故事。这个故事就是《后翼弃兵》的缩减版──一个村里的孩子，突然展现了无与伦比的象棋天赋，最终打败所有人成为世界冠军。然而在一艘船上，这位世界冠军却被一个不起眼的业余选手打败，而这位业余选手的经历更是颇为传奇──被纳粹迫害，在铁窗内偶然得到一本棋谱，通过自己与自己对战，培养出了强大的棋艺。&lt;/li&gt;
+&lt;li&gt;16:49 读《一个陌生女人的来信》之马来狂人。一个贵妇为了隐瞒自己怀孕，在人流时感染热带病而死，一个陌生的医生用生命守护她的秘密。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2022-01-17&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10:13 读《一个陌生女人的来信》之女人和大地。一个男子对一位女子一见钟情，整篇小说由此展开，但其实只是一瞬间引发的幻想。&lt;/li&gt;
+&lt;li&gt;22:28 读《一个陌生女人的来信》之夜色朦胧。一个少年的故事，关于他对一个姑娘的爱，和另一个姑娘对他的爱。在以后的生活，爱情和其他女人都无法成为他生命的主题，因为那种爱人和为人所爱的经历已经充分地展现在他身上。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-摘录&#34;&gt;🗂 摘录&lt;/h3&gt;
+&lt;p&gt;小说中很多描写都不错，我决定直接摘录下来。&lt;/p&gt;
+&lt;h6 id=&#34;第-1-章前言&#34;&gt;第 1 章前言&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1942 年 2 月 22 日，茨威格和妻子在里约热内卢附近的公寓服用镇静剂自杀。他在遗书中说：“我的精神故乡欧罗巴已自我毁灭……我认为还是及时不失尊严地结束我的生命为好。”两次世界大战给茨威格的心灵造成了巨大的伤害，他对人类变得绝望，最终下定决心，在 61 岁这年离开世界。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他擅长刻画人物的性格，描写人物的心理，尤其是女性。高尔基曾评价他是“世界上最了解女人的作家”。他笔下的女主人公往往有不幸的遭遇，他先用细腻、优雅的文笔将这些遭遇记录下来，再一点点剖析不幸背后的精神匮乏和道德败坏，同时赞扬爱和仁慈。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6 id=&#34;第-2-章一个陌生女人的来信&#34;&gt;第 2 章一个陌生女人的来信&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可是，你要相信我，我的爱是这么舍身忘我，是这么死心塌地，我不会背叛你，只对你从一而终，没有一个女人能像我这样爱你。在这个世界上，一个孩子的暗恋是无人能比的爱情，这种爱情不怀有任何希望、低微，不为人所重视，充满热情，只是一味地迎合爱人，这和成年女人的炽热欲望不同，它没有那种爱情所具有的贪婪欲望。聚集全部的热情，这只有孤独的孩子才能做到。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可是你却感受不到我的心情，就如同你口袋里的怀表，你无法察觉到它紧绷的发条。我心里的发条在为你的到来暗数着时间，用你感受不到的情绪陪你游走，你在漫长的岁月里只往那看过一眼，那一眼还很匆忙。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我可以向你起誓，我头脑里没有情欲的杂念，那时候，我还是个天真的小女孩，心里只牵挂着你。我只想和你再见上一面，在你身边靠着。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对于你，我还是怀着和过去一样的激情。可是，这种感情随着我身体的发育和情欲的觉醒，变得更加热烈了，也具有了肉欲的成分，变得更有女人味了。我现在唯一想着的，就是当年驱使我去拉你家门铃时的愿望，把我的整个人都献给你。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我无法忍受在黑夜里相处得如此陌生，又离得如此的近。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6 id=&#34;第-3-章象棋的故事&#34;&gt;第 3 章象棋的故事&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不得不说，太容易取得的荣耀确实会让一个空无一物的脑子变得狂热起来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一旦他觉得正在交谈的这个人满腹经纶，他便不肯敞开心扉，无形中筑起一道墙在两人周围，就像蜗牛碰到危险缩进壳里那样；所以，没有人敢说自己曾听过琴多维克说了哪些话，或者是宣布自己对他有了更深层次的了解。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;自己和自己对弈是多么困难的一件事，好比你永远超越不了自己的影子。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一副真实的棋盘摆在面前，上面摆满了黑白棋子，你可以在代表白方下棋的时候坐在这边，然后在代表黑方下棋的时候坐在另一边，你有足够的时间来思考每一步该怎么走，当你坐在白方这边的时候，你可以以白方的角度来观看棋局，同样的，在黑方那边也可以如此。但对于只有一个身体，只有一个大脑的我来说，自己和自己对抗时就必须要把所有的过程都在脑海中构思出来，六十四个方格上的棋子的每一次走向都要准确地想象出来，同时我还得时时记住棋局，把黑白两方接下来要走的棋都考虑清楚&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6 id=&#34;第-4-章马来狂人&#34;&gt;第 4 章马来狂人&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;谁也不吱声，这种沉默就像是赤道附近的空气一样，让人感到憋闷。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;信任是以没有任何隐瞒的坦白作前提的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我很清楚：她恨我是因为她需要我，而我恨她是因为她不求我。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我独自在一幢陌生的房子里守着尸体；独自在一座根本没有秘密可言的城市里保守秘密。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我明白，在我的一生当中，无论是过去还是将来，绝对不会再有现在这样充沛旺盛的精力。一个失去了一切的人，会像一个绝望的人一样为了最后一点东西而拼死战斗。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;她的过失已经被她用生命进行了救赎，&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6 id=&#34;第-5-章女人和大地&#34;&gt;第 5 章女人和大地&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我傻傻地看着强烈的光线，在这样的太阳光下，时间消失了，愿望消失了，就连意念也不见了。在这个滚烫的世界里，时间被熬烂、熔化，消失在烦躁之中，变成炽热、无聊的梦境。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;她哪里知道，就在几个小时之前，我心中的干渴和郁闷，早被她的薄唇给冲淡了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h6 id=&#34;第-6-章夜色朦胧&#34;&gt;第 6 章夜色朦胧&lt;/h6&gt;
+&lt;blockquote&gt;
+&lt;p&gt;夜晚就像一头懒洋洋的野兽，趴在府邸的大门前止步不前；而时间仿佛是在睡觉一样，而且睡得很深沉。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每个人都可以向黑夜透露心事，但是却丝毫得不到慰藉。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他清楚地意识到，他将永远不会得到玛尔格特的爱意。可是，他又觉得，他还是像原先那样深深地爱着她，没有发生任何改变。就像人们追求一些美好而又无法实现的愿望，他对她的爱依然保持那种带有绝望的倾心向往。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在以后的生活中，爱情和其他的女人都无法成为他生命的主题。因为那种爱人和为人所爱的经历已经充分地展现在他的身上。它们结合得如此完美，而且早早地落入他的手中，因而他没有什么动力再另寻新欢了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但是，人们在朦胧的夜晚讲故事，难免会落入哀伤的情绪。朦胧的夜色正浓，就像一件薄薄的轻纱，披在这些故事的上面。夜空中的全部悲哀笼罩在它们上空，黑暗流经它们的血液。叙述这些故事的话语中，裹挟着它们的丰富多彩和鲜明亮丽，使得人们听上去感觉有血有肉，激动人心，就像它们在讲述一些我们亲身经历过的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">鸟的救赎</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/redemption-of-the-bird/" />
