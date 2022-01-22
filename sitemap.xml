@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aaronnick.github.io/tags/essay/</loc>
-    <lastmod>2022-01-21T15:47:00+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2022-01-21T15:49:00+08:00</lastmod>
+    <lastmod>2022-01-22T14:32:23+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/read/</loc>
+    <lastmod>2022-01-22T14:32:23+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2022-01-21T15:49:00+08:00</lastmod>
+    <lastmod>2022-01-22T14:32:23+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/bad-blood/</loc>
+    <lastmod>2022-01-22T14:32:23+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2022-01-22T14:39:00+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/film/</loc>
+    <lastmod>2022-01-22T14:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/gattaca/</loc>
+    <lastmod>2022-01-22T14:31:36+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/essay/</loc>
+    <lastmod>2022-01-21T15:47:00+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/think/</loc>
     <lastmod>2022-01-21T15:47:00+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/</loc>
-    <lastmod>2022-01-21T15:49:00+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/good-content-is-more-or-less/</loc>
     <lastmod>2022-01-21T15:47:00+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/read/</loc>
-    <lastmod>2022-01-21T15:49:00+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/brief-einer-unbekannten/</loc>
     <lastmod>2022-01-21T15:49:00+08:00</lastmod>
@@ -46,9 +55,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/how-to-read/</loc>
     <lastmod>2022-01-15T13:35:46+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/film/</loc>
-    <lastmod>2022-01-15T12:25:08+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/raging-fire/</loc>
     <lastmod>2022-01-15T12:04:39+08:00</lastmod>
@@ -573,7 +579,7 @@
     <lastmod>2021-04-09T22:40:03+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/about/</loc>
-    <lastmod>2021-12-26T13:26:09+08:00</lastmod>
+    <lastmod>2022-01-22T14:39:00+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/life-of-moment/</loc>
     <lastmod>2021-04-09T22:21:52+08:00</lastmod>
