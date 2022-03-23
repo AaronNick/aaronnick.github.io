@@ -23,10 +23,118 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 13 Mar 2022 10:34:51 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 21:14:07 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>如何寻找一本电子书</title>
+                <link>https://aaronnick.github.io/posts/how-to-find-an-ebook/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/how-to-find-an-ebook/</guid>
+                <pubDate>Wed, 23 Mar 2022 20:39:48 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202203232103909.png&#34; alt=&#34;&#34; title=&#34;Z-Library 网站首页&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在读书方面，我并不会太在乎媒介，既喜欢纸质书，也喜欢电子书。纸质书固然更有感觉，读起来也更专注，但缺点也很多，例如占地方、不易携带、价格高等。相反，电子书则没有这些缺点，在阅读专业书时，&lt;strong&gt;电子书更是发挥了其易于笔记以及随时查询生词的便捷性&lt;/strong&gt;，这是纸质书没有的优点。&lt;/p&gt;
+&lt;p&gt;由于国内一些特殊原因，部分书籍无法购买或者有删减，此时只能求助于电子书。但随着侵权的打击力度逐渐加大，过去那些存储可供下载的电子书网站已基本绝迹，以下是收集自网络的一些找书方式，部分方法提供的是正版书籍，部分则是公益网站存储的书籍文件，仅供选择以及参考。&lt;/p&gt;
+&lt;p&gt;后续若发现新的找书途径，再继续更新此文。&lt;/p&gt;
+&lt;h3 id=&#34;图书搜索引擎&#34;&gt;图书搜索引擎&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jiumodiary.com/&#34;&gt;鸠摩搜索&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xmsoushu.com/#/&#34;&gt;熊猫搜索-聚合文档搜索导航&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;面包树&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;常用电子书下载网站&#34;&gt;常用电子书下载网站&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.soepub.com/&#34;&gt;掌上书苑&lt;/a&gt;：建站十几年，图书比较全，下载需要书币，可通过分享或者充值获得书币&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.hk1lib.org/&#34;&gt;Z-Library&lt;/a&gt;：十分推荐，英文书籍很多，中文也不少，每天免费限量下载，也可以直接访问 &lt;a href=&#34;@firstlibrarybot&#34;&gt;Telegram Bot&lt;/a&gt; 下载，&lt;a href=&#34;https://graph.org/Zlibrary-Kindle-03-23&#34;&gt;配置教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shuge.org/&#34;&gt;书格&lt;/a&gt;：公益网站，全是古籍，高清 PDF 格式下载，免费&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kanyixue.com/&#34;&gt;看医学&lt;/a&gt;：中西医教材文献、相关书籍、视频课件，免费下载，需要关注他们的公众号&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.banshujiang.cn/&#34;&gt;搬书匠&lt;/a&gt;：计算机、编程类型图书，基本是 PDF 格式&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bookstack.cn/&#34;&gt;书栈网 &lt;/a&gt;：计算机、编程类型图书&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ziliaoh.com/&#34;&gt;图书网&lt;/a&gt;：综合性图书，需要注册登录，大多数免费，必须回复才能获取下载地址&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;读书软件推荐&#34;&gt;读书软件推荐&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;超星移动图书馆&lt;/strong&gt;：绑定高校或各省图书馆账号，可以阅读大量正版图书和文献，专业图书多。推荐几个免费注册账号的图书馆：
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clcn.net.cn/&#34;&gt;首都图书馆&lt;/a&gt;：图书比较多，十分推荐&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gxlib.org.cn/&#34;&gt;广西壮族自治区图书馆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;四川省图书馆：需要关注图书馆微信公众号注册&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;掌阅精选&lt;/strong&gt;：类似微信读书，支持导入本地书籍，可以绑定高校或省图书馆：
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://s.zhangyue.com/channel/index?rentId=100797&amp;amp;appId=04c42366&#34;&gt;明德学院图书馆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.zhangyue.com/channel/index?appId=163540b5&#34;&gt;西北工业大学&lt;/a&gt;：据官网显示，该图书馆已购入掌阅精选数据库，需要在本页面重新注册一下才能进行绑定&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.zhangyue.com/channel/index?appId=93830762&#34;&gt;西安建筑科技大学&lt;/a&gt;：据官网显示，该图书馆已购入掌阅精选数据库，需要在本页面重新注册一下才能进行绑定&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.zhangyue.com/channel/index?appId=0a52f0a3&#34;&gt;华东师范大学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.zhangyue.com/channel/index?appId=d587af1b&#34;&gt;北京邮电大学图书馆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.zhangyue.com/channel/index?appId=fa8e3bc0&#34;&gt;西电图书馆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.zhangyue.com/channel/index?appId=041a271d&#34;&gt;黑龙江省数字农家书屋&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.zhangyue.com/channel/index?rentId=100983&amp;amp;appId=748ab574&#34;&gt;深圳图书馆&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://se.zhangyue.com/channel/index?appId=0ad6dfa1&#34;&gt;陕西省图书馆&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;博看书苑&lt;/strong&gt;：报纸杂志比较多，需要绑定图书馆账号，图书文件没有加密，存储在本地的 &lt;code&gt;.bookan&lt;/code&gt; 文件夹中
+&lt;ul&gt;
+&lt;li&gt;安徽省图书馆 ahst&lt;/li&gt;
+&lt;li&gt;陕西公共图书馆 shxlib&lt;/li&gt;
+&lt;li&gt;东北大学图书馆 dbdx&lt;/li&gt;
+&lt;li&gt;哈尔滨工业大学图书馆 hrbgd&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;微书房&lt;/strong&gt;：需要绑定机构图书馆才能使用，支持的图书馆比较少，可以选首都图书馆，图书文件没有加密，存储在本地的 &lt;code&gt;MicrobookRoom/books&lt;/code&gt; 文件夹中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;淘宝代找&#34;&gt;淘宝代找&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;省时省力，基本分分钟就能找到，五块钱左右&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;常用搜索方法&#34;&gt;常用搜索方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;搜索书籍时，可以带上书籍的格式，如 epub/PDF 等&lt;/li&gt;
+&lt;li&gt;加上常用的网站，如 史记 site:pan.baidu.com&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;来源网络以及钱荷书斋（QQ 群：536690409）&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/tool/">Tool</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Obsidian 自定义时间戳样式</title>
@@ -54,7 +162,7 @@
 &lt;li&gt;&lt;strong&gt;CSS 片段&lt;/strong&gt;：B - Time.css&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Obsidian 插件&lt;/strong&gt;：&lt;a href=&#34;https://github.com/mgmeyers/obsidian-style-settings&#34;&gt;Style Settings&lt;/a&gt;（非必需，可自定义样式）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;也可以前往 Telegram 频道直接下载两个文件：
+&lt;p&gt;也可以前往 &lt;a href=&#34;https://t.me/weiyexing/2806&#34;&gt;Telegram 频道&lt;/a&gt;直接下载两个文件：
 &lt;script async src=&#34;https://telegram.org/js/telegram-widget.js?14&#34; data-telegram-post=&#34;weiyexing/2806&#34; data-width=&#34;100%&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;h3 id=&#34;操作步骤&#34;&gt;操作步骤&lt;/h3&gt;
 &lt;ol&gt;
