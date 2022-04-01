@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-04-01T12:19:16&#43;08:00</updated>
+    <updated>2022-04-01T17:19:04&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">日志｜二〇二二・三</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202203/" />
             <id>https://aaronnick.github.io/posts/daily-202203/</id>
-            <updated>2022-04-01T12:07:00&#43;08:00</updated>
+            <updated>2022-04-01T17:16:03&#43;08:00</updated>
             <published>2022-03-31T22:11:28&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -35,7 +35,7 @@
 &lt;ul&gt;
 &lt;li&gt;23:14 #书籍/生活的艺术家/第四章哲学和功夫 表面看来，刚和柔是对立的，但事实上，它们却是相互依赖的，并且相互补充成为一个整体。刚柔的意义本身就是两者互为前提，形成了彼此，它们有了彼此才完整。&lt;strong&gt;事物的统一性、完整性是中国思想的一个特征&lt;/strong&gt;。&lt;/li&gt;
 &lt;li&gt;22:34 有些人，&lt;strong&gt;一辈子学不会尊重&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;16:02 #书籍/订阅经济 &lt;strong&gt;跟风竞争对手做功能是较为安全的决策，但一般不是最好的&lt;/strong&gt;。说安全是因为这体现了我们市场嗅觉敏锐，反应及时，不会被过多诘责。相反，如果不做，最后这个产品被证明有效，后果将会很严重。所以，选择不做什么很需要勇气，也很重要。&lt;/li&gt;
+&lt;li&gt;16:02 #书籍/我在一线做用户增长 &lt;strong&gt;跟风竞争对手做功能是较为安全的决策，但一般不是最好的&lt;/strong&gt;。说安全是因为这体现了我们市场嗅觉敏锐，反应及时，不会被过多诘责。相反，如果不做，最后这个产品被证明有效，后果将会很严重。所以，选择不做什么很需要勇气，也很重要。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;2022-03-30
@@ -280,7 +280,7 @@
             <title type="text">三月读什么：王小波、知堂、歌德…</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202203/" />
             <id>https://aaronnick.github.io/posts/read-202203/</id>
-            <updated>2022-04-01T12:18:48&#43;08:00</updated>
+            <updated>2022-04-01T17:17:16&#43;08:00</updated>
             <published>2022-03-31T12:26:26&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -302,6 +302,7 @@
 &lt;li&gt;《谈美书简》：在读，朱光潜在动乱后所做，相比之前更严谨更完整，但也小心翼翼的，时代所限。&lt;/li&gt;
 &lt;li&gt;《生活的艺术家》：在读，李小龙能够将哲学和功夫融合在一起，是一个不小的创举，如果不英年早逝，成就应该大得多。&lt;/li&gt;
 &lt;li&gt;《订阅经济》：在读，对现在普遍的订阅模式做了一些观察和介绍。&lt;/li&gt;
+&lt;li&gt;《我在一线做用户增长》：在读，公司给买的书籍，了解下运营之道。&lt;/li&gt;
 &lt;li&gt;《为什么读经典》：在读，卡尔维诺所作，记录一些经典书籍的评论。人生有限，多读经典。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -309,8 +310,8 @@
 &lt;li&gt;2022-03-31
 &lt;ul&gt;
 &lt;li&gt;23:14 #书籍/生活的艺术家/第四章哲学和功夫 表面看来，刚和柔是对立的，但事实上，它们却是相互依赖的，并且相互补充成为一个整体。刚柔的意义本身就是两者互为前提，形成了彼此，它们有了彼此才完整。&lt;strong&gt;事物的统一性、完整性是中国思想的一个特征&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;16:02 #书籍/订阅经济 &lt;strong&gt;跟风竞争对手做功能是较为安全的决策，但一般不是最好的&lt;/strong&gt;。说安全是因为这体现了我们市场嗅觉敏锐，反应及时，不会被过多诘责。相反，如果不做，最后这个产品被证明有效，后果将会很严重。所以，选择不做什么很需要勇气，也很重要。&lt;/li&gt;
-&lt;li&gt;16:00 #书籍/订阅经济 &lt;strong&gt;共享单车解决的是从一个地点到另一个地点的效率问题&lt;/strong&gt;，如果把资源放在太多必要性不高的地方上，例如红包车（骑行到某个地方领红包），这是不现实的。&lt;/li&gt;
+&lt;li&gt;16:02 #书籍/我在一线做用户增长 &lt;strong&gt;跟风竞争对手做功能是较为安全的决策，但一般不是最好的&lt;/strong&gt;。说安全是因为这体现了我们市场嗅觉敏锐，反应及时，不会被过多诘责。相反，如果不做，最后这个产品被证明有效，后果将会很严重。所以，选择不做什么很需要勇气，也很重要。&lt;/li&gt;
+&lt;li&gt;16:00 #书籍/我在一线做用户增长 &lt;strong&gt;共享单车解决的是从一个地点到另一个地点的效率问题&lt;/strong&gt;，如果把资源放在太多必要性不高的地方上，例如红包车（骑行到某个地方领红包），这是不现实的。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;2022-03-30
