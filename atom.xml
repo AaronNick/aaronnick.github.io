@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-04-24T22:03:39&#43;08:00</updated>
+    <updated>2022-04-30T13:59:43&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,117 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">隔离日记｜解封再隔离</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/isolated-again/" />
+            <id>https://aaronnick.github.io/posts/isolated-again/</id>
+            <updated>2022-04-30T13:58:11&#43;08:00</updated>
+            <published>2022-04-26T22:39:47&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">小区刚解封，我收到一个电话后又继续居家隔离。</summary>
+            
+                <content type="html">&lt;p&gt;早上醒来，看到小区的居家观察群里发了公告──小区除了确诊附近几栋楼，其余楼解封了！&lt;/p&gt;
+&lt;p&gt;由于我起得比较晚，再去上班应该是不可能了，正想着怎么向公司继续申请居家办公，这时&lt;strong&gt;突然收到了一个社区的电话&lt;/strong&gt;──&lt;/p&gt;
+&lt;p&gt;「请问您是 XXX 吗？这边是社区工作人员。」&lt;/p&gt;
+&lt;p&gt;「是的，请问有什么事情？」我内心一愣，不会出啥问题了吧。&lt;/p&gt;
+&lt;p&gt;「您在 20 号晚上十点半左右，是不是去过 XX 超市……」&lt;/p&gt;
+&lt;p&gt;对方询问我的轨迹，并陈述自己获得的信息，向我证实真伪。我打开日历，发现她说的几乎没有差别，尤其是超市那一段，我印象很深，因为那天我跑步回来，的确在那个时间段去超市买过东西──不会是我确诊了吧？！为啥来询问我这么详细的轨迹。&lt;/p&gt;
+&lt;p&gt;然而，我并没有那么「幸运」。&lt;/p&gt;
+&lt;p&gt;对方随后告诉我，&lt;strong&gt;我和确诊病例同去过超市，需要继续居家隔离&lt;/strong&gt;。听到这个消息，我不知道是该开心还是该难过，毕竟就在一个小时前，社区刚公布小区解封的消息，大家本以为可以出门透气了，然后我又开始了下一论居家隔离。&lt;/p&gt;
+&lt;p&gt;当然，和我一起的人也必须继续居家。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202204301351838.png&#34; alt=&#34;&#34; title=&#34;开始屯一些物资&#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">隔离日记｜疫情下的大白</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/epidemic-prevention-staff/" />
+            <id>https://aaronnick.github.io/posts/epidemic-prevention-staff/</id>
+            <updated>2022-04-30T13:58:30&#43;08:00</updated>
+            <published>2022-04-25T12:15:02&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">作为个体来看，大白其实和我们一样都不容易。</summary>
+            
+                <content type="html">&lt;p&gt;疫情防控之下，受影响的固然是那些被隔离的人；但论辛苦，基层的防疫工作人员最有话语权。&lt;/p&gt;
+&lt;p&gt;除了可见的身体上的疲倦，还有看不见的心理的委屈。一方面忍受隔离居民的误解，另一方面压抑自己对家人照顾不周的愧疚。&lt;/p&gt;
+&lt;h3 id=&#34;且说身体上的疲倦&#34;&gt;且说身体上的疲倦&lt;/h3&gt;
+&lt;p&gt;大白的数量是有限的，被隔离居民的数量却是巨大的，尤其是像我们这样整个小区被隔离的情况──十几栋楼上千号人。我观察过小区内的大白数量，初期不足百人，核酸筛选一次后，估计仅留下不到五十人进行维护。这几十个人需要做什么呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一、每个单元门口至少一个大白&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;由于小区出现确诊，整个小区在初期都被限制下楼，每个楼下都有大白看着。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202204301311576.png&#34; alt=&#34;&#34; title=&#34;躺着休息的大白&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;二、快递外卖的运送，垃圾的处理&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;快递外卖一律放在门口，然后大白通过拖车送到各个单元门下，居民再下楼取。隔离在家的人员（特指和病例出现在同一个地方的居民）不允许下楼，这些物品就只能由大白一个个楼层去送，非常耗费人力物力。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202204301312677.png&#34; alt=&#34;&#34; title=&#34;小区门口搬运快递的大白&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;三、不定期的组织全员核酸&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;开始封小区后的几乎每一天都需要核酸一次，每次几乎持续一整天。除了集中核酸采集外，对于居家隔离的人，还需要安排大白上门进行一对一的核酸。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202204301313714.png&#34; alt=&#34;&#34; title=&#34;组织全员核酸&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;再说心理上的压抑&#34;&gt;再说心理上的压抑&lt;/h3&gt;
+&lt;p&gt;在上一次隔离时，我曾写过一篇文章──&lt;a href=&#34;https://weiyexing.ml/posts/knock-on-the-door-at-midnight/&#34;&gt;凌晨一点敲门声&lt;/a&gt;，记录了当时我在凌晨一点被敲门声吵醒的经历。当时文中也说了，来上门核酸的大姐，其实内心挺委屈的，因为他们也只是基层的执行者，&lt;strong&gt;累死累活还得忍受居民的谩骂&lt;/strong&gt;，挺不容易的。&lt;/p&gt;
+&lt;p&gt;这次隔离，他们依旧需要连夜核酸，白天夜里都无法很好地休息──对于家里来说，他们变成了儿子不是儿子，女儿不是女儿，父亲不是父亲，母亲不是母亲……&lt;/p&gt;
+&lt;p&gt;怪不得有这样的新闻消息，&lt;strong&gt;一些工作人员宁愿自己阳性&lt;/strong&gt;，也不原意继续干这个操蛋的活儿。&lt;/p&gt;
+&lt;p&gt;网络上有不少传播很广的视频，把大白刻画成穿着防护服的流氓，比作是文革时期戴着红袖章的红卫兵。我记录这些，并不是为了推翻那些言论，而是作为一个被隔离的普通居民，看到的大白的&lt;strong&gt;真实日常&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从个体的角度去看&lt;/strong&gt;，他们中的大多数，也是和我们一样，都不容易。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">居家办公的苦恼和调整</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/work-remotely/" />
