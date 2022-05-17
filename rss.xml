@@ -23,10 +23,58 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 16 May 2022 22:40:27 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2022 22:48:57 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>必要性和可行性</title>
+                <link>https://aaronnick.github.io/posts/necessity-and-feasibility/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/necessity-and-feasibility/</guid>
+                <pubDate>Tue, 17 May 2022 22:35:24 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205172241886.png&#34; alt=&#34;&#34; title=&#34;吃是必要的，但做饭是非必要的&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在做决策的时候，我们常常需要考虑两个元素：&lt;strong&gt;必要性、可行性&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;翻译过来就是，必要性用于判断这个事情有没有必要去做，可行性用于判断实际操作起来是否可行。一般来说，先考虑必要性，其次考虑可行性。因为前者是控制做与不做的大门，如果大门关上了（没必要），那后者就不用考虑了。&lt;/p&gt;
+&lt;p&gt;然而，在日常生活中，&lt;strong&gt;我们常常颠倒过来，或者混在一起考虑&lt;/strong&gt;，以至于影响决策的速度和质量。&lt;/p&gt;
+&lt;p&gt;以我自己的经历来说，举两个很实际的例子。&lt;/p&gt;
+&lt;h3 id=&#34;例子一这个很复杂不要轻易改动&#34;&gt;例子一：这个很复杂，不要轻易改动&lt;/h3&gt;
+&lt;p&gt;某一次开会提出了一个 idea，打算推出一个功能，而这个功能所在的业务模块我很熟悉。在了解了背景以及要做的改动之后，我的大脑就在快速思考：这个改动涉及到哪些页面，和哪些模块耦合，牵扯多少业务……最后我的大脑给出一个结果：改动牵扯面很大，进而给出一个初步结论：不能轻易改动。&lt;/p&gt;
+&lt;p&gt;然后同事拍醒了我，我们应该先评估这个改动的价值，再往下决定怎么做。如果价值很大，那就是有必要做，接下来才去思考如何实现。&lt;/p&gt;
+&lt;p&gt;有趣吧，最了解这个功能的我，一开始成了最反对改动的人──因为我太熟悉它了，思维一下子跨越到了如何做这一步，&lt;strong&gt;把困难这个元素加入了决策思维流程里，影响了后续的判断&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;先评估价值，再思考怎么做，道理其实都知道，但到实际当中就很容易把握不准，观察那些经常拒绝的人就知道了。&lt;/p&gt;
+&lt;h3 id=&#34;例子二老板定的目标太异想天开了&#34;&gt;例子二：老板定的目标太异想天开了&lt;/h3&gt;
+&lt;p&gt;想必，几乎所有的公司员工，执行层面的朋友们都吐槽过这样的事情：老板定的 KPI 太离谱了！完全没有考虑实际嘛。&lt;/p&gt;
+&lt;p&gt;我们承受着领导设定的 KPI，领导承受着老板设定的 KPI，谁也没好过谁。&lt;/p&gt;
+&lt;p&gt;一次和领导喝酒，领导说了她最新的理解：老板设定的（不切实际的）目标，在我们看来是不懂实际业务，无理取闹……但是站在老板的立场，从行业和市场的角度来看，这是当前阶段&lt;strong&gt;应该达到的业绩&lt;/strong&gt;，或者说应当成为公司现阶段要达成的目标──&lt;strong&gt;属于有必要去做成的事情&lt;/strong&gt;。潜台词就是，当前规模如果没有达到相匹配的目标，那就是有可能淘汰的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这样的目标是有必要的，即使是不合理的&lt;/strong&gt;──所以结论是，把这样的目标当作期望，当成北极星，然后脚踏实地做好自己的事情，达成可实现的目标。&lt;/p&gt;
+&lt;p&gt;转变角度之后，心态就好多了。既不会片面觉得老板制定的目标不切实际，也不会打乱自身的阵脚。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>家中来电</title>
@@ -143,7 +191,7 @@
 &lt;p&gt;三人当中，一个来自南方（广西），一个来自北方（山西），另一个来自最西边（新疆），大家的菜式也都各不一样。我做炒菜比较多，山西的朋友做土豆、粉丝比较多，新疆的朋友做各种鸡翅鸡爪啥的。虽然侧重点都不一样，但是我们有个共同点──做菜的时候或者做菜前，&lt;strong&gt;都是跟着教程学习&lt;/strong&gt;──说明我们都是临时学的。&lt;/p&gt;
 &lt;p&gt;得益于我每天记录的习惯，把每天做的菜都记录了下来。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205141240657.png&#34; alt=&#34;&#34; title=&#34;每日记录&#34;&gt;&lt;/p&gt;
-&lt;p&gt;早餐基本都是夹心面包解决，吃了好久的「紫米夹心」，对比之下，我更喜欢「南瓜夹心」。&lt;strong&gt;出境率最高的食材必然是鸡蛋了&lt;/strong&gt;：尖椒炒鸡蛋、西红柿炒鸡蛋、西葫芦炒鸡蛋……万物都可炒鸡蛋。&lt;/p&gt;
+&lt;p&gt;早餐基本都是夹心面包解决，吃了好久的「紫米夹心」，对比之下，我更喜欢「南瓜夹心」。&lt;strong&gt;出镜率最高的食材必然是鸡蛋了&lt;/strong&gt;：尖椒炒鸡蛋、西红柿炒鸡蛋、西葫芦炒鸡蛋……万物都可炒鸡蛋。&lt;/p&gt;
 &lt;p&gt;随着时间的流逝，我们也到了做菜的「七年之痒」──食材来来去去就是那些，能做的菜基本也都尝试过了，逐渐回到最普通的家常菜，期间甚至出现了不想做菜的迹象。我们开始偶尔「放纵」下，比如周五了，点一份手撕鸡和几串烧烤，外加三罐啤酒，一起嗨皮下。到了第二天，又重新开始回到正常的做饭当中去。&lt;/p&gt;
 &lt;p&gt;生活大抵也是如此吧，一开始惊喜，接着无聊甚至厌烦，然后和解，最后归于平静。&lt;/p&gt;
 </description>
