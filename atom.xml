@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-05-22T12:45:28&#43;08:00</updated>
+    <updated>2022-05-23T19:38:01&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,102 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">过一把艺术的瘾</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/wombo-dream/" />
+            <id>https://aaronnick.github.io/posts/wombo-dream/</id>
+            <updated>2022-05-23T19:36:14&#43;08:00</updated>
+            <published>2022-05-23T19:28:27&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">输入关键词，等待十秒，见证美妙画作。</summary>
+            
+                <content type="html">&lt;p&gt;近期，西乔和霍炬的公众号发了一篇文章，讲述自己是如何通过 AI 绘制插画，我看了之后非常惊讶──&lt;strong&gt;人工智能在作画方面竟然已经如此成熟&lt;/strong&gt;。（可以直接前往她的&lt;a href=&#34;https://mp.weixin.qq.com/s/hZujrXE_AjqqEZYQfJB03g&#34;&gt;公众号文章&lt;/a&gt;查看）&lt;/p&gt;
+&lt;p&gt;只需要给程序输入几句文字描述，经过数分钟之后，程序就会根据你提供的词合成一幅画来，而且还挺精美，甚至足以匹敌一些展览的画作。&lt;/p&gt;
+&lt;p&gt;西乔在公众号末尾公布了她使用的工具：&lt;strong&gt;Disco Diffusion&lt;/strong&gt;。我看了之后，发现还是需要一些门槛的。但是，这个世界从不缺替代品，今天我要说的就是另一个类似的工具──&lt;a href=&#34;https://www.wombo.art/&#34;&gt;WOMBO Dream&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WOMBO Dream 与 Disco Diffusion 不同的是，它的&lt;strong&gt;使用门槛非常低&lt;/strong&gt;，只需要访问网站，甚至不用注册，在 Prompt 框输入你想要绘制的关键词（关键词甚至支持中文），然后选择一个风格，等待 10s 左右就渲染好了。当然，与 Disco Diffusion 动辄十几分钟相比，它绘制出来的插画在精度上还是比不了的，拿来玩玩还行。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231830410.png&#34; alt=&#34;&#34; title=&#34;输入关键词，选择风格，等待生成&#34;&gt;&lt;/p&gt;
+&lt;p&gt;接下来我尝试用几个关键词试试，且看──&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prompt:  &amp;quot;Never ending flower&amp;quot;&lt;/li&gt;
+&lt;li&gt;Art Style: Dark Fantasy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231834485.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prompt:  &amp;quot;Fire and water&amp;quot;&lt;/li&gt;
+&lt;li&gt;Art Style: Provenance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231840561.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prompt:  &amp;quot;Rain and ocean and ship&amp;quot;&lt;/li&gt;
+&lt;li&gt;Art Style: Blacklight&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231843369.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;从上面的截图来看，只要关键词选得不错，生成的画作还是挺有创意的。&lt;strong&gt;同样的关键词，不同的风格是啥样的呢&lt;/strong&gt;，我用最后那副的关键词 &amp;quot;Rain and ocean and ship&amp;quot; 试试其他风格──&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prompt:  &amp;quot;Rain and ocean and ship&amp;quot;&lt;/li&gt;
+&lt;li&gt;Art Style: Ghibli&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231854546.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prompt:  &amp;quot;Rain and ocean and ship&amp;quot;&lt;/li&gt;
+&lt;li&gt;Art Style: Dark Fantasy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231856189.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prompt:  &amp;quot;Rain and ocean and ship&amp;quot;&lt;/li&gt;
+&lt;li&gt;Art Style: Baroque&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231858405.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prompt:  &amp;quot;Rain and ocean and ship&amp;quot;&lt;/li&gt;
+&lt;li&gt;Art Style: Etching&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231859020.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prompt:  &amp;quot;Rain and ocean and ship&amp;quot;&lt;/li&gt;
+&lt;li&gt;Art Style: Ukiyoe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231913474.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;说实话，我都还挺满意的，至少&lt;strong&gt;比我自己画的好多了&lt;/strong&gt;。生成的画作，可以保存成 &lt;code&gt;jpg&lt;/code&gt; 格式，也可以购买纸质画作，价格在 $20 ~ $100 之间。&lt;/p&gt;
+&lt;p&gt;感兴趣的朋友，不如去玩玩。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/tool/" term="Tool" label="Tool" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/tech/" term="Tech" label="Tech" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">封禁是简单而传统的方式</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/total-prohibition-is-the-simple-and-traditional-way/" />
