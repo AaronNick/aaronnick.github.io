@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-05-23T19:38:01&#43;08:00</updated>
+    <updated>2022-05-30T21:33:31&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,10 +17,71 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
         <entry>
+            <title type="text">期满换证小记</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/expiry-renewal/" />
+            <id>https://aaronnick.github.io/posts/expiry-renewal/</id>
+            <updated>2022-05-30T21:30:56&#43;08:00</updated>
+            <published>2022-05-30T21:26:08&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">不知不觉，拿证六年了。</summary>
+            
+                <content type="html">&lt;p&gt;上周收到短信通知，我的驾照即将过期，需要尽快去办理期满换证。&lt;/p&gt;
+&lt;p&gt;我的驾照是 2016 年在湖北武汉考的，到现在差不多 6 年，也就是到了第一次换证的时间。期满换证之前听朋友说过，线上申请就好了，很简单。但是我查了下北京这边，还需要提供体检证明──证明你在这 6 年期间没有缺胳膊少腿，没有变成色盲，也没有色弱。虽然有点麻烦，但我觉得这个体检还是应该的。&lt;/p&gt;
+&lt;p&gt;下载了「交管12123」App，首页就有「驾驶证补换领」入口，点击进去之后它会校验登录者是否符合条件：&lt;strong&gt;如果你没有体检，期满换证是置灰不可选的&lt;/strong&gt;，它会提醒你得先去体检。&lt;/p&gt;
+&lt;p&gt;这里做得不好的地方是，尽管体检是必要选项，但App 只是给了一个提示，而没有给一个「体检」的查询入口。所以，我还得退到首页挨个找体检入口，以及了解如何体检。然而，我找了一圈都没找到这个功能入口，于是我只好用搜索……然后，我在搜索的「热搜榜」看到了「体检」关键词！我不知道这个是真的热搜还是固定配置的热搜词，但是我知道这个肯定是一个非常常用的功能，而它只配存在热搜里……&lt;/p&gt;
+&lt;p&gt;点击「体检」后直达功能页，选择「驾驶人体检」，选择「非C5」，点击确认，就会展示距离最近的线下办事网点。&lt;/p&gt;
+&lt;p&gt;我选择了最近的一家 XX 社区卫生服务中心，看好地址之后，计划周五去体检。&lt;/p&gt;
+&lt;p&gt;来到医院之后，我才发现这个地方是我之前经常核酸的一个小医院，进门之后直达体检的地方。按照墙上的指示开始走流程：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;挂号&lt;/li&gt;
+&lt;li&gt;打印单子&lt;/li&gt;
+&lt;li&gt;缴费（20 元）&lt;/li&gt;
+&lt;li&gt;检查视力、辨色力，照相上传体检信息&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205302118572.png&#34; alt=&#34;&#34; title=&#34;办证体检流程&#34;&gt;&lt;/p&gt;
+&lt;p&gt;除了等待的时间，&lt;strong&gt;整个体检过程不超过 10 分钟&lt;/strong&gt;，效率还是非常高的。&lt;/p&gt;
+&lt;p&gt;当天下午我就在「交管12123」App 上申请期满换证，受理速度也很快，晚上就提醒我「已制证」，开始进入邮件流程。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205302120874.png&#34; alt=&#34;&#34; title=&#34;网办进度&#34;&gt;&lt;/p&gt;
+&lt;p&gt;两天后，也就是周一，邮政快递便从武汉寄送到了北京──&lt;strong&gt;驾驶证寿命 +10 年&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;整个过程耗费 10 分钟，历经 3 天，费用 50 元──20 元工本费+30 元快递费。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205302123951.png&#34; alt=&#34;&#34; title=&#34;小鲜肉变成老腊肉&#34;&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">过一把艺术的瘾</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/wombo-dream/" />
             <id>https://aaronnick.github.io/posts/wombo-dream/</id>
-            <updated>2022-05-23T19:36:14&#43;08:00</updated>
+            <updated>2022-05-23T19:42:09&#43;08:00</updated>
             <published>2022-05-23T19:28:27&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -50,7 +111,7 @@
 &lt;li&gt;Art Style: Blacklight&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202205231843369.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;从上面的截图来看，只要关键词选得不错，生成的画作还是挺有创意的。&lt;strong&gt;同样的关键词，不同的风格是啥样的呢&lt;/strong&gt;，我用最后那副的关键词 &amp;quot;Rain and ocean and ship&amp;quot; 试试其他风格──&lt;/p&gt;
+&lt;p&gt;从上面的截图来看，只要关键词选得不错，生成的画作还是挺有创意的。&lt;strong&gt;同样的关键词，不同的风格是啥样的呢&lt;/strong&gt;，我用最后那幅画的关键词 &amp;quot;Rain and ocean and ship&amp;quot; 试试其他风格──&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Prompt:  &amp;quot;Rain and ocean and ship&amp;quot;&lt;/li&gt;
 &lt;li&gt;Art Style: Ghibli&lt;/li&gt;
