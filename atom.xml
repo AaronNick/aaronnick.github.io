@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-05-31T21:44:14&#43;08:00</updated>
+    <updated>2022-06-01T21:45:48&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,10 +17,139 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
         <entry>
+            <title type="text">《不确定世界的理性选择》读后</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/rational-choice-in-an-uncertain-world/" />
+            <id>https://aaronnick.github.io/posts/rational-choice-in-an-uncertain-world/</id>
+            <updated>2022-06-01T21:44:38&#43;08:00</updated>
+            <published>2022-06-01T21:31:45&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">在这个不确定的世界里，我们需要做理性的选择。</summary>
+            
+                <content type="html">&lt;blockquote&gt;
+&lt;p&gt;前言：本文是公司周会上的读书分享文档，略有改动。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;书籍简介&#34;&gt;书籍简介&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206012133094.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这是一本偏理论学术性质的书籍，实验和论文很多。好处就是能把一些理论&lt;strong&gt;逻辑清晰&lt;/strong&gt;且有&lt;strong&gt;实验结论&lt;/strong&gt;地讲明白，坏处就是比较&lt;strong&gt;枯燥&lt;/strong&gt;，部分章节&lt;strong&gt;晦涩难懂&lt;/strong&gt;。&lt;/p&gt;
+&lt;h4 id=&#34;作-者&#34;&gt;作 者&lt;/h4&gt;
+&lt;p&gt;两位作者都是认知心理学、决策研究的研究者。&lt;/p&gt;
+&lt;p&gt;雷德•海斯蒂（Reid Hastie）毕业于加州大学圣迭戈分校和耶鲁大学，在哈佛大学开始其学术工作，积极寻求校外研究的机会，在医院和法庭中展开关于医疗和法律决策的研究。他的研究兴趣在于&lt;strong&gt;认知心理学的方法和理论在判断决策方面的应用&lt;/strong&gt;。他终生致力于现实情境中的研究，包括医疗决策、法律决策、天气预报、消费者和商业金融决策等领域。&lt;/p&gt;
+&lt;p&gt;罗宾•道斯（Robyn M. Dawes）1958 年获得哈佛大学哲学学士，后进入密歇根大学临床心理学系。两年后，他怀着对行为决策、社会互动和态度测量的兴趣进入了数学心理学系（1963 年获得博士），并在数学方面完成了研究生教育。1985 年秋转到卡耐基梅隆大学，在&lt;strong&gt;社会和决策科学系担任心理学教授&lt;/strong&gt;，他现在是 Charles J. Queenan，Jr. 大学的教授。道斯发表过 150 多篇论文、出版了 6 部书籍。&lt;/p&gt;
+&lt;h3 id=&#34;为什么读&#34;&gt;为什么读？&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;对社科类、心理学类书籍感兴趣&lt;/li&gt;
+&lt;li&gt;如何决策，以及更理性决策？尤其是处在一个不确定的世界中&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;读后分享&#34;&gt;读后分享&lt;/h3&gt;
+&lt;p&gt;这本书内容很多，但是我总结概况下，基本就是讲了三个东西：关于理性决策，&lt;strong&gt;是什么？为什么会出现不理性决策？以及怎么做&lt;/strong&gt;？&lt;/p&gt;
+&lt;h4 id=&#34;是什么&#34;&gt;是什么？&lt;/h4&gt;
+&lt;p&gt;一个&lt;strong&gt;理性决策需满足的标准&lt;/strong&gt;：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;基于目前决策者的现状：心理、物质、环境等&lt;/li&gt;
+&lt;li&gt;基于选择的可能结果（目标）&lt;/li&gt;
+&lt;li&gt;用概率去评估可能性&lt;/li&gt;
+&lt;li&gt;具有适应性，考虑影响范围&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;决策是一组有长远影响的决定；做决定就是&lt;strong&gt;资源的分配&lt;/strong&gt;。一个决定的存在，需要具备以下条件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;有选择性&lt;/li&gt;
+&lt;li&gt;资源有限性&lt;/li&gt;
+&lt;li&gt;有明确目标&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;为什么&#34;&gt;为什么？&lt;/h4&gt;
+&lt;p&gt;为什么要学习理性地判断？外部世界存在不确定性，我们自身在做判断的时候也存在认知偏差、不理性的行为，书中列举了一些&lt;strong&gt;常见的认知偏差&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;沉没成本&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;已经付出了的成本。过渡关注沉没成本，则是将注意力放在了过去，关注已经确定的损失。理性的决策应基于未来的后果而做出。（例子：&lt;strong&gt;来都来了、一不做二不休、买了东西一定要吃完，即使在减肥&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;反馈的可得性偏差&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对于通过直觉做出的判断，最后的结果我们习惯记住成功的部分，“解释掉”失败的部分。（例子：&lt;strong&gt;医生对精神病人的判断&lt;/strong&gt;，如果误诊，则误诊的正常人被送进精神病院，则最后不堪重负自杀，则医生解释为：判断没错吧，精神异常；&lt;strong&gt;服务员说能判断哪些人给小费多&lt;/strong&gt;，如果给小费多则提供好服务，反之提供差服务。）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;肯定证据的陷阱&lt;/strong&gt;：可以理解为给自己找借口，寻求正当性。（例如决定购买某个品牌的车了，就会各种收集这个品牌的车的优点，以说服自己。）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;锚定效应，首因效应&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在不确定场景下，如果出现一个锚，则会影响我们的判断，我们会根据这个锚而调整自己的判断。（例子：卖衣服先高价再低价，造成捡便宜的错觉；补偿数额谈判，「要得越多，得到越多。」）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自我锚定&lt;/strong&gt;：以自我为中心的推断，倾向于从自己的角度推测他人，以至于在某些情况下概率偏高。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;今为古锚&lt;/strong&gt;：过去的记忆，很大情况下是以当前的信念和感受为「锚」的，选择性偏差。（例子：回忆时，强化对自己有利的地方；毛毛虫成为蝴蝶后，习惯性认为自己一直是蝴蝶。──《适应生活》，&lt;strong&gt;成熟让我们变成说谎者&lt;/strong&gt;。）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;依赖简单因果推断而非概率&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;从特殊到一般，从个体到集体。（吃这个药之后病好了，则这个药可以治疗这个病；&lt;strong&gt;这个人能吃辣，他们这个地方的人都能吃辣&lt;/strong&gt;；琳达角色的例子，积极参加女权运动的银行出纳员是银行出纳员的子集。）&lt;/li&gt;
+&lt;li&gt;赌徒谬误：连续发生独立事件，则下一个事件发生的时机「成熟」了，&lt;strong&gt;实际上概率是恒定的&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;倾向偏好的故事或逻辑自恰的故事&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;例如肖申克的救赎中安迪在法庭的冷静理性的陈述，对比对方律师的描述性故事；弗洛伊德的原因论：当前的痛苦源于童年的不幸。此处就涉及到“古为今锚”的偏差。有个教授说过，&lt;strong&gt;如果一段历史你看起来很合乎逻辑，那大概率是假的；失败，则归因于外部，成功，则归因于自身。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;怎么做&#34;&gt;怎么做？&lt;/h4&gt;
+&lt;p&gt;为了&lt;strong&gt;从依赖直觉、联系、想象的歧途上引导回来&lt;/strong&gt;，我们需要分析性思考，像概率理论家那样思考。&lt;/p&gt;
+&lt;p&gt;书中举了一些例子，运用&lt;strong&gt;透镜模型（影响决策的线索及质量）、决策树、韦恩图（集合关系）辅助决策&lt;/strong&gt;：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将环境因素考虑上&lt;/li&gt;
+&lt;li&gt;用概率理性思考&lt;/li&gt;
+&lt;li&gt;运用 MECE 原则穷尽可能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206012136578.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;其他，引用之《决策思维》（同类决策相关的书籍，但属于归纳演绎类型）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;决策内容&lt;/strong&gt;高质量 GPA：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;G：目标（Goal）&lt;/li&gt;
+&lt;li&gt;P：优先级（Priority）&lt;/li&gt;
+&lt;li&gt;A：可选方案（Alternatives）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;决策过程&lt;/strong&gt;高质量 IPO：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I：信息（Information）&lt;/li&gt;
+&lt;li&gt;P：人员（People）&lt;/li&gt;
+&lt;li&gt;O：客观推理（Objective Reasoning）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;另外，决策是一个不断演进的过程，并不是一次性的行为。正如贝索斯的单向门，双向门理论。&lt;/p&gt;
+&lt;p&gt;书的最后，作者让我们对“不确定性”端正态度。简而言之就是：&lt;strong&gt;了解它、理解它、原谅它&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;理性和非理性不是绝对的，「世界是理性的，但我们认知世界是感性的。」&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">日志｜二〇二二・五</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202205/" />
             <id>https://aaronnick.github.io/posts/daily-202205/</id>
-            <updated>2022-05-31T21:42:20&#43;08:00</updated>
+            <updated>2022-05-31T21:56:24&#43;08:00</updated>
             <published>2022-05-31T21:16:10&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -102,7 +231,7 @@
 &lt;/li&gt;
 &lt;li&gt;2022-05-17
 &lt;ul&gt;
-&lt;li&gt;21:55 unemployment，广义来看，下岗的人，没有成功就业的大学生，都属于 unemployment。然而单纯看中文意思，&lt;strong&gt;没有得到，何来失去&lt;/strong&gt;？没有就业过，又怎么说是失业呢，刚毕业找不到工作地大学生属不属于失业？有时候中文也挺有趣的。&lt;/li&gt;
+&lt;li&gt;21:55 unemployment，广义来看，下岗的人，没有成功就业的大学生，都属于 unemployment。然而单纯看中文意思，&lt;strong&gt;没有得到，何来失去&lt;/strong&gt;？没有就业过，又怎么说是失业呢，刚毕业找不到工作的大学生属不属于失业？有时候中文也挺有趣的。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;2022-05-16
@@ -222,7 +351,7 @@
             <title type="text">五月读什么：鲁迅、邓小平和李光耀等</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202205/" />
             <id>https://aaronnick.github.io/posts/read-202205/</id>
-            <updated>2022-05-31T21:43:11&#43;08:00</updated>
+            <updated>2022-05-31T21:51:58&#43;08:00</updated>
             <published>2022-05-31T21:04:47&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -235,18 +364,18 @@
 &lt;p&gt;五月依然是居家办公的一个月，读过的书也不少，比较推荐的是《邓小平时代》《李光耀观天下》《塑造》《叫魂》。&lt;/p&gt;
 &lt;p&gt;本月读过以下几本书：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;《朝花夕拾》：在读，鲁迅的散文集。&lt;/li&gt;
-&lt;li&gt;《野草》：读完，鲁迅散文集，《崇明人和傻子和奴才》《立论》这两篇的讽刺有趣。&lt;/li&gt;
-&lt;li&gt;《叫魂》：在读，外国人写的清朝历史，以叫魂这一迷信行为串起来。&lt;/li&gt;
-&lt;li&gt;《塑造》：读完，关于产品管理以及团队协作，比较有实操性，有在线阅读版本。&lt;/li&gt;
-&lt;li&gt;《雅子妃》：在读，一个现代的菁英女性，嫁入日本皇室，然后呢？会推动改革还是被体制化。&lt;/li&gt;
-&lt;li&gt;《别想那只大象》：在读，作者另一本书更有名《我们赖以生存的隐喻》，但是大象这本挺无聊的。&lt;/li&gt;
-&lt;li&gt;《李光耀观天下》：读完，《邓小平时代》看完之后重读这本书，依然佩服李光耀的眼光。&lt;/li&gt;
-&lt;li&gt;《邓小平时代》：读完，鸿篇巨著，研究邓小平以及那个时代不可绕开的书，建议读香港出版的无删减版本。&lt;/li&gt;
-&lt;li&gt;《西方美学史》：在读，继续啃。&lt;/li&gt;
-&lt;li&gt;《彷徨》：读完，鲁迅小说集，读完我也彷徨了。&lt;/li&gt;
-&lt;li&gt;《呐喊》：读完，鲁迅小说集，课本摘抄的那些片段很多都能在这里看到，孔乙己、闰土、阿Q……&lt;/li&gt;
-&lt;li&gt;《热风》：读完，鲁迅的随感集，比较零碎，感触不多。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《朝花夕拾》&lt;/strong&gt;：在读，鲁迅的散文集。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《野草》&lt;/strong&gt;：读完，鲁迅散文集，《崇明人和傻子和奴才》《立论》这两篇的讽刺有趣。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《叫魂》&lt;/strong&gt;：在读，外国人写的清朝历史，以叫魂这一迷信行为串起来。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《塑造》&lt;/strong&gt;：读完，关于产品管理以及团队协作，比较有实操性，有在线阅读版本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《雅子妃》&lt;/strong&gt;：在读，一个现代的菁英女性，嫁入日本皇室，然后呢？会推动改革还是被体制化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《别想那只大象》&lt;/strong&gt;：在读，作者另一本书更有名《我们赖以生存的隐喻》，但是大象这本挺无聊的。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《李光耀观天下》&lt;/strong&gt;：读完，《邓小平时代》看完之后重读这本书，依然佩服李光耀的眼光。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《邓小平时代》&lt;/strong&gt;：读完，鸿篇巨著，研究邓小平以及那个时代不可绕开的书，建议读香港出版的无删减版本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《西方美学史》&lt;/strong&gt;：在读，继续啃。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《彷徨》&lt;/strong&gt;：读完，鲁迅小说集，读完我也彷徨了。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《呐喊》&lt;/strong&gt;：读完，鲁迅小说集，课本摘抄的那些片段很多都能在这里看到，孔乙己、闰土、阿Q……&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;《热风》&lt;/strong&gt;：读完，鲁迅的随感集，比较零碎，感触不多。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;ul&gt;
@@ -291,7 +420,7 @@
 &lt;li&gt;2022-05-25
 &lt;ul&gt;
 &lt;li&gt;23:19 #书籍/别想那只大象 &lt;strong&gt;直接因果关系&lt;/strong&gt;：推玩具，它会翻倒；&lt;strong&gt;系统性因果关系&lt;/strong&gt;：无法被直接体验到的，但是广泛存在这个世界的因果关系。&lt;/li&gt;
-&lt;li&gt;23:07 #书籍/别想那只大象 &lt;strong&gt;框架，需要经过长期（往往需要数十年）的影响，才能建立起来&lt;/strong&gt;。一旦形成了框架，一般很难改变，随着时间的推移，更是愈发难以改变。同样，一个国家去改变另一个国家，尤其是历史悠久的国家，也是及其苦难的，参考美国想要民主化中东就知道了。&lt;/li&gt;
+&lt;li&gt;23:07 #书籍/别想那只大象 &lt;strong&gt;框架，需要经过长期（往往需要数十年）的影响，才能建立起来&lt;/strong&gt;。一旦形成了框架，一般很难改变，随着时间的推移，更是愈发难以改变。同样，一个国家去改变另一个国家，尤其是历史悠久的国家，也是极其苦难的，参考美国想要民主化中东就知道了。&lt;/li&gt;
 &lt;li&gt;22:48 #书籍/李光耀观天下 看完了《李光耀观天下》，很有洞见的一个领导人，视野开阔，务实，坦诚，好学。&lt;/li&gt;
 &lt;li&gt;22:39 #书籍/李光耀观天下/老朋友的对话 &lt;strong&gt;新加坡的优势是一切都是新的&lt;/strong&gt;，没有远古的历史、长期积累的仇恨或者敌对关系，这使得大家能够选择向前看，而不是向后去争论历史和仇恨。&lt;/li&gt;
 &lt;/ul&gt;
@@ -330,7 +459,7 @@
 &lt;li&gt;11:27 #书籍/李光耀观天下/美国 美国希望在伊拉克重新建立一个政府，并将这个古老的民族民主化。前者是几乎不可能的事，后者是根本不可能。──这体现了美国的傲慢，&lt;strong&gt;改变其他国家是很难的&lt;/strong&gt;，尤其是拥有古老传统的国家；国家如此，人亦如此。&lt;/li&gt;
 &lt;li&gt;11:23 #书籍/李光耀观天下/美国 美国入侵阿富汗，试图建立一个国家，最终没有达成。李光耀的观点是我见过最精炼的：&lt;strong&gt;阿富汗过去三四十年从来不是一个国家&lt;/strong&gt;，你如何把碎片拼凑起来？&lt;/li&gt;
 &lt;li&gt;11:14 #书籍/李光耀观天下/美国 美国文化里，&lt;strong&gt;颂扬出去闯的精神&lt;/strong&gt;。如果成功，获得到应得的地位和尊重；如果失败，被认为是通往成功的必要过程，所以他们会振作起来，重新开始。&lt;/li&gt;
-&lt;li&gt;11:11 #书籍/李光耀观天下/美国 上世纪七八十年代，美国工业的领先地位被新兴经济强果日本和德国反超，&lt;strong&gt;但是由于其存在强大的创业活力&lt;/strong&gt;，这个落后状态很快被扭转。&lt;/li&gt;
+&lt;li&gt;11:11 #书籍/李光耀观天下/美国 上世纪七八十年代，美国工业的领先地位被新兴经济强国日本和德国反超，&lt;strong&gt;但是由于其存在强大的创业活力&lt;/strong&gt;，这个落后状态很快被扭转。&lt;/li&gt;
 &lt;li&gt;09:55 #书籍/李光耀观天下/美国 &lt;strong&gt;美国的社会会吸引并留住人才&lt;/strong&gt;，但是英国不会，那里不欢迎你，而且经济没活力，就业机会少，所以李光耀宁愿将留学人才送往英国而不是美国。&lt;/li&gt;
 &lt;li&gt;09:51 #书籍/李光耀观天下/美国 &lt;strong&gt;美国的关键优势&lt;/strong&gt;是，它的活力不会消失。&lt;/li&gt;
 &lt;li&gt;09:41 #书籍/李光耀观天下/美国 古希腊历史学家修昔底德说过一句名言：&lt;strong&gt;强者做自己想做的事，弱者听任命运摆布&lt;/strong&gt;。──所谓成王败寇，远至战国时期的小国，近到上个世纪的世界大战的小国，无不是被大国左右命运。&lt;/li&gt;
