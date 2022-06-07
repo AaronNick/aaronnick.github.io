@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aaronnick.github.io/tags/essay/</loc>
+    <lastmod>2022-06-07T12:24:07+08:00</lastmod>
+  </url><url>
     <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2022-06-01T21:52:24+08:00</lastmod>
+    <lastmod>2022-06-07T12:24:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/</loc>
+    <lastmod>2022-06-07T12:24:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2022-06-07T12:24:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/will-this-be-the-last-live/</loc>
+    <lastmod>2022-06-07T12:24:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/poetry/</loc>
+    <lastmod>2022-06-07T12:23:38+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/multiplication-formulas/</loc>
+    <lastmod>2022-06-07T12:23:38+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/read/</loc>
     <lastmod>2022-06-01T21:52:24+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2022-06-01T21:52:24+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/rational-choice-in-an-uncertain-world/</loc>
     <lastmod>2022-06-01T21:52:24+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/</loc>
-    <lastmod>2022-06-02T19:13:51+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/daily/</loc>
     <lastmod>2022-05-31T21:56:24+08:00</lastmod>
@@ -25,9 +37,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/read-202205/</loc>
     <lastmod>2022-05-31T21:51:58+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/essay/</loc>
-    <lastmod>2022-05-30T21:30:56+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/life/</loc>
     <lastmod>2022-05-30T21:30:56+08:00</lastmod>
@@ -97,9 +106,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/curry-favor-with-double/</loc>
     <lastmod>2022-04-17T10:14:15+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/poetry/</loc>
-    <lastmod>2022-04-23T22:04:14+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/outside-covid-19/</loc>
     <lastmod>2022-04-23T22:04:14+08:00</lastmod>
