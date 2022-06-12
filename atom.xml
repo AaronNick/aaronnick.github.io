@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-06-12T10:55:38&#43;08:00</updated>
+    <updated>2022-06-12T12:07:58&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,101 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">Obsidian：日常使用习惯</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-use-of-the-obsidian/" />
+            <id>https://aaronnick.github.io/posts/daily-use-of-the-obsidian/</id>
+            <updated>2022-06-12T12:05:10&#43;08:00</updated>
+            <published>2022-06-12T11:48:08&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">我如何用 Obsidian 管理我的输入和输出。</summary>
+            
+                <content type="html">&lt;p&gt;分享下自己 Obsidian 的日常使用。&lt;/p&gt;
+&lt;p&gt;当前的配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;主题&lt;/strong&gt;：minimal&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;插件&lt;/strong&gt;：Dataview 等，罗列意义不大，后续会结合我的使用适当展开&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我安装插件的目的主要是&lt;strong&gt;提升效率而不是美观&lt;/strong&gt;，这是逐渐形成的基本原则；另外的原则是&lt;strong&gt;尽可能不破坏 markdown 格式&lt;/strong&gt;，否则后续迁移成本太大。&lt;/p&gt;
+&lt;p&gt;使用的一年多来，每日打开的软件必然有 Obsidian。我用它来做什么呢？可以先看下我的&lt;strong&gt;文件夹构成&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206121133808.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;收集箱&lt;/strong&gt;：先创建，再归类
+&lt;ul&gt;
+&lt;li&gt;Inbox&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日记周记&lt;/strong&gt;：日常记录和规划
+&lt;ul&gt;
+&lt;li&gt;Daily&lt;/li&gt;
+&lt;li&gt;Weekly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;书影播客&lt;/strong&gt;：输入
+&lt;ul&gt;
+&lt;li&gt;Reading&lt;/li&gt;
+&lt;li&gt;Film&lt;/li&gt;
+&lt;li&gt;Podcast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;画图&lt;/strong&gt;：草图、脑图、流程图
+&lt;ul&gt;
+&lt;li&gt;Excalidraw&lt;/li&gt;
+&lt;li&gt;MindMap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;文章&lt;/strong&gt;：输出
+&lt;ul&gt;
+&lt;li&gt;Essay&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;知识卡片&lt;/strong&gt;：值得记录的知识
+&lt;ul&gt;
+&lt;li&gt;Card&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;摘录&lt;/strong&gt;：文章、语录摘录
+&lt;ul&gt;
+&lt;li&gt;Excerpt&lt;/li&gt;
+&lt;li&gt;Dialogue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;可以看到，我的日常输入以及输出，甚至日程规划，都可以放在 Obsidian 上。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Obsidian 的&lt;strong&gt;页面组织结构&lt;/strong&gt;：左侧是文件夹以及近期查看，方便快速切换文件；中间是编辑查看区域；右侧是日历、日程、局部关系图，方便切换日志以及浏览日程，同时了解当前文档与其他文档的关联关系。&lt;/li&gt;
+&lt;li&gt;每天晚上我一般会创建次日的 &lt;code&gt;Daily&lt;/code&gt; 文档，做明日的简单规划，第二天就可以在对应文档依据规划实施，并记录 &lt;code&gt;间歇日记&lt;/code&gt; 。&lt;code&gt;间歇日记&lt;/code&gt; 是我&lt;strong&gt;每日记录的重点&lt;/strong&gt;，它将会把 &lt;code&gt;时间&lt;/code&gt; 和 &lt;code&gt;事件&lt;/code&gt; 串联起来，此前文章有介绍过，之后也会展开，不赘述。&lt;/li&gt;
+&lt;li&gt;在记录日常时，我可能会&lt;strong&gt;有一些输入&lt;/strong&gt;，例如开始看一本书《书名》，此时我的 &lt;code&gt;Daily&lt;/code&gt; 就会出现一个双链文件 &lt;code&gt;[[书名]]&lt;/code&gt; ，并通过 &lt;code&gt;Hover Editor&lt;/code&gt; 这个插件快速创建文件至 &lt;code&gt;Inbox&lt;/code&gt; ，并在适当时候归档到 &lt;code&gt;Reading&lt;/code&gt; 。同理，电影、播客、摘录等均是如此。&lt;/li&gt;
+&lt;li&gt;对于&lt;strong&gt;更细的维度&lt;/strong&gt;，我会用 &lt;code&gt;标签&lt;/code&gt; 去管理，例如出现了一个灵感，我会在 &lt;code&gt;间歇日记&lt;/code&gt; 里打上 &lt;code&gt;idea&lt;/code&gt; 。我用得比较多的是 &lt;code&gt;想读&lt;/code&gt; &lt;code&gt;想看&lt;/code&gt; 以及一些给内容打上类别的标签。这让我在后续能够快速定位到某一个类别的内容，例如我想检索近期的书单，就可以利用 &lt;code&gt;想读&lt;/code&gt; 这个标签。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关于输出&lt;/strong&gt;，除了 &lt;code&gt;间歇日记&lt;/code&gt; 这些流水式的输出，还有主题式的输出。&lt;strong&gt;一类是卡片知识&lt;/strong&gt;，我会使用固定的模版，附上我用自己总结的话，以及知识部分共识，同时带上来源。最后会以卡片的形式呈现，方便回顾；&lt;strong&gt;另一类是主题文章&lt;/strong&gt;，零碎的思路我会用 &lt;code&gt;想写&lt;/code&gt; 标签标记，较为完整的思路我会放在一个写作看板里记录；&lt;strong&gt;还有一类是对摘录内容的延展&lt;/strong&gt;，这类会通过插件导入，我在阅读时使用 &lt;code&gt;callout&lt;/code&gt; 标记，并输出为卡片，方便回顾自己的想法。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;整体的使用习惯是这样的，后续会结合具体的场景进行展开，包括如何使用，以及用到什么插件或者快捷操作。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/obsidian/" term="Obsidian" label="Obsidian" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">唐山打人事件的一个有趣现象</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/disappeared-comments/" />
