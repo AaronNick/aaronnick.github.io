@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-06-14T13:00:11&#43;08:00</updated>
+    <updated>2022-06-26T21:31:18&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,99 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.86.0">Hugo</generator>
+        <entry>
+            <title type="text">我在 Obsidian 里管理书籍阅读</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/reading-management-at-obsidian/" />
+            <id>https://aaronnick.github.io/posts/reading-management-at-obsidian/</id>
+            <updated>2022-06-26T21:26:00&#43;08:00</updated>
+            <published>2022-06-26T18:44:39&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">在 Obsidian 里读书并管理我的阅读计划。</summary>
+            
+                <content type="html">&lt;p&gt;在此前的文章里，我介绍过自己的日常使用习惯，在 &lt;code&gt;间歇日记&lt;/code&gt; 里无压力输入，再通过标签等形式便捷归类内容。其中的重点是日期和对应的事件。&lt;/p&gt;
+&lt;p&gt;这篇文章我分享下自己如何通过 Obsidian 管理读书方面的输入输出。大致会从以下方面展开：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;书籍模版及阅读概览&lt;/li&gt;
+&lt;li&gt;通过标签及检索式管理想读的书籍&lt;/li&gt;
+&lt;li&gt;在 Obsidian 里阅读电子书&lt;/li&gt;
+&lt;li&gt;让阅读有迹可循&lt;/li&gt;
+&lt;li&gt;输出整本书的摘录及想法&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其中涉及的插件：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/blacksmithgu/obsidian-dataview&#34;&gt;Dataview&lt;/a&gt;：根据属性检索并生成读书概览&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nothingislost/obsidian-hover-editor&#34;&gt;Hover Editor&lt;/a&gt;：悬浮查看、编辑文件，结合 Custom Frames 嵌入微信读书、Google Play 图书&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Ellpeck/ObsidianCustomFrames&#34;&gt;Custom Frames&lt;/a&gt;：嵌入微信读书、Google Play 图书等，配合 Hover Editor 悬浮窗口阅读&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/quorafind/obsidian-memos&#34;&gt;Obsidian Memos&lt;/a&gt;：检索间歇日记中指定日期、指定书籍的读书摘录及想法，并一键导出&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;书籍模版及阅读概览&#34;&gt;书籍模版及阅读概览&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206261854584.png&#34; alt=&#34;&#34; title=&#34;书籍文件模版&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我的书籍文件模版如上图：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Metadata&lt;/strong&gt;：书籍信息、阅读状态、书籍简评&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;附加信息&lt;/strong&gt;：推荐语记录的是我为啥读这本书，或者朋友推荐时让我感兴趣的是啥，记录下来方便追溯；时间双链主要是关联日记&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;简介&lt;/strong&gt;：书籍的简单介绍，有时候直接拷贝豆瓣简介，有时候自己读完后用自己的话描述&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;收获&lt;/strong&gt;：自己读完的总结：本书讲了什么？引发什么思考？和库里哪些内容有所关联？&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;摘录&lt;/strong&gt;：通过 Obsidian 自带的 &lt;code&gt;query&lt;/code&gt; 生成本书的摘录及想法检索式，下文有具体介绍&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206261858815.png&#34; alt=&#34;&#34; title=&#34;在读、想读、读完&#34;&gt;&lt;/p&gt;
+&lt;p&gt;我会通过一个 &lt;code&gt;Reading&lt;/code&gt; 文件管理我的 &lt;code&gt;在读&lt;/code&gt; &lt;code&gt;想读&lt;/code&gt; &lt;code&gt;读完&lt;/code&gt; 书籍，具体是通过 &lt;code&gt;Dataview&lt;/code&gt; 插件读取每个书籍文件的属性生成如上图的表格。&lt;/p&gt;
+&lt;h3 id=&#34;通过标签及检索式管理想读的书籍&#34;&gt;通过标签及检索式管理想读的书籍&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206261904354.png&#34; alt=&#34;&#34; title=&#34;通过检索式汇总想读的书籍&#34;&gt;&lt;/p&gt;
+&lt;p&gt;有时候会因为一句话，或者一个帖子，又或者朋友的推荐而想要阅读一本书，此时可能来不及在库里创建一个书籍文件，我一般会先在 &lt;code&gt;间歇日记&lt;/code&gt; 里记录下来，&lt;strong&gt;并通过一定的格式方便我在某个地方可以汇总查看&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;如上图所示，2022-06-21 这一天的 &lt;code&gt;间歇日记&lt;/code&gt; 有两本 &lt;code&gt;#想读&lt;/code&gt; 的书，我给这两段&lt;strong&gt;打上标签并设置为待办&lt;/strong&gt;。在另一个名叫 &lt;code&gt;想读什么&lt;/code&gt; 的文件里就会出现这两本书，且可以跳转到相应的段落。这个汇总的检索式 Obsidian 本身就支持： &lt;code&gt;task-todo:(#想读) path:&amp;quot;Daily&amp;quot;&lt;/code&gt; 。待办标记完成之后，汇总文件将不再展示。如果你&lt;strong&gt;想要支持排序并以 Markdown 格式展示&lt;/strong&gt;，则可以安装 Query Control 这个插件以达到上图的效果。&lt;/p&gt;
+&lt;h3 id=&#34;在-obsidian-里阅读电子书&#34;&gt;在 Obsidian 里阅读电子书&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206261908200.png&#34; alt=&#34;&#34; title=&#34;悬浮窗口阅读&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hover Editor 悬浮窗口的特性，结合 Custom Frames 嵌入网页，就&lt;strong&gt;可以将微信读书、Google Play 图书等搬到 Obsidian 里，在笔记软件内完成阅读&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;上图我放了微信读书以及 Google Play 图书的界面对比，可以看到&lt;strong&gt;和在浏览器里阅读几乎无差别&lt;/strong&gt;。在 Obsidian 里阅读我会更专注，另外我习惯再开一个窗口用来记录那些让我转瞬即逝的想法。&lt;/p&gt;
+&lt;p&gt;另外，值得一提的是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;新的 Obsidian &lt;strong&gt;内测版本已经支持将窗口移出软件外&lt;/strong&gt;，这是一个令人期待的功能&lt;/li&gt;
+&lt;li&gt;历史文章：&lt;a href=&#34;https://weiyexing.ml/posts/how-to-find-an-ebook/&#34;&gt;如何寻找一本电子书&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;快速呼出阅读窗口技巧：我的设置是，将 &lt;code&gt;Command+Shift+H&lt;/code&gt; 配置为打开一个新的 Hover 窗口，键入 &lt;code&gt;Command+P&lt;/code&gt; 打开命令，输入 &lt;code&gt;Play&lt;/code&gt; 回车即可打开 Google Play 图书阅读窗口，微信读书阅读窗口同理。（Custom Frames 需要如下图打开 &lt;code&gt;Open in Center&lt;/code&gt; ）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206261911396.png&#34; alt=&#34;&#34; title=&#34;插件配置&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;让阅读有迹可循&#34;&gt;让阅读有迹可循&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206261915454.png&#34; alt=&#34;&#34; title=&#34;摘录的输入与汇总&#34;&gt;&lt;/p&gt;
+&lt;p&gt;正如前文所说，我会在阅读的时候记录在读书籍的摘录或想法，并打上对应的标签。相应的，书籍文件的 &lt;code&gt;摘录&lt;/code&gt; 区域，只要通过简单的检索式 &lt;code&gt;#书籍标签 path:&amp;quot;Daily&amp;quot;&lt;/code&gt; 就可以&lt;strong&gt;把散落各个日期各个地方的摘录和想法汇总起来，方便回溯&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;输出整本书的摘录及想法&#34;&gt;输出整本书的摘录及想法&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202206261921767.png&#34; alt=&#34;&#34; title=&#34;批量导出摘录&#34;&gt;&lt;/p&gt;
+&lt;p&gt;看过我博客的朋友，都知道我会在每个月底，&lt;strong&gt;汇总下自己当月的阅读情况&lt;/strong&gt;。此时的需求就是：把指定日期、指定标签的内容从日记文件里抽离并拷贝出来──Obsidian Memos 插件可以实现我的需求：&lt;code&gt;#书籍标签 -time: 2022-05-01 2022-05-31&lt;/code&gt; 。这个检索式也很容易理解，前半段是包含的标签，后半段是日期范围。&lt;/p&gt;
+&lt;p&gt;例如此前的阅读记录：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://weiyexing.ml/posts/read-202205/&#34;&gt;五月读什么：鲁迅、邓小平和李光耀等&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://weiyexing.ml/posts/read-202204/&#34;&gt;四月读什么：朱光潜、阎连科与鲁迅等&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://weiyexing.ml/posts/read-202203/&#34;&gt;三月读什么：王小波、知堂与歌德等&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;当然，如果想要把任何时期的某本书的摘录和想法拿出来，通过这个插件也可以实现。此前我曾经费力地把摘录内容手动汇总到书籍文件里，但是我逐渐停止这个方式，转而用上文所说的 &lt;code&gt;#书籍标签 path:&amp;quot;Daily&amp;quot;&lt;/code&gt; 检索式，&lt;strong&gt;这样的好处是会把我后续新的想法也同步过来&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;结语&#34;&gt;结语&lt;/h3&gt;
+&lt;p&gt;这个阅读管理流程我已经使用了几个月，感觉比较符合自身的需求，分享给读者以供参考。在 Hover Editor 出现时我就开始试用，并结合 Custom Frames 嵌入各种网页满足各种场景的诉求，这两个插件值得展开的地方还太多，后续再结合具体场景聊一聊。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/obsidian/" term="Obsidian" label="Obsidian" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">一封体面的裁员公开信</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/a-decent-layoff-letter/" />
