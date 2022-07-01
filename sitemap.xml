@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aaronnick.github.io/tags/obsidian/</loc>
-    <lastmod>2022-06-26T21:26:00+08:00</lastmod>
+    <loc>https://aaronnick.github.io/tags/daily/</loc>
+    <lastmod>2022-07-01T18:44:47+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2022-06-26T21:26:00+08:00</lastmod>
+    <lastmod>2022-07-01T18:45:28+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2022-06-26T21:26:00+08:00</lastmod>
+    <lastmod>2022-07-01T18:45:28+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2022-07-01T18:45:28+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/daily-202206/</loc>
+    <lastmod>2022-07-01T18:44:47+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/read/</loc>
+    <lastmod>2022-07-01T18:45:28+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/read-202206/</loc>
+    <lastmod>2022-07-01T18:45:28+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/obsidian/</loc>
     <lastmod>2022-06-26T21:26:00+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/reading-management-at-obsidian/</loc>
@@ -41,14 +53,8 @@
     <loc>https://aaronnick.github.io/posts/multiplication-formulas/</loc>
     <lastmod>2022-06-07T12:23:38+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/tags/read/</loc>
-    <lastmod>2022-06-12T23:13:17+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/rational-choice-in-an-uncertain-world/</loc>
     <lastmod>2022-06-01T21:52:24+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/daily/</loc>
-    <lastmod>2022-05-31T21:56:24+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/daily-202205/</loc>
     <lastmod>2022-05-31T21:56:24+08:00</lastmod>
