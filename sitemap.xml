@@ -2,17 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aaronnick.github.io/tags/daily/</loc>
-    <lastmod>2022-07-01T18:44:47+08:00</lastmod>
+    <loc>https://aaronnick.github.io/tags/poetry/</loc>
+    <lastmod>2022-07-19T21:55:05+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2022-07-01T18:45:28+08:00</lastmod>
+    <lastmod>2022-07-19T21:55:05+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2022-07-01T18:45:28+08:00</lastmod>
+    <lastmod>2022-07-19T21:55:05+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/</loc>
-    <lastmod>2022-07-01T18:45:28+08:00</lastmod>
+    <lastmod>2022-07-19T21:55:05+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/cicada/</loc>
+    <lastmod>2022-07-19T21:55:05+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/essay/</loc>
+    <lastmod>2022-07-19T21:54:49+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/forced-to-abbr/</loc>
+    <lastmod>2022-07-19T21:54:49+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/it-just/</loc>
+    <lastmod>2022-07-19T21:54:10+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/public-execution/</loc>
+    <lastmod>2022-07-19T21:54:28+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/truth-is-fascinating/</loc>
+    <lastmod>2022-07-19T21:53:40+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/daily/</loc>
+    <lastmod>2022-07-01T18:44:47+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/daily-202206/</loc>
     <lastmod>2022-07-01T18:44:47+08:00</lastmod>
@@ -38,17 +59,11 @@
     <loc>https://aaronnick.github.io/posts/daily-use-of-the-obsidian/</loc>
     <lastmod>2022-06-12T12:05:10+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/tags/essay/</loc>
-    <lastmod>2022-06-12T10:53:39+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/disappeared-comments/</loc>
     <lastmod>2022-06-12T10:53:39+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/will-this-be-the-last-live/</loc>
     <lastmod>2022-06-07T12:24:07+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/poetry/</loc>
-    <lastmod>2022-06-07T12:23:38+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/multiplication-formulas/</loc>
     <lastmod>2022-06-07T12:23:38+08:00</lastmod>
@@ -501,7 +516,7 @@
     <lastmod>2021-06-15T19:42:58+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/hugo/</loc>
-    <lastmod>2021-06-06T00:21:28+08:00</lastmod>
+    <lastmod>2022-07-10T13:30:12+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/new-domain/</loc>
     <lastmod>2021-06-06T00:21:28+08:00</lastmod>
@@ -678,7 +693,7 @@
     <lastmod>2021-04-09T22:13:02+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/add-audio-youtube-bilibili/</loc>
-    <lastmod>2021-03-13T23:25:37+08:00</lastmod>
+    <lastmod>2022-07-10T13:30:12+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/daily-202012/</loc>
     <lastmod>2022-02-28T22:55:34+08:00</lastmod>
