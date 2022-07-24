@@ -3,7 +3,7 @@
     <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
     <meta charset="UTF-8" />
 
-    <meta name="generator" content="Hugo 0.86.0" /><meta name="theme-color" content="#fff" />
+    <meta name="generator" content="Hugo 0.101.0" /><meta name="theme-color" content="#fff" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
@@ -18,7 +18,7 @@
 
     
     
-        <script src="/js/meme.min.ecc18d1a6a8b99bd7b60d6a3f08f19c2aa6516e086e4b5ed6d04f773181d8fca.js"></script>
+        <script src="/js/meme.min.55b56b2d5518fa8f023bc0a8841c6c50ea7d736b61b2e17e5a30518ddcabdde5.js"></script>
 
     
 
@@ -294,39 +294,39 @@
 </span><span class="lnt">32
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="nx">on</span> <span class="nx">idle</span>
-	<span class="nx">tell</span> <span class="nx">application</span> <span class="s2">&#34;System Events&#34;</span>
-		<span class="nx">tell</span> <span class="nx">current</span> <span class="nx">location</span> <span class="k">of</span> <span class="nx">network</span> <span class="nx">preferences</span>
-			
-			<span class="o">--</span> <span class="nx">check</span> <span class="nx">vpn</span> <span class="nx">connection</span> <span class="nx">status</span>
-			<span class="nx">set</span> <span class="nx">connected_vpn</span> <span class="nx">to</span> <span class="nx">get</span> <span class="nx">name</span> <span class="k">of</span> <span class="nx">every</span> <span class="nx">service</span> <span class="nx">whose</span> <span class="p">(</span><span class="nx">kind</span> <span class="nx">is</span> <span class="nx">greater</span> <span class="nx">than</span> <span class="mi">10</span> <span class="nx">and</span> <span class="nx">kind</span> <span class="nx">is</span> <span class="nx">less</span> <span class="nx">than</span> <span class="mi">17</span><span class="p">)</span> <span class="nx">and</span> <span class="nx">connected</span> <span class="k">of</span> <span class="nx">current</span> <span class="nx">configuration</span> <span class="nx">is</span> <span class="kc">true</span>
-			<span class="nx">set</span> <span class="nx">connect_status</span> <span class="nx">to</span> <span class="nx">count</span> <span class="k">of</span> <span class="nx">connected_vpn</span>
-			
-			<span class="k">if</span> <span class="nx">connect_status</span> <span class="nx">is</span> <span class="mi">0</span> <span class="nx">then</span>
-				<span class="o">--</span> <span class="nx">get</span> <span class="nx">vpn</span> <span class="nx">list</span>
-				<span class="nx">set</span> <span class="nx">vpn_list</span> <span class="nx">to</span> <span class="nx">get</span> <span class="nx">name</span> <span class="k">of</span> <span class="nx">every</span> <span class="nx">service</span> <span class="nx">whose</span> <span class="p">(</span><span class="nx">kind</span> <span class="nx">is</span> <span class="nx">greater</span> <span class="nx">than</span> <span class="mi">10</span> <span class="nx">and</span> <span class="nx">kind</span> <span class="nx">is</span> <span class="nx">less</span> <span class="nx">than</span> <span class="mi">17</span><span class="p">)</span>
-				
-				<span class="o">--</span> <span class="nx">select</span> <span class="nx">random</span> <span class="nx">one</span>
-				<span class="nx">set</span> <span class="nx">vpn_count</span> <span class="nx">to</span> <span class="nx">count</span> <span class="k">of</span> <span class="nx">vpn_list</span>
-				<span class="nx">set</span> <span class="nx">selected_serial</span> <span class="nx">to</span> <span class="nx">random</span> <span class="nx">number</span> <span class="nx">from</span> <span class="mi">1</span> <span class="nx">to</span> <span class="nx">vpn_count</span>
-				<span class="nx">set</span> <span class="nx">selected_vpn</span> <span class="nx">to</span> <span class="nx">item</span> <span class="nx">selected_serial</span> <span class="k">of</span> <span class="nx">vpn_list</span>
-				
-				<span class="nx">display</span> <span class="nx">notification</span> <span class="s2">&#34;Connect to &#34;</span> <span class="o">&amp;</span> <span class="nx">selected_vpn</span> <span class="o">&amp;</span> <span class="s2">&#34; ...&#34;</span>
-				
-				<span class="o">--</span> <span class="nx">connect</span> <span class="nx">select</span> <span class="nx">vpn</span>
-				<span class="nx">set</span> <span class="nx">vpn</span> <span class="nx">to</span> <span class="nx">the</span> <span class="nx">service</span> <span class="nx">selected_vpn</span>
-				<span class="k">if</span> <span class="nx">vpn</span> <span class="nx">is</span> <span class="nx">not</span> <span class="kc">null</span> <span class="nx">then</span>
-					<span class="k">if</span> <span class="nx">current</span> <span class="nx">configuration</span> <span class="k">of</span> <span class="nx">vpn</span> <span class="nx">is</span> <span class="nx">not</span> <span class="nx">connected</span> <span class="nx">then</span>
-						<span class="nx">connect</span> <span class="nx">vpn</span>
-					<span class="nx">end</span> <span class="k">if</span>
-				<span class="nx">end</span> <span class="k">if</span>
-				
-			<span class="nx">end</span> <span class="k">if</span>
-		<span class="nx">end</span> <span class="nx">tell</span>
-		<span class="k">return</span> <span class="mi">30</span>
-	<span class="nx">end</span> <span class="nx">tell</span>
-<span class="nx">end</span> <span class="nx">idle</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-javascript" data-lang="javascript"><span class="line"><span class="cl"><span class="nx">on</span> <span class="nx">idle</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">tell</span> <span class="nx">application</span> <span class="s2">&#34;System Events&#34;</span>
+</span></span><span class="line"><span class="cl">		<span class="nx">tell</span> <span class="nx">current</span> <span class="nx">location</span> <span class="k">of</span> <span class="nx">network</span> <span class="nx">preferences</span>
+</span></span><span class="line"><span class="cl">			
+</span></span><span class="line"><span class="cl">			<span class="o">--</span> <span class="nx">check</span> <span class="nx">vpn</span> <span class="nx">connection</span> <span class="nx">status</span>
+</span></span><span class="line"><span class="cl">			<span class="nx">set</span> <span class="nx">connected_vpn</span> <span class="nx">to</span> <span class="nx">get</span> <span class="nx">name</span> <span class="k">of</span> <span class="nx">every</span> <span class="nx">service</span> <span class="nx">whose</span> <span class="p">(</span><span class="nx">kind</span> <span class="nx">is</span> <span class="nx">greater</span> <span class="nx">than</span> <span class="mi">10</span> <span class="nx">and</span> <span class="nx">kind</span> <span class="nx">is</span> <span class="nx">less</span> <span class="nx">than</span> <span class="mi">17</span><span class="p">)</span> <span class="nx">and</span> <span class="nx">connected</span> <span class="k">of</span> <span class="nx">current</span> <span class="nx">configuration</span> <span class="nx">is</span> <span class="kc">true</span>
+</span></span><span class="line"><span class="cl">			<span class="nx">set</span> <span class="nx">connect_status</span> <span class="nx">to</span> <span class="nx">count</span> <span class="k">of</span> <span class="nx">connected_vpn</span>
+</span></span><span class="line"><span class="cl">			
+</span></span><span class="line"><span class="cl">			<span class="k">if</span> <span class="nx">connect_status</span> <span class="nx">is</span> <span class="mi">0</span> <span class="nx">then</span>
+</span></span><span class="line"><span class="cl">				<span class="o">--</span> <span class="nx">get</span> <span class="nx">vpn</span> <span class="nx">list</span>
+</span></span><span class="line"><span class="cl">				<span class="nx">set</span> <span class="nx">vpn_list</span> <span class="nx">to</span> <span class="nx">get</span> <span class="nx">name</span> <span class="k">of</span> <span class="nx">every</span> <span class="nx">service</span> <span class="nx">whose</span> <span class="p">(</span><span class="nx">kind</span> <span class="nx">is</span> <span class="nx">greater</span> <span class="nx">than</span> <span class="mi">10</span> <span class="nx">and</span> <span class="nx">kind</span> <span class="nx">is</span> <span class="nx">less</span> <span class="nx">than</span> <span class="mi">17</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">				
+</span></span><span class="line"><span class="cl">				<span class="o">--</span> <span class="nx">select</span> <span class="nx">random</span> <span class="nx">one</span>
+</span></span><span class="line"><span class="cl">				<span class="nx">set</span> <span class="nx">vpn_count</span> <span class="nx">to</span> <span class="nx">count</span> <span class="k">of</span> <span class="nx">vpn_list</span>
+</span></span><span class="line"><span class="cl">				<span class="nx">set</span> <span class="nx">selected_serial</span> <span class="nx">to</span> <span class="nx">random</span> <span class="nx">number</span> <span class="nx">from</span> <span class="mi">1</span> <span class="nx">to</span> <span class="nx">vpn_count</span>
+</span></span><span class="line"><span class="cl">				<span class="nx">set</span> <span class="nx">selected_vpn</span> <span class="nx">to</span> <span class="nx">item</span> <span class="nx">selected_serial</span> <span class="k">of</span> <span class="nx">vpn_list</span>
+</span></span><span class="line"><span class="cl">				
+</span></span><span class="line"><span class="cl">				<span class="nx">display</span> <span class="nx">notification</span> <span class="s2">&#34;Connect to &#34;</span> <span class="o">&amp;</span> <span class="nx">selected_vpn</span> <span class="o">&amp;</span> <span class="s2">&#34; ...&#34;</span>
+</span></span><span class="line"><span class="cl">				
+</span></span><span class="line"><span class="cl">				<span class="o">--</span> <span class="nx">connect</span> <span class="nx">select</span> <span class="nx">vpn</span>
+</span></span><span class="line"><span class="cl">				<span class="nx">set</span> <span class="nx">vpn</span> <span class="nx">to</span> <span class="nx">the</span> <span class="nx">service</span> <span class="nx">selected_vpn</span>
+</span></span><span class="line"><span class="cl">				<span class="k">if</span> <span class="nx">vpn</span> <span class="nx">is</span> <span class="nx">not</span> <span class="kc">null</span> <span class="nx">then</span>
+</span></span><span class="line"><span class="cl">					<span class="k">if</span> <span class="nx">current</span> <span class="nx">configuration</span> <span class="k">of</span> <span class="nx">vpn</span> <span class="nx">is</span> <span class="nx">not</span> <span class="nx">connected</span> <span class="nx">then</span>
+</span></span><span class="line"><span class="cl">						<span class="nx">connect</span> <span class="nx">vpn</span>
+</span></span><span class="line"><span class="cl">					<span class="nx">end</span> <span class="k">if</span>
+</span></span><span class="line"><span class="cl">				<span class="nx">end</span> <span class="k">if</span>
+</span></span><span class="line"><span class="cl">				
+</span></span><span class="line"><span class="cl">			<span class="nx">end</span> <span class="k">if</span>
+</span></span><span class="line"><span class="cl">		<span class="nx">end</span> <span class="nx">tell</span>
+</span></span><span class="line"><span class="cl">		<span class="k">return</span> <span class="mi">30</span>
+</span></span><span class="line"><span class="cl">	<span class="nx">end</span> <span class="nx">tell</span>
+</span></span><span class="line"><span class="cl"><span class="nx">end</span> <span class="nx">idle</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><p>如果不需要逐一访问每个 VPN，可使用以下脚本，10s检查一次，只需替换 VPN 名字就好，代码来自好友提供。</p>
 <div class="highlight"><div class="chroma">
@@ -349,23 +349,23 @@
 </span><span class="lnt">16
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="n">on</span> <span class="n">idle</span>
-	<span class="n">set</span> <span class="n">en0</span> <span class="n">to</span> <span class="k">do</span> <span class="n">shell</span> <span class="n">script</span> <span class="s">&#34;ipconfig getifaddr en0; exit 0&#34;</span>
-	<span class="k">if</span> <span class="n">en0</span> <span class="n">is</span> <span class="n">not</span> <span class="s">&#34;&#34;</span> <span class="n">then</span>
-		<span class="n">tell</span> <span class="n">application</span> <span class="s">&#34;System Events&#34;</span>
-			<span class="n">tell</span> <span class="n">current</span> <span class="n">location</span> <span class="n">of</span> <span class="n">network</span> <span class="n">preferences</span>
-				<span class="n">set</span> <span class="n">vpnConnection</span> <span class="n">to</span> <span class="n">the</span> <span class="n">service</span> <span class="s">&#34;VPN 名字&#34;</span>
-				<span class="k">if</span> <span class="n">vpnConnection</span> <span class="n">is</span> <span class="n">not</span> <span class="kc">null</span> <span class="n">then</span>
-					<span class="k">if</span> <span class="n">current</span> <span class="n">configuration</span> <span class="n">of</span> <span class="n">vpnConnection</span> <span class="n">is</span> <span class="n">not</span> <span class="n">connected</span> <span class="n">then</span>
-						<span class="n">connect</span> <span class="n">vpnConnection</span>
-					<span class="n">end</span> <span class="k">if</span>
-				<span class="n">end</span> <span class="k">if</span>
-			<span class="n">end</span> <span class="n">tell</span>
-			<span class="k">return</span> <span class="n">10</span>
-		<span class="n">end</span> <span class="n">tell</span>
-	<span class="n">end</span> <span class="k">if</span>
-<span class="n">end</span> <span class="n">idle</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="n">on</span> <span class="n">idle</span>
+</span></span><span class="line"><span class="cl">	<span class="n">set</span> <span class="n">en0</span> <span class="n">to</span> <span class="k">do</span> <span class="n">shell</span> <span class="n">script</span> <span class="s">&#34;ipconfig getifaddr en0; exit 0&#34;</span>
+</span></span><span class="line"><span class="cl">	<span class="k">if</span> <span class="n">en0</span> <span class="n">is</span> <span class="n">not</span> <span class="s">&#34;&#34;</span> <span class="n">then</span>
+</span></span><span class="line"><span class="cl">		<span class="n">tell</span> <span class="n">application</span> <span class="s">&#34;System Events&#34;</span>
+</span></span><span class="line"><span class="cl">			<span class="n">tell</span> <span class="n">current</span> <span class="n">location</span> <span class="n">of</span> <span class="n">network</span> <span class="n">preferences</span>
+</span></span><span class="line"><span class="cl">				<span class="n">set</span> <span class="n">vpnConnection</span> <span class="n">to</span> <span class="n">the</span> <span class="n">service</span> <span class="s">&#34;VPN 名字&#34;</span>
+</span></span><span class="line"><span class="cl">				<span class="k">if</span> <span class="n">vpnConnection</span> <span class="n">is</span> <span class="n">not</span> <span class="kc">null</span> <span class="n">then</span>
+</span></span><span class="line"><span class="cl">					<span class="k">if</span> <span class="n">current</span> <span class="n">configuration</span> <span class="n">of</span> <span class="n">vpnConnection</span> <span class="n">is</span> <span class="n">not</span> <span class="n">connected</span> <span class="n">then</span>
+</span></span><span class="line"><span class="cl">						<span class="n">connect</span> <span class="n">vpnConnection</span>
+</span></span><span class="line"><span class="cl">					<span class="n">end</span> <span class="k">if</span>
+</span></span><span class="line"><span class="cl">				<span class="n">end</span> <span class="k">if</span>
+</span></span><span class="line"><span class="cl">			<span class="n">end</span> <span class="n">tell</span>
+</span></span><span class="line"><span class="cl">			<span class="k">return</span> <span class="n">10</span>
+</span></span><span class="line"><span class="cl">		<span class="n">end</span> <span class="n">tell</span>
+</span></span><span class="line"><span class="cl">	<span class="n">end</span> <span class="k">if</span>
+</span></span><span class="line"><span class="cl"><span class="n">end</span> <span class="n">idle</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div>
             </div>

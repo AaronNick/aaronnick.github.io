@@ -3,7 +3,7 @@
     <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
     <meta charset="UTF-8" />
 
-    <meta name="generator" content="Hugo 0.86.0" /><meta name="theme-color" content="#fff" />
+    <meta name="generator" content="Hugo 0.101.0" /><meta name="theme-color" content="#fff" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
@@ -18,7 +18,7 @@
 
     
     
-        <script src="/js/meme.min.ecc18d1a6a8b99bd7b60d6a3f08f19c2aa6516e086e4b5ed6d04f773181d8fca.js"></script>
+        <script src="/js/meme.min.55b56b2d5518fa8f023bc0a8841c6c50ea7d736b61b2e17e5a30518ddcabdde5.js"></script>
 
     
 
@@ -60,7 +60,7 @@
         "description": "Obsidian CSS 片段收集。",
         "inLanguage" : "zh-CN",
         "articleSection": "posts",
-        "wordCount":  1650 ,
+        "wordCount":  1649 ,
         "image": ["https://bn02pap001files.storage.live.com/y4mhuBBpK316zBx7a_DNlahXh-41QVMVslz-GyY8upv2FlEyf37OwUPQ0ow03TzV4RgBCTnsAYKHQ9GEulb7OuKXZo-oSgQGLTSprC3Nu9_1um2Bd8PyA1b6zsrpk6lav7UBKLn9MhdbZlW9uzPMrETD9rkr4jB-wDtEm9abCs7wEO66jyUTY-7boCgytPci8IU?width=1080\u0026amp;height=360\u0026amp;cropmode=none"],
         "author": {
             "@type": "Person",
@@ -264,17 +264,17 @@
 </span><span class="lnt">10
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */</span>
-<span class="c">/* author: https://forum.obsidian.md/u/rsdimitrov */</span>
-<span class="c">/* source: https://forum.obsidian.md/t/optimize-obsidian-ui-for-a-more-seamless-experience/155/5 */</span>
-
-<span class="c">/* smaller scrollbar */</span>
-<span class="p">.</span><span class="nc">CodeMirror-vscrollbar</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">CodeMirror-hscrollbar</span><span class="o">,</span>
-<span class="p">::</span><span class="nd">-webkit-scrollbar</span> <span class="p">{</span>
-  <span class="k">width</span><span class="p">:</span> <span class="mi">3</span><span class="kt">px</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* author: https://forum.obsidian.md/u/rsdimitrov */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* source: https://forum.obsidian.md/t/optimize-obsidian-ui-for-a-more-seamless-experience/155/5 */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">/* smaller scrollbar */</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">CodeMirror-vscrollbar</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">CodeMirror-hscrollbar</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">::</span><span class="nd">-webkit-scrollbar</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">width</span><span class="p">:</span> <span class="mi">3</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="大纲连接线"><a href="#大纲连接线" class="anchor-link">#</a>大纲连接线</h4>
 <ul>
@@ -298,20 +298,20 @@
 </span><span class="lnt">13
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* 大纲栏连接线 */</span>
-
-<span class="p">.</span><span class="nc">outline</span> <span class="p">.</span><span class="nc">tree-item-children</span> <span class="p">{</span>
-
-  <span class="k">margin-left</span><span class="p">:</span> <span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
-
-  <span class="k">border-left</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">background</span><span class="o">-</span><span class="n">modifier</span><span class="o">-</span><span class="n">border</span><span class="p">);</span>
-
-  <span class="k">border-radius</span><span class="p">:</span> <span class="mi">4</span><span class="kt">px</span><span class="p">;</span>
-
-  <span class="k">transition</span><span class="p">:</span> <span class="kc">all</span> <span class="mf">0.5</span><span class="kt">s</span> <span class="kc">ease-in-out</span><span class="p">;</span>
-
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* 大纲栏连接线 */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">outline</span> <span class="p">.</span><span class="nc">tree-item-children</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">margin-left</span><span class="p">:</span> <span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">border-left</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">background</span><span class="o">-</span><span class="n">modifier</span><span class="o">-</span><span class="n">border</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">border-radius</span><span class="p">:</span> <span class="mi">4</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">transition</span><span class="p">:</span> <span class="kc">all</span> <span class="mf">0.5</span><span class="kt">s</span> <span class="kc">ease-in-out</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="一级标题居中"><a href="#一级标题居中" class="anchor-link">#</a>一级标题居中</h4>
 <ul>
@@ -331,16 +331,16 @@
 </span><span class="lnt">9
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* preview */</span>
-<span class="nt">h1</span> <span class="p">{</span>
-  <span class="k">text-align</span><span class="p">:</span> <span class="kc">center</span><span class="p">;</span>
-<span class="p">}</span>
-
-<span class="c">/* source */</span>
-<span class="p">.</span><span class="nc">HyperMD-header-1</span> <span class="p">{</span>
-  <span class="k">text-align</span><span class="p">:</span> <span class="kc">center</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* preview */</span>
+</span></span><span class="line"><span class="cl"><span class="nt">h1</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">text-align</span><span class="p">:</span> <span class="kc">center</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">/* source */</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-header-1</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">text-align</span><span class="p">:</span> <span class="kc">center</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="侧边栏连接线"><a href="#侧边栏连接线" class="anchor-link">#</a>侧边栏连接线</h4>
 <ul>
@@ -366,22 +366,22 @@
 </span><span class="lnt">15
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* 侧边栏连接线 */</span>
-
-<span class="p">.</span><span class="nc">nav-folder-children</span> <span class="p">.</span><span class="nc">nav-folder-children</span> <span class="p">{</span>
-
-  <span class="k">margin-left</span><span class="p">:</span> <span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
-
-  <span class="k">padding-left</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-
-  <span class="k">border-left</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">background</span><span class="o">-</span><span class="n">modifier</span><span class="o">-</span><span class="n">border</span><span class="p">);</span>
-
-  <span class="k">border-radius</span><span class="p">:</span> <span class="mi">4</span><span class="kt">px</span><span class="p">;</span>
-
-  <span class="k">transition</span><span class="p">:</span> <span class="kc">all</span> <span class="mf">0.5</span><span class="kt">s</span> <span class="kc">ease-in-out</span><span class="p">;</span>
-
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* 侧边栏连接线 */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">nav-folder-children</span> <span class="p">.</span><span class="nc">nav-folder-children</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">margin-left</span><span class="p">:</span> <span class="mi">20</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">padding-left</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">border-left</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">background</span><span class="o">-</span><span class="n">modifier</span><span class="o">-</span><span class="n">border</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">border-radius</span><span class="p">:</span> <span class="mi">4</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="k">transition</span><span class="p">:</span> <span class="kc">all</span> <span class="mf">0.5</span><span class="kt">s</span> <span class="kc">ease-in-out</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="两端对齐"><a href="#两端对齐" class="anchor-link">#</a>两端对齐</h4>
 <ul>
@@ -401,16 +401,16 @@
 </span><span class="lnt">9
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */</span>
-<span class="c">/* author: https://forum.obsidian.md/u/boyd/summary */</span>
-<span class="c">/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/25 */</span>
-
-<span class="p">.</span><span class="nc">cm-s-obsidian</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="p">{</span>
-  <span class="k">text-align</span><span class="p">:</span> <span class="kc">justify</span><span class="p">;</span>
-  <span class="k">hyphens</span><span class="p">:</span> <span class="kc">auto</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* author: https://forum.obsidian.md/u/boyd/summary */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/25 */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">cm-s-obsidian</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">text-align</span><span class="p">:</span> <span class="kc">justify</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">hyphens</span><span class="p">:</span> <span class="kc">auto</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="编辑模式给引用添加边框"><a href="#编辑模式给引用添加边框" class="anchor-link">#</a>编辑模式给引用添加边框</h4>
 <ul>
@@ -434,26 +434,24 @@
 </span><span class="lnt">13
 </span><span class="lnt">14
 </span><span class="lnt">15
-</span><span class="lnt">16
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css">
-<span class="p">.</span><span class="nc">theme-dark</span> <span class="p">{</span>
-
-<span class="nv">--background-modifier-border</span><span class="p">:</span> <span class="mh">#2f4f4f</span><span class="p">;</span>
-
-<span class="p">}</span>
-<span class="c">/*编辑模式/引用文本*/</span>
-
-<span class="nt">div</span><span class="p">:</span><span class="nd">not</span><span class="o">(</span><span class="p">.</span><span class="nc">CodeMirror-activeline</span><span class="o">)</span> <span class="o">&gt;</span> <span class="p">.</span><span class="nc">HyperMD-quote</span> <span class="p">{</span>
-
-    <span class="k">border-radius</span><span class="p">:</span> <span class="mi">0</span> <span class="mi">4</span><span class="kt">px</span> <span class="mi">4</span><span class="kt">px</span> <span class="mi">0</span><span class="p">;</span>
-
-    <span class="k">border-left</span><span class="p">:</span> <span class="mi">4</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">background</span><span class="o">-</span><span class="n">modifier</span><span class="o">-</span><span class="n">border</span><span class="p">);</span>
-
-<span class="p">}</span>
-
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">theme-dark</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nv">--background-modifier-border</span><span class="p">:</span> <span class="mh">#2f4f4f</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="c">/*编辑模式/引用文本*/</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nt">div</span><span class="p">:</span><span class="nd">not</span><span class="o">(</span><span class="p">.</span><span class="nc">CodeMirror-activeline</span><span class="o">)</span> <span class="o">&gt;</span> <span class="p">.</span><span class="nc">HyperMD-quote</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="k">border-radius</span><span class="p">:</span> <span class="mi">0</span> <span class="mi">4</span><span class="kt">px</span> <span class="mi">4</span><span class="kt">px</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="k">border-left</span><span class="p">:</span> <span class="mi">4</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">background</span><span class="o">-</span><span class="n">modifier</span><span class="o">-</span><span class="n">border</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="无序列表层级符号变化"><a href="#无序列表层级符号变化" class="anchor-link">#</a>无序列表层级符号变化</h4>
 <ul>
@@ -541,84 +539,84 @@
 </span><span class="lnt">77
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="p">:</span><span class="nd">root</span> <span class="p">{</span>
-    <span class="nv">--bullet-one</span><span class="p">:</span> <span class="s1">&#39;●&#39;</span><span class="p">;</span>
-    <span class="nv">--bullet-one-pos-bot</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--bullet-one-size</span><span class="p">:</span> <span class="mi">10</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--bullet-two</span><span class="p">:</span> <span class="s1">&#39;■&#39;</span><span class="p">;</span>
-    <span class="nv">--bullet-two-pos-bot</span><span class="p">:</span> <span class="mi">2</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--bullet-two-size</span><span class="p">:</span> <span class="mi">8</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--bullet-three</span><span class="p">:</span> <span class="s1">&#39;○&#39;</span><span class="p">;</span>
-    <span class="nv">--bullet-three-pos-bot</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--bullet-three-size</span><span class="p">:</span> <span class="mi">10</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--bullet-four</span><span class="p">:</span> <span class="s1">&#39;◆&#39;</span><span class="p">;</span>
-    <span class="nv">--bullet-four-pos-bot</span><span class="p">:</span> <span class="mi">2</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--bullet-four-size</span><span class="p">:</span> <span class="mi">8</span><span class="kt">px</span><span class="p">;</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
-    <span class="k">padding-right</span><span class="p">:</span> <span class="mi">2</span><span class="kt">px</span><span class="p">;</span>
-    <span class="k">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">text</span><span class="o">-</span><span class="kc">normal</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-1</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-2</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-3</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-4</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-5</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-6</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-7</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-8</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-9</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-10</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-11</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-12</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="mi">0</span><span class="kt">px</span><span class="p">;</span>
-    <span class="k">position</span><span class="p">:</span> <span class="kc">relative</span><span class="p">;</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-1</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-5</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-9</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
-    <span class="k">bottom</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">one</span><span class="o">-</span><span class="n">pos</span><span class="o">-</span><span class="n">bot</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-1</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-5</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-9</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
-    <span class="k">content</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">one</span><span class="p">);</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">one</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-2</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-6</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-10</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
-    <span class="k">bottom</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">two</span><span class="o">-</span><span class="n">pos</span><span class="o">-</span><span class="n">bot</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-2</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-6</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-10</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
-    <span class="k">content</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">two</span><span class="p">);</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">two</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-3</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-7</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-11</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
-    <span class="k">bottom</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">three</span><span class="o">-</span><span class="n">pos</span><span class="o">-</span><span class="n">bot</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-3</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-7</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-11</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
-    <span class="k">content</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">three</span><span class="p">);</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">three</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-4</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-8</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-12</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
-    <span class="k">bottom</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">four</span><span class="o">-</span><span class="n">pos</span><span class="o">-</span><span class="n">bot</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-4</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-8</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">HyperMD-list-line-12</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
-    <span class="k">content</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">four</span><span class="p">);</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">four</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="p">:</span><span class="nd">root</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-one</span><span class="p">:</span> <span class="s1">&#39;●&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-one-pos-bot</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-one-size</span><span class="p">:</span> <span class="mi">10</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-two</span><span class="p">:</span> <span class="s1">&#39;■&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-two-pos-bot</span><span class="p">:</span> <span class="mi">2</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-two-size</span><span class="p">:</span> <span class="mi">8</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-three</span><span class="p">:</span> <span class="s1">&#39;○&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-three-pos-bot</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-three-size</span><span class="p">:</span> <span class="mi">10</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-four</span><span class="p">:</span> <span class="s1">&#39;◆&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-four-pos-bot</span><span class="p">:</span> <span class="mi">2</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--bullet-four-size</span><span class="p">:</span> <span class="mi">8</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">padding-right</span><span class="p">:</span> <span class="mi">2</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">text</span><span class="o">-</span><span class="kc">normal</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-1</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-2</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-3</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-4</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-5</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-6</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-7</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-8</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-9</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-10</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-11</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-12</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-size</span><span class="p">:</span> <span class="mi">0</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">position</span><span class="p">:</span> <span class="kc">relative</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-1</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-5</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-9</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">bottom</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">one</span><span class="o">-</span><span class="n">pos</span><span class="o">-</span><span class="n">bot</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-1</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-5</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-9</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">content</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">one</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">one</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-2</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-6</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-10</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">bottom</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">two</span><span class="o">-</span><span class="n">pos</span><span class="o">-</span><span class="n">bot</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-2</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-6</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-10</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">content</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">two</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">two</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-3</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-7</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-11</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">bottom</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">three</span><span class="o">-</span><span class="n">pos</span><span class="o">-</span><span class="n">bot</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-3</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-7</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-11</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">content</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">three</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">three</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-4</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-8</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-12</span> <span class="p">.</span><span class="nc">list-bullet</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">bottom</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">four</span><span class="o">-</span><span class="n">pos</span><span class="o">-</span><span class="n">bot</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-4</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-8</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">HyperMD-list-line-12</span> <span class="p">.</span><span class="nc">list-bullet</span><span class="p">:</span><span class="nd">before</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">content</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">four</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">bullet</span><span class="o">-</span><span class="n">four</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="无序列表彩虹锁进"><a href="#无序列表彩虹锁进" class="anchor-link">#</a>无序列表彩虹锁进</h4>
 <ul>
@@ -717,95 +715,95 @@
 </span><span class="lnt">88
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* RAINBOW INDENT COLORS */</span>
-<span class="p">:</span><span class="nd">root</span> <span class="p">{</span>
-<span class="c">/* default */</span>
-    <span class="nv">--font-use-default</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">default</span><span class="o">-</span><span class="n">font</span><span class="p">);</span>
-    <span class="nv">--font-size-use-default</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">editor</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
-    <span class="nv">--indent-use-default</span><span class="p">:</span> <span class="mf">1.8</span><span class="kt">ch</span><span class="p">;</span>
-<span class="c">/* ------- */</span>
-
-<span class="c">/* theme */</span>
-    <span class="nv">--font-use-theme</span><span class="p">:</span> <span class="kc">inherit</span><span class="p">;</span>
-    <span class="nv">--font-size-use-theme</span><span class="p">:</span> <span class="kc">inherit</span><span class="p">;</span>
-    <span class="nv">--indent-use-theme</span><span class="p">:</span> <span class="mf">1.8</span><span class="kt">ch</span><span class="p">;</span>
-<span class="c">/* ----- */</span>
-
-<span class="c">/* wide */</span>
-    <span class="nv">--font-use-wide</span><span class="p">:</span> <span class="kc">monospace</span><span class="p">;</span>
-    <span class="nv">--font-size-use-wide</span><span class="p">:</span> <span class="mi">12</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--indent-use-wide</span><span class="p">:</span> <span class="mf">4.009</span><span class="kt">ch</span><span class="p">;</span>
-<span class="c">/* ---- */</span>
-
-<span class="c">/* custom */</span>
-    <span class="nv">--font-use-custom</span><span class="p">:</span> <span class="n">Arial</span><span class="p">;</span>
-    <span class="nv">--font-size-use-custom</span><span class="p">:</span> <span class="mi">13</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--indent-use-custom</span><span class="p">:</span> <span class="mf">14.5</span><span class="kt">px</span><span class="p">;</span>
-<span class="c">/* ------ */</span>
-
-<span class="c">/* SET FROM VARIABLES ABOVE UPDATING LAST WORD (e.g. ...-default) */</span>
-<span class="c">/* Copy and replace one of following: default, theme, wide, custom */</span>
-    <span class="nv">--indent-font-family</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">font</span><span class="o">-</span><span class="n">use</span><span class="o">-</span><span class="kc">default</span><span class="p">);</span>
-    <span class="nv">--indent-font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">font</span><span class="o">-</span><span class="n">size</span><span class="o">-</span><span class="n">use</span><span class="o">-</span><span class="kc">default</span><span class="p">);</span>
-    <span class="nv">--indent-width</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">use</span><span class="o">-</span><span class="kc">default</span><span class="p">);</span>
-    <span class="nv">--left-offset</span><span class="p">:</span> <span class="mf">3.5</span><span class="kt">px</span><span class="p">;</span>
-<span class="c">/* ---------------------------------------------- */</span>
-
-    <span class="nv">--line-width</span><span class="p">:</span> <span class="mf">1.5</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--color-count</span><span class="p">:</span> <span class="mi">8</span><span class="p">;</span>
-    <span class="nv">--indent-1</span><span class="p">:</span> <span class="mh">#6854c1</span><span class="p">;</span>
-    <span class="nv">--indent-2</span><span class="p">:</span> <span class="mh">#c724b1</span><span class="p">;</span>
-    <span class="nv">--indent-3</span><span class="p">:</span> <span class="mh">#ff6900</span><span class="p">;</span>
-    <span class="nv">--indent-4</span><span class="p">:</span> <span class="mh">#f6be00</span><span class="p">;</span>
-    <span class="nv">--indent-5</span><span class="p">:</span> <span class="mh">#e4002b</span><span class="p">;</span>
-    <span class="nv">--indent-6</span><span class="p">:</span> <span class="mh">#97d700</span><span class="p">;</span>
-    <span class="nv">--indent-7</span><span class="p">:</span> <span class="mh">#00ab84</span><span class="p">;</span>
-    <span class="nv">--indent-8</span><span class="p">:</span> <span class="mh">#00a3e0</span><span class="p">;</span>
-
-    <span class="nv">--indent-bg-size</span><span class="p">:</span> <span class="nb">calc</span><span class="p">(</span><span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">color</span><span class="o">-</span><span class="n">count</span><span class="p">)</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="mi">1</span><span class="kt">px</span><span class="p">;</span>
-    <span class="nv">--indent-rainbow-bg</span><span class="p">:</span> <span class="nb">linear-gradient</span><span class="p">(</span>
-        <span class="kc">to</span> <span class="kc">right</span><span class="p">,</span>
-        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-1</span><span class="p">)</span> <span class="mi">0</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">),</span>
-        <span class="kc">transparent</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-2</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-3</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">3</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-4</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">3</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">3</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">3</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-5</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">5</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-6</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">5</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">5</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">5</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">6</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-7</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">6</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">6</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">6</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">7</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-8</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">7</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">7</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
-        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">7</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">8</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span>
-    <span class="p">);</span>
-<span class="p">}</span>
-
-<span class="p">.</span><span class="nc">mod-cm6</span><span class="p">.</span><span class="nc">is-live-preview</span> <span class="p">.</span><span class="nc">HyperMD-list-line</span><span class="p">.</span><span class="nc">cm-line</span> <span class="p">{</span>
-    <span class="k">overflow</span><span class="p">:</span> <span class="kc">hidden</span><span class="p">;</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">mod-cm6</span><span class="p">.</span><span class="nc">is-live-preview</span> <span class="p">.</span><span class="nc">HyperMD-list-line</span><span class="p">.</span><span class="nc">cm-line</span> <span class="p">.</span><span class="nc">cm-hmd-list-indent</span> <span class="p">{</span>
-    <span class="k">position</span><span class="p">:</span> <span class="kc">relative</span><span class="p">;</span>
-    <span class="k">font-family</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">family</span><span class="p">)</span> <span class="cp">!important</span><span class="p">;</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">size</span><span class="p">)</span> <span class="cp">!important</span><span class="p">;</span>
-<span class="p">}</span>
-<span class="p">.</span><span class="nc">mod-cm6</span><span class="p">.</span><span class="nc">is-live-preview</span> <span class="p">.</span><span class="nc">HyperMD-list-line</span><span class="p">.</span><span class="nc">cm-line</span> <span class="p">.</span><span class="nc">cm-hmd-list-indent</span><span class="p">::</span><span class="nd">before</span> <span class="p">{</span>
-    <span class="k">content</span><span class="p">:</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
-    <span class="k">font-family</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">family</span><span class="p">)</span> <span class="cp">!important</span><span class="p">;</span>
-    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">size</span><span class="p">)</span> <span class="cp">!important</span><span class="p">;</span>
-    <span class="k">display</span><span class="p">:</span> <span class="kc">block</span><span class="p">;</span>
-    <span class="k">position</span><span class="p">:</span> <span class="kc">absolute</span><span class="p">;</span>
-    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">top</span><span class="p">:</span> <span class="mf">-1.6</span><span class="kt">em</span><span class="p">;</span>
-    <span class="k">padding-bottom</span><span class="p">:</span> <span class="mi">999</span><span class="kt">em</span><span class="p">;</span>
-    <span class="k">background-image</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">rainbow</span><span class="o">-</span><span class="n">bg</span><span class="p">);</span>
-    <span class="k">background-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">bg</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
-    <span class="k">left</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">left</span><span class="o">-</span><span class="n">offset</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* RAINBOW INDENT COLORS */</span>
+</span></span><span class="line"><span class="cl"><span class="p">:</span><span class="nd">root</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* default */</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--font-use-default</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">default</span><span class="o">-</span><span class="n">font</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--font-size-use-default</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">editor</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-use-default</span><span class="p">:</span> <span class="mf">1.8</span><span class="kt">ch</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* ------- */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">/* theme */</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--font-use-theme</span><span class="p">:</span> <span class="kc">inherit</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--font-size-use-theme</span><span class="p">:</span> <span class="kc">inherit</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-use-theme</span><span class="p">:</span> <span class="mf">1.8</span><span class="kt">ch</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* ----- */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">/* wide */</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--font-use-wide</span><span class="p">:</span> <span class="kc">monospace</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--font-size-use-wide</span><span class="p">:</span> <span class="mi">12</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-use-wide</span><span class="p">:</span> <span class="mf">4.009</span><span class="kt">ch</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* ---- */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">/* custom */</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--font-use-custom</span><span class="p">:</span> <span class="n">Arial</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--font-size-use-custom</span><span class="p">:</span> <span class="mi">13</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-use-custom</span><span class="p">:</span> <span class="mf">14.5</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* ------ */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c">/* SET FROM VARIABLES ABOVE UPDATING LAST WORD (e.g. ...-default) */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* Copy and replace one of following: default, theme, wide, custom */</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-font-family</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">font</span><span class="o">-</span><span class="n">use</span><span class="o">-</span><span class="kc">default</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">font</span><span class="o">-</span><span class="n">size</span><span class="o">-</span><span class="n">use</span><span class="o">-</span><span class="kc">default</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-width</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">use</span><span class="o">-</span><span class="kc">default</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--left-offset</span><span class="p">:</span> <span class="mf">3.5</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* ---------------------------------------------- */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nv">--line-width</span><span class="p">:</span> <span class="mf">1.5</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--color-count</span><span class="p">:</span> <span class="mi">8</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-1</span><span class="p">:</span> <span class="mh">#6854c1</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-2</span><span class="p">:</span> <span class="mh">#c724b1</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-3</span><span class="p">:</span> <span class="mh">#ff6900</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-4</span><span class="p">:</span> <span class="mh">#f6be00</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-5</span><span class="p">:</span> <span class="mh">#e4002b</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-6</span><span class="p">:</span> <span class="mh">#97d700</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-7</span><span class="p">:</span> <span class="mh">#00ab84</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-8</span><span class="p">:</span> <span class="mh">#00a3e0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-bg-size</span><span class="p">:</span> <span class="nb">calc</span><span class="p">(</span><span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">color</span><span class="o">-</span><span class="n">count</span><span class="p">)</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="mi">1</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="nv">--indent-rainbow-bg</span><span class="p">:</span> <span class="nb">linear-gradient</span><span class="p">(</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">to</span> <span class="kc">right</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-1</span><span class="p">)</span> <span class="mi">0</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">),</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">transparent</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-2</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-3</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">3</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-4</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">3</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">3</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">3</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-5</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">4</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">5</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-6</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">5</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">5</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">5</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">6</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-7</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">6</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">6</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">6</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">7</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="mi">-8</span><span class="p">)</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">7</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">7</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">)),</span>
+</span></span><span class="line"><span class="cl">        <span class="kc">transparent</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">7</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">)</span> <span class="o">+</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">line</span><span class="o">-</span><span class="n">width</span><span class="p">))</span> <span class="nb">calc</span><span class="p">(</span><span class="mi">8</span> <span class="o">*</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">width</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">    <span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">mod-cm6</span><span class="p">.</span><span class="nc">is-live-preview</span> <span class="p">.</span><span class="nc">HyperMD-list-line</span><span class="p">.</span><span class="nc">cm-line</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">overflow</span><span class="p">:</span> <span class="kc">hidden</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">mod-cm6</span><span class="p">.</span><span class="nc">is-live-preview</span> <span class="p">.</span><span class="nc">HyperMD-list-line</span><span class="p">.</span><span class="nc">cm-line</span> <span class="p">.</span><span class="nc">cm-hmd-list-indent</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">position</span><span class="p">:</span> <span class="kc">relative</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-family</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">family</span><span class="p">)</span> <span class="cp">!important</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">size</span><span class="p">)</span> <span class="cp">!important</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">mod-cm6</span><span class="p">.</span><span class="nc">is-live-preview</span> <span class="p">.</span><span class="nc">HyperMD-list-line</span><span class="p">.</span><span class="nc">cm-line</span> <span class="p">.</span><span class="nc">cm-hmd-list-indent</span><span class="p">::</span><span class="nd">before</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">content</span><span class="p">:</span> <span class="s1">&#39;&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-family</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">family</span><span class="p">)</span> <span class="cp">!important</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">font-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">font</span><span class="o">-</span><span class="n">size</span><span class="p">)</span> <span class="cp">!important</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">display</span><span class="p">:</span> <span class="kc">block</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">position</span><span class="p">:</span> <span class="kc">absolute</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">top</span><span class="p">:</span> <span class="mf">-1.6</span><span class="kt">em</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">padding-bottom</span><span class="p">:</span> <span class="mi">999</span><span class="kt">em</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">background-image</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">rainbow</span><span class="o">-</span><span class="n">bg</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">background-size</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="n">indent</span><span class="o">-</span><span class="n">bg</span><span class="o">-</span><span class="n">size</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">left</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">left</span><span class="o">-</span><span class="n">offset</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="更大的预览弹出框"><a href="#更大的预览弹出框" class="anchor-link">#</a>更大的预览弹出框</h4>
 <ul>
@@ -830,21 +828,21 @@
 </span><span class="lnt">14
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */</span>
-<span class="c">/* author: https://github.com/cannibalox &amp; https://github.com/konhi */</span>
-<span class="c">/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/82 */</span>
-
-<span class="p">.</span><span class="nc">popover</span><span class="p">.</span><span class="nc">hover-popover</span> <span class="p">{</span>
-  <span class="k">transform</span><span class="p">:</span> <span class="nb">scale</span><span class="p">(</span><span class="mf">0.8</span><span class="p">);</span> <span class="c">/* makes the content smaller */</span>
-  <span class="k">max-height</span><span class="p">:</span> <span class="mi">800</span><span class="kt">px</span><span class="p">;</span> <span class="c">/* was 300 */</span>
-  <span class="k">min-height</span><span class="p">:</span> <span class="mi">100</span><span class="kt">px</span><span class="p">;</span>
-  <span class="k">width</span><span class="p">:</span> <span class="mi">500</span><span class="kt">px</span><span class="p">;</span> <span class="c">/* was 400 */</span>
-<span class="p">}</span>
-
-<span class="p">.</span><span class="nc">popover</span><span class="p">.</span><span class="nc">hover-popover</span> <span class="p">.</span><span class="nc">markdown-embed</span> <span class="p">{</span>
-  <span class="k">height</span><span class="p">:</span> <span class="mi">800</span><span class="kt">px</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* author: https://github.com/cannibalox &amp; https://github.com/konhi */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/82 */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">popover</span><span class="p">.</span><span class="nc">hover-popover</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">transform</span><span class="p">:</span> <span class="nb">scale</span><span class="p">(</span><span class="mf">0.8</span><span class="p">);</span> <span class="c">/* makes the content smaller */</span>
+</span></span><span class="line"><span class="cl">  <span class="k">max-height</span><span class="p">:</span> <span class="mi">800</span><span class="kt">px</span><span class="p">;</span> <span class="c">/* was 300 */</span>
+</span></span><span class="line"><span class="cl">  <span class="k">min-height</span><span class="p">:</span> <span class="mi">100</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">width</span><span class="p">:</span> <span class="mi">500</span><span class="kt">px</span><span class="p">;</span> <span class="c">/* was 400 */</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">popover</span><span class="p">.</span><span class="nc">hover-popover</span> <span class="p">.</span><span class="nc">markdown-embed</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">height</span><span class="p">:</span> <span class="mi">800</span><span class="kt">px</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="鼠标悬停展示放大图片"><a href="#鼠标悬停展示放大图片" class="anchor-link">#</a>鼠标悬停展示放大图片</h4>
 <ul>
@@ -873,25 +871,25 @@
 </span><span class="lnt">18
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */</span>
-<span class="c">/* author: https://forum.obsidian.md/u/den/summary */</span>
-<span class="c">/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/29 */</span>
-
-<span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="nt">img</span> <span class="p">{</span>
-  <span class="k">display</span><span class="p">:</span> <span class="kc">block</span><span class="p">;</span>
-  <span class="k">margin-top</span><span class="p">:</span> <span class="mi">20</span><span class="kt">pt</span><span class="p">;</span>
-  <span class="k">margin-bottom</span><span class="p">:</span> <span class="mi">20</span><span class="kt">pt</span><span class="p">;</span>
-  <span class="k">margin-left</span><span class="p">:</span> <span class="kc">auto</span><span class="p">;</span>
-  <span class="k">margin-right</span><span class="p">:</span> <span class="kc">auto</span><span class="p">;</span>
-  <span class="k">width</span><span class="p">:</span> <span class="mi">50</span><span class="kt">%</span><span class="p">;</span> <span class="c">/* experiment with values */</span>
-  <span class="k">transition</span><span class="p">:</span> <span class="k">transform</span> <span class="mf">0.25</span><span class="kt">s</span> <span class="kc">ease</span><span class="p">;</span>
-<span class="p">}</span>
-
-<span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="nt">img</span><span class="p">:</span><span class="nd">hover</span> <span class="p">{</span>
-  <span class="kp">-webkit-</span><span class="k">transform</span><span class="p">:</span> <span class="nb">scale</span><span class="p">(</span><span class="mf">1.8</span><span class="p">);</span> <span class="c">/* experiment with values */</span>
-  <span class="k">transform</span><span class="p">:</span> <span class="nb">scale</span><span class="p">(</span><span class="mi">2</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* author: https://forum.obsidian.md/u/den/summary */</span>
+</span></span><span class="line"><span class="cl"><span class="c">/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/29 */</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="nt">img</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">display</span><span class="p">:</span> <span class="kc">block</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">margin-top</span><span class="p">:</span> <span class="mi">20</span><span class="kt">pt</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">margin-bottom</span><span class="p">:</span> <span class="mi">20</span><span class="kt">pt</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">margin-left</span><span class="p">:</span> <span class="kc">auto</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">margin-right</span><span class="p">:</span> <span class="kc">auto</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">width</span><span class="p">:</span> <span class="mi">50</span><span class="kt">%</span><span class="p">;</span> <span class="c">/* experiment with values */</span>
+</span></span><span class="line"><span class="cl">  <span class="k">transition</span><span class="p">:</span> <span class="k">transform</span> <span class="mf">0.25</span><span class="kt">s</span> <span class="kc">ease</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="nt">img</span><span class="p">:</span><span class="nd">hover</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="kp">-webkit-</span><span class="k">transform</span><span class="p">:</span> <span class="nb">scale</span><span class="p">(</span><span class="mf">1.8</span><span class="p">);</span> <span class="c">/* experiment with values */</span>
+</span></span><span class="line"><span class="cl">  <span class="k">transform</span><span class="p">:</span> <span class="nb">scale</span><span class="p">(</span><span class="mi">2</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="更美观的待办样式"><a href="#更美观的待办样式" class="anchor-link">#</a>更美观的待办样式</h4>
 <ul>
@@ -930,35 +928,35 @@
 </span><span class="lnt">28
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="c">/* Round checkbxes in preview and editor */</span>
-<span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=</span><span class="nt">checkbox</span><span class="o">],</span> <span class="p">.</span><span class="nc">cm-formatting-task</span> <span class="p">{</span>
-    <span class="kp">-webkit-</span><span class="k">appearance</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
-    <span class="k">appearance</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
-    <span class="k">border-radius</span><span class="p">:</span> <span class="mi">50</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">border</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">text</span><span class="o">-</span><span class="n">faint</span><span class="p">);</span>
-    <span class="k">padding</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-    <span class="k">vertical-align</span><span class="p">:</span> <span class="kc">middle</span><span class="p">;</span>    
-<span class="p">}</span>
-
-<span class="p">.</span><span class="nc">cm-s-obsidian</span> <span class="nt">span</span><span class="p">.</span><span class="nc">cm-formatting-task</span> <span class="p">{</span>
-    <span class="k">color</span><span class="p">:</span> <span class="kc">transparent</span><span class="p">;</span>
-    <span class="k">width</span><span class="p">:</span> <span class="mf">1.25</span><span class="kt">em</span> <span class="cp">!important</span><span class="p">;</span>
-    <span class="k">height</span><span class="p">:</span> <span class="mf">1.25</span><span class="kt">em</span><span class="p">;</span>
-    <span class="k">display</span><span class="p">:</span> <span class="kc">inline-block</span><span class="p">;</span>
-<span class="p">}</span>
-
-<span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=</span><span class="nt">checkbox</span><span class="o">]</span><span class="p">:</span><span class="nd">focus</span><span class="p">{</span>
-  <span class="k">outline</span><span class="p">:</span><span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span>
-<span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=</span><span class="nt">checkbox</span><span class="o">]</span><span class="p">:</span><span class="nd">checked</span><span class="o">,</span> <span class="p">.</span><span class="nc">cm-formatting-task</span><span class="p">.</span><span class="nc">cm-property</span> <span class="p">{</span>
-    <span class="k">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">text</span><span class="o">-</span><span class="n">accent</span><span class="o">-</span><span class="n">hover</span><span class="p">);</span>
-    <span class="k">border</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">text</span><span class="o">-</span><span class="n">accent</span><span class="o">-</span><span class="n">hover</span><span class="p">);</span>
-    <span class="k">background-position</span><span class="p">:</span> <span class="kc">center</span><span class="p">;</span>
-    <span class="k">background-size</span><span class="p">:</span> <span class="mi">70</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">background-repeat</span><span class="p">:</span> <span class="kc">no-repeat</span><span class="p">;</span>
-    <span class="k">background-image</span><span class="p">:</span> <span class="nb">url</span><span class="p">(</span><span class="s1">&#39;data:image/svg+xml; utf8, &lt;svg width=&#34;12px&#34; height=&#34;10px&#34; viewBox=&#34;0 0 12 8&#34; version=&#34;1.1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;http://www.w3.org/1999/xlink&#34;&gt;&lt;g stroke=&#34;none&#34; stroke-width=&#34;1&#34; fill=&#34;none&#34; fill-rule=&#34;evenodd&#34;&gt;&lt;g transform=&#34;translate(-4.000000, -6.000000)&#34; fill=&#34;%23ffffff&#34;&gt;&lt;path d=&#34;M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999&#34;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&#39;</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="c">/* Round checkbxes in preview and editor */</span>
+</span></span><span class="line"><span class="cl"><span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=</span><span class="nt">checkbox</span><span class="o">],</span> <span class="p">.</span><span class="nc">cm-formatting-task</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="kp">-webkit-</span><span class="k">appearance</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">appearance</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">border-radius</span><span class="p">:</span> <span class="mi">50</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">border</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">text</span><span class="o">-</span><span class="n">faint</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">padding</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">vertical-align</span><span class="p">:</span> <span class="kc">middle</span><span class="p">;</span>    
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">cm-s-obsidian</span> <span class="nt">span</span><span class="p">.</span><span class="nc">cm-formatting-task</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">color</span><span class="p">:</span> <span class="kc">transparent</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">width</span><span class="p">:</span> <span class="mf">1.25</span><span class="kt">em</span> <span class="cp">!important</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">height</span><span class="p">:</span> <span class="mf">1.25</span><span class="kt">em</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">display</span><span class="p">:</span> <span class="kc">inline-block</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=</span><span class="nt">checkbox</span><span class="o">]</span><span class="p">:</span><span class="nd">focus</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">outline</span><span class="p">:</span><span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=</span><span class="nt">checkbox</span><span class="o">]</span><span class="p">:</span><span class="nd">checked</span><span class="o">,</span> <span class="p">.</span><span class="nc">cm-formatting-task</span><span class="p">.</span><span class="nc">cm-property</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">background-color</span><span class="p">:</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">text</span><span class="o">-</span><span class="n">accent</span><span class="o">-</span><span class="n">hover</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">border</span><span class="p">:</span> <span class="mi">1</span><span class="kt">px</span> <span class="kc">solid</span> <span class="nf">var</span><span class="p">(</span><span class="o">--</span><span class="kc">text</span><span class="o">-</span><span class="n">accent</span><span class="o">-</span><span class="n">hover</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">    <span class="k">background-position</span><span class="p">:</span> <span class="kc">center</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">background-size</span><span class="p">:</span> <span class="mi">70</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">background-repeat</span><span class="p">:</span> <span class="kc">no-repeat</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">background-image</span><span class="p">:</span> <span class="nb">url</span><span class="p">(</span><span class="s1">&#39;data:image/svg+xml; utf8, &lt;svg width=&#34;12px&#34; height=&#34;10px&#34; viewBox=&#34;0 0 12 8&#34; version=&#34;1.1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;http://www.w3.org/1999/xlink&#34;&gt;&lt;g stroke=&#34;none&#34; stroke-width=&#34;1&#34; fill=&#34;none&#34; fill-rule=&#34;evenodd&#34;&gt;&lt;g transform=&#34;translate(-4.000000, -6.000000)&#34; fill=&#34;%23ffffff&#34;&gt;&lt;path d=&#34;M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999&#34;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><h4 id="去除链接下划线"><a href="#去除链接下划线" class="anchor-link">#</a>去除链接下划线</h4>
 <ul>
@@ -977,15 +975,15 @@
 </span><span class="lnt">8
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="p">.</span><span class="nc">internal-link</span> <span class="p">{</span>
-  <span class="k">text-decoration</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
-<span class="p">}</span>
-
-<span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="p">.</span><span class="nc">external-link</span> <span class="p">{</span>
-  <span class="k">background</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
-  <span class="k">padding-right</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="p">.</span><span class="nc">internal-link</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">text-decoration</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">markdown-preview-view</span> <span class="p">.</span><span class="nc">external-link</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">background</span><span class="p">:</span> <span class="kc">none</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">  <span class="k">padding-right</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div>
             </div>

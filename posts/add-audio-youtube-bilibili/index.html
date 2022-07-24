@@ -3,7 +3,7 @@
     <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
     <meta charset="UTF-8" />
 
-    <meta name="generator" content="Hugo 0.86.0" /><meta name="theme-color" content="#fff" />
+    <meta name="generator" content="Hugo 0.101.0" /><meta name="theme-color" content="#fff" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
@@ -18,7 +18,7 @@
 
     
     
-        <script src="/js/meme.min.ecc18d1a6a8b99bd7b60d6a3f08f19c2aa6516e086e4b5ed6d04f773181d8fca.js"></script>
+        <script src="/js/meme.min.55b56b2d5518fa8f023bc0a8841c6c50ea7d736b61b2e17e5a30518ddcabdde5.js"></script>
 
     
 
@@ -60,7 +60,7 @@
         "description": "博客承载的内容不应只有文字，还可以通过添加音频、视频，以丰富博客的内容。 于是研究了一下，给博客增加了……",
         "inLanguage" : "zh-CN",
         "articleSection": "posts",
-        "wordCount":  1212 ,
+        "wordCount":  1059 ,
         "image": "https://aaronnick.github.io/icons/apple-touch-icon.png",
         "author": {
             "@type": "Person",
@@ -274,43 +274,41 @@
 </span><span class="lnt">26
 </span><span class="lnt">27
 </span><span class="lnt">28
-</span><span class="lnt">29
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">audio</span> <span class="na">controls</span>
-	<span class="na">class</span><span class="o">=</span><span class="s">&#34;audio_controls {{ .Get &#34;</span><span class="na">class</span><span class="err">&#34;</span> <span class="err">}}&#34;</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">id</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">id</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">preload</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">preload</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">else</span> <span class="err">}}</span><span class="na">preload</span><span class="o">=</span><span class="s">&#34;metadata&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	
-	<span class="na">style</span><span class="o">=</span><span class="s">&#34;{{ with .Get &#34;</span><span class="na">style</span><span class="err">&#34;</span> <span class="err">}}{{</span> <span class="err">.</span> <span class="err">|</span> <span class="na">safeCSS</span> <span class="err">}};</span> <span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-		<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">width</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">width:</span><span class="err">{{</span> <span class="err">.</span> <span class="err">}};</span> <span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-		<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">height</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">height:</span><span class="err">{{</span> <span class="err">.</span> <span class="err">}};{{</span> <span class="na">end</span> <span class="err">}}&#34;</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">title</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-title</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">attr</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-attr</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">attr_link</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-attr-link</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">year</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-year</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">artist</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-artist</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">album_title</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-album-title</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">album_art</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-album-art</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">label</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-label</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-<span class="p">&gt;</span>
-	{{ if .Get &#34;src&#34; }}
-	<span class="p">&lt;</span><span class="nt">source</span> <span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">src</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">src</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-		<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">type</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">type</span><span class="o">=</span><span class="s">&#34;audio/{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span><span class="p">&gt;</span>
-	{{ else if .Get &#34;backup_src&#34; }}
-		<span class="p">&lt;</span><span class="nt">source</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;{{ .Get &#34;</span><span class="na">backup_src</span><span class="err">&#34;</span> <span class="err">}}&#34;</span>
-			<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">backup_type</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">type</span><span class="o">=</span><span class="s">&#34;audio/{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-			<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">backup_codec</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">codecs</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
-		<span class="p">&gt;</span>
-	{{ end }}
-	Your browser does not support the audio element
-<span class="p">&lt;/</span><span class="nt">audio</span><span class="p">&gt;</span>
-
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">audio</span> <span class="na">controls</span>
+</span></span><span class="line"><span class="cl">	<span class="na">class</span><span class="o">=</span><span class="s">&#34;audio_controls {{ .Get &#34;</span><span class="na">class</span><span class="err">&#34;</span> <span class="err">}}&#34;</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">id</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">id</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">preload</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">preload</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">else</span> <span class="err">}}</span><span class="na">preload</span><span class="o">=</span><span class="s">&#34;metadata&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	
+</span></span><span class="line"><span class="cl">	<span class="na">style</span><span class="o">=</span><span class="s">&#34;{{ with .Get &#34;</span><span class="na">style</span><span class="err">&#34;</span> <span class="err">}}{{</span> <span class="err">.</span> <span class="err">|</span> <span class="na">safeCSS</span> <span class="err">}};</span> <span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">		<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">width</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">width:</span><span class="err">{{</span> <span class="err">.</span> <span class="err">}};</span> <span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">		<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">height</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">height:</span><span class="err">{{</span> <span class="err">.</span> <span class="err">}};{{</span> <span class="na">end</span> <span class="err">}}&#34;</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">title</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-title</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">attr</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-attr</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">attr_link</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-attr-link</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">year</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-year</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">artist</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-artist</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">album_title</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-album-title</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">album_art</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-album-art</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">	<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">label</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">data-info-label</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl"><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">	{{ if .Get &#34;src&#34; }}
+</span></span><span class="line"><span class="cl">	<span class="p">&lt;</span><span class="nt">source</span> <span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">src</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">src</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">		<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">type</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">type</span><span class="o">=</span><span class="s">&#34;audio/{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">	{{ else if .Get &#34;backup_src&#34; }}
+</span></span><span class="line"><span class="cl">		<span class="p">&lt;</span><span class="nt">source</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;{{ .Get &#34;</span><span class="na">backup_src</span><span class="err">&#34;</span> <span class="err">}}&#34;</span>
+</span></span><span class="line"><span class="cl">			<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">backup_type</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">type</span><span class="o">=</span><span class="s">&#34;audio/{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">			<span class="err">{{</span> <span class="na">with</span> <span class="err">.</span><span class="na">Get</span> <span class="err">&#34;</span><span class="na">backup_codec</span><span class="err">&#34;</span> <span class="err">}}</span><span class="na">codecs</span><span class="o">=</span><span class="s">&#34;{{ . }}&#34;</span><span class="err">{{</span> <span class="na">end</span> <span class="err">}}</span>
+</span></span><span class="line"><span class="cl">		<span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">	{{ end }}
+</span></span><span class="line"><span class="cl">	Your browser does not support the audio element
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">audio</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><p>添加好后，就能在写博客的时候插入<code>.mp3</code>文件了。</p>
-<pre><code>//示例：
-花括号{&lt; audio src=&quot;https://your-path-to-music.mp3&quot; &gt;}}
+<pre tabindex="0"><code>//示例：
+花括号{&lt; audio src=&#34;https://your-path-to-music.mp3&#34; &gt;}}
 </code></pre><p>尝试听一首歌吧，来自杰伦的《夜曲》：</p>
 <audio controls
 	class="audio_controls "
@@ -379,37 +377,37 @@
 </span><span class="lnt">27
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">style</span><span class="p">&gt;</span>
-<span class="p">.</span><span class="nc">youtube-player</span> <span class="p">{</span>
-    <span class="k">position</span><span class="p">:</span> <span class="kc">relative</span><span class="p">;</span>
-    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">height</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-    <span class="k">padding-bottom</span><span class="p">:</span> <span class="mf">56.25</span><span class="kt">%</span><span class="p">;</span>
-    <span class="p">}</span>
-      
-<span class="p">.</span><span class="nc">youtube-player</span> <span class="nt">iframe</span> <span class="p">{</span>
-    <span class="k">position</span><span class="p">:</span> <span class="kc">absolute</span><span class="p">;</span>
-    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">height</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">left</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-    <span class="k">top</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-    <span class="p">}</span>
-<span class="p">&lt;/</span><span class="nt">style</span><span class="p">&gt;</span>
-
-
-<span class="p">&lt;</span><span class="nt">div</span> <span class="na">align</span><span class="o">=</span><span class="s">center</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;youtube-player&#34;</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">iframe</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://www.youtube.com/embed/{{ index .Params 0 }}&#34;</span>
-    <span class="na">scrolling</span><span class="o">=</span><span class="s">&#34;no&#34;</span> 
-    <span class="na">border</span><span class="o">=</span><span class="s">&#34;0&#34;</span> 
-    <span class="na">frameborder</span><span class="o">=</span><span class="s">&#34;no&#34;</span> 
-    <span class="na">framespacing</span><span class="o">=</span><span class="s">&#34;0&#34;</span> 
-    <span class="na">allowfullscreen</span><span class="o">=</span><span class="s">&#34;true&#34;</span><span class="p">&gt;</span> 
-    <span class="p">&lt;/</span><span class="nt">iframe</span><span class="p">&gt;</span>
-<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">style</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">youtube-player</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">position</span><span class="p">:</span> <span class="kc">relative</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">height</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">padding-bottom</span><span class="p">:</span> <span class="mf">56.25</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">      
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">youtube-player</span> <span class="nt">iframe</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">position</span><span class="p">:</span> <span class="kc">absolute</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">height</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">left</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">top</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">style</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">align</span><span class="o">=</span><span class="s">center</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;youtube-player&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">iframe</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://www.youtube.com/embed/{{ index .Params 0 }}&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="na">scrolling</span><span class="o">=</span><span class="s">&#34;no&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">border</span><span class="o">=</span><span class="s">&#34;0&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">frameborder</span><span class="o">=</span><span class="s">&#34;no&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">framespacing</span><span class="o">=</span><span class="s">&#34;0&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">allowfullscreen</span><span class="o">=</span><span class="s">&#34;true&#34;</span><span class="p">&gt;</span> 
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">iframe</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><p>配置好后，在想要插入 YouTube 视频的博客文章中添加：</p>
-<pre><code>//示例：
+<pre tabindex="0"><code>//示例：
 花括号{&lt; youtube MZCbxM7LLy0 &gt;}}
 </code></pre>
 <style>
@@ -470,41 +468,39 @@
 </span><span class="lnt">25
 </span><span class="lnt">26
 </span><span class="lnt">27
-</span><span class="lnt">28
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">style</span><span class="p">&gt;</span>
-<span class="p">.</span><span class="nc">aspect-ratio</span> <span class="p">{</span>
-    <span class="k">position</span><span class="p">:</span> <span class="kc">relative</span><span class="p">;</span>
-    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">height</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-    <span class="k">padding-bottom</span><span class="p">:</span> <span class="mi">75</span><span class="kt">%</span><span class="p">;</span>
-    <span class="p">}</span>
-      
-<span class="p">.</span><span class="nc">aspect-ratio</span> <span class="nt">iframe</span> <span class="p">{</span>
-    <span class="k">position</span><span class="p">:</span> <span class="kc">absolute</span><span class="p">;</span>
-    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">height</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
-    <span class="k">left</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-    <span class="k">top</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
-    <span class="p">}</span>
-<span class="p">&lt;/</span><span class="nt">style</span><span class="p">&gt;</span>
-      
-
-<span class="p">&lt;</span><span class="nt">div</span> <span class="na">align</span><span class="o">=</span><span class="s">center</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;aspect-ratio&#34;</span><span class="p">&gt;</span>
-    <span class="p">&lt;</span><span class="nt">iframe</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://player.bilibili.com/player.html?aid={{ index .Params 0 }}&amp;&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34;</span> 
-    <span class="na">scrolling</span><span class="o">=</span><span class="s">&#34;no&#34;</span> 
-    <span class="na">border</span><span class="o">=</span><span class="s">&#34;0&#34;</span> 
-    <span class="na">frameborder</span><span class="o">=</span><span class="s">&#34;no&#34;</span> 
-    <span class="na">framespacing</span><span class="o">=</span><span class="s">&#34;0&#34;</span> 
-    <span class="na">allowfullscreen</span><span class="o">=</span><span class="s">&#34;true&#34;</span><span class="p">&gt;</span> 
-    <span class="p">&lt;/</span><span class="nt">iframe</span><span class="p">&gt;</span>
-<span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
-
-</code></pre></td></tr></table></div>
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">style</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">aspect-ratio</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">position</span><span class="p">:</span> <span class="kc">relative</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">height</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">padding-bottom</span><span class="p">:</span> <span class="mi">75</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">      
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">aspect-ratio</span> <span class="nt">iframe</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="k">position</span><span class="p">:</span> <span class="kc">absolute</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">width</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">height</span><span class="p">:</span> <span class="mi">100</span><span class="kt">%</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">left</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">top</span><span class="p">:</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">style</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">div</span> <span class="na">align</span><span class="o">=</span><span class="s">center</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;aspect-ratio&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">iframe</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://player.bilibili.com/player.html?aid={{ index .Params 0 }}&amp;&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">scrolling</span><span class="o">=</span><span class="s">&#34;no&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">border</span><span class="o">=</span><span class="s">&#34;0&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">frameborder</span><span class="o">=</span><span class="s">&#34;no&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">framespacing</span><span class="o">=</span><span class="s">&#34;0&#34;</span> 
+</span></span><span class="line"><span class="cl">    <span class="na">allowfullscreen</span><span class="o">=</span><span class="s">&#34;true&#34;</span><span class="p">&gt;</span> 
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">iframe</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></td></tr></table></div>
 </div>
 </div><p>配置好后，在想要插入 bilibili 视频的博客文章中添加：</p>
-<pre><code>//示例：
+<pre tabindex="0"><code>//示例：
 花括号{&lt; bilibili 56776062 &gt;}}
 </code></pre><blockquote>
 <p>注：56776062 是 bilibili 的 aid，可在「分享-嵌入代码」中找到 aid。</p>
@@ -537,17 +533,17 @@
     </iframe>
 </div>
 
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p>LoveIt 主题：https://hugoloveit.com/zh-cn/theme-documentation-extended-shortcodes/#8-music&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2" role="doc-endnote">
+<li id="fn:2">
 <p>music.html 文件：https://github.com/lmm214/immmmm/blob/master/themes/hello-friend/layouts/shortcodes/music.html&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>
+</div>
 
             </div>
 
