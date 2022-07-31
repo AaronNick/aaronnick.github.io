@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aaronnick.github.io/tags/essay/</loc>
-    <lastmod>2022-07-28T12:29:30+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2022-07-28T12:29:30+08:00</lastmod>
+    <lastmod>2022-07-31T22:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/read/</loc>
+    <lastmod>2022-07-31T22:42:18+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/</loc>
+    <lastmod>2022-07-31T22:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/read-202207/</loc>
+    <lastmod>2022-07-31T22:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2022-07-31T22:42:18+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/daily/</loc>
+    <lastmod>2022-07-31T22:41:47+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/daily-202207/</loc>
+    <lastmod>2022-07-31T22:41:47+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/essay/</loc>
     <lastmod>2022-07-28T12:29:30+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/pop-up3/</loc>
     <lastmod>2022-07-24T10:43:02+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/</loc>
-    <lastmod>2022-07-28T12:29:30+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/poetry/</loc>
     <lastmod>2022-07-19T21:55:05+08:00</lastmod>
@@ -35,14 +47,8 @@
     <loc>https://aaronnick.github.io/posts/truth-is-fascinating/</loc>
     <lastmod>2022-07-19T21:53:40+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/tags/daily/</loc>
-    <lastmod>2022-07-23T22:17:23+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/daily-202206/</loc>
     <lastmod>2022-07-23T22:17:23+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/read/</loc>
-    <lastmod>2022-07-23T22:17:14+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/read-202206/</loc>
     <lastmod>2022-07-23T22:17:14+08:00</lastmod>
