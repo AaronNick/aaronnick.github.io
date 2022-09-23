@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-08-31T18:56:30&#43;08:00</updated>
+    <updated>2022-09-23T19:43:35&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,48 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">「答卷」</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/satisfying-answer/" />
+            <id>https://aaronnick.github.io/posts/satisfying-answer/</id>
+            <updated>2022-09-23T19:42:50&#43;08:00</updated>
+            <published>2022-09-23T12:45:22&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">给人民群众一个满意的答卷。</summary>
+            
+                <content type="html">&lt;p&gt;学生时代写作业，避免不了写错字，此时会有两种常用的处理方法：一种是用修正液&lt;strong&gt;掩盖&lt;/strong&gt;，在上面继续写。修正液的好处是方便，缺点是痕迹太明显，斑斑点点的，一眼就能看出来。&lt;/p&gt;
+&lt;p&gt;另一种是用小刀刮掉错字，或是胶带粘掉，属于&lt;strong&gt;物理消除&lt;/strong&gt;。刮掉（粘掉）的好处是痕迹不明显，技术好的甚至可以以假乱真，仿佛没有写错过一样。缺点是成本比较大，技术要求高，而且一不小心就会弄破纸张，因小失大。&lt;/p&gt;
+&lt;p&gt;当然还有另外两种不常用的方式：一个是直接把整张纸换掉，另一个是直接划掉错误的地方，在旁边继续写。负责人的老师一般会让大家用后一种方式，这样可以看到学生的思考过程，便于&lt;strong&gt;纠正&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;可是，作为学生的我们，怎么会理解老师的良苦用心。写错了之后，内心想的只是想尽办法&lt;strong&gt;掩藏&lt;/strong&gt;，尽量避免让老师知道──也许是为了维护自尊，怕「智商不够」带来的错误被发现。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注：观近期魔幻现实之感想。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">日志｜二〇二二・八</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202208/" />
@@ -220,7 +262,7 @@
             <title type="text">八月读什么：陀思妥耶夫斯基、何兆武等</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202208/" />
             <id>https://aaronnick.github.io/posts/read-202208/</id>
-            <updated>2022-08-31T18:51:39&#43;08:00</updated>
+            <updated>2022-09-14T10:56:11&#43;08:00</updated>
             <published>2022-08-31T18:30:45&#43;08:00</published>
             <author>
                     <name>Wesson</name>
