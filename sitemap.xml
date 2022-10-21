@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aaronnick.github.io/tags/obsidian/</loc>
+    <lastmod>2022-10-21T16:44:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/query-and-web-browser/</loc>
+    <lastmod>2022-10-21T16:44:07+08:00</lastmod>
+  </url><url>
     <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2022-10-02T11:02:15+08:00</lastmod>
+    <lastmod>2022-10-21T16:44:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/</loc>
+    <lastmod>2022-10-21T16:44:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2022-10-21T16:44:07+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/obsidian-proxy-github/</loc>
+    <lastmod>2022-10-21T16:43:49+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/read/</loc>
     <lastmod>2022-10-02T11:02:15+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2022-10-02T11:02:15+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/read-202209/</loc>
-    <lastmod>2022-10-02T11:02:15+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/</loc>
     <lastmod>2022-10-02T11:02:15+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/daily/</loc>
@@ -70,9 +79,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/read-202206/</loc>
     <lastmod>2022-07-23T22:17:14+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/obsidian/</loc>
-    <lastmod>2022-06-26T21:26:00+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/reading-management-at-obsidian/</loc>
     <lastmod>2022-06-26T21:26:00+08:00</lastmod>
@@ -786,7 +792,7 @@
     <lastmod>2021-04-09T22:40:03+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/about/</loc>
-    <lastmod>2022-09-13T00:03:15+08:00</lastmod>
+    <lastmod>2022-10-19T11:25:47+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/life-of-moment/</loc>
     <lastmod>2021-04-09T22:21:52+08:00</lastmod>

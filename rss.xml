@@ -23,10 +23,127 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 02 Oct 2022 11:02:25 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 16:45:52 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Obsidian 插件｜管理稍后读以及提升文章阅读体验</title>
+                <link>https://aaronnick.github.io/posts/query-and-web-browser/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/query-and-web-browser/</guid>
+                <pubDate>Fri, 21 Oct 2022 13:13:44 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;此前的文章我介绍过我的使用习惯──以每天日记文件的&lt;strong&gt;间歇日记作为总的输入口&lt;/strong&gt;，包括当下的感受、经验以及计划等，知识卡片定期整理，计划则通过标签待办等形式，结合 Dataview 和自带的 Query 语法管理。&lt;/p&gt;
+&lt;p&gt;接下来介绍下我对于文章稍后读，亦或是收集到的好文章的管理和体验处理，&lt;strong&gt;以自带的 Query 语法为例&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;聚合管理&#34;&gt;聚合管理&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;间歇日记输入时，带上标签，设置待办，方便检索聚合&lt;/li&gt;
+&lt;li&gt;以 Obsidian 自带的 Query 语法聚合到一个页面&lt;/li&gt;
+&lt;li&gt;同理：也可以把 &lt;code&gt;想看的电影&lt;/code&gt; &lt;code&gt;想读的书&lt;/code&gt; 按这样聚合到一个页面，当间歇日记有这个标签时就聚合到页面上&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202210211255516.png&#34; alt=&#34;&#34; title=&#34;语法以及呈现样式&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;阅读体验&#34;&gt;阅读体验&lt;/h3&gt;
+&lt;p&gt;此前的文章，点击后还得跳出 Obsidian，由于自己有多个浏览器，还得安装插件来指定某个浏览器。尤其是点击链接跳出，比较影响阅读体验。前几天社区出了一个 Obsidian Web Browser 插件，支持点击 Obsidian 内的 URL 在新 Tab 打开网页；同时也支持在打开一个新 Tab 时，嵌入网页，&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202210211301892.png&#34; alt=&#34;&#34; title=&#34;直接在新 Tab 打开网页&#34;&gt;&lt;/p&gt;
+&lt;p&gt;基于此 ，该插件存在&lt;strong&gt;无限可能性&lt;/strong&gt;，例如嵌入微信读书以实现在 Obsidian 内阅读，嵌入滴答清单管理待办，嵌入日历管理日程，甚至如我一样，嵌入 Telegram 在线聊天……&lt;/p&gt;
+&lt;p&gt;几天体验下来，速度很快，兼容也没出现什么问题。只不过现在还没有操作菜单，无法很好地前进后退、刷新等，但该插件当前仅 v0.0.1 版本，后续迭代也许会逐步完善这些功能。&lt;/p&gt;
+&lt;p&gt;作者在 Road Map 规划了很多功能点，感觉大有可为。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202210211307924.png&#34; alt=&#34;&#34; title=&#34;Road Map&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;安装指南&#34;&gt;安装指南&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注：当前该插件未上架社区插件市场，需要本地安装或使用 BRAT 安装。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;本地安装&#34;&gt;本地安装&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;下载仓库内的 &lt;code&gt;main.js&lt;/code&gt; &lt;code&gt;manifest.json&lt;/code&gt; &lt;code&gt;styles.css&lt;/code&gt; 文件，放到 &lt;code&gt;web-browser&lt;/code&gt; 文件夹&lt;/li&gt;
+&lt;li&gt;将 &lt;code&gt;web-browser&lt;/code&gt; 文件夹放入笔记目录下的插件目录内。如：XXX/.obsidian/plugins&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;通过插件-brat-安装&#34;&gt;通过插件 BRAT 安装&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;安装 &lt;a href=&#34;https://github.com/TfTHacker/obsidian42-brat&#34;&gt;obsidian42-brat&lt;/a&gt; 插件&lt;/li&gt;
+&lt;li&gt;输入 proxy-github 仓库地址：&lt;code&gt;Trikzon/obsidian-web-browser&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;第三方插件列表启用该插件即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注：若无法访问社区插件，参见此前的文章：免代理访问社区插件&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/obsidian/">Obsidian</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Obsidian 插件｜免代理访问社区插件、主题</title>
+                <link>https://aaronnick.github.io/posts/obsidian-proxy-github/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/obsidian-proxy-github/</guid>
+                <pubDate>Fri, 21 Oct 2022 12:38:14 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;国内的用户，访问 Obsidian 的社区插件市场、主题需要有代理，否则访问很慢。现在可以通过一个插件实现无需自己挂代理就能轻松访问下载──&lt;a href=&#34;https://github.com/juqkai/obsidian-proxy-github&#34;&gt;proxy-github&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装指南&#34;&gt;安装指南&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注：当前该插件未上架社区插件市场，需要本地安装或使用 BRAT 安装。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;本地安装&#34;&gt;本地安装&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;下载 &lt;a href=&#34;https://gitee.com/juqkai/obsidian-proxy-github/releases&#34;&gt;obsidian-proxy-github.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;解压 obsidian-proxy-github.zip&lt;/li&gt;
+&lt;li&gt;将解压的文件夹放入笔记目录下的插件目录内。如：XXX/.obsidian/plugins&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;通过插件-brat-安装&#34;&gt;通过插件 BRAT 安装&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;安装 &lt;a href=&#34;https://github.com/TfTHacker/obsidian42-brat&#34;&gt;obsidian42-brat&lt;/a&gt; 插件&lt;/li&gt;
+&lt;li&gt;输入 proxy-github 仓库地址：&lt;code&gt;juqkai/obsidian-proxy-github&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;第三方插件列表启用  proxy-github 即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202210211228303.png&#34; alt=&#34;&#34; title=&#34;proxy-github 插件&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202210211230347.png&#34; alt=&#34;&#34; title=&#34;成功免代理访问下载插件&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/obsidian/">Obsidian</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>九月读什么：敦煌、马尔克斯、陀氏等</title>
