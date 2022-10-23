@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-10-21T16:45:52&#43;08:00</updated>
+    <updated>2022-10-23T23:15:00&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,48 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">读《伟大的电影》</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/the-great-movies/" />
+            <id>https://aaronnick.github.io/posts/the-great-movies/</id>
+            <updated>2022-10-23T23:14:52&#43;08:00</updated>
+            <published>2022-10-23T23:10:22&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">写影评拿到了普利策。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202210161321465.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;前几天读了一本书，叫《伟大的电影》，作者是罗杰·伊伯特，第一位因写影评获得普利策艺术评论奖的人。&lt;/p&gt;
+&lt;p&gt;顾名思义，这本书写的大多是影史上有名的电影，喜欢看电影的人，看本书目录时或多或少会见到熟悉的电影。伊伯特的文字我此前没读过，也不知道他写得如何，因此，我便找了几部我比较喜欢的电影，看看他的影评有无打动我的地方。&lt;/p&gt;
+&lt;p&gt;所选的电影如下：《2001：太空漫游 1968》、《教父》、《肖申克的救赎》、《沉默的羔羊》。他评论库布里克的这部伟大电影为「一部充满哲思的影片，它并不迎合我们，而是尽力启发我们、拓展我们的视野。」这句评论非常精准到位。虽然这部影片公认是一部哲思影片，但伊伯特更进一步指出库布里克的目的：启发。事实上也是如此，这部电影自筹备到 1968 年上映，从始至终都不是为了迎合观众，当年首映时也引发了众人的不解，但这并不影响它的地位。它试图告诉我们「当我们学会思考时，我们才成了真正的人。」&lt;/p&gt;
+&lt;p&gt;《肖申克的救赎》这部电影，虽然是在讲越狱，但其关注的重点其实是友谊和希望。友谊让大众更能接受，希望则把主题提升上一个台阶。越狱片免不了讨论自由的话题，作为一个自由人，不仅是身体上的自由，更重要的是心灵上的自由。在我看来，老图书管理员在狱中其实算是一个自由人，反而出狱后不再自由，而他重回自由的方式也很简单──通过死亡获得了自由。&lt;/p&gt;
+&lt;p&gt;我依稀记得当年第一次看《沉默的羔羊》时的恐怖感受，这种恐怖不是突然的惊吓，而是如凝望深渊时的感受──它什么都没说，它是如此的安静，但它就是这么恐怖。多年以后，我看到《2001：太空漫游 1968》里 HAL 9000 那理性地操控人类命运时，我又想起了这样的感觉。巧的是，霍普金斯对角色的诠释，正好是受到了《2001：太空漫游 1968》中 HAL 9000 的启动──他是一部冷静客观而又聪明绝顶的机器，精于逻辑运算，感情方面却是一片空白。&lt;/p&gt;
+&lt;p&gt;看了影评后，忍不住又重温了库布里克这部经典老片。昨天，同样重温了雅克·贝克的遗作《洞》。有时候，我宁愿花时间去重读重看这些经典，而不是花在新的不值得的东西上。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Obsidian 插件｜管理稍后读以及提升文章阅读体验</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/query-and-web-browser/" />
@@ -7373,7 +7415,7 @@ xx 物业公司&lt;/p&gt;
             <title type="text">Obsidian自动上传图片到图床：阿里云OSS&#43;PicGo</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/image-hosting-with-aliyun-oss-and-picgo/" />
             <id>https://aaronnick.github.io/posts/image-hosting-with-aliyun-oss-and-picgo/</id>
-            <updated>2022-03-11T16:38:02&#43;08:00</updated>
+            <updated>2022-10-21T16:49:24&#43;08:00</updated>
             <published>2022-03-08T19:01:02&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -7475,6 +7517,12 @@ xx 物业公司&lt;/p&gt;
                             
                             
                                 <category scheme="https://aaronnick.github.io/tags/tech/" term="Tech" label="Tech" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/obsidian/" term="Obsidian" label="Obsidian" />
                             
                         
                     
