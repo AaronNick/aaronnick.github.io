@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-11-09T17:31:24&#43;08:00</updated>
+    <updated>2022-11-11T00:43:56&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,62 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">小区群观察一则：门磁争论与王者对决</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/shifted-arguments/" />
+            <id>https://aaronnick.github.io/posts/shifted-arguments/</id>
+            <updated>2022-11-11T00:42:16&#43;08:00</updated>
+            <published>2022-11-11T00:38:44&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">处理争论的办法，转移就好了。</summary>
+            
+                <content type="html">&lt;p&gt;今天，小区群里的社区工作人员说明天开始安装门磁，瞬间引起不少人的反对。先是一两个人询问安装的理由，接着陆续有人加入质问的队伍。总结下大家的反对理由：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;没有阳性，安装门磁不合理。&lt;/li&gt;
+&lt;li&gt;每天都要出门核酸，倒垃圾，安装门磁没意义，劳民伤财，形式主义。&lt;/li&gt;
+&lt;li&gt;安装门磁后，弄得人心惶惶。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;社区人员并没有及时做出回应，但此时，涌现出另一批人自告奋勇解释道：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;防疫工作人员已经够辛苦了，不要再为难他们了。&lt;/li&gt;
+&lt;li&gt;支持政府工作，积极配合，早日解封不好吗。&lt;/li&gt;
+&lt;li&gt;就待家里几天就抑郁了？找点乐子不就好了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;两方势力来回拉扯，以每分钟 99+ 的消息量争论着。&lt;/p&gt;
+&lt;p&gt;但很快，关于是否安装门磁没人说了，我很纳闷……于是往上翻了翻，原来中途有人跳出来说了句：&lt;strong&gt;有人打王者嘛&lt;/strong&gt;？&lt;/p&gt;
+&lt;p&gt;于是下面迅速集齐一众游戏爱好者。「拉我」「王者带飞」「来组团啊」「坑了会线下单杀吗」「开窗喊对面楼组队」「输了负责送菜哦」……很快，安装门磁的争论就被淹没了。&lt;/p&gt;
+&lt;p&gt;此前我在群内观察到的一个暂停争论的办法是：让争论的人&lt;strong&gt;提出具体的措施&lt;/strong&gt;，或者&lt;strong&gt;建议他做执行人&lt;/strong&gt;，最爱出头提意见的那个人就会沉默，接着争论就会趋于消失。&lt;/p&gt;
+&lt;p&gt;而这次，我又观察到了一些有趣的现象：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在一个缺乏领导，且没有太多共同利益的群体里，&lt;strong&gt;立场统一是困难的&lt;/strong&gt;（小区群内的住户就是一个例子）。社区工作人员放出消息就「消失」的做法很「机灵」。也许他们知道会有住户反对，并且无法说服反对者，但同时也知道会有住户站出来解释，&lt;strong&gt;群体内会自己「消化」掉这个问题&lt;/strong&gt;。不过，可能他们只是单纯的没空解释，没有想那么多。&lt;/li&gt;
+&lt;li&gt;有时候争论不一定需要苦思冥想方法去暂停，&lt;strong&gt;转移就好了&lt;/strong&gt;。例如跳出来组队游戏的那个人，成功将是否安装门磁的争论转移了。反对无缘无故安装门磁是有价值的，这个争论被这样「流产」很可惜，不过转移大法的确很好用，尤其是在一些无聊而无效的争论上。但，前提是转移的话题是有群众基础的，例如游戏，否则就会被淹没在争论中。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">十月读什么：哈耶克、纳瓦尔、耶林等</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202210/" />
