@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2022-11-11T00:43:56&#43;08:00</updated>
+    <updated>2022-11-22T11:55:50&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,48 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">《为权利而斗争》之为何要斗争</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/der-kampf-ums-recht/" />
+            <id>https://aaronnick.github.io/posts/der-kampf-ums-recht/</id>
+            <updated>2022-11-22T11:53:49&#43;08:00</updated>
+            <published>2022-11-22T11:49:40&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">斗争是法权之手段。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202211221150892.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;耶林的《为权利而斗争》原书标题应为《为 Recht 而斗争》，Recht 需要从两种意义上理解，一是客观意义，指规范或客观法，简称法；一是主体意义，指主体权利，简称权利。两种意义相互关联，共同构成 Recht。&lt;/p&gt;
+&lt;p&gt;因此，本书最恰当的译名应该是《为法权而斗争》。其中的斗争，既有通过自己的权利捍卫法，也有通过法捍卫自己的权利。但由于《为权利而斗争》过于深入人心，改译风险过大，因此维持原来的译名。&lt;/p&gt;
+&lt;p&gt;那么，为何权利要斗争？&lt;/p&gt;
+&lt;p&gt;斗争是法权之手段，秩序是法权之目的。《为权利而斗争》的开篇题词是「你当在斗争中发现你的权利」──权利是需要去争取的，正如「你应当累得满头大汗才吃到你的面包」。歌德也曾说过：这是智慧最后的结论/唯有为自由和生活付出者/才应该每天获得它们。&lt;/p&gt;
+&lt;p&gt;耶林认为，为权利斗争，是个人的义务，也是集体的义务。如果一个人放弃了自己的权利，他不仅仅放弃的是自身利益，也是共同体的利益，《为权利而斗争》书中以战场上的逃兵作为比喻──一旦有人作逃兵，那么将导致剩下的人处于危险境地。&lt;/p&gt;
+&lt;p&gt;这本书源于 1872 年耶林在维也纳法律协会的口头演讲，一百五十年过去了，各国的人权深入人心，法治日趋完善，而遥远的东方却正在流行一个「你说法治我都觉得好笑」的笑话……&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">小区群观察一则：门磁争论与王者对决</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/shifted-arguments/" />
