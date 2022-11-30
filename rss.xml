@@ -23,10 +23,159 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 28 Nov 2022 17:46:58 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 16:22:09 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>获取 Z-Library 电子书及用脚投票</title>
+                <link>https://aaronnick.github.io/posts/zlib-searcher/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/zlib-searcher/</guid>
+                <pubDate>Wed, 30 Nov 2022 16:15:10 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202211301620475.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;近期在 GitHub 上发现一个&lt;a href=&#34;https://github.com/zu1k/zlib-searcher&#34;&gt;很酷的项目&lt;/a&gt;，该项目是 IPFS 的一个很好应用场景。简单来讲就是索引了 zlib/libgen 上电子书的 ipfs_cid，你可以通过这个工具本地部署一份，进而搜索以上网站的电子书，进而&lt;strong&gt;跳转下载&lt;/strong&gt;。开发者提供了一个 &lt;a href=&#34;https://zlib.zu1k.com/&#34;&gt;Demo&lt;/a&gt;，可以点击尝试。&lt;/p&gt;
+&lt;p&gt;我试了下，速度极快，体验良好。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202211301608240.gif&#34; alt=&#34;&#34; title=&#34;索引演示&#34;&gt;&lt;/p&gt;
+&lt;p&gt;开发者&lt;strong&gt;不建议&lt;/strong&gt;直接使用他的 Demo，而是鼓励更多有能力有兴趣的人参与进来，自己部署，丰富生态。当然，如果你没有能力，也可以使用&lt;a href=&#34;https://t.me/weiyexing/3074&#34;&gt;频道&lt;/a&gt;里列举的其他人已经做好的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://zlib.knat.network/&#34;&gt;https://zlib.knat.network/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zlib.9farm.com/&#34;&gt;https://zlib.9farm.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://zlib.qtoh.xyz/&#34;&gt;http://zlib.qtoh.xyz/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;该方法已更新至历史文章「&lt;a href=&#34;https://weiyexing.ml/posts/how-to-find-an-ebook/&#34;&gt;如何寻找一本电子书&lt;/a&gt;」。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;当然，这里我需要&lt;strong&gt;重申一下版权问题以及我的立场&lt;/strong&gt;。盗版是违法的，损害创作者的利益，这毋容置疑。&lt;/p&gt;
+&lt;p&gt;年轻的时候我也经常下载盗版电影、音乐，当时完全没有版权意识。到了大学，自己逐渐将这个意识培养起来，从一开始的打赏独立开发者，到支持各种各样的创作者，再到每年花费数百上千的订阅费购买各类音视频服务、书籍等，这都是数年来培养起来的我认为的好习惯。&lt;/p&gt;
+&lt;p&gt;然而，在特殊的环境下，正版体验不好，甚至都无法体验到正版，到了这个时候，观众就会选择&lt;strong&gt;用脚投票&lt;/strong&gt;。如果这些网站不存在，我们将会失去很多好的东西，比如书籍。你发现好书的速度，远远没有它们被消失的速度快。&lt;/p&gt;
+&lt;p&gt;因此，Z-Library 的存在，正如 Sci-Hub 一样，有它们存在的合理性。在一定程度上，我认为这些人做的事情和 Aaron Swartz（见文章 &lt;a href=&#34;https://coolshell.cn/articles/11928.html&#34;&gt;互联网之子&lt;/a&gt;）做的是一个性质，只不过后续都不容乐观。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 年 11 月 16 日，Z-Library 两位创始人被逮捕。&lt;/li&gt;
+&lt;li&gt;2020 年开始，Sci-Hub 陆续被封禁。&lt;/li&gt;
+&lt;li&gt;2011 年 7 月 11 日 Aaron Swartz 被起诉，2013 年 1 月 11 日，年仅 26 岁的 Aaron Swartz 自杀身亡。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;后续的互联网，没有发展成真正自由的互联网，但我依然感谢它。正是因为互联网，让我不再是瞎子，不再是聋子，最重要的是，脑子里不再只是两极分化甚至空空如也──当然，我指的是&lt;strong&gt;真正的互联网&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;网络以及数字化的普及，推动了版权规则的完善，同样也滋生了盗版。只希望在真正的开放自由的互联网到来之前，那一丝曙光不要被掐灭。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;注：本文部分语句优化由 Craft AI Assistant 强力驱动，感兴趣可以去尝试下（免费用户限次数）。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202211301603978.gif&#34; alt=&#34;&#34; title=&#34;Craft AI 写作演示&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/tool/">Tool</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/read/">Read</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>记念刘和珍君</title>
+                <link>https://aaronnick.github.io/posts/in-memory-of-ms.-liu-hezhen/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/in-memory-of-ms.-liu-hezhen/</guid>
+                <pubDate>Mon, 28 Nov 2022 22:39:28 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h1 id=&#34;记念刘和珍君1&#34;&gt;记念刘和珍君〔1〕&lt;/h1&gt;
+&lt;h2 id=&#34;一&#34;&gt;一&lt;/h2&gt;
+&lt;p&gt;　　中华民国十五年三月二十五日，就是国立北京女子师范大学为十八日在段祺瑞执政府前遇害的刘和珍杨德群〔2〕两君开追悼会的那一天，我独在礼堂外徘徊，遇见程君〔3〕，前来问我道，“先生可曾为刘和珍写了一点什么没有？”我说“没有”。她就正告我，“先生还是写一点罢；刘和珍生前就很爱看先生的文章。”&lt;/p&gt;
+&lt;p&gt;　　这是我知道的，凡我所编辑的期刊，大概是因为往往有始无终之故罢，销行一向就甚为寥落，然而在这样的生活艰难中，毅然预定了《莽原》〔4〕全年的就有她。我也早觉得有写一点东西的必要了，这虽然于死者毫不相干，但在生者，却大抵只能如此而已。倘使我能够相信真有所谓“在天之灵”，那自然可以得到更大的安慰，——但是，现在，却只能如此而已。&lt;/p&gt;
+&lt;p&gt;　　可是我实在无话可说。我只觉得所住的并非人间。四十多个青年的血，洋溢在我的周围，使我艰于呼吸视听，那里还能有什么言语？长歌当哭，是必须在痛定之后的。而此后几个所谓学者文人的阴险的论调，尤使我觉得悲哀。我已经出离愤怒了。我将深味这非人间的浓黑的悲凉；以我的最大哀痛显示于非人间，使它们快意于我的苦痛，就将这作为后死者的菲薄的祭品，奉献于逝者的灵前。&lt;/p&gt;
+&lt;h2 id=&#34;二&#34;&gt;二&lt;/h2&gt;
+&lt;p&gt;　　真的猛士，敢于直面惨淡的人生，敢于正视淋漓的鲜血。&lt;/p&gt;
+&lt;p&gt;　　这是怎样的哀痛者和幸福者？然而造化又常常为庸人设计，以时间的流驶，来洗涤旧迹，仅使留下淡红的血色和微漠的悲哀。在这淡红的血色和微漠的悲哀中，又给人暂得偷生，维持着这似人非人的世界。我不知道这样的世界何时是一个尽头！&lt;/p&gt;
+&lt;p&gt;　　我们还在这样的世上活着；我也早觉得有写一点东西的必要了。离三月十八日也已有两星期，忘却的救主快要降临了罢，我正有写一点东西的必要了。&lt;/p&gt;
+&lt;h2 id=&#34;三&#34;&gt;三&lt;/h2&gt;
+&lt;p&gt;　　在四十余被害的青年之中，刘和珍君是我的学生。学生云者，我向来这样想，这样说，现在却觉得有些踌躇了，我应该对她奉献我的悲哀与尊敬。她不是“苟活到现在的我”的学生，是为了中国而死的中国的青年。&lt;/p&gt;
+&lt;p&gt;　　她的姓名第一次为我所见，是在去年夏初杨荫榆女士做女子师范大学校长，开除校中六个学生自治会职员的时候。〔5〕其中的一个就是她；但是我不认识。直到后来，也许已经是刘百昭率领男女武将，强拖出校之后了，才有人指着一个学生告诉我，说：这就是刘和珍。其时我才能将姓名和实体联合起来，心中却暗自诧异。我平素想，能够不为势利所屈，反抗一广有羽翼的校长的学生，无论如何，总该是有些桀骜锋利的，但她却常常微笑着，态度很温和。待到偏安于宗帽胡同〔6〕，赁屋授课之后，她才始来听我的讲义，于是见面的回数就较多了，也还是始终微笑着，态度很温和。待到学校恢复旧观〔7〕，往日的教职员以为责任已尽，准备陆续引退的时候，我才见她虑及母校前途，黯然至于泣下。此后似乎就不相见。&lt;/p&gt;
+&lt;p&gt;　　总之，在我的记忆上，那一次就是永别了。&lt;/p&gt;
+&lt;h2 id=&#34;四&#34;&gt;四&lt;/h2&gt;
+&lt;p&gt;　　我在十八日早晨，才知道上午有群众向执政府请愿的事；&lt;/p&gt;
+&lt;p&gt;　　下午便得到噩耗，说卫队居然开枪，死伤至数百人，而刘和珍君即在遇害者之列。但我对于这些传说，竟至于颇为怀疑。&lt;/p&gt;
+&lt;p&gt;　　我向来是不惮以最坏的恶意，来推测中国人的，然而我还不料，也不信竟会下劣凶残到这地步。况且始终微笑着的和蔼的刘和珍君，更何至于无端在府门前喋血呢？&lt;/p&gt;
+&lt;p&gt;　　然而即日证明是事实了，作证的便是她自己的尸骸。还有一具，是杨德群君的。而且又证明着这不但是杀害，简直是虐杀，因为身体上还有棍棒的伤痕。&lt;/p&gt;
+&lt;p&gt;　　但段政府就有令，说她们是“暴徒”！&lt;/p&gt;
+&lt;p&gt;　　但接着就有流言，说她们是受人利用的。&lt;/p&gt;
+&lt;p&gt;　　惨象，已使我目不忍视了；流言，尤使我耳不忍闻。我还有什么话可说呢？我懂得衰亡民族之所以默无声息的缘由了。沉默呵，沉默呵！不在沉默中爆发，就在沉默中灭亡。&lt;/p&gt;
+&lt;h2 id=&#34;五&#34;&gt;五&lt;/h2&gt;
+&lt;p&gt;　　但是，我还有要说的话。&lt;/p&gt;
+&lt;p&gt;　　我没有亲见；听说，她，刘和珍君，那时是欣然前往的。&lt;/p&gt;
+&lt;p&gt;　　自然，请愿而已，稍有人心者，谁也不会料到有这样的罗网。&lt;/p&gt;
+&lt;p&gt;　　但竟在执政府前中弹了，从背部入，斜穿心肺，已是致命的创伤，只是没有便死。同去的张静淑〔8〕君想扶起她，中了四弹，其一是手枪，立仆；同去的杨德群君又想去扶起她，也被击，弹从左肩入，穿胸偏右出，也立仆。但她还能坐起来，一个兵在她头部及胸部猛击两棍，于是死掉了。&lt;/p&gt;
+&lt;p&gt;　　始终微笑的和蔼的刘和珍君确是死掉了，这是真的，有她自己的尸骸为证；沉勇而友爱的杨德群君也死掉了，有她自己的尸骸为证；只有一样沉勇而友爱的张静淑君还在医院里呻吟。当三个女子从容地转辗于文明人所发明的枪弹的攒射中的时候，这是怎样的一个惊心动魄的伟大呵！中国军人的屠戮妇婴的伟绩，八国联军的惩创学生的武功，不幸全被这几缕血痕抹杀了。&lt;/p&gt;
+&lt;p&gt;　　但是中外的杀人者却居然昂起头来，不知道个个脸上有着血污……。&lt;/p&gt;
+&lt;h2 id=&#34;六&#34;&gt;六&lt;/h2&gt;
+&lt;p&gt;　　时间永是流驶，街市依旧太平，有限的几个生命，在中国是不算什么的，至多，不过供无恶意的闲人以饭后的谈资，或者给有恶意的闲人作“流言”的种子。至于此外的深的意义，我总觉得很寥寥，因为这实在不过是徒手的请愿。人类的血战前行的历史，正如煤的形成，当时用大量的木材，结果却只是一小块，但请愿是不在其中的，更何况是徒手。&lt;/p&gt;
+&lt;p&gt;　　然而既然有了血痕了，当然不觉要扩大。至少，也当浸渍了亲族；师友，爱人的心，纵使时光流驶，洗成绯红，也会在微漠的悲哀中永存微笑的和蔼的旧影。陶潜〔9〕说过，“亲戚或余悲，他人亦已歌，死去何所道，托体同山阿。”倘能如此，这也就够了。&lt;/p&gt;
+&lt;h2 id=&#34;七&#34;&gt;七&lt;/h2&gt;
+&lt;p&gt;　　我已经说过：我向来是不惮以最坏的恶意来推测中国人的。但这回却很有几点出于我的意外。一是当局者竟会这样地凶残，一是流言家竟至如此之下劣，一是中国的女性临难竟能如是之从容。&lt;/p&gt;
+&lt;p&gt;　　我目睹中国女子的办事，是始于去年的，虽然是少数，但看那干练坚决，百折不回的气概，曾经屡次为之感叹。至于这一回在弹雨中互相救助，虽殒身不恤的事实，则更足为中国女子的勇毅，虽遭阴谋秘计，压抑至数千年，而终于没有消亡的明证了。倘要寻求这一次死伤者对于将来的意义，意义就在此罢。&lt;/p&gt;
+&lt;p&gt;　　苟活者在淡红的血色中，会依稀看见微茫的希望；真的猛士，将更奋然而前行。&lt;/p&gt;
+&lt;p&gt;　　呜呼，我说不出话，但以此记念刘和珍君！&lt;/p&gt;
+&lt;p align=&#34;right&#34;&gt;四月一日&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;　　〔1〕本篇最初发表于一九二六年四月十二日《语丝》周刊第七十四期。&lt;/p&gt;
+&lt;p&gt;　　〔2〕刘和珍（1904—1926）　江西南昌人，北京女子师范大学英文系学生。杨德群（1902—1926），湖南湘阴人，北京女子师范大学国文系预科学生。&lt;/p&gt;
+&lt;p&gt;　　〔3〕程君　指程毅志，湖北孝感人，北京女子师范大学教育系学生。&lt;/p&gt;
+&lt;p&gt;　　〔4〕《莽原》　文艺刊物，鲁迅编辑。一九二五年四月二十四日创刊于北京。初为周刊，附《京报》发行，同年十一月二十七日出至第三十二期休刊。一九二六年一月十日改为半月刊，未名社出版。一九二六年八月鲁迅离开北京后，由韦素园接编，一九二七年十二月二十五日出至第四十八期停刊。这里所说的“毅然预定了《莽原》全年”，指《莽原》半月刊。&lt;/p&gt;
+&lt;p&gt;　　〔5〕在北京女子师范大学学生反对校长杨荫榆的风潮中，杨于一九二五年五月七日借召开“国耻纪念会”为名，强行登台做主席，但立即为全场学生的嘘声所赶走。下午，她在西安饭店召集若干教员宴饮，阴谋迫害学生。九日，假借评议会名义开除许广平、刘和珍、蒲振声、张平江、郑德音、姜伯谛等六个学生自治会职员。&lt;/p&gt;
+&lt;p&gt;　　〔6〕偏安于宗帽胡同　反对杨荫榆的女师大学生被赶出学校后，在西城宗帽胡同租赁房屋作为临时校舍，于一九二五年九月二十一日开学。当时鲁迅和一些进步教师曾去义务授课，表示支持。&lt;/p&gt;
+&lt;p&gt;　　〔7〕学校恢复旧观　女师大学生经过一年多的斗争，在社会进步力量的声援下，于一九二五年十一月三十日迁回宣武门内石驸马大街原址，宣告复校。&lt;/p&gt;
+&lt;p&gt;　　〔8〕张静淑（1902—1978）　湖南长沙人，北京女子师范大学教育系学生。受伤后经医治，幸得不死。&lt;/p&gt;
+&lt;p&gt;　　〔9〕陶潜　晋代诗人。参看本卷第 73 页注〔5〕。这里引用的是他所作《挽歌》中的四句。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>《西线无战事》吗？</title>
@@ -83,7 +232,8 @@
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;blockquote&gt;
-&lt;p&gt;最后更新：2022-11-27 14:07&lt;/p&gt;
+&lt;p&gt;最后更新：2022-11-27 21:54&lt;br&gt;
+注：不再更新&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;南京传媒学院&lt;br&gt;
 西北政法大学&lt;br&gt;
@@ -143,7 +293,17 @@
 湖北美术学院&lt;br&gt;
 宁波工程学院&lt;br&gt;
 广东第二师范大学&lt;br&gt;
-清华大学&lt;/p&gt;
+清华大学&lt;br&gt;
+广东外语外贸大学&lt;br&gt;
+四川大学&lt;br&gt;
+西南交通大学&lt;br&gt;
+武汉音乐学院&lt;br&gt;
+安徽大学&lt;br&gt;
+同济大学&lt;br&gt;
+大连外国语大学&lt;br&gt;
+合肥工业大学&lt;br&gt;
+四川音乐学院&lt;br&gt;
+广东外国语大学&lt;/p&gt;
 &lt;p&gt;──二〇二二·十一月二十七日&lt;/p&gt;
 </description>
                 
@@ -5490,6 +5650,7 @@ xx 物业公司&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;常用电子书下载网站&#34;&gt;常用电子书下载网站&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zlib.zu1k.com/&#34;&gt;zLib Searcher&lt;/a&gt;：IPFS 应用场景，Z-Library 的索引，可跳转下载。注意，这只是 Demo，建议有能力的前往 &lt;a href=&#34;https://github.com/zu1k/zlib-searcher&#34;&gt;GitHub&lt;/a&gt; 自己部署，也可以利用已部署好的网站：&lt;a href=&#34;https://zlib.knat.network/&#34;&gt;镜像1&lt;/a&gt;、&lt;a href=&#34;https://zlib.9farm.com/&#34;&gt;镜像2&lt;/a&gt;、&lt;a href=&#34;http://zlib.qtoh.xyz/&#34;&gt;镜像3&lt;/a&gt;（更多见&lt;a href=&#34;https://t.me/weiyexing/3074&#34;&gt;频道&lt;/a&gt;）&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.soepub.com/&#34;&gt;掌上书苑&lt;/a&gt;：建站十几年，图书比较全，下载需要书币，可通过分享或者充值获得书币&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zh.hk1lib.org/&#34;&gt;Z-Library&lt;/a&gt;：十分推荐，英文书籍很多，中文也不少，每天免费限量下载，也可以直接访问 &lt;a href=&#34;@firstlibrarybot&#34;&gt;Telegram Bot&lt;/a&gt; 下载，&lt;a href=&#34;https://graph.org/Zlibrary-Kindle-03-23&#34;&gt;配置教程&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ebook2.lorefree.com/&#34;&gt;LoreFree-去中心化免费电子书共享社区&lt;/a&gt;：推荐，收录书籍数万，未登录每天有三个下载额度&lt;/li&gt;
