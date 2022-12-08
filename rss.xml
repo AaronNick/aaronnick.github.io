@@ -23,10 +23,57 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 06 Dec 2022 00:58:47 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 00:54:19 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>chatGPT 初体验：不妄自菲薄，不夜郎自大</title>
+                <link>https://aaronnick.github.io/posts/first-experience-with-chatgpt/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/first-experience-with-chatgpt/</guid>
+                <pubDate>Fri, 09 Dec 2022 00:49:26 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;这几天用 chatGPT 下来的体验：这东西很厉害，但是&lt;strong&gt;能够用好它的人更厉害&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这就好比我们日常用的工具，有的人可能不会用，有的人只会用来完成一些简单的工作，但是有的人就能玩出花来。后者就属于能把 chatGPT 用好的人。&lt;/p&gt;
+&lt;p&gt;不管什么年代，面对什么工具，&lt;strong&gt;都会存在这三类人&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;2020 年 Vitalik 就说过：I can easily see many jobs in the next 10-20 years changing their workflow to &amp;quot;human describes, AI builds, human debugs&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202212090052267.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;他提到了两个点，&lt;strong&gt;输入&lt;/strong&gt;和&lt;strong&gt;调试&lt;/strong&gt;，我认为正是其中的两个难点。首先是输入，如果你只是玩，那随便输入什么，它都会给你不差的反馈；但是如果你想要真正获取，甚至创造点什么，那对于输入的要求就相对较高，例如描述清楚你的问题，懂得一定的边界等等。其次就是调试，没有一定的知识储备，你甚至不知道问题在哪，如何调整。&lt;/p&gt;
+&lt;p&gt;做个不恰当的比喻：同样的一幅上色画，有审美的人和没审美的人，最终上色出来的想必是一个天上一个地下。&lt;/p&gt;
+&lt;p&gt;除此之外，还有一个点就是&lt;strong&gt;对于边界的认识&lt;/strong&gt;：AI 可以做什么，不能做什么？认清这个，你才能更好地使用工具。就好比有人一上来就问 chatGPT 2030 年世界杯在哪举办，它当然不能回答；甚至，你问它今天北京的天气，它也只能返回一个抱歉。这说明它很垃圾吗？当然不是，因为它本身就不支持联网，也不支持预测，所以回答不出来。但是，如果你让它出策划方案，它能瞬间罗列数个不错的方向；你让它编辑一封邮件，它能在数秒内生成一封有理有据、措辞恰当的邮件。所以，我们得认清楚工具的边界，以及它的局限。&lt;/p&gt;
+&lt;p&gt;当然，面对它的强悍，我们&lt;strong&gt;没必要妄自菲薄，也不能夜郎自大&lt;/strong&gt;。它不一定会取代谁，但一定会产生出新的东西，这个东西可能是新的服务、新的交互、新的岗位甚至是新的世界，让我们且看且行，拭目以待。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/tech/">Tech</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>我用 chatGPT 模拟了 HAL9000 的困局</title>
