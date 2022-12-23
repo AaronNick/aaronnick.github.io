@@ -23,10 +23,96 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 09 Dec 2022 00:54:19 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 19:59:15 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>啊！那个长毛象（Mastodon）真可爱</title>
+                <link>https://aaronnick.github.io/posts/what-is-mastodon/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/what-is-mastodon/</guid>
+                <pubDate>Fri, 23 Dec 2022 19:47:18 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;其实我说的是一个叫「长毛象」的社交平台啦。关于名字，其实还闹了个乌龙，人家原本叫 &lt;a href=&#34;https://joinmastodon.org/&#34;&gt;Mastodon&lt;/a&gt;（乳齿象）的，最初翻译成了长毛象，发现错译时已经传开了，且这个译名很可爱，就继续沿用了。&lt;/p&gt;
+&lt;h3 id=&#34;简介&#34;&gt;简介&lt;/h3&gt;
+&lt;p&gt;长毛象是一个类似微博、Twitter 的社交平台，信息流动态、评论、转发、点赞、收藏、私信、列表等功能一应俱全，但长毛象和它们有着本质的区别──长毛象是一个联邦式的产品，没有中心服务器。由于技术开源，任何人都可以创建自己的站点（官方叫实例），不同的站点由于是基于相同的协议 ActivityPub，因此可以&lt;strong&gt;互相通信&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202212231852288.png&#34; alt=&#34;image.png&#34; title=&#34;分别是：集中式、联邦式、分布式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这样说可能还比较抽象，举个简单的例子：假设你关注了一些朋友，而这些朋友活跃在其他平台，并且这些平台都支持了 ActivityPub，那么你就有可能在主页刷到你前女友在微博发的爱豆动态，也能刷到你前前女友在 B 站发的视频动态，想想是不是很魔幻？&lt;/p&gt;
+&lt;p&gt;你不必为了追随一些人而必须注册一大堆的平台账号，颇「&lt;strong&gt;有一号在手，走遍天下&lt;/strong&gt;」的感觉。长毛象想要打造的社交新世界也许就是这样的吧。&lt;/p&gt;
+&lt;p&gt;如今，基于它的开源技术，全球已经创建了数百个实例，八百多万的注册用户在各式各样的实例里活跃。&lt;/p&gt;
+&lt;h3 id=&#34;为什么会关注长毛象&#34;&gt;为什么会关注长毛象？&lt;/h3&gt;
+&lt;p&gt;其实几年前我就注意到了这个产品，但当时不温不火，就没太关注。然而，近期它再次被推上风口浪尖，于是我便尝试玩玩。&lt;/p&gt;
+&lt;p&gt;近期的大火，主要得益于&lt;strong&gt;马斯克的助攻&lt;/strong&gt;：收购 Twitter 时引发一波迁移潮，前几天又出台了一个封禁竞争对手的措施（似乎已经撤回），再次引发大规模迁移。除了马斯克，国内日益严苛的审查也迫使大量的用户逃往长毛象。&lt;/p&gt;
+&lt;h3 id=&#34;初步的观察和思考&#34;&gt;初步的观察和思考&lt;/h3&gt;
+&lt;p&gt;蹲点一段时间后，发现还挺有趣的，现将观察罗列如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;用户规模以及增长&lt;/strong&gt;&lt;br&gt;
+当前总体注册用户 800+ 万，日注册用户 3 万左右（数据来自官方机器人），月活用户达 200 万左右。从注册增速来看很乐观，当然近期大量新用户涌入得益于马斯克的助攻。
+不过，对于一个几乎不做推广宣传，单纯靠口口相传的社交产品来说，长毛象的未来依然值得关注。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;站点的&lt;strong&gt;动态观察&lt;/strong&gt;，以最大的中文站点草莓县（16k 活跃用户）为例&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;用户动态情况&lt;/strong&gt;：观察数天，抽样 300+ 动态，动态发布频率约为 4 条/分钟，考虑夜间低频，综合 2 条/分钟，其中动态多为高活跃用户发布，人均 2 条/天，故推测草莓县每天约 2x60x24=2880 条动态基本由 2x60x24/2=1440 活跃用户发布（不算评论等互动）。根据动态大致观察到发布的类型主要为生活动态 &amp;gt; 时事吐槽 &amp;gt; 书影音标记，且进入抽样用户的主页可以得出该部分用户&lt;strong&gt;超 50% 来自豆瓣、Twitter&lt;/strong&gt;，大多为其他网站的「难民」。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;热门动态特征&lt;/strong&gt;：观察数天，抽样 100+ 动态，动态类型的占比大约是：观点（涉政/社会事件）：生活动态=80:20。被推上热门的因素推测和互动有关，因此关注者多的人有优势，但站内用户的偏好也是重要因素，从热门动态的类别可见站内&lt;strong&gt;用户的偏向是吐槽政府行为/关注社会事件为多&lt;/strong&gt;，这也印证了以上观察──被其他平台过度审查后逃离至长毛象。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;流行趋势&lt;/strong&gt;：流行话题的参与度大约在 10-30 人/2 天，例如当下冬至的话题在过去 2 天内仅 27 人参与。说明站内用户&lt;strong&gt;对话题的参与度不高&lt;/strong&gt;，更多的是按照自己的方式发布动态，但也说明草莓县社区&lt;strong&gt;几乎没有运营动作&lt;/strong&gt;，完全由用户自发活跃。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;商业模式&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;目前没有看到成熟的商业化模式，实例&lt;strong&gt;基本属于公益性质&lt;/strong&gt;，不同的站点运营人员一般由基金会/众筹/个人出资运营。&lt;/li&gt;
+&lt;li&gt;现今成熟的&lt;strong&gt;广告盈利模式&lt;/strong&gt;在长毛象可行但效果不会很好，根本原因就在于平台的去中心化机制，无法做好流量分发和广告精确推荐。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;订阅付费&lt;/strong&gt;或许是一个出路，就看未来长毛象会发展成什么样子，以及提供的价值是否能让用户愿意付费，就像现今的 E-MAIL 服务或者电话服务。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;我用它做什么&#34;&gt;我用它做什么？&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202212231946934.png&#34; alt=&#34;image.png&#34; title=&#34;长毛象主页&#34;&gt;&lt;/p&gt;
+&lt;p&gt;长毛象适合作为一个树洞，放一些没有压力的动态。我一般用来发一些吐槽、碎碎念、书影标记。&lt;/p&gt;
+&lt;p&gt;说到书影标记，我已经通过豆伴工具导出豆瓣的所有数据，并导入 &lt;a href=&#34;https://neodb.social/&#34; title=&#34; https://neodb.social/&#34;&gt;NeoDB&lt;/a&gt; 站点。这里再介绍下 NeoDB 这个书影音等标记工具，它也是为了此类「联邦宇宙」平台而生的工具，支持长毛象账号登录，支持将标记的书影动态同步至长毛象。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202212231927721.png&#34; alt=&#34;image.png&#34; title=&#34;NeoDB 的主页&#34;&gt;&lt;/p&gt;
+&lt;p&gt;如果你刚开始玩长毛象，由于其去中心化且无算法推荐的设计，使得冷启动很困难，&lt;strong&gt;如何关注有趣的人&lt;/strong&gt;就变成了一个难点。我提供一个自己的办法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;进入 NeoDB，找到自己喜欢的书影，看类似标记的用户，访问主页，关注。&lt;/li&gt;
+&lt;li&gt;查看自己的关注用户的关注列表，寻找有趣的用户，关注。（注：有些用户会隐藏关注列表）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;总结&#34;&gt;总结&lt;/h3&gt;
+&lt;p&gt;我认为长毛象是一个带点&lt;strong&gt;理想化&lt;/strong&gt;的产品，对用户较友好，但对运营者不友好，短期内不可能替代 Twitter，主要根源还是在于它的去中心化设计，天然导致冷启动困难、商业化困难。&lt;/p&gt;
+&lt;p&gt;但长期来看，我觉得可能会&lt;strong&gt;创造出另一种形式的社交&lt;/strong&gt;──用户遇到感兴趣的人，不必为了关注他而额外注册该平台的账号。当然，这个前提是有足够大的用户入驻，尤其是头部用户，且越来越多的社区和工具支持 ActivityPub 协议。然而，当前大公司为什么要做这种损害自身利益的事情，这是最大的问题，如果能找到利益平衡的方式，也许会出现以上的状态。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/product/">Product</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>chatGPT 初体验：不妄自菲薄，不夜郎自大</title>

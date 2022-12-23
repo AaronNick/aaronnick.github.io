@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aaronnick.github.io/tags/essay/</loc>
+    <lastmod>2022-12-23T19:55:34+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/</loc>
+    <lastmod>2022-12-23T19:55:34+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/product/</loc>
+    <lastmod>2022-12-23T19:55:34+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/</loc>
+    <lastmod>2022-12-23T19:55:34+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/what-is-mastodon/</loc>
+    <lastmod>2022-12-23T19:55:34+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2022-12-23T19:55:34+08:00</lastmod>
+  </url><url>
     <loc>https://aaronnick.github.io/posts/first-experience-with-chatgpt/</loc>
     <lastmod>2022-12-09T00:52:41+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/tags/essay/</loc>
-    <lastmod>2022-12-09T00:52:41+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2022-12-09T00:52:41+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2022-12-09T00:52:41+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/tags/tech/</loc>
-    <lastmod>2022-12-09T00:52:41+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/</loc>
     <lastmod>2022-12-09T00:52:41+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/use-chatgpt-to-simulate-dilemma-of-the-hal9000/</loc>
@@ -682,9 +688,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/in-the-display-window/</loc>
     <lastmod>2021-04-26T10:39:30+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/product/</loc>
-    <lastmod>2021-10-02T00:47:08+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/product-is-hard/</loc>
     <lastmod>2021-04-28T13:02:18+08:00</lastmod>
