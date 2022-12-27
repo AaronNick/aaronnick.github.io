@@ -23,10 +23,49 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 23 Dec 2022 19:59:15 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 12:02:34 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>从人口减少看集中化</title>
+                <link>https://aaronnick.github.io/posts/depopulation-and-centralization/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/depopulation-and-centralization/</guid>
+                <pubDate>Tue, 27 Dec 2022 11:58:42 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;秦晖的《走出帝制》里有个观察：西方人口减少的原因主要是瘟疫，而中国则是和朝代更迭密切相关。纵观中国历史人口减少的原因，，&lt;strong&gt;灾难都排不上号&lt;/strong&gt;，人斗人恐怖得多。翻开历史书，满满都是上演着&lt;strong&gt;人相戮&lt;/strong&gt;，甚至&lt;strong&gt;人相食&lt;/strong&gt;的惨剧。真是「人与人斗，其乐无穷」。&lt;/p&gt;
+&lt;p&gt;引用复旦大学葛剑雄教授的《中国人口发展史》：西汉末年与新莽大乱中，人口从 6000 万降至 3500 万；东汉末年大乱，人口再从 6000 万降至 2300 万；隋唐之际大乱，人口从 6000 万降至 2500 万；安史之乱后以讫五代，战祸连绵，人口从 7000 万降至北宋初年的 3540 万；宋元之际大乱，中国（指宋辽金夏之地总计）人口从 1.45 亿降至 7500 万；元明之际，从 9000 万降至 7160 万；明末大乱，人口从近 2 亿降至 1.5 亿， 清初顺治至康熙初的战争损失还有约 2000 万。以太平天国战争为中心的清末咸、同大乱，人口由 4.36 亿降至 3.64 亿。&lt;/p&gt;
+&lt;p&gt;由此可见，古代中国人自己坑（杀）自己人可从来不含糊，也从未手软过。&lt;/p&gt;
+&lt;p&gt;这里有个规律，元朝之前的朝代更迭人口减少得非常厉害，动辄一半以上。而元朝之后则没有那么夸张，作者给出的猜测是：一方面人口基数变大了，另一方面出现了多个人口稠密的地方，分布比较广。&lt;/p&gt;
+&lt;p&gt;我觉得很有道理，随着经济发展和经济中心转移，人口分布在多个地区，一旦发生战乱，也就没有以前那么容易被「团灭」了。&lt;/p&gt;
+&lt;p&gt;可见，&lt;strong&gt;中心化是危险的&lt;/strong&gt;，联邦式、去中心化更安全。&lt;/p&gt;
+&lt;p&gt;其实这点也体现在其他的方面，例如春秋战国时期各派能够百家争鸣，而秦汉一统天下之后，这种盛况便消失了。又如何兆武在他的《触摸时代的灵魂：何兆武谈读书》里提到意识形态的灌输，军阀时期是没有的，各大家能够有一个较开明的环境争论，甚至是吵架。随着一统江山，吵架没了，只有抄家。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>啊！那个长毛象（Mastodon）真可爱</title>
