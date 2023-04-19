@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2023-04-03T11:53:08+08:00</lastmod>
+    <loc>https://aaronnick.github.io/tags/essay/</loc>
+    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/tags/read/</loc>
-    <lastmod>2023-04-03T11:53:08+08:00</lastmod>
+    <loc>https://aaronnick.github.io/tags/life/</loc>
+    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/</loc>
+    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2023-04-03T11:53:08+08:00</lastmod>
+    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/posts/read-202303/</loc>
-    <lastmod>2023-04-03T11:53:08+08:00</lastmod>
+    <loc>https://aaronnick.github.io/posts/my-first-half-marathon/</loc>
+    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/read/</loc>
+    <lastmod>2023-04-18T07:25:03+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/local-government-in-china-under-chiing/</loc>
+    <lastmod>2023-04-18T07:25:03+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/a-few-thoughts-on-remote-work/</loc>
+    <lastmod>2023-04-19T14:40:42+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/read-202303/</loc>
     <lastmod>2023-04-03T11:53:08+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/daily/</loc>
@@ -25,9 +40,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/the-clash-of-civilizations/</loc>
     <lastmod>2023-04-03T10:06:54+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/essay/</loc>
-    <lastmod>2023-03-21T22:00:18+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/a-new-story-about-kong-yiji/</loc>
     <lastmod>2023-03-21T22:00:18+08:00</lastmod>
@@ -211,9 +223,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/read-202205/</loc>
     <lastmod>2022-05-31T21:51:58+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/life/</loc>
-    <lastmod>2022-05-30T21:30:56+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/expiry-renewal/</loc>
     <lastmod>2022-05-30T21:30:56+08:00</lastmod>
