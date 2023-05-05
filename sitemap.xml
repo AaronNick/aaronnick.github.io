@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aaronnick.github.io/posts/</loc>
+    <lastmod>2023-05-05T12:19:39+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/read/</loc>
+    <lastmod>2023-05-05T12:19:39+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/</loc>
+    <lastmod>2023-05-05T12:19:39+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/read-202304/</loc>
+    <lastmod>2023-05-05T12:19:39+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/</loc>
+    <lastmod>2023-05-05T12:19:39+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/tags/daily/</loc>
+    <lastmod>2023-05-05T12:17:54+08:00</lastmod>
+  </url><url>
+    <loc>https://aaronnick.github.io/posts/daily-202304/</loc>
+    <lastmod>2023-05-05T12:17:54+08:00</lastmod>
+  </url><url>
     <loc>https://aaronnick.github.io/tags/essay/</loc>
     <lastmod>2023-04-19T15:00:54+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/tags/life/</loc>
     <lastmod>2023-04-19T15:00:54+08:00</lastmod>
   </url><url>
-    <loc>https://aaronnick.github.io/posts/</loc>
-    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/</loc>
-    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
-  </url><url>
     <loc>https://aaronnick.github.io/posts/my-first-half-marathon/</loc>
     <lastmod>2023-04-19T15:00:54+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/</loc>
-    <lastmod>2023-04-19T15:00:54+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/read/</loc>
-    <lastmod>2023-04-18T07:25:03+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/local-government-in-china-under-chiing/</loc>
     <lastmod>2023-04-18T07:25:03+08:00</lastmod>
@@ -31,9 +40,6 @@
   </url><url>
     <loc>https://aaronnick.github.io/posts/read-202303/</loc>
     <lastmod>2023-04-03T11:53:08+08:00</lastmod>
-  </url><url>
-    <loc>https://aaronnick.github.io/tags/daily/</loc>
-    <lastmod>2023-04-03T11:52:39+08:00</lastmod>
   </url><url>
     <loc>https://aaronnick.github.io/posts/daily-202303/</loc>
     <lastmod>2023-04-03T11:52:39+08:00</lastmod>
