@@ -23,10 +23,47 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 21 May 2023 11:46:39 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 16:09:58 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>选择，你是自由的</title>
+                <link>https://aaronnick.github.io/posts/you-are-free/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/you-are-free/</guid>
+                <pubDate>Sun, 21 May 2023 16:00:32 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;我不喜欢随意打扰别人，同样也不喜欢别人随意打扰我。因此，我对那种可能会影响到他人的行为尤其谨慎，比如发朋友圈。&lt;/p&gt;
+&lt;p&gt;一条朋友圈发出去，意味着好友都可能刷到，而我会觉得这条朋友圈的对象并不适用所有人，对于那些人来说就是一种干扰，因此我会有压力。这种压力在朋友圈做了分组、以及互相屏蔽各自朋友圈的功能之后稍减一些，因为不管是发送者还是被接受者，都有了更自由的选择。&lt;/p&gt;
+&lt;p&gt;相对而言，我喜欢 Telegram 频道这种方式，喜欢就订阅，不喜欢就取关。频道开放留言，也开放 Reaction ，且基本维持最初功能提供的所有表情，除了 🤮 之外，之所以关闭这个表情，完全是因为它会让我生理不适。因此，读者可以赞，可以踩，可以愤怒，&lt;strong&gt;你是自由的&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我认为这个模式很正常也很合理，我写我的，你看了有用或者没用，可以充分表达，但请别口出不逊。一个人的表达，不要求做到言之有物，但至少应做到&lt;strong&gt;言之有理&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;不然，那就请取关，或者接受被拉黑。毕竟，我不吃你家饭，你也不吃我家饭。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://aaronnick.github.io/tags/essay/">Essay</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Obsidian｜给分享内容快速生成卡片</title>
