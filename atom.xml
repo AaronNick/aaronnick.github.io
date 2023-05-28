@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2023-05-21T16:09:58&#43;08:00</updated>
+    <updated>2023-05-28T12:49:38&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -17,10 +17,54 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
         <entry>
+            <title type="text">杨小凯《牛鬼蛇神录》</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/captive-spirits/" />
+            <id>https://aaronnick.github.io/posts/captive-spirits/</id>
+            <updated>2023-05-28T12:49:17&#43;08:00</updated>
+            <published>2023-05-28T12:43:45&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">文革囚禁中的精灵。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202305272016881.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;书籍简介&#34;&gt;书籍简介&lt;/h3&gt;
+&lt;p&gt;这是一本文化大革命期间狱中的回忆录，记录的人物多种多样，扒手、建筑师、工程师、大学教师、医生、企业家、政治家等各式人物都有，文笔好，可读性强。作者杨小凯不是简单的记录经历，而是在文中加入自己的思考，他的思想观念也伴随着自己的见闻而改变，这是该书比较值得关注的地方。&lt;/p&gt;
+&lt;h3 id=&#34;作者介绍&#34;&gt;作者介绍&lt;/h3&gt;
+&lt;p&gt;杨小凯在上世纪六十年代就因为《中国向何处去》而闻名，那时他还叫做杨曦光。而后经过自身的努力，在经济学领域做出了突出贡献，再次闻名世界。从书中就能看出他是个有人格魅力的人，有自己的思想，虚心好学，并能将理论付诸实践。一个没上过大学的青年，靠着虚心向狱中的工程师和教师学习，掌握了英语、微积分、经济学以及很多知识，这些都为他出狱后考取中国社会科学院经济研究所奠定了坚实的基础，也为他打开了更为广阔的世界大门。&lt;/p&gt;
+&lt;p&gt;可能这时会有人冒出这样的说法：要是他没有这段监狱的经历，怕是做不出这样的成就来。——这话我是不敢说的。历史不可假设，就算假设他没有这段经历，我相信以他的才能，可以做出更大的贡献来。苦难不是一个人成功的必备要素，而且，为啥监狱里多是工程师等高级知识分子，这不值得反思吗？&lt;/p&gt;
+&lt;h3 id=&#34;相似书籍&#34;&gt;相似书籍&lt;/h3&gt;
+&lt;p&gt;这本书和王学泰的《监狱琐记》非常相似，记录的都是同一时代同样的狱中故事。《监狱琐记》里有一章提到徐璋本我印象尤为深刻，徐璋本和钱学森同为加州理工校友，他研究反导，钱学森研究制导。徐璋本回国而钱学森留美，前者在「鸣放运动」中反对马克思主义，并因效仿美国多党制的言论和动机，被捕入狱。一个锒铛入狱，一个享誉中外，这个对比让我想起《一滴泪》中的巫宁坤和李政道，基本是同样的选择，同样的遭遇。&lt;/p&gt;
+&lt;p&gt;他们的经历都凸显了一个道理：时代和环境对人的影响太重要了。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">选择，你是自由的</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/you-are-free/" />
             <id>https://aaronnick.github.io/posts/you-are-free/</id>
-            <updated>2023-05-21T16:09:35&#43;08:00</updated>
+            <updated>2023-05-22T10:56:39&#43;08:00</updated>
             <published>2023-05-21T16:00:32&#43;08:00</published>
             <author>
                     <name>Wesson</name>
@@ -1019,7 +1063,7 @@
             <title type="text">四月读什么：秋园、藏传佛教、清代地方政府等</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202304/" />
             <id>https://aaronnick.github.io/posts/read-202304/</id>
-            <updated>2023-05-05T12:19:39&#43;08:00</updated>
+            <updated>2023-05-23T10:25:33&#43;08:00</updated>
             <published>2023-05-05T11:48:40&#43;08:00</published>
             <author>
                     <name>Wesson</name>
