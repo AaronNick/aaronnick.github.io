@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2023-06-01T19:41:31&#43;08:00</updated>
+    <updated>2023-06-11T19:49:51&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,136 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">自驾北海</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/drive-oula-to-the-north-sea/" />
+            <id>https://aaronnick.github.io/posts/drive-oula-to-the-north-sea/</id>
+            <updated>2023-06-11T19:49:30&#43;08:00</updated>
+            <published>2023-06-11T19:36:23&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">天很蓝，浪很大，风很舒服。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202306111908201.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Share 说想去看海，于是便去了北海。&lt;/p&gt;
+&lt;p&gt;这次我们没有选择乘坐公共交通，而是选择自驾，且自驾的是一辆新能源汽车（长城欧拉黑猫），算是一种挑战吧，毕竟单程距离 300km，欧拉标称 301km。简单记录下本次自驾旅行，以及北海的风景。&lt;/p&gt;
+&lt;style&gt;
+.aspect-ratio {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 75%;
+    }
+      
+.aspect-ratio iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    }
+&lt;/style&gt;
+      
+
+&lt;div align=center class=&#34;aspect-ratio&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?aid=529479423&amp;&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34; 
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34;&gt; 
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;欧拉的表现&#34;&gt;欧拉的表现&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202306111929484.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;出发之前，我查了路上的服务区共 8 个，其中有 4 个支持充电。按照以往的经验，欧拉在高速上会打 6-7 折，意味着标称 301km，实际上只能跑 180km，理论上只需要在半途充一次电即可。然而，考虑到进入北海后还需要开车溜达，干脆在服务区充两次，第二次简单充一会儿就好了。&lt;/p&gt;
+&lt;p&gt;说走就走，趁着周五 Share 也居家办公，我处理完工作之后，两人早早就出发了。&lt;/p&gt;
+&lt;p&gt;路上很晒，但炎热的天气并没有影响我们愉快的心情。把车窗摇上去，把歌放出来，吹着空调，哼着小曲儿，往城市边缘开。&lt;/p&gt;
+&lt;p&gt;高速车辆很少，或许是工作日还没下班的缘故。欧拉可以开到 100km/h 出头，但为了保险起见，开到 95km/h 就设置了定速巡航——这台车竟然有定速巡航！？说实话，对于这样一辆定位城市通勤买菜的车，竟然配备了定速巡航，我是挺惊讶的。路上没车，加上定速巡航，高速开起来很轻松。&lt;/p&gt;
+&lt;p&gt;如之前所料，高速行驶外加开空调，行驶距离会打折至 6 折——高速上基本不踩刹车，无法动能回收，以及风阻太大。行驶了 140km 后，欧拉剩余 120km 的续航。我们进入服务区开始第一次充电，本次充电预计花了 50 分钟，充到 90% 以上。后续继续开了 80km，进入服务区进行第二次充电，这次只充半个小时。&lt;/p&gt;
+&lt;p&gt;新能源汽车给我的感觉就是，&lt;strong&gt;该长不长，该短不短&lt;/strong&gt;——行驶距离标称很长，实际很短；充电时长标称很短，实际很长。&lt;/p&gt;
+&lt;p&gt;油车三小时的路程，我们足足开了五小时，虽然慢悠悠地晃去挺浪漫，但下次不敢了。慢虽慢，好在一路上没出现啥问题，充电桩也够用，顺利把我们送到北海。不过，值得注意的是，服务区的充电桩基本都有 2/3 在维护，也不知道是真的坏了，还是不开放。我们运气好，每次都不用等。&lt;/p&gt;
+&lt;h3 id=&#34;北海的吃&#34;&gt;北海的吃&lt;/h3&gt;
+&lt;p&gt;北海嘛，临近海边，自然除了海鲜，也没啥可吃的。&lt;/p&gt;
+&lt;p&gt;当晚到达北海，先去了桥港风情街找吃的。这条街很热闹，两边都是小吃或者海鲜排挡，路上基本都是穿着拖鞋噼里啪啦的人，搭上夸张的五颜六色的衬衫，海边风情氛围拉满。&lt;/p&gt;
+&lt;p&gt;我选择了一家在美团上颇受好评的海鲜店，进门坐定，然后到门口的海鲜区挑选食材，&lt;strong&gt;现选现做&lt;/strong&gt;。大虾、皮皮虾、石斑鱼、贝类……这些自然少不了，外加几个炒菜，六个人的菜就点完了，人均不到一百，价格还行。&lt;/p&gt;
+&lt;p&gt;这边似乎很少见小龙虾，很奇怪。因此，我们的虾只能做白灼和椒盐，两者我都不太喜欢。那条昂贵的石斑鱼，清蒸出来也不好吃，崩溃。只有贝类炒得还行，让我找到一丝安慰。&lt;/p&gt;
+&lt;p&gt;第二天晚上也是海鲜大餐，这次选在了老街那边，还是差不多的菜谱，只不过这次失算了，由着老板的教唆，点了一条四斤多的白条，以及几个贝类，这两者就花了六百！再加上其他的海鲜，本次消费九百多，这就罢了，况且那条四百多的鱼还不如我煎的好吃，再次崩溃。&lt;/p&gt;
+&lt;h3 id=&#34;北海的海&#34;&gt;北海的海&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202306111912603.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;好在风景还不错，勉强可以抚慰我在吃上面所受的伤。&lt;/p&gt;
+&lt;p&gt;北海嘛，除了海，其实也没啥了。第一天先去了北海银滩，因为是淡季，没啥游客，可以直接开到里面的停车场，就是收费有点高，10 块/小时，超过 1 小时后按 5 块/小时收费，这点很坑。&lt;/p&gt;
+&lt;p&gt;银滩上的沙子很细，踩着非常舒服，靠近海浪的地方还有许多洞，里面住着小小的螃蟹，人走过去的时候还会跑来跑去，很是治愈。海风很舒服，浪花不大，沙滩边大多是家庭带着孩子过来玩水。&lt;/p&gt;
+&lt;p&gt;后续又去了冠头岭，那边浪花大得多，巨大的浪拍打在礁石上，激起层层浪花。相比银滩，这边更容易出片，因此来这边的人一大半是为了拍照的，同时这里还能看漂亮的日落。&lt;/p&gt;
+&lt;p&gt;次日，我们没有去其他地方，打算在民宿楼下的海滩玩玩就回去，毕竟九点多太阳就很晒了。让我意外的事，楼下的沙滩不比银滩那边差，人少，风大，真想搭个伞吹一整天。&lt;/p&gt;
+&lt;h3 id=&#34;小结&#34;&gt;小结&lt;/h3&gt;
+&lt;p&gt;欧拉完全可以胜任这样的自驾游，就是费时间。北海玩的地方不多，除了海还是海，挑选些干净的沙滩去走走泡泡就行了，那种太商业化的地方没有必要去，除非你是奔着拍照打卡去的，那就另当别论。另外，如果要购买海鲜，最好是清晨去港口，那个时候最便宜，也最新鲜，如果去海鲜市场，价格也不会低到哪里去。&lt;/p&gt;
+&lt;style&gt;
+.aspect-ratio {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 75%;
+    }
+      
+.aspect-ratio iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    }
+&lt;/style&gt;
+      
+
+&lt;div align=center class=&#34;aspect-ratio&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?aid=954491534&amp;&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34; 
+    scrolling=&#34;no&#34; 
+    border=&#34;0&#34; 
+    frameborder=&#34;no&#34; 
+    framespacing=&#34;0&#34; 
+    allowfullscreen=&#34;true&#34;&gt; 
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;相关：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1iu411W741&#34;&gt;尝试自驾欧拉去北海&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV17W4y1X7rx&#34;&gt;北海行（纯净版）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/essay/" term="Essay" label="Essay" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/life/" term="Life" label="Life" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">五月读什么：回忆录、斯多葛主义、讽刺等</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202305/" />
