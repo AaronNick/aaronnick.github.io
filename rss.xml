@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 11 Jun 2023 20:04:00 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 15:28:10 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
@@ -39,7 +39,7 @@
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202306111908201.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Share 说想去看海，于是便去了北海。&lt;/p&gt;
+&lt;p&gt;Shero 说想去看海，于是便去了北海。&lt;/p&gt;
 &lt;p&gt;这次我们没有选择乘坐公共交通，而是选择自驾，且自驾的是一辆新能源汽车（长城欧拉黑猫），算是一种挑战吧，毕竟单程距离 300km，欧拉标称 301km。简单记录下本次自驾旅行，以及北海的风景。&lt;/p&gt;
 &lt;style&gt;
 .aspect-ratio {
@@ -72,7 +72,7 @@
 &lt;h3 id=&#34;欧拉的表现&#34;&gt;欧拉的表现&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202306111929484.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;出发之前，我查了路上的服务区共 8 个，其中有 4 个支持充电。按照以往的经验，欧拉在高速上会打 6-7 折，意味着标称 301km，实际上只能跑 180km，理论上只需要在半途充一次电即可。然而，考虑到进入北海后还需要开车溜达，干脆在服务区充两次，第二次简单充一会儿就好了。&lt;/p&gt;
-&lt;p&gt;说走就走，趁着周五 Share 也居家办公，我处理完工作之后，两人早早就出发了。&lt;/p&gt;
+&lt;p&gt;说走就走，趁着周五 Shero 也居家办公，我处理完工作之后，两人早早就出发了。&lt;/p&gt;
 &lt;p&gt;路上很晒，但炎热的天气并没有影响我们愉快的心情。把车窗摇上去，把歌放出来，吹着空调，哼着小曲儿，往城市边缘开。&lt;/p&gt;
 &lt;p&gt;高速车辆很少，或许是工作日还没下班的缘故。欧拉可以开到 100km/h 出头，但为了保险起见，开到 95km/h 就设置了定速巡航——这台车竟然有定速巡航！？说实话，对于这样一辆定位城市通勤买菜的车，竟然配备了定速巡航，我是挺惊讶的。路上没车，加上定速巡航，高速开起来很轻松。&lt;/p&gt;
 &lt;p&gt;如之前所料，高速行驶外加开空调，行驶距离会打折至 6 折——高速上基本不踩刹车，无法动能回收，以及风阻太大。行驶了 140km 后，欧拉剩余 120km 的续航。我们进入服务区开始第一次充电，本次充电预计花了 50 分钟，充到 90% 以上。后续继续开了 80km，进入服务区进行第二次充电，这次只充半个小时。&lt;/p&gt;
@@ -414,7 +414,10 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202305211133366.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+                    <description>&lt;blockquote&gt;
+&lt;p&gt;声明：本教程最初源自 Telegram Obsidian 群友 @稻米鼠（&lt;a href=&#34;https://zji.me/4b5b6eff-310e-407a-9263-6cba4cebf626/&#34;&gt;博客文章&lt;/a&gt;），后期经过开发朋友 @海龙 优化，最后为本文的版本。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202305211133366.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在之前的&lt;a href=&#34;https://mp.weixin.qq.com/s/pLW2V7JXBEtiSbF5-cijNQ&#34;&gt;推送&lt;/a&gt;中，分享了一个快速把分享内容变成卡片的方式，现在把完整流程分享下。&lt;/p&gt;
 &lt;h3 id=&#34;前置需求&#34;&gt;前置需求&lt;/h3&gt;
 &lt;ul&gt;
