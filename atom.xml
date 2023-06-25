@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2023-06-20T15:36:07&#43;08:00</updated>
+    <updated>2023-06-25T20:20:12&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,47 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">《中国乡村》之帝国的控制</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/control-of-the-empire/" />
+            <id>https://aaronnick.github.io/posts/control-of-the-empire/</id>
+            <updated>2023-06-25T20:19:59&#43;08:00</updated>
+            <published>2023-06-25T20:14:23&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">清帝国的乡村控制。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202306252019850.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;《中国乡村》这本书断断续续读了很久，因为篇幅很长（七百多页），内容很多，光是引用部分就接近全书的三分之一，可见其考究之细致。&lt;/p&gt;
+&lt;p&gt;全书分为三部分：中国乡村的行政划分、乡村控制、控制的效果。我认为是第二部分是精华，即乡村的控制。控制主要分为治安、税收、饥荒、思想。治安好了才能保证安居乐业，才能保证帝国的税收；思想不能太先进，意识形态必须为帝国服务。作为帝国最末端的区域，控制最为艰难，但也最为重要，稍加不慎，便会重蹈历史的覆辙。&lt;/p&gt;
+&lt;p&gt;要维持好清王朝基层统治体系，需要具备两个条件：一个是相当可靠、能力强的官僚集团，来指导和监督它的运作；一个是大体上稳定的乡村环境，让普通民众可以维持一种虽然不富裕但较安定的生活。&lt;/p&gt;
+&lt;p&gt;然而，要维持这两个条件的稳定是不容易的。首先，官僚集团与帝国统治阶级的利益并不一致，因此不会完全忠心于皇帝；其次，皇帝对官僚集团的猜忌和不信任，以及基层官员对乡村无孔不入的控制，滋生了许多官场陋规，进而产生腐败，拖慢整个官僚机器的运转；最后，频发的自然灾害，无能的官员，都保证不了一个稳定安宁的环境。&lt;/p&gt;
+&lt;p&gt;帝国的控制，最终目的是为了维护统治。温顺听话的臣民，对帝国的威胁自然不高，但也严重损害了臣民积极进取的能力，削弱了帝国的物质基础，当内部、外部环境变得愈发严峻时，清廷将尝到它所埋下的苦果。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">自驾北海</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/drive-oula-to-the-north-sea/" />
