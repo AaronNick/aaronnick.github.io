@@ -23,10 +23,36 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 23 Jul 2023 16:06:55 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 18:24:33 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://aaronnick.github.io/rss.xml" />
         
+        
+            <item>
+                <title>域名过期说明</title>
+                <link>https://aaronnick.github.io/posts/notice-202307/</link>
+                <guid isPermaLink="true">https://aaronnick.github.io/posts/notice-202307/</guid>
+                <pubDate>Sun, 30 Jul 2023 10:15:12 &#43;0800</pubDate>
+                
+                    <author>weiyexing1@gmail.com (Wesson)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;针对近期无法访问博客的朋友说声抱歉，博客原来的域名 &lt;code&gt;weiyexing.ml&lt;/code&gt; 因为某些原因不可访问了，暂时切换为原本的域名 &lt;code&gt;aaronnick.github.io&lt;/code&gt;，等有空注册了新域名再另行通知，你也可以访问另一个 xLog 博客，域名为 &lt;code&gt;weiyexing.win&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;weiyexing.ml&lt;/code&gt; 域名原来是由 freenom 托管的，几年前我因为懒+不想备案，就临时选了他家。我也不曾想到自己会写那么多，坚持那么久，当时的「临时」方案，在现在埋下了苦果。事实证明，永久免费=随时翻车，不过好在博客是放在 GitHub Pages 上的，因此影响也不大。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>读《阿拉伯人的梦想宫殿》</title>
