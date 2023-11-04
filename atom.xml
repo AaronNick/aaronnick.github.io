@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2023-10-12T12:52:27&#43;08:00</updated>
+    <updated>2023-11-04T10:48:02&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,278 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">读记｜二〇二三・十：反乌托邦、中年困境、产品设计等</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202310/" />
+            <id>https://aaronnick.github.io/posts/read-202310/</id>
+            <updated>2023-11-01T21:29:30&#43;08:00</updated>
+            <published>2023-11-01T21:23:39&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">十月精神食粮。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202308161057564.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;十月，结束了大半年的远程工作，重新回到办公司坐班。由于是新环境新业务，还需要时间适应，阅读时间有所下降，此前囤积的一些书，读到一半又放下了，读不太进去，于是选择读小说，发现还是小说适合打发时间。&lt;/p&gt;
+&lt;p&gt;重点读了反乌托邦系列，《一九八四》很多年前就读过，其他两部也翻阅过，但兴趣不大，一直没有读下去，这次全都一起读了，最后发现《一九八四》比较出名是有原因的。&lt;/p&gt;
+&lt;p&gt;另外，奥威尔除了会写政治性小说，其他类型的小说写得也很可以，比如《上来透口气》，阅读体验非常舒适。&lt;/p&gt;
+&lt;p&gt;以下是本月精神食粮。&lt;/p&gt;
+&lt;h3 id=&#34;动物农场&#34;&gt;《动物农场》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202310120944733.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这是讲述一个动物反抗人类成为农场主人的故事，启蒙运动以及斗争活动的领袖都是猪。动物们成为主人后，过上了短暂的和平时光，它们自给自足，对未来美好生活充满想象。&lt;/p&gt;
+&lt;p&gt;最开始，猪头头们将动物主义精简为《七诫》，这是一部不可变更的法典，动物以后的生活必须以这部法典为准绳。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;凡用两条腿行走的都是敌人。&lt;/li&gt;
+&lt;li&gt;凡用四条腿行走或长翅膀的，都是朋友。&lt;/li&gt;
+&lt;li&gt;凡动物都不可穿衣服。&lt;/li&gt;
+&lt;li&gt;凡动物都不可睡床铺。&lt;/li&gt;
+&lt;li&gt;凡动物都不可饮酒。&lt;/li&gt;
+&lt;li&gt;凡动物都不可杀任何别的动物。&lt;/li&gt;
+&lt;li&gt;凡动物一律平等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;然而，作为领袖的两个猪统领发生争斗，其中一个名叫拿破仑的猪驱逐了另一个名叫雪球的猪，自此，拿破仑开始了它的独裁统治。&lt;/p&gt;
+&lt;p&gt;现实不再符合《七诫》，那就修改《七诫》，于是，猪们可以住进农场主的住宅，可以饮酒，可以杀害其他动物，可以比其他动物更平等，可以和两条腿走路的人类合作，甚至成为两条腿走路的猪……革命胜利后定下的《七诫》被一一抹去，最后只剩下矛盾的一条，以证明《七诫》存在过。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;凡动物一律平等
+但是有些动物比别的动物更加平等&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;农场内的动物不再平等，而是出现了特权阶级，洗脑活动开始，言论自由被限制，甚至开始了内部清洗，拿破仑成为了永远正确的伟大领袖。&lt;/p&gt;
+&lt;p&gt;大多数动物被洗脑，加之没有受过教育，它们从被人类奴役到被猪奴役。其中，那名叫拳击手的马最为典型，给他的领袖卖力工作，最后被拿破仑卖给屠马的人换酒喝。&lt;/p&gt;
+&lt;h3 id=&#34;美丽新世界&#34;&gt;《美丽新世界》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202310170952280.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;本书展望了未来的一个「美好」世界，人类的繁衍不再需要男女之间的交媾，而是通过技术完成，技术甚至可以修改基因，把人划分等级，灌输不同的思想，让他们各得其所。如果产生了什么烦恼，那就通过一种叫「索麻」的药物来忘掉烦恼，获得快乐。&lt;/p&gt;
+&lt;p&gt;世界稳定，人人快乐。人们富裕、安全、不生病、不怕死，没有亲戚与夫妻关系，不会产生强烈的情感，人们不再追求个人自由和独立思考，安于各自被设定的位置，如果出了差错，还有索麻可以维持快乐。但，有一个问题值得思考，那就是，这与动物何异？&lt;/p&gt;
+&lt;p&gt;相比《一九八四》高压的极权主义，这种美丽新世界似乎更具实操性，统治阶级乐于建造，部分底层的人也乐于参与。&lt;/p&gt;
+&lt;h3 id=&#34;我们&#34;&gt;《我们》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202310172305046.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;二十六世纪，存在一个大一统国，统治者是施恩主，众人都生活在这样一个极权主义下。主角 D-503 受到 I-330 启发，萌生了自我意识，但在参与革命活动中失败了，最终受到了手术治疗，恢复到了原来的「正常」状态。&lt;/p&gt;
+&lt;p&gt;反乌托邦三部曲当中，这本《我们》阅读体验最差，结构松散，情节很弱，以至于第一次读完的时候，虽然大概知道说了什么，但却很难提取出一些重点。&lt;/p&gt;
+&lt;p&gt;虽然内容真的不怎么样，但它的地位在于开创了反乌托邦小说这一崭新的文学类型，给后续不少作家以启迪，催生了许多优秀反乌托邦作品，从这个方面来说，它仍旧值得一读。&lt;/p&gt;
+&lt;h3 id=&#34;上来透口气&#34;&gt;《上来透口气》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202310281234550.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这部作品非常棒，我从未想过写政治性隐喻作品《一九八四》、《动物农场》的奥威尔也能写出这么棒的小说，阅读体验很顺畅，让我有种读《百年孤独》的感觉。&lt;/p&gt;
+&lt;p&gt;故事从家庭开始，最后以家庭结束，名为「上来透口气」，不言而喻，作为一个即将成为中年男人的人，感同身受。&lt;/p&gt;
+&lt;p&gt;我是从钓鱼部分才真正看进去的，可能是自己今年开始频繁钓鱼的缘故，那种鱼漂被扯下水，鱼线被收紧的感觉，没有钓过鱼的人是无法体会这种兴奋的。&lt;/p&gt;
+&lt;p&gt;纵观整部作品，其实是带着反战主题的，很隐蔽，就像《西线无战事》，没有太多关于战争的描述，但就是能让你咒骂那操蛋的战争，无能的政府，同时无奈地看着那些幼稚而盲目的青年被一个个送进绞肉机。&lt;/p&gt;
+&lt;h3 id=&#34;一些产品设计的书&#34;&gt;一些产品设计的书&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;《微信背后的产品观》：重读。对于社交产品来说，这是坦诚且有深入思考的分享，虽然不一定都认同，但可以从他人的思考中获得新的思考。&lt;/li&gt;
+&lt;li&gt;《电商产品经理宝典：电商后台系统产品逻辑全解析》：一本可以作为电商类型产品的索引书籍。&lt;/li&gt;
+&lt;li&gt;《用户思维+：好产品让用户为自己尖叫》：从用户的角度出发进行设计，让用户使用你的产品后变得更棒，让他们从内心感受到这一点，自我激励比任何促销都管用。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">日志｜二〇二三・十</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202310/" />
+            <id>https://aaronnick.github.io/posts/daily-202310/</id>
+            <updated>2023-11-01T21:30:45&#43;08:00</updated>
+            <published>2023-11-01T21:05:06&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">十月日志。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202203081917444.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2023-10-30&#34;&gt;2023-10-30&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;听不明白播客，讲了李克强的事情，其中提到一个点是，爆发了如此大规模的悼念活动，除了反映了民众对李克强的怀念之外，还反映了民众对当下的不满。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-29&#34;&gt;2023-10-29&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;货币是个人现在的财富，信用是个人未来的财富。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-24&#34;&gt;2023-10-24&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;新时代的事物，不应该用旧时代事物的标准去衡量。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-23&#34;&gt;2023-10-23&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;brain dump，有点间歇日记的味道。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-21&#34;&gt;2023-10-21&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;铁路上宣传护眼贴，套路是这样的：我们护眼贴包含多种名贵中药，然后罗列各种症状，各种药材针对性治疗，似乎各种药材懂得指挥，一贴上去，各自跑去治疗各种症状。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-20&#34;&gt;2023-10-20&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;小鸡如何鉴别公母，看翅膀的羽毛，如果是一根根并列的就是公的，如果是长短相间的就是母的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-18&#34;&gt;2023-10-18&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;中国古代建筑的三个原则：正德、利用、厚生，强调建筑是给生人使用的，《北史》中提到「夫宫室之制，本以便生人」便是如此。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-17&#34;&gt;2023-10-17&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;xlog 博客移动端打开图片不是放大而是下载，原来是阿里云的调整导致「&lt;a href=&#34;https://help.aliyun.com/noticelist/articleid/1061048542.html&#34;&gt;【升级】关于 OSS 网页/图片/视频类型文件访问返回 Header 策略调整通知&lt;/a&gt;」，但是我去看了自定义域名配置，发现只有国内备案的域名可以配置，那算了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-16&#34;&gt;2023-10-16&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;很多畅销书我都没读过，但我对它们的态度是，大家都说好的话，那一定有可取之处。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-11&#34;&gt;2023-10-11&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;《动物农场》出版后，奥威尔忙着去书店把书籍从儿童读物搬到成人读物。国内一些出版社出的书，让人恨不得从成人读物搬到儿童读物里去。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-10-08&#34;&gt;2023-10-08&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;开头就把「暴论」放在前头的发言，大概率真的是暴论。因为他已经把「暴论」当作了盾牌，可以心安理得在盾牌下发表暴论了，就算有人来争论，他也可以反驳到：你看，我都事先明说了。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/daily/" term="Daily" label="Daily" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">《微信背后的产品观》：哪些观点塑造了现在的微信</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/shaping-the-perspective-of-wechat/" />
+            <id>https://aaronnick.github.io/posts/shaping-the-perspective-of-wechat/</id>
+            <updated>2023-10-18T10:58:23&#43;08:00</updated>
+            <published>2023-10-18T10:45:32&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">塑造了微信的一些观点。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202310071811631.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;这本书整理自 2012 年张小龙的内部演讲，演讲的 PPT 网上有，很多人也看过，但本书更能体现张小龙的观点。前两年这本书出版了实体书，微信读书也上线了不公开的版本，朋友私信分享给我，当天就读完了。&lt;/p&gt;
+&lt;p&gt;在批判微信成为共识的当下，我个人觉得这本书是值得一读的，理由是张小龙对微信许多设计的&lt;strong&gt;坦诚&lt;/strong&gt;，为什么做摇一摇，为什么做附近的人，为什么长时间不推出 PC 版，如何设计朋友圈……这些书中都有他的思考，他也没有讲一些大而空的理论，而是结合个人的体验、经验、想法进行推演，俗话说就是很「接地气」，我称之为「坦诚」。类似的还有做了网易云音乐的王诗沐，他在《幕后产品》这本书中的叙述也是如此。&lt;/p&gt;
+&lt;p&gt;读者不一定需要认同他们的观点，但可以从他们的思考中&lt;strong&gt;收获新的思考&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;以下是我整理的一些笔记，可以看到许多设计之初的原则，始终没有变过，可以说是塑造了现在的微信，相较于一些朝令夕改的产品，这是非常难能可贵的地方。&lt;/p&gt;
+&lt;h3 id=&#34;笔记&#34;&gt;笔记&lt;/h3&gt;
+&lt;h4 id=&#34;用户篇&#34;&gt;用户篇&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;用户是人，要了解用户的习性，了解用户的群体。&lt;/li&gt;
+&lt;li&gt;应该建立一个体系，设定规则，让用户自我进化。无法自我进化的系统是没有任何生机的。&lt;/li&gt;
+&lt;li&gt;人是环境的反应器。在电脑上，更多是对他人的转发和评论，在手机上，更多是反映当下的状态。朋友圈不做导入照片也是基于这个原则。 ★&lt;/li&gt;
+&lt;li&gt;人是懒惰的，不爱学习的，没有耐心的。&lt;/li&gt;
+&lt;li&gt;时尚是驱动力，当大家都在用，你不用就落伍了，这种暗示的力量是强大的。&lt;/li&gt;
+&lt;li&gt;互联网很容易产生连锁反应，如果太工具化，就很难产生连锁反应，就无法让用户帮你传播。因此时尚是重要的。&lt;/li&gt;
+&lt;li&gt;群体是乌合之众。&lt;/li&gt;
+&lt;li&gt;人性化就是以己推人。&lt;/li&gt;
+&lt;li&gt;需求是满足人的贪嗔痴。&lt;/li&gt;
+&lt;li&gt;用户的反馈只是帮助你了解他们的想法，需要抽象归纳。&lt;/li&gt;
+&lt;li&gt;从用户的使用反馈感受用户的潮流，这是全局的感受。&lt;/li&gt;
+&lt;li&gt;做的时候要想，不是在做一个功能，而是满足用户的诉求。&lt;/li&gt;
+&lt;li&gt;心理满足的驱动力，远胜于工具甚至省钱。&lt;/li&gt;
+&lt;li&gt;爽胜过功能。&lt;/li&gt;
+&lt;li&gt;只抓主场景，不做全功能。&lt;/li&gt;
+&lt;li&gt;此前微信一直不做 PC 版的原因：电脑相比手机，无法做到一直在线。做 PC 版，会破坏持续在线的认知，以后联系人想要找你，便不会第一时间想到微信。&lt;/li&gt;
+&lt;li&gt;微信会朝着 push 平台的方向发展，连接用户与产生信息的第三方。 ★&lt;/li&gt;
+&lt;li&gt;二维码是手机的入口，连接现实与手机的桥梁。&lt;/li&gt;
+&lt;li&gt;忘记过去的数据甚至经验，对当下和未来趋势的洞察才重要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;设计篇&#34;&gt;设计篇&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;产品是进化来的，不是规划来的，有 DNA 的产品才会进化，DNA 是产品的价值观和认知。&lt;/li&gt;
+&lt;li&gt;先做产品结构，然后才是功能细节。&lt;/li&gt;
+&lt;li&gt;功能模块之间应该是有机联系的。&lt;/li&gt;
+&lt;li&gt;设计就是分类。&lt;/li&gt;
+&lt;li&gt;抽象方能化繁为简。&lt;/li&gt;
+&lt;li&gt;找到需求背后的本质需求。&lt;/li&gt;
+&lt;li&gt;面向场景设计。&lt;/li&gt;
+&lt;li&gt;让功能存在无形之中，不用刻意展示给用户。&lt;/li&gt;
+&lt;li&gt;手机是肢体的延展。&lt;/li&gt;
+&lt;li&gt;宁愿损失功能也不损失体验。&lt;/li&gt;
+&lt;li&gt;做类型设计，不做具体的实例，让用户自己使用出具体的实例。简单来说就是做通用的而非定制的。 ★&lt;/li&gt;
+&lt;li&gt;极简方能不被超越。&lt;/li&gt;
+&lt;li&gt;如果一个特性不让人兴奋，还不如不做。&lt;/li&gt;
+&lt;li&gt;好奇心是产品经理的驱动力，你不可能理解不感兴趣的需求。 ★&lt;/li&gt;
+&lt;li&gt;不要一次性做细，因为用户的使用和心态我们是不知道的。&lt;/li&gt;
+&lt;li&gt;没有自然增长，不必推广。&lt;/li&gt;
+&lt;li&gt;如果解决方案非常复杂，一定是问题错了。&lt;/li&gt;
+&lt;li&gt;你的价值观决定了产品的特性。&lt;/li&gt;
+&lt;li&gt;考虑用户会产生什么行为，是正面激励还是负面的，最终是正反馈还是负反馈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;气质篇&#34;&gt;气质篇&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;有改变旧世界的意愿。&lt;/li&gt;
+&lt;li&gt;有自己的理念和愿景。&lt;/li&gt;
+&lt;li&gt;不必罗列新功能。&lt;/li&gt;
+&lt;li&gt;苹果的产品买的是整体的体验，只有不好的产品才拿性能去骗人。&lt;/li&gt;
+&lt;li&gt;不用「吧」，比如立即注册吧；不用「哦」，比如「网速很慢哦」，很暧昧的感觉，不知道想干什么；不用勉强用户的句式，比如「你还不邀请朋友」；不用「成功」，比如「已保存成功」，有「已保存失败」吗 ？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ui-篇&#34;&gt;UI 篇&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;UI 最重要的就是条理清晰。&lt;/li&gt;
+&lt;li&gt;做得不好才用 tip。&lt;/li&gt;
+&lt;li&gt;一定是你自己理解的才是你自己的。 ★&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/product/" term="Product" label="Product" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">读奥威尔《动物农场》，过去，现在，未来</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/animal-farm/" />
