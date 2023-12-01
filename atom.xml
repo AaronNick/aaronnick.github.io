@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">叶星优酸乳</title>
     <subtitle type="html">这是 Wesson 的生活记录博客——叶星优酸乳，关于读书、思考以及随机漫谈。如何快速记住它：叶星优酸乳，好喝又大补！</subtitle>
-    <updated>2023-11-04T10:48:02&#43;08:00</updated>
+    <updated>2023-12-01T21:35:41&#43;08:00</updated>
     <id>https://aaronnick.github.io/</id>
     <link rel="alternate" type="text/html" href="https://aaronnick.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://aaronnick.github.io/atom.xml" />
@@ -16,6 +16,182 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">读记｜二〇二三・十一：经济思维、历代政治、推理小说等</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202311/" />
+            <id>https://aaronnick.github.io/posts/read-202311/</id>
+            <updated>2023-12-01T21:18:00&#43;08:00</updated>
+            <published>2023-12-01T21:03:06&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">十一月精神食粮。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202308161057564.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;这个月是胡乱阅读的一个月，是没有目的的一个月，读到一些好书，也读到一些烂书——针对我而言。所以，阅读，还是得匹配自己的喜好，畅销的、别人推荐的，不一定适合自己。&lt;/p&gt;
+&lt;p&gt;我坚持每个月整理自己的阅读清单，是一种回顾，也是一种甄选，不断认清自己的定位。公开出来，也是给他人作为一种参考。我不太会把一本书的评分公开出来，因为我觉得会影响读者对书的第一印象。我只是把自己对于该书的理解和感受简单讲出来，如果读者从字里行间感受到了兴趣，那说明这本书可能契合你。&lt;/p&gt;
+&lt;h3 id=&#34;向加泰罗尼亚致敬&#34;&gt;《向加泰罗尼亚致敬》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202311042222211.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这是奥威尔亲历西班牙内战的回忆之作，书中对战争的描写不算多，大部分时间都在战壕，只有很少的时间在发生对战，就如他所说「从早到晚，毫无意义的子弹就在空荡荡的山谷之间穿梭，只有在极其罕见的情况下才会打中人」。搞笑的是，这极其罕见的情况还真就发生在他的身上——他被法西斯狙击手击穿喉咙，提前下了前线，好在大难不死。&lt;/p&gt;
+&lt;p&gt;前线期间，他看到了战争的残忍，但也见识到了各种党派的斗争，显得他们这些在前线出生入死的人像个小丑。他以志愿军身份参战，没想到参与的却是这样的战争。&lt;/p&gt;
+&lt;p&gt;他是个社会主义者，是他所理解的民主的社会主义。从这场战争中，他看到了社会主义的另一种可能，那就是斯大林统治下的苏联。这段经历想必给了他无数的灵感，也奠定了他后续的政治立场——反对极权主义。&lt;/p&gt;
+&lt;h3 id=&#34;经济学的思维方式&#34;&gt;《经济学的思维方式》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202311152143453.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;行动需要信号，价格就是市场的信号。&lt;/li&gt;
+&lt;li&gt;价值取决于我们面对的情况。例如沙漠里的水和钻石。&lt;/li&gt;
+&lt;li&gt;经济学上，起作用的是边际价值，经济分析就是边际分析。&lt;/li&gt;
+&lt;li&gt;所有的东西都取决于其他东西。这句话太精辟了。&lt;/li&gt;
+&lt;li&gt;成本是主观的成本，是放弃了的机会的价值。&lt;/li&gt;
+&lt;li&gt;利息代表商品在现在和未来的价值差异。&lt;/li&gt;
+&lt;li&gt;价格不由成本决定。价格上升，除了成本上升之外，还有可能是需求提高了，但资本家只会提到前者，因为提后者有违经商之道。&lt;/li&gt;
+&lt;li&gt;设计定价时，需要考虑对当前价格接受程度低的人，但也要考虑不在意当前价格的人，否则就会导致利润降低。（&lt;code&gt;典型如电商平台，有的人不在意价格，有的人在意价格，平台就设计出一套领券逻辑，花费一定的成本就能拿到同样商品较低的价格，兼顾了原本的客户，也兼顾了对价格敏感的客户。&lt;/code&gt;）&lt;/li&gt;
+&lt;li&gt;任何货币要保有价值必须满足两个关键条件：一是货币必须供应量有限；二是人们必须相信未来的供应量会持续保持有限。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据化决策&#34;&gt;《数据化决策》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202311182231115.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这本书枯燥且无聊，但也可能是我还没到要读的那个阶段吧，毕竟人家标榜的是世界五百强都在用的决策方法论 ：）&lt;/p&gt;
+&lt;p&gt;不过，里面的一些引用和观点还是和自身契合，或者有所启发的。摘录一些：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;当你能够量化你谈论的事物，并且能用数字描述它时，你对它就确实有了深入了解。但如果你不能用数字描述，那么你的头脑根本就没有跃升到科学思考的状态。——英国物理学家，开尔文勋爵&lt;/li&gt;
+&lt;li&gt;量化的目的是为了决策，任何量化都需要成本，因此需要衡量量化过程的成本和量化后决策带来的收益。&lt;/li&gt;
+&lt;li&gt;许多看似无法量化的东西，只要换个角度，或者进行拆分，就是能够量化的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;红色资本&#34;&gt;《红色资本》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202311212328353.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这是一本在豆瓣没有评分也没有评论的书，讲述的是具有中国特色的金融体系。&lt;/p&gt;
+&lt;p&gt;书中指出，在中国飞速发展的背景下，中国的金融体系始终存在着巨大的风险。这些风险的根源在于中国金融体系的市场化程度不高，风控体系不健全，导致大量坏账的产生。为了填平这些坏账，中国采取了非市场化的手段，通过居民储蓄来承接坏账，但这也带来了一系列问题。&lt;/p&gt;
+&lt;h3 id=&#34;为什么伟大不能被计划&#34;&gt;《为什么伟大不能被计划》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202311222325799.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这是一篇又臭又长的高考命题作文。&lt;/p&gt;
+&lt;p&gt;对于这样的命题，任何一个普通人都能想到会列出这样的大纲：计划是有用的，至少对于小的目标是这样；计划有许多限制，例如会影响发散思维，等等等等；举例说明历史上那些伟大成就并不是按计划来的……&lt;/p&gt;
+&lt;p&gt;没错，本书大致就是按这样的结构写的，我无法想象作者竟然能扯到三百多页。&lt;/p&gt;
+&lt;p&gt;我需要反思自己，竟然花了两个小时在上面，同样也反思当初读这本书的决定——轻信各种热点以及来源不明的推荐。&lt;/p&gt;
+&lt;h3 id=&#34;中国历代政治得失&#34;&gt;《中国历代政治得失》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202311261949697.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;政治分两方面来讲：一讲人事，二讲制度。人事常变动，制度较稳定。制度由人创立，亦由人改订，亦属于人事。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一、要讲一代的制度，得精熟一代的人事。&lt;/li&gt;
+&lt;li&gt;二、任何一项制度，绝不是孤立存在的。&lt;/li&gt;
+&lt;li&gt;三、制度跟随着人事变动。&lt;/li&gt;
+&lt;li&gt;四、制度之存在，必然有当时之用意。&lt;/li&gt;
+&lt;li&gt;五、任何制度，绝不会绝对有利而无弊，也不会绝对有弊而无利。&lt;/li&gt;
+&lt;li&gt;六、讨论一项制度，应重视其时代性、地域性。&lt;/li&gt;
+&lt;li&gt;七、说到历史特殊性，必然牵连到全部的文化史。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;钱穆根据以上七条，把历代情况重点放在了政府组织、考试选举、赋税制度和国防兵役制度四个方面，比较了历代的政府如何运行、如何选拔人才、如何管理经济和军队。&lt;/p&gt;
+&lt;h3 id=&#34;克莱因壶&#34;&gt;《克莱因壶》&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202311292310050.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;克莱因壶这个名称已经暗示了小说的主题，那就是这个「壶」是没有开始和结束的，开始的地方也是结束的地方。&lt;/li&gt;
+&lt;li&gt;冈岛二人其实不是一个人，而是井上泉、德山谆两人共用的笔名，两人的合作方式：德山谆负责整体的构思和伏笔设置，井上泉负责完善成一部小说。&lt;/li&gt;
+&lt;li&gt;1989 年创作完《克莱因壶》后两人宣布单飞。但据说这部小说是井上泉独自完成的。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/read/" term="Read" label="Read" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">日志｜二〇二三・十一</title>
+            <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/daily-202311/" />
+            <id>https://aaronnick.github.io/posts/daily-202311/</id>
+            <updated>2023-12-01T20:54:23&#43;08:00</updated>
+            <published>2023-12-01T20:53:28&#43;08:00</published>
+            <author>
+                    <name>Wesson</name>
+                    <uri>https://weiyexing.ml/</uri>
+                    <email>weiyexing1@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">十一月日志。</summary>
+            
+                <content type="html">&lt;p&gt;&lt;img src=&#34;https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202203081917444.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2023-11-30&#34;&gt;2023-11-30&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;如果一个人讲的事情，让我有「想过但无法这么精确表达出来」的感觉，那说明我思考得还不深入。就像很多事物，如果无法拆解，无法用数据衡量，那说明还没思考到位。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-29&#34;&gt;2023-11-29&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;学到两个读 arxiv PDF 论文的新技巧：1）将域名中的 x 更换成 5，会跳转到 HTML 版本； 2）将域名中的 v 更换成 w，会跳转到一个 AI Chat with PDF 版本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-28&#34;&gt;2023-11-28&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;王刚因为发了蛋炒饭，然后被喷到发视频道歉，王刚说，作为厨师，以后再也不做蛋炒饭了，也不会发相关的视频了。把一个魔幻的事情，上升到一个不该有的搞笑高度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-27&#34;&gt;2023-11-27&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;钉子扎轮胎，一般是右后轮，为什么？因为车子靠右行驶，而钉子一般在路边躺着，经过前轮压过后，钉子就翻起来了，于是后轮就被扎进去了。有些事情，看似偶然，仔细想想，还真存在一些逻辑。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-25&#34;&gt;2023-11-25&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;马云对于中国看得还是很现实深入的，说 996 是很多人都想要而得不到的「福报」，虽然被很多上班族抨击，但多观察观察底层劳动人民，就会知道这句话多么真实。近些年经济不好，很多人无法正常上班，我所看到听到的不乏这些抱怨：怎么这个月订单那么少，一个月才上十几天班；今天五点就下班了，就没有活了……本质上他们需要的是稳定而持续的收入，而马云口中的「福报」的确是他们渴望的工作。6 亿人收入低于 1000 元，诚不欺我。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-23&#34;&gt;2023-11-23&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;刀削面天气：这种天气，风像刀一样削着脸面。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-22&#34;&gt;2023-11-22&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;和同事聊天，他抱怨道：近半年来做的事情，可以明显感觉，产品离用户太远了。顺着补充就是：离老板太近了。潜台词很清晰了。这句话让我想起谢晋导演的《高山下的花环》，唐国强饰演的红二代，经过战争的洗礼完成蜕变，面对母亲的各种走关系和抱怨，他说了同样的话：这些年，你离开战争太久了，咱们离开人民，太远了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-18&#34;&gt;2023-11-18&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;恐惧和欲望是推动人们产生行动的源动力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-12&#34;&gt;2023-11-12&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;看到宋丹丹的一个采访，问还演不演小品，她说不演了，才能没有了，自己走下去，不希望被观众嘘下去。这才是该有的态度啊，我也希望自己能坚守这样的原则，该走就走，该放就放。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-04&#34;&gt;2023-11-04&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;乔治·奥威尔是笔名，西班牙内战的经历确立了他的政治立场。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023-11-02&#34;&gt;2023-11-02&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;培养好习惯的最有效方式之一就是加入一种文化，在这种文化中，你偏爱的行为被认定为是正常行为。——《习惯的力量》。这就好比为什么要建立社区。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://aaronnick.github.io/tags/daily/" term="Daily" label="Daily" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">读记｜二〇二三・十：反乌托邦、中年困境、产品设计等</title>
             <link rel="alternate" type="text/html" href="https://aaronnick.github.io/posts/read-202310/" />
