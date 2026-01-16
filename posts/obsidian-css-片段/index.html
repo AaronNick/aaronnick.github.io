@@ -1,0 +1,600 @@
+<!doctype html><html lang=zh-CN><head><meta http-equiv=X-Clacks-Overhead content="GNU Terry Pratchett"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" href=https://aaronnick.github.io/favicon.ico><title>Obsidian CSS 片段 | 叶星优酸乳</title>
+<meta name=title content="Obsidian CSS 片段"><meta name=description content="Obsidian CSS 片段收集。"><meta name=keywords content><meta property="og:url" content="https://aaronnick.github.io/posts/obsidian-css-%E7%89%87%E6%AE%B5/"><meta property="og:site_name" content="叶星优酸乳"><meta property="og:title" content="Obsidian CSS 片段"><meta property="og:description" content="Obsidian CSS 片段收集。"><meta property="og:locale" content="zh_CN"><meta property="og:type" content="article"><meta property="article:section" content="posts"><meta property="article:published_time" content="2021-12-03T17:39:51+08:00"><meta property="article:modified_time" content="2021-12-17T17:00:25+08:00"><meta property="og:image" content="https://aaronnick.github.io/icons/apple-touch-icon.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://aaronnick.github.io/icons/apple-touch-icon.png"><meta name=twitter:title content="Obsidian CSS 片段"><meta name=twitter:description content="Obsidian CSS 片段收集。"><meta itemprop=name content="Obsidian CSS 片段"><meta itemprop=description content="Obsidian CSS 片段收集。"><meta itemprop=datePublished content="2021-12-03T17:39:51+08:00"><meta itemprop=dateModified content="2021-12-17T17:00:25+08:00"><meta itemprop=wordCount content="1653"><meta itemprop=image content="https://aaronnick.github.io/icons/apple-touch-icon.png"><meta name=referrer content="no-referrer-when-downgrade"><style>:root{--width:720px;--font-main:Verdana, sans-serif;--font-secondary:Verdana, sans-serif;--font-scale:1em;--background-color:#fff;--heading-color:#222;--text-color:#444;--link-color:#3273dc;--visited-color:#8b6fcb;--blockquote-color:#222}@media(prefers-color-scheme:dark){:root{--background-color:#01242e;--heading-color:#eee;--text-color:#ddd;--link-color:#8cc2dd;--visited-color:#8b6fcb;--blockquote-color:#ccc}}body{font-family:var(--font-secondary);font-size:var(--font-scale);margin:auto;padding:20px;max-width:var(--width);text-align:left;background-color:var(--background-color);word-wrap:break-word;overflow-wrap:break-word;line-height:1.5;color:var(--text-color)}h1,h2,h3,h4,h5,h6{font-family:var(--font-main);color:var(--heading-color)}a{color:var(--link-color);cursor:pointer;text-decoration:none}a:hover{text-decoration:underline}nav a{margin-right:8px}strong,b{color:var(--heading-color)}button{margin:0;cursor:pointer}time{font-family:monospace;font-style:normal;font-size:15px}main{line-height:1.6}table{width:100%}hr{border:0;border-top:1px dashed}img{max-width:100%}code{font-family:monospace;padding:2px;border-radius:3px}blockquote{border-left:1px solid #999;color:var(--blockquote-color);padding-left:20px;font-style:italic}footer{padding:25px 0;text-align:center}.title:hover{text-decoration:none}.title h1{font-size:1.5em}.inline{width:auto!important}.highlight,.code{border-radius:3px;margin-block-start:1em;margin-block-end:1em;overflow-x:auto}ul.blog-posts{list-style-type:none;padding:unset}ul.blog-posts li{display:flex}ul.blog-posts li span{flex:0 0 130px}ul.blog-posts li a:visited{color:var(--visited-color)}</style></head><body><header><a href=/ class=title><h2>叶星优酸乳</h2></a><nav><a href=/posts/>归档</a>
+<a href=/tags/>标签</a>
+<a href=/about/>关于</a>
+<a href=/about/>About</a></nav></header><main><content><p><img src="https://bn02pap001files.storage.live.com/y4mhuBBpK316zBx7a_DNlahXh-41QVMVslz-GyY8upv2FlEyf37OwUPQ0ow03TzV4RgBCTnsAYKHQ9GEulb7OuKXZo-oSgQGLTSprC3Nu9_1um2Bd8PyA1b6zsrpk6lav7UBKLn9MhdbZlW9uzPMrETD9rkr4jB-wDtEm9abCs7wEO66jyUTY-7boCgytPci8IU?width=1080&amp;height=360&amp;cropmode=none" alt></p><p>收集可以提升体验以及使 Obsidian 更美观的 Obsidian CSS 片段，由于基本都来源于不同渠道的网友，来源未能都标注上，如果侵权请邮件联系删除或补充来源。该文档持续更新。</p><p>最后更新：2021-12-11</p><h3 id=obsidian-css-片段>#Obsidian CSS 片段</h3><h4 id=较小的滚动条>#较小的滚动条</h4><ul><li><p>来源： <a href=https://forum.obsidian.md/t/optimize-obsidian-ui-for-a-more-seamless-experience/155/5>https://forum.obsidian.md/t/optimize-obsidian-ui-for-a-more-seamless-experience/155/5</a></p></li><li><p>作用： 使得 Obsidian 的滚动条不那么粗。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10</p></li></ul><p>|</p><pre><code>/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */
+/* author: https://forum.obsidian.md/u/rsdimitrov */
+/* source: https://forum.obsidian.md/t/optimize-obsidian-ui-for-a-more-seamless-experience/155/5 */
+
+/* smaller scrollbar */
+.CodeMirror-vscrollbar,
+.CodeMirror-hscrollbar,
+::-webkit-scrollbar {
+  width: 3px;
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=大纲连接线>#大纲连接线</h4><ul><li><p>来源： 暂无。</p></li><li><p>作用： 使大纲笔记更美观。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13</p></li></ul><p>|</p><pre><code>/* 大纲栏连接线 */
+
+.outline .tree-item-children {
+
+  margin-left: 20px;
+
+  border-left: 1px solid var(--background-modifier-border);
+
+  border-radius: 4px;
+
+  transition: all 0.5s ease-in-out;
+
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=一级标题居中>#一级标题居中</h4><ul><li><p>来源： 暂无。</p></li><li><p>作用： 一级标题居中，更美观。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9</p></li></ul><p>|</p><pre><code>/* preview */
+h1 {
+  text-align: center;
+}
+
+/* source */
+.HyperMD-header-1 {
+  text-align: center;
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=侧边栏连接线>#侧边栏连接线</h4><ul><li><p>来源： 暂无。</p></li><li><p>作用： 同样是给侧边栏增加连接线，使得更美观。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15</p></li></ul><p>|</p><pre><code>/* 侧边栏连接线 */
+
+.nav-folder-children .nav-folder-children {
+
+  margin-left: 20px;
+
+  padding-left: 0;
+
+  border-left: 1px solid var(--background-modifier-border);
+
+  border-radius: 4px;
+
+  transition: all 0.5s ease-in-out;
+
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=两端对齐>#两端对齐</h4><ul><li><p>来源： <a href=https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/25>https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/25</a></p></li><li><p>作用： 大段文字看起来更舒服。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9</p></li></ul><p>|</p><pre><code>/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */
+/* author: https://forum.obsidian.md/u/boyd/summary */
+/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/25 */
+
+.cm-s-obsidian,
+.markdown-preview-view {
+  text-align: justify;
+  hyphens: auto;
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=编辑模式给引用添加边框>#编辑模式给引用添加边框</h4><ul><li><p>来源： 暂无。</p></li><li><p>作用： 仿造预览模式下的样式，使得编辑模式下的引用不是显示略丑的“>”。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15</p></li></ul><p>|</p><pre><code>.theme-dark {
+
+--background-modifier-border: #2f4f4f;
+
+}
+/*编辑模式/引用文本*/
+
+div:not(.CodeMirror-activeline) &gt; .HyperMD-quote {
+
+    border-radius: 0 4px 4px 0;
+
+    border-left: 4px solid var(--background-modifier-border);
+
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=无序列表层级符号变化>#无序列表层级符号变化</h4><ul><li><p>来源： <a href=https://gist.github.com/GitMurf/9f448ca1b19ab8026a00bfd3d71221cf>https://gist.github.com/GitMurf/9f448ca1b19ab8026a00bfd3d71221cf</a></p></li><li><p>作用： 改变多层大纲笔记前的符号。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77</p></li></ul><p>|</p><pre><code>:root {
+    --bullet-one: '●';
+    --bullet-one-pos-bot: 1px;
+    --bullet-one-size: 10px;
+    --bullet-two: '■';
+    --bullet-two-pos-bot: 2px;
+    --bullet-two-size: 8px;
+    --bullet-three: '○';
+    --bullet-three-pos-bot: 1px;
+    --bullet-three-size: 10px;
+    --bullet-four: '◆';
+    --bullet-four-pos-bot: 2px;
+    --bullet-four-size: 8px;
+}
+.HyperMD-list-line .list-bullet:before {
+    padding-right: 2px;
+    color: var(--text-normal);
+}
+.HyperMD-list-line-1 .list-bullet,
+.HyperMD-list-line-2 .list-bullet,
+.HyperMD-list-line-3 .list-bullet,
+.HyperMD-list-line-4 .list-bullet,
+.HyperMD-list-line-5 .list-bullet,
+.HyperMD-list-line-6 .list-bullet,
+.HyperMD-list-line-7 .list-bullet,
+.HyperMD-list-line-8 .list-bullet,
+.HyperMD-list-line-9 .list-bullet,
+.HyperMD-list-line-10 .list-bullet,
+.HyperMD-list-line-11 .list-bullet,
+.HyperMD-list-line-12 .list-bullet {
+    font-size: 0px;
+    position: relative;
+}
+.HyperMD-list-line-1 .list-bullet,
+.HyperMD-list-line-5 .list-bullet,
+.HyperMD-list-line-9 .list-bullet {
+    bottom: var(--bullet-one-pos-bot);
+}
+.HyperMD-list-line-1 .list-bullet:before,
+.HyperMD-list-line-5 .list-bullet:before,
+.HyperMD-list-line-9 .list-bullet:before {
+    content: var(--bullet-one);
+    font-size: var(--bullet-one-size);
+}
+.HyperMD-list-line-2 .list-bullet,
+.HyperMD-list-line-6 .list-bullet,
+.HyperMD-list-line-10 .list-bullet {
+    bottom: var(--bullet-two-pos-bot);
+}
+.HyperMD-list-line-2 .list-bullet:before,
+.HyperMD-list-line-6 .list-bullet:before,
+.HyperMD-list-line-10 .list-bullet:before {
+    content: var(--bullet-two);
+    font-size: var(--bullet-two-size);
+}
+.HyperMD-list-line-3 .list-bullet,
+.HyperMD-list-line-7 .list-bullet,
+.HyperMD-list-line-11 .list-bullet {
+    bottom: var(--bullet-three-pos-bot);
+}
+.HyperMD-list-line-3 .list-bullet:before,
+.HyperMD-list-line-7 .list-bullet:before,
+.HyperMD-list-line-11 .list-bullet:before {
+    content: var(--bullet-three);
+    font-size: var(--bullet-three-size);
+}
+.HyperMD-list-line-4 .list-bullet,
+.HyperMD-list-line-8 .list-bullet,
+.HyperMD-list-line-12 .list-bullet {
+    bottom: var(--bullet-four-pos-bot);
+}
+.HyperMD-list-line-4 .list-bullet:before,
+.HyperMD-list-line-8 .list-bullet:before,
+.HyperMD-list-line-12 .list-bullet:before {
+    content: var(--bullet-four);
+    font-size: var(--bullet-four-size);
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=无序列表彩虹锁进>#无序列表彩虹锁进</h4><ul><li><p>来源： <a href=https://gist.github.com/GitMurf/5122c0c8405ffa36a03049d9f4434bf4>https://gist.github.com/GitMurf/5122c0c8405ffa36a03049d9f4434bf4</a></p></li><li><p>作用： 让大纲笔记之间的连线多彩起来吧。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88</p></li></ul><p>|</p><pre><code>/* RAINBOW INDENT COLORS */
+:root {
+/* default */
+    --font-use-default: var(--default-font);
+    --font-size-use-default: var(--editor-font-size);
+    --indent-use-default: 1.8ch;
+/* ------- */
+
+/* theme */
+    --font-use-theme: inherit;
+    --font-size-use-theme: inherit;
+    --indent-use-theme: 1.8ch;
+/* ----- */
+
+/* wide */
+    --font-use-wide: monospace;
+    --font-size-use-wide: 12px;
+    --indent-use-wide: 4.009ch;
+/* ---- */
+
+/* custom */
+    --font-use-custom: Arial;
+    --font-size-use-custom: 13px;
+    --indent-use-custom: 14.5px;
+/* ------ */
+
+/* SET FROM VARIABLES ABOVE UPDATING LAST WORD (e.g. ...-default) */
+/* Copy and replace one of following: default, theme, wide, custom */
+    --indent-font-family: var(--font-use-default);
+    --indent-font-size: var(--font-size-use-default);
+    --indent-width: var(--indent-use-default);
+    --left-offset: 3.5px;
+/* ---------------------------------------------- */
+
+    --line-width: 1.5px;
+    --color-count: 8;
+    --indent-1: #6854c1;
+    --indent-2: #c724b1;
+    --indent-3: #ff6900;
+    --indent-4: #f6be00;
+    --indent-5: #e4002b;
+    --indent-6: #97d700;
+    --indent-7: #00ab84;
+    --indent-8: #00a3e0;
+
+    --indent-bg-size: calc(var(--color-count) * var(--indent-width)) 1px;
+    --indent-rainbow-bg: linear-gradient(
+        to right,
+        var(--indent-1) 0 var(--line-width),
+        transparent var(--line-width) calc(1 * var(--indent-width)),
+        var(--indent-2) calc(1 * var(--indent-width)) calc(1 * var(--indent-width) + var(--line-width)),
+        transparent calc(1 * var(--indent-width) + var(--line-width)) calc(2 * var(--indent-width)),
+        var(--indent-3) calc(2 * var(--indent-width)) calc(2 * var(--indent-width) + var(--line-width)),
+        transparent calc(2 * var(--indent-width) + var(--line-width)) calc(3 * var(--indent-width)),
+        var(--indent-4) calc(3 * var(--indent-width)) calc(3 * var(--indent-width) + var(--line-width)),
+        transparent calc(3 * var(--indent-width) + var(--line-width)) calc(4 * var(--indent-width)),
+        var(--indent-5) calc(4 * var(--indent-width)) calc(4 * var(--indent-width) + var(--line-width)),
+        transparent calc(4 * var(--indent-width) + var(--line-width)) calc(5 * var(--indent-width)),
+        var(--indent-6) calc(5 * var(--indent-width)) calc(5 * var(--indent-width) + var(--line-width)),
+        transparent calc(5 * var(--indent-width) + var(--line-width)) calc(6 * var(--indent-width)),
+        var(--indent-7) calc(6 * var(--indent-width)) calc(6 * var(--indent-width) + var(--line-width)),
+        transparent calc(6 * var(--indent-width) + var(--line-width)) calc(7 * var(--indent-width)),
+        var(--indent-8) calc(7 * var(--indent-width)) calc(7 * var(--indent-width) + var(--line-width)),
+        transparent calc(7 * var(--indent-width) + var(--line-width)) calc(8 * var(--indent-width))
+    );
+}
+
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line {
+    overflow: hidden;
+}
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line .cm-hmd-list-indent {
+    position: relative;
+    font-family: var(--indent-font-family) !important;
+    font-size: var(--indent-font-size) !important;
+}
+.mod-cm6.is-live-preview .HyperMD-list-line.cm-line .cm-hmd-list-indent::before {
+    content: '';
+    font-family: var(--indent-font-family) !important;
+    font-size: var(--indent-font-size) !important;
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: -1.6em;
+    padding-bottom: 999em;
+    background-image: var(--indent-rainbow-bg);
+    background-size: var(--indent-bg-size);
+    left: var(--left-offset);
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=更大的预览弹出框>#更大的预览弹出框</h4><ul><li><p>来源： <a href=https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/82>https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/82</a></p></li><li><p>作用： 让预览框更大，就不必来回跳转笔记了。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14</p></li></ul><p>|</p><pre><code>/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */
+/* author: https://github.com/cannibalox &amp; https://github.com/konhi */
+/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/82 */
+
+.popover.hover-popover {
+  transform: scale(0.8); /* makes the content smaller */
+  max-height: 800px; /* was 300 */
+  min-height: 100px;
+  width: 500px; /* was 400 */
+}
+
+.popover.hover-popover .markdown-embed {
+  height: 800px;
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=鼠标悬停展示放大图片>#鼠标悬停展示放大图片</h4><ul><li><p>来源： <a href=https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/29>https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/29</a></p></li><li><p>作用： 查看大图不必费事，在逛社区插件时也能以更大的图片显示。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18</p></li></ul><p>|</p><pre><code>/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */
+/* author: https://forum.obsidian.md/u/den/summary */
+/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/29 */
+
+.markdown-preview-view img {
+  display: block;
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* experiment with values */
+  transition: transform 0.25s ease;
+}
+
+.markdown-preview-view img:hover {
+  -webkit-transform: scale(1.8); /* experiment with values */
+  transform: scale(2);
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=更美观的待办样式>#更美观的待办样式</h4><ul><li><p>来源： <a href=https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/33>https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/33</a></p></li><li><p>作用： 由方形转变为圆形，是否美观见仁见智。</p><p>1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28</p></li></ul><p>|</p><pre><code>/* Round checkbxes in preview and editor */
+input[type=checkbox], .cm-formatting-task {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 50%;
+    border: 1px solid var(--text-faint);
+    padding: 0;
+    vertical-align: middle;    
+}
+
+.cm-s-obsidian span.cm-formatting-task {
+    color: transparent;
+    width: 1.25em !important;
+    height: 1.25em;
+    display: inline-block;
+}
+
+input[type=checkbox]:focus{
+  outline:0;
+}
+input[type=checkbox]:checked, .cm-formatting-task.cm-property {
+    background-color: var(--text-accent-hover);
+    border: 1px solid var(--text-accent-hover);
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-image: url('data:image/svg+xml; utf8, &lt;svg width=&quot;12px&quot; height=&quot;10px&quot; viewBox=&quot;0 0 12 8&quot; version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-4.000000, -6.000000)&quot; fill=&quot;%23ffffff&quot;&gt;&lt;path d=&quot;M8.1043257,14.0367999 L4.52468714,10.5420499 C4.32525014,10.3497722 4.32525014,10.0368095 4.52468714,9.8424863 L5.24777413,9.1439454 C5.44721114,8.95166768 5.77142411,8.95166768 5.97086112,9.1439454 L8.46638057,11.5903727 L14.0291389,6.1442083 C14.2285759,5.95193057 14.5527889,5.95193057 14.7522259,6.1442083 L15.4753129,6.84377194 C15.6747499,7.03604967 15.6747499,7.35003511 15.4753129,7.54129009 L8.82741268,14.0367999 C8.62797568,14.2290777 8.3037627,14.2290777 8.1043257,14.0367999&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;');
+}
+</code></pre><p>&mdash;|&mdash;</p><h4 id=去除链接下划线>#去除链接下划线</h4><ul><li><p>来源： 暂无。</p></li><li><p>作用： 预览模式下去除链接的下划线，使得笔记更清爽。</p><p>1
+2
+3
+4
+5
+6
+7
+8</p></li></ul><p>|</p><pre><code>.markdown-preview-view .internal-link {
+  text-decoration: none;
+}
+
+.markdown-preview-view .external-link {
+  background: none;
+  padding-right: 0;
+}
+</code></pre><p>&mdash;|&mdash;</p></content><p></p></main><footer>Made with <a href=https://github.com/janraasch/hugo-bearblog/>Hugo ʕ•ᴥ•ʔ Bear</a></footer></body></html>

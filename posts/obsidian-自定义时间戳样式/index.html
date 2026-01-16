@@ -1,0 +1,1941 @@
+<!doctype html><html lang=zh-CN><head><meta http-equiv=X-Clacks-Overhead content="GNU Terry Pratchett"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" href=https://aaronnick.github.io/favicon.ico><title>Obsidian 自定义时间戳样式 | 叶星优酸乳</title>
+<meta name=title content="Obsidian 自定义时间戳样式"><meta name=description content="通过插件以及 CSS 让 Obsidian 的时间戳样式更美观。"><meta name=keywords content><meta property="og:url" content="https://aaronnick.github.io/posts/obsidian-%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%B6%E9%97%B4%E6%88%B3%E6%A0%B7%E5%BC%8F/"><meta property="og:site_name" content="叶星优酸乳"><meta property="og:title" content="Obsidian 自定义时间戳样式"><meta property="og:description" content="通过插件以及 CSS 让 Obsidian 的时间戳样式更美观。"><meta property="og:locale" content="zh_CN"><meta property="og:type" content="article"><meta property="article:section" content="posts"><meta property="article:published_time" content="2022-03-13T10:29:43+08:00"><meta property="article:modified_time" content="2022-03-13T12:38:19+08:00"><meta property="og:image" content="https://aaronnick.github.io/icons/apple-touch-icon.png"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://aaronnick.github.io/icons/apple-touch-icon.png"><meta name=twitter:title content="Obsidian 自定义时间戳样式"><meta name=twitter:description content="通过插件以及 CSS 让 Obsidian 的时间戳样式更美观。"><meta itemprop=name content="Obsidian 自定义时间戳样式"><meta itemprop=description content="通过插件以及 CSS 让 Obsidian 的时间戳样式更美观。"><meta itemprop=datePublished content="2022-03-13T10:29:43+08:00"><meta itemprop=dateModified content="2022-03-13T12:38:19+08:00"><meta itemprop=wordCount content="4328"><meta itemprop=image content="https://aaronnick.github.io/icons/apple-touch-icon.png"><meta name=referrer content="no-referrer-when-downgrade"><style>:root{--width:720px;--font-main:Verdana, sans-serif;--font-secondary:Verdana, sans-serif;--font-scale:1em;--background-color:#fff;--heading-color:#222;--text-color:#444;--link-color:#3273dc;--visited-color:#8b6fcb;--blockquote-color:#222}@media(prefers-color-scheme:dark){:root{--background-color:#01242e;--heading-color:#eee;--text-color:#ddd;--link-color:#8cc2dd;--visited-color:#8b6fcb;--blockquote-color:#ccc}}body{font-family:var(--font-secondary);font-size:var(--font-scale);margin:auto;padding:20px;max-width:var(--width);text-align:left;background-color:var(--background-color);word-wrap:break-word;overflow-wrap:break-word;line-height:1.5;color:var(--text-color)}h1,h2,h3,h4,h5,h6{font-family:var(--font-main);color:var(--heading-color)}a{color:var(--link-color);cursor:pointer;text-decoration:none}a:hover{text-decoration:underline}nav a{margin-right:8px}strong,b{color:var(--heading-color)}button{margin:0;cursor:pointer}time{font-family:monospace;font-style:normal;font-size:15px}main{line-height:1.6}table{width:100%}hr{border:0;border-top:1px dashed}img{max-width:100%}code{font-family:monospace;padding:2px;border-radius:3px}blockquote{border-left:1px solid #999;color:var(--blockquote-color);padding-left:20px;font-style:italic}footer{padding:25px 0;text-align:center}.title:hover{text-decoration:none}.title h1{font-size:1.5em}.inline{width:auto!important}.highlight,.code{border-radius:3px;margin-block-start:1em;margin-block-end:1em;overflow-x:auto}ul.blog-posts{list-style-type:none;padding:unset}ul.blog-posts li{display:flex}ul.blog-posts li span{flex:0 0 130px}ul.blog-posts li a:visited{color:var(--visited-color)}</style></head><body><header><a href=/ class=title><h2>叶星优酸乳</h2></a><nav><a href=/posts/>归档</a>
+<a href=/tags/>标签</a>
+<a href=/about/>关于</a>
+<a href=/about/>About</a></nav></header><main><content><p>此前的<a href=https://weiyexing.ml/posts/use-obsidian-to-write-a-diary/>文章</a>，我提到过我在用 Obsidian 记录自己的日常，其中的一个模块就是利用「间歇日记」的方式记录每天的流水帐。</p><p>由于时间戳和内容都混杂在一起，很多时候不方便定位。为了让这个界面阅读起来更轻松，我折腾了一个适合自己的时间戳样式。</p><p>最终样式如下，时间戳前面有时钟 icon，并且指针是在当前时间点范围内；时间戳下的底色让时间更突出，一下就能定位到对应时间。</p><p><img src=https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202203130943944.png alt></p><p>注：该样式在预览模式下无效。</p><hr><blockquote><p>以下教程源自 @Boninall 以及中文社群的各位群友</p></blockquote><h3 id=需要的东西>#需要的东西</h3><ul><li><strong>Obsidian 插件</strong> ：<a href=https://github.com/nothingislost/obsidian-dynamic-highlights>Dynamic Highlights</a></li><li><strong>JSON 文件</strong> ：dynamic-highlights.json</li><li><strong>CSS 片段</strong> ：B - Time.css</li><li><strong>Obsidian 插件</strong> ：<a href=https://github.com/mgmeyers/obsidian-style-settings>Style Settings</a>（非必需，可自定义样式）</li></ul><p>也可以前往 <a href=https://t.me/weiyexing/2806>Telegram 频道</a>直接下载两个文件：</p><h3 id=操作步骤>#操作步骤</h3><ol><li>Obsidian 社区市场安装 Dynamic Highlights 插件</li><li>在 Dynamic Highlights 设置页面导入 JSON 文件（dynamic-highlights.json），文件见下方代码片段，另存为 <code>.json</code> 后缀的文件即可<img src=https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202203130954811.png alt></li><li>将 CSS 片段文件放到 Obsidian 里（路径：<code>Obsidian/设置/外观/CSS代码片段</code>），文件见下方代码片段，另存为 <code>.css</code> 后缀的文件即可</li><li>默认的时间戳底色是橙红色的，可以通过 Obsidian 插件 <code>Style Settings</code> 自定义<img src=https://wesson-image.oss-cn-beijing.aliyuncs.com/img/202203130958356.png alt></li></ol><h3 id=json-文件>#JSON 文件</h3><pre><code>  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+ 59
+ 60
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80
+ 81
+ 82
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+</code></pre><p>|</p><pre><code>{
+  &quot;light-time-8-5&quot;: {
+    &quot;class&quot;: &quot;light-time-8-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(08|20):[3-5][0-9]&quot;,
+    &quot;mark&quot;: [
+      &quot;match&quot;
+    ],
+    &quot;css&quot;: &quot;&quot;
+  },
+  &quot;light-time-8&quot;: {
+    &quot;class&quot;: &quot;light-time-8&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(08|20):[0-2][0-9]&quot;
+  },
+  &quot;light-time-7-5&quot;: {
+    &quot;class&quot;: &quot;light-time-7-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(07|19):[3-5][0-9]&quot;
+  },
+  &quot;light-time-7&quot;: {
+    &quot;class&quot;: &quot;light-time-7&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(07|19):[0-2][0-9]&quot;
+  },
+  &quot;light-time-6-5&quot;: {
+    &quot;class&quot;: &quot;light-time-6-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(06|18):[3-5][0-9]&quot;
+  },
+  &quot;light-time-6&quot;: {
+    &quot;class&quot;: &quot;light-time-6&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(06|18):[0-2][0-9]&quot;
+  },
+  &quot;light-time-5-5&quot;: {
+    &quot;class&quot;: &quot;light-time-5-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(05|17):[3-5][0-9]&quot;
+  },
+  &quot;light-time-5&quot;: {
+    &quot;class&quot;: &quot;light-time-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(05|17):[0-2][0-9]&quot;
+  },
+  &quot;light-time-4-5&quot;: {
+    &quot;class&quot;: &quot;light-time-4-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(04|16):[3-5][0-9]&quot;
+  },
+  &quot;light-time-4&quot;: {
+    &quot;class&quot;: &quot;light-time-4&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(04|16):[0-2][0-9]&quot;
+  },
+  &quot;light-time-3-5&quot;: {
+    &quot;class&quot;: &quot;light-time-3-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(03|15):[3-5][0-9]&quot;
+  },
+  &quot;light-time-3&quot;: {
+    &quot;class&quot;: &quot;light-time-3&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(03|15):[0-2][0-9]&quot;
+  },
+  &quot;light-time-2-5&quot;: {
+    &quot;class&quot;: &quot;light-time-2-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(02|14):[3-5][0-9]&quot;
+  },
+  &quot;light-time-2&quot;: {
+    &quot;class&quot;: &quot;light-time-2&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(02|14):[0-2][0-9]&quot;
+  },
+  &quot;light-time-1-5&quot;: {
+    &quot;class&quot;: &quot;light-time-1-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(01|13):[3-5][0-9]&quot;
+  },
+  &quot;light-time-1&quot;: {
+    &quot;class&quot;: &quot;light-time-1&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(01|13):[0-2][0-9]&quot;
+  },
+  &quot;light-time-9&quot;: {
+    &quot;class&quot;: &quot;light-time-9&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(09|21):[0-2][0-9]&quot;
+  },
+  &quot;light-time-9-5&quot;: {
+    &quot;class&quot;: &quot;light-time-9-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(09|21):[3-5][0-9]&quot;
+  },
+  &quot;light-time-10&quot;: {
+    &quot;class&quot;: &quot;light-time-10&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(10|22):[0-2][0-9]&quot;
+  },
+  &quot;light-time-10-5&quot;: {
+    &quot;class&quot;: &quot;light-time-10-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(10|22):[3-5][0-9]&quot;
+  },
+  &quot;light-time-11&quot;: {
+    &quot;class&quot;: &quot;light-time-11&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(11|23):[0-2][0-9]&quot;
+  },
+  &quot;light-time-11-5&quot;: {
+    &quot;class&quot;: &quot;light-time-11-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(11|23):[3-5][0-9]&quot;
+  },
+  &quot;light-time-12&quot;: {
+    &quot;class&quot;: &quot;light-time-12&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(00|12):[0-2][0-9]&quot;
+  },
+  &quot;light-time-12-5&quot;: {
+    &quot;class&quot;: &quot;light-time-12-5&quot;,
+    &quot;color&quot;: &quot;#E45858&quot;,
+    &quot;regex&quot;: true,
+    &quot;query&quot;: &quot;(00|12):[3-5][0-9]&quot;,
+    &quot;mark&quot;: [
+      &quot;match&quot;
+    ],
+    &quot;css&quot;: &quot;&quot;
+  }
+}
+</code></pre><p>&mdash;|&mdash;</p><h3 id=css-片段>#CSS 片段</h3><pre><code>  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+ 59
+ 60
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80
+ 81
+ 82
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+560
+561
+562
+563
+564
+565
+566
+567
+568
+569
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+590
+591
+592
+593
+594
+595
+596
+597
+598
+599
+600
+601
+602
+603
+604
+605
+606
+607
+608
+609
+610
+611
+612
+613
+614
+615
+616
+617
+618
+619
+620
+621
+622
+623
+624
+625
+626
+627
+628
+629
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+640
+641
+642
+643
+644
+645
+646
+647
+648
+649
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+660
+661
+662
+663
+664
+665
+666
+667
+668
+669
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+710
+711
+712
+713
+714
+715
+716
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+800
+801
+802
+803
+804
+805
+806
+807
+808
+809
+810
+811
+812
+813
+814
+</code></pre><p>|</p><pre><code>/* @settings
+name: Time Color
+id: time
+settings:
+    - 
+        title: Time Color
+        description: Change the color of the time mark
+        id: time-color		
+        type: variable-themed-color
+        format: hex
+        default-dark: '#E45858'
+        default-light: '#E45858'
+    - 
+        title: Time Font Color
+        description: Change the  color of the time font mark
+        id: time-font-color		
+        type: variable-themed-color
+        format: hex
+        default-dark: '#FFFBF0'
+        default-light: '#FFFBF0'
+
+*/
+
+.theme-light, .theme-dark {
+       --time-color: #E45858;
+       /* --time-dark-color: #2b9183; */
+       --time-font-color: #FFFBF0;
+}
+
+.time {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.time::before {
+    content: &quot;🕒&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-1 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-1::before {
+    content: &quot;🕐&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-1-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-1-5::before {
+    content: &quot;🕜&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-2 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-2::before {
+    content: &quot;🕑&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-2-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-2-5::before {
+    content: &quot;🕝&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-3 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-3::before {
+    content: &quot;🕒&quot;;
+    background-color: &quot;&quot;;
+}
+
+
+.theme-light .light-time-3-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-3-5::before {
+    content: &quot;🕞&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-4 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-4::before {
+    content: &quot;🕓&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-4-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-4-5::before {
+    content: &quot;🕟&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-5::before {
+    content: &quot;🕔&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-5-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-5-5::before {
+    content: &quot;🕠&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-6 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-6::before {
+    content: &quot;🕕&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-6-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-6-5::before {
+    content: &quot;🕡&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-7 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-7::before {
+    content: &quot;🕖&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-7-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-7-5::before {
+    content: &quot;🕢&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-8 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-8::before {
+    content: &quot;🕗&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-8-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-8-5::before {
+    content: &quot;🕣&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-9 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-9::before {
+    content: &quot;🕘&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-9-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-9-5::before {
+    content: &quot;🕤&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-10 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-10::before {
+    content: &quot;🕙&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-10-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-10-5::before {
+    content: &quot;🕥&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-11 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-11::before {
+    content: &quot;🕚&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-11-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-11-5::before {
+    content: &quot;🕦&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-12 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-12::before {
+    content: &quot;🕛&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-light .light-time-12-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-light .light-time-12-5::before {
+    content: &quot;🕧&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-1 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-1::before {
+    content: &quot;🕐&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-1-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-1-5::before {
+    content: &quot;🕜&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-2 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-2::before {
+    content: &quot;🕑&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-2-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-2-5::before {
+    content: &quot;🕝&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-3 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-3::before {
+    content: &quot;🕒&quot;;
+    background-color: &quot;&quot;;
+}
+
+
+.theme-dark .light-time-3-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-3-5::before {
+    content: &quot;🕞&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-4 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-4::before {
+    content: &quot;🕓&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-4-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-4-5::before {
+    content: &quot;🕟&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-5::before {
+    content: &quot;🕔&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-5-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-5-5::before {
+    content: &quot;🕠&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-6 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-6::before {
+    content: &quot;🕕&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-6-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-6-5::before {
+    content: &quot;🕡&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-7 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-7::before {
+    content: &quot;🕖&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-7-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-7-5::before {
+    content: &quot;🕢&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-8 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-8::before {
+    content: &quot;🕗&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-8-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-8-5::before {
+    content: &quot;🕣&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-9 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-9::before {
+    content: &quot;🕘&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-9-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-9-5::before {
+    content: &quot;🕤&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-10 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-10::before {
+    content: &quot;🕙&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-10-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-10-5::before {
+    content: &quot;🕥&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-11 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-11::before {
+    content: &quot;🕚&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-11-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-11-5::before {
+    content: &quot;🕦&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-12 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-12::before {
+    content: &quot;🕛&quot;;
+    background-color: &quot;&quot;;
+}
+
+.theme-dark .light-time-12-5 {
+    color: var(--time-font-color) ; /*象牙白*/
+    background-color: var(--time-color); /* 铜绿 #40bfaf;*/
+    font-style:normal;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-left: 1px;
+    border-radius: 5px;
+}
+
+.theme-dark .light-time-12-5::before {
+    content: &quot;🕧&quot;;
+    background-color: &quot;&quot;;
+}
+</code></pre><p>&mdash;|&mdash;</p></content><p></p></main><footer>Made with <a href=https://github.com/janraasch/hugo-bearblog/>Hugo ʕ•ᴥ•ʔ Bear</a></footer></body></html>
