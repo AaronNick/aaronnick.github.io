@@ -4,16 +4,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex,follow">
-  <link rel="canonical" href="https://weiyexing.win/posts/带饭/">
-  <meta http-equiv="refresh" content="0; url=https://weiyexing.win/posts/带饭/">
+  <link rel="canonical" href="https://weiyexing.win/">
+  <meta http-equiv="refresh" content="0; url=https://weiyexing.win/">
   <title>Redirecting to weiyexing.win</title>
   <script>
     const targetOrigin = "https://weiyexing.win";
-    const next = targetOrigin + window.location.pathname + window.location.search + window.location.hash;
+    const redirectMap = {"/posts/从人口减少看集中化/":"/depopulation-and-centralization/","/posts/公开处刑/":"/public-execution/","/posts/叫魂两百多年前的一场荒诞闹剧始末/":"/soulstealers/","/posts/向外追求/":"/another-pursuit/","/posts/工具产品的思考/":"/thinking-about-tool-products/","/posts/建筑与文化/":"/architecture-and-culture/","/posts/新年的祝福/":"/best-wishes-for-the-new-year/","/posts/殷海光林毓生书信录之天窗/":"/letters-of-yin-and-lin/","/posts/苦难文化/":"/culture-of-suffering/","/posts/莫要羞于谈书/":"/dont-be-ashamed-to-talk-about-books/","/posts/请回答-二二二/":"/review-2022/","/posts/高声朗读/":"/read-aloud/"};
+    const targetPath = redirectMap[window.location.pathname] || "/";
+    const next = targetOrigin + targetPath + window.location.search + window.location.hash;
     window.location.replace(next);
   </script>
 </head>
 <body>
-  <p>Redirecting to <a href="https://weiyexing.win/posts/带饭/">https://weiyexing.win/posts/带饭/</a>.</p>
+  <p>Redirecting to <a href="https://weiyexing.win/">https://weiyexing.win/</a>.</p>
 </body>
 </html>
